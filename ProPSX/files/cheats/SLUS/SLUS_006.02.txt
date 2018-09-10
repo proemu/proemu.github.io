@@ -1,0 +1,92 @@
+#A. Luyendyk Max Championship Points	
+D00DE6EC FFF6
+800DE6FC 7FFF
+#A. Ribeiro Max Championship Points	
+D00DE6EC FFF6
+800DE704 7FFF
+#A. Zanardi Max Championship Points	
+D00DE6EC FFF6
+800DE6FA 7FFF
+#B. Herta Max Championship Points	
+D00DE6EC FFF6
+800DE70E 7FFF
+#C. Fittipaldi Max Championship Points	
+D00DE6EC FFF6
+800DE6F2 7FFF
+#G. De Ferran Max Championship Points	
+D00DE6EC FFF6
+800DE700 7FFF
+#J. Vasser Max Championship Points	
+D00DE6EC FFF6
+800DE706 7FFF
+#M. Andretti Max Championship Points	
+D00DE6EC FFF6
+800DE6F0 7FFF
+#M. Blundell Max Championship Points
+D00DE6EC FFF6
+800DE70C 7FFF
+#M. Gugelmin Max Championship Points	
+D00DE6EC FFF6
+800DE70A 7FFF
+#P. Carpentier Max Championship Points	
+D00DE6EC FFF6
+800DE708 7FFF
+#R. Boesel Max Championship Points	
+D00DE6EC FFF6
+800DE6F8 7FFF
+#R. Gordon Max Championship Points
+D00DE6EC FFF6
+800DE6F6 7FFF
+#R. Moreno Max Championship Points	
+D00DE6EC FFF6
+800DE6F4 7FFF
+#S. Pruett Max Championship Points	
+D00DE6EC FFF6
+800DE6FE 7FFF
+#Track Modifier	Milwaukee Mile	
+D007B48C 0000
+3007B674 0000
+#Track Modifier	Milwaukee Mile	
+D007B48C 0000
+3007B674 0000
+#Track Modifier	Toronto	
+D007B48C 0000
+3007B674 0001
+#Track Modifier	Midohio 200	
+D007B48C 0000
+3007B674 0002
+#Track Modifier	Long Beach	
+D007B48C 0000
+3007B674 0003
+#Track Modifier	Laguna Seca Raceway	
+D007B48C 0000
+3007B674 0004
+#Track Modifier	Portland Raceway	
+D007B48C 0000
+3007B674 0005
+#Track Modifier	Surfers Paradise	
+D007B48C 0000
+3007B674 0006
+#Track Modifier	Road America	
+D007B48C 0000
+3007B674 0007
+#Track Modifier	Emmerson Fittipaldi Speedway	
+D007B48C 0000
+3007B674 0008
+#Track Modifier	Houston Grand Prix	
+D007B48C 0000
+3007B674 0009
+#Track Modifier	Kahoona Massive 	
+D007B48C 0000
+3007B674 000A
+#Track Modifier	Pennsylvania Speedway	
+D007B48C 0000
+3007B674 000B
+#Track Modifier	Woodshole 200	
+D007B48C 0000
+3007B674 000C
+#Track Modifier	Hill Fields 200	
+D007B48C 0000
+3007B674 000D
+#Infinite Turbo
+800D3C80 E04C

@@ -1,0 +1,8 @@
+#Infinite Energy P1
+800186B4 0080
+#Infinite Energy P2
+800185B4 0080
+#New Fighter For P1
+800106C8 030C
+#New Fighter For P2
+800106C8 0C02

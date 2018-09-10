@@ -1,0 +1,8 @@
+#Infinites Lives P1
+801F3F10 0003
+#Infinites Lives P2
+801F400C 0003
+#Player 1 Unlimited Laser
+801F3F18 0003
+#Player 2 Unlimited Laser
+801F4014 0003

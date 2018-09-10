@@ -1,0 +1,28 @@
+#Infinite HP Main Unit
+800A55FE 0190
+#Infinite HP 2nd Unit
+800A56DE 0190
+#Instant Clear Stage 
+D00237AE 1C40 
+800237AE 1400 
+#Clear flag * 3 3 clear flag, VS Red shoulder and story flow can be selected.
+80094AF2 0001 
+#Full Story domination 
+800A2658 00FF
+#All weapons can be selected 
+D00C756E 1040 
+800C756E 1400 
+D00C75BE 1040 
+800C75BE 1400 
+D00C75E6 1040 
+800C75E6 1400 
+#Invincible
+D00208F2 0043
+800208F2 0040
+D002113A 0043
+8002113A 0040
+#Mortal blow Press Select+L2
+00948EA 0101
+80025AE2 1040
+D00948EA 0102
+80025AE2 1440

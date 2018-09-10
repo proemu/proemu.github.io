@@ -1,0 +1,2 @@
+#Have always 4 hearts in quiz mode
+800CAE40 0004

@@ -1,0 +1,17 @@
+#Infinite Lives 	
+300DBAAF 0002 		
+#Max Score 	
+800D9C8C C9FF
+800D9C8E 3B9A 		
+#Always Have Round Divider 	
+800D9C96 0010 		
+#Have Max Lock-Ons 	
+800DBAB8 001A 		
+#Unlock Art Gallery 	
+800B26BA 0001
+#Unlock all art gallery
+800BDDE0 000B 		
+#100% Enchroachment 	
+800D7306 0064
+800D730C 0064
+

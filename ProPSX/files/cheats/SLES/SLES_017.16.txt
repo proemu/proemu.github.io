@@ -1,0 +1,13 @@
+#Infinite Life P1
+800A62FE 0063
+#Infinite Life P2
+800A6956 0063
+#Infinite lives P2
+800A6924 0009
+#Infinite Time
+800A079C 03E7
+#Infinite credits
+800A0588 0009
+#All cards
+50000401 0000
+300B6AEB 0001

@@ -1,0 +1,52 @@
+#Besitze Gesundheitsampullen
+800FBD18 0001
+#Besitze Homing Chakram
+800FBD60 0001
+#Besitze Feuerwaffe
+800FBD84 0001
+#Besitze Unverwundbarkeit
+800FBDA8 0001
+#Besitze Eiswaffe
+800FBDCC 0001
+#Besitze Harfe
+800FBDF0 0001
+#Besitze Auferstehung
+300F23A4 0001
+#Besitze SchlüSsel
+300F23A5 0001
+#Max Gesundheitsampullen
+300F23A6 00FF
+#Max Blitzwaffe
+300F23A7 00FF
+#Max Homing Chakram
+300F23A8 00FF
+#Max Feuerwaffe
+300F23A9 00FF
+#Max Unverwundbarkeit
+300F23AA 00FF
+#Max Eiwswaffe
+300F23AB 00FF
+#Max Harfe
+300F23AC 00FF
+#Max RüStungs-Upgrade
+300F23AD 0063
+#Max Schwert-Upgrade
+300F23AE 0063
+#Max Scrolls
+300F23A2 0063
+#Max Chakram
+300F0D7D 0064
+#Super Xena
+800F0D7E 02F5
+#Keine Feinde
+300F239C 00FF
+#Alle Geiseln Befreit
+300F239E 00FF
+#255 Kills
+300F239D 00FF
+#255 Geiseln Befreit
+300F239F 00FF
+#255 GegenstäNde
+800F23A0 FFFF
+#42 Scrolls
+300F23A3 002A

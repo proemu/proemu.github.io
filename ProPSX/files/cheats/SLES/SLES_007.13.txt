@@ -1,0 +1,14 @@
+#Infinite Energy - Player 1
+801053EE 00FA
+#Infinite Sol Power Guage - Player 2
+80107A98 00FA
+#Infinite Energy - Player 2
+801083FE 00FA
+#Freeze Total Time
+801053EE 00FA
+#Infinite Sol Power Guage - Player 1
+801053F0 00FA
+#Unlock All Characters 	
+300F7EF8 0001
+800F7F00 0101
+800F7F08 0101

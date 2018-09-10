@@ -1,0 +1,18 @@
+#Infinite Lives P1 	
+800181A2 0600
+#Infinite Lives P2 	
+80018142 0600
+#Infinite Bombs P1 	
+800181EC 000A
+#Infinite Bombs P2 	
+8001838C 000A
+#Infinite Ammo P1 	
+800182EE 000A
+#Infinite Ammo P2 	
+8001838E 000A
+#Infinite Vulcan Armor 	
+80018412 0030
+#Infinite Vulcan Cannon 	
+8001843C 070A
+#Infinite Time 	
+8001ECC0 0063

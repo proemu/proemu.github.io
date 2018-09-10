@@ -1,0 +1,41 @@
+#Ue Panzerung (P1 & P2)
+80046D6C 0000
+80046D6E 0000
+#Ue Mu (Nach Aufnahme) (P1 & P2)
+800470E0 0000
+800470E0 0000
+#P1-Codes\Ue Panzerung
+30060B51 0064
+#P1-Codes\Kein Nachladen Shot Blaster
+80060B6E 03E7
+#P1-Codes\Ue Mu Raketenwerfer
+80060B64 03E7
+#P1-Codes\Habe Tretminen
+80060B60 03E7
+#P1-Codes\Habe Thumper
+80060B62 03E7
+#P1-Codes\Habe Zielsender
+80060B66 03E7
+#P2-Codes\Ue Panzerung
+300611A9 0064
+#P2-Codes\Kein Nachladen Lightbringer
+800611C4 03E7
+#P2-Codes\Ue Mu Granatwerfer
+800611C8 03E7
+#P2-Codes\Habe Tretminen
+800611B8 03E7
+#P2-Codes\Habe Thumper
+800611BA 03E7
+#P2-Codes\Habe Zielsender
+800611BE 03E7
+#Multiplayer-Codes\P1\Ue Geheimwaffe (Nach Aufnahme)
+80060B72 03E7
+#Multiplayer-Codes\P1\Ue Stab Des Pharaos (Nach Aufnahme)
+80060B78 03E7
+#Multiplayer-Codes\P2\Suddendeath
+D00611A8 6400
+300611A9 0001
+#Multiplayer-Codes\P2\Ue Geheimwaffe (Nach Aufnahme)
+800611CA 03E7
+#Multiplayer-Codes\P2\Ue Stab Des Pharaos (Nach Aufnahme)
+800611D0 03E7

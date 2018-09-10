@@ -1,0 +1,39 @@
+#Magical Drop Plus 1 Start With LOt of Points
+D008E460 0000
+8008E460 5A56
+#Magical Drop Plus 1! Single Player Mode Infinite Time
+D007823C 00C8
+8007823C 0190
+#Magical Drop Plus 1! Single Player Mode Infinite Time (Alternate)
+D00249F0 8009
+000249F4 0000
+#Magical Drop Plus 1! Single Player Mode Start at level 100	
+D00780CC 0001
+300780CC 0064
+#Magical Drop Plus 1! PUZZLE MODE Infinite draws	
+D00349F0 FFFF
+000349F0 0000
+#Magical Drop Plus 1! PUZZLE MODE All Puzzles Solved Beginner	
+8006CE14 FFFF
+8006CE16 3FFF
+#Magical Drop Plus 1! PUZZLE MODE All Puzzles Solved Very easy	
+8006CE18 FFFF
+8006CE1A 3FFF
+#Magical Drop Plus 1! PUZZLE MODE All Puzzles Solved Easy	
+8006CE1C FFFF
+8006CE1E 3FFF
+#Magical Drop Plus 1! PUZZLE MODE All Puzzles Solved Normal	
+8006CE20 FFFF
+8006CE22 3FFF
+#Magical Drop Plus 1! PUZZLE MODE All Puzzles Solved Hard	
+8006CE24 FFFF
+8006CE26 3FFF
+#Magical Drop Plus 1! PUZZLE MODE All Puzzles Solved Very hard	
+8006CE28 FFFF
+8006CE2A 3FFF
+#Magical Drop Plus 1! PUZZLE MODE All Puzzles Solved Expert	
+8006CE2C FFFF
+8006CE2E 3FFF
+#Magical Drop Plus 1 2 PLAYER MODE Only 1 row to clear	
+D008E464 00C8
+3008E464 0001

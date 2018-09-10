@@ -1,0 +1,459 @@
+#Infinite Ap
+D007B7CA 1040
+801E73B0 9C3B
+#Max Credits
+8003EA74 E0FF
+8003EA76 05F5
+#Infinite & Max Ammo (All Weapons)
+8004547E 03E8
+80045480 03E8
+800454BC 03E8
+800454BE 03E8
+800454FA 03E8
+800454FC 03E8
+#Infinite Booster
+800451AE EA60
+#Arena-Infinite Ap
+D007BBAE 1040
+801D8D70 9C3B
+#Arena-Quick Kill Enemy
+D007BBAE 1040
+801D8EE8 0000
+#Have All Head Parts
+50000702 0000
+80036FEC 0101
+30036FFA 0001
+#Have All Core Parts
+50000202 0000
+80036FFE 0101
+30037002 0001
+#Head Codes\Have Hd-01-Srut
+30036FEC 0001
+#Head Codes\Have Hd-2002
+30036FED 0001
+#Head Codes\Have Hd-X1487
+30036FEE 0001
+#Head Codes\Have Hd-Redeye
+30036FEF 0001
+#Head Codes\Have Hd-D-9066
+30036FF0 0001
+#Head Codes\Have Hd-Gry-Nx
+30036FF1 0001
+#Head Codes\Have Hd-06-Radar
+30036FF2 0001
+#Head Codes\Have Hd-One
+30036FF3 0001
+#Head Codes\Have Hd-08-Dish
+30036FF4 0001
+#Head Codes\Have Hd-Zero
+30036FF5 0001
+#Head Codes\Have Hd-6780
+30036FF6 0001
+#Head Codes\Have Hd-12-Radar
+30036FF7 0001
+#Head Codes\Have Hd-Helm
+30036FF8 0001
+#Head Codes\Have Hd-H10
+30036FF9 0001
+#Head Codes\Have Hd-4004
+30036FFA 0001
+#Core Codes\Have Xca-00
+30036FFE 0001
+#Core Codes\Have Xcl-01
+30036FFF 0001
+#Core Codes\Have Xch-01
+30037000 0001
+#Core Codes\Have Xxa-50
+30037001 0001
+#Core Codes\Have Xxl-D0
+30037002 0001
+#Ex Arena Codes\Enable Champion Arena
+3003EAC9 0001
+#Ex Arena Codes\Enable Guest Arena
+3003EACB 0001
+#Ex Arena Codes\All Humanoid Legs Finished
+3004B67E 0001
+50000901 0000
+3004B608 0001
+#Ex Arena Codes\All Four Legs Finished
+3004B67F 0001
+50000901 0000
+3004B612 0001
+#Ex Arena Codes\All Reverse Joint Legs Finished
+3004B680 0001
+50000901 0000
+3004B61C 0001
+#Ex Arena Codes\All Caterpillars Finished
+3004B681 0001
+50000901 0000
+3004B626 0001
+#Ex Arena Codes\All Champions Finished
+50000802 0000
+8004B630 0101
+#Ex Arena Codes\All Guests Finished
+50000F02 0000
+8004B640 0101
+#Ex Arena Codes\All Fromsofts Finished
+3004B684 0001
+50000901 0000
+3004B65F 0001
+#Ex Arena Codes\All Masters Finished
+3004B685 0001
+50000A02 0000
+8004B668 0101
+#Arm Codes\Unlock An-101
+30070009 0001
+#Arm Codes\Unlock An-201
+3007000A 0001
+#Arm Codes\Unlock An-K1
+3007000B 0001
+#Arm Codes\Unlock An-D-7001
+3007000C 0001
+#Arm Codes\Unlock An-3001
+3007000D 0001
+#Arm Codes\Unlock Anks-1A46J
+3007000E 0001
+#Arm Codes\Unlock An-863-B
+3007000F 0001
+#Arm Codes\Unlock An-25
+30070010 0001
+#Arm Codes\Unlock An-891-S
+30070011 0001
+#Arm Codes\Unlock Aw-M625/2
+30070015 0001
+#Arm Codes\Unlock Aw-Gt2000
+30070016 0001
+#Arm Codes\Unlock Aw-Rf105
+30070017 0001
+#Arm Codes\Unlock Aw-30/3
+30070018 0001
+#Arm Codes\Unlock Aw-Rf120
+30070019 0001
+#Arm Codes\Unlock Aw-S60/2
+3007001A 0001
+#Arm Codes\Unlock Aw-Xc5500
+3007001B 0001
+#Arm Codes\Unlock Aw-Xc65
+3007001C 0001
+#Arm Codes\Unlock Aw-Dc/2
+3007001D 0001
+#Arm Codes\Unlock All Arms
+30070009 0001
+50000402 0000
+8007000A 0101
+30070015 0001
+50000402 0000
+80070016 0101
+#Generator Codes\Unlock Gps-Vva
+30037049 0001
+#Generator Codes\Unlock Gps-V6
+3003704A 0001
+#Generator Codes\Unlock Gad-Rx5
+3003704B 0001
+#Generator Codes\Unlock Gad-Rx6
+3003704C 0001
+#Generator Codes\Unlock Gad-Rx7
+3003704D 0001
+#Generator Codes\Unlock 6B6-10000
+3003704E 0001
+#Generator Codes\Unlock 6B6-Xr
+3003704F 0001
+#Generator Codes\Unlock Gbx-Tl
+30037050 0001
+#Generator Codes\Unlock Gbx-Xl
+30037051 0001
+#Generator Codes\Unlock All Generators
+30037049 0001
+50000402 0000
+8003704A 0101
+#Fcs Codes\Unlock Comdex-C7
+30037058 0001
+#Fcs Codes\Unlock Comdex-60
+30037059 0001
+#Fcs Codes\Unlock Comdex-68
+3003705A 0001
+#Fcs Codes\Unlock Qx-21
+3003705B 0001
+#Fcs Codes\Unlock Qx-Af
+3003705C 0001
+#Fcs Codes\Unlock Tryx-Boxer
+3003705D 0001
+#Fcs Codes\Unlock Tryx-Quad
+3003705E 0001
+#Fcs Codes\Unlock Qx-9009
+3003705F 0001
+#Fcs Codes\Unlock Fbmb-18X
+30037060 0001
+#Fcs Codes\Unlock Rator
+30037061 0001
+#Fcs Codes\Unlock All Fcs Parts
+50000502 0000
+80037058 0101
+#Booster Codes\Unlock B-P320
+3003707B 0001
+#Booster Codes\Unlock B-P350
+3003707C 0001
+#Booster Codes\Unlock B-T001
+3003707D 0001
+#Booster Codes\Unlock B-T2
+3003707E 0001
+#Booster Codes\Unlock B-P351
+3003707F 0001
+#Booster Codes\Unlock B-Ur-33
+30037080 0001
+#Booster Codes\Unlock B-Hp25
+30037081 0001
+#Booster Codes\Unlock All Boosters
+3003707B 0001
+50000302 0000
+8003707C 0101
+#Optional Parts Codes\All Optional Parts Equipped
+8003EA70 FFFF
+#Optional Parts Codes\Unlock Sp-Maw
+30037068 0001
+#Optional Parts Codes\Unlock Sp-Jam
+30037069 0001
+#Optional Parts Codes\Unlock Sp-M/Auto
+3003706A 0001
+#Optional Parts Codes\Unlock Sp-Abs
+3003706B 0001
+#Optional Parts Codes\Unlock Sp-Sap
+3003706C 0001
+#Optional Parts Codes\Unlock Sp-Cnd-K
+3003706D 0001
+#Optional Parts Codes\Unlock Sp-Axl
+3003706E 0001
+#Optional Parts Codes\Unlock Sp-S/Scr
+3003706F 0001
+#Optional Parts Codes\Unlock Sp-E/Scr
+30037070 0001
+#Optional Parts Codes\Unlock Sp-Eh
+30037071 0001
+#Optional Parts Codes\Unlock Sp-E+
+30037072 0001
+#Optional Parts Codes\Unlock Sp-Detq
+30037073 0001
+#Optional Parts Codes\Unlock All Optional Parts
+50000602 0000
+80037068 0101
+#Left Arm Weapon Codes\Unlock Ls-2001
+300370DF 0001
+#Left Arm Weapon Codes\Unlock Ls-2006
+300370E0 0001
+#Left Arm Weapon Codes\Unlock Ls-3303
+300370E1 0001
+#Left Arm Weapon Codes\Unlock Ls-99-Moonlight
+300370E2 0001
+#Left Arm Weapon Codes\Unlock All Left Arm Weapons
+300370DF 0001
+800370E0 0101
+300370E2 0001
+#Right Arm Weapon Codes\Unlock Wg-Rf35
+300370C6 0001
+#Right Arm Weapon Codes\Unlock Wg-Mga1
+300370C7 0001
+#Right Arm Weapon Codes\Unlock Wg-M6500
+300370C8 0001
+#Right Arm Weapon Codes\Unlock Wg-Ar1000
+300370C9 0001
+#Right Arm Weapon Codes\Unlock Wg-Hg235
+300370CA 0001
+#Right Arm Weapon Codes\Unlock Wg-Rf/5
+300370CB 0001
+#Right Arm Weapon Codes\Unlock Wg-Rf/P
+300370CC 0001
+#Right Arm Weapon Codes\Unlock Wg-Hg512
+300370CD 0001
+#Right Arm Weapon Codes\Unlock Wg-F699
+300370CE 0001
+#Right Arm Weapon Codes\Unlock Wg-B2120
+300370CF 0001
+#Right Arm Weapon Codes\Unlock Wg-B2180
+300370D0 0001
+#Right Arm Weapon Codes\Unlock Wg-Xp1000
+300370D1 0001
+#Right Arm Weapon Codes\Unlock Wg-Xp2000
+300370D2 0001
+#Right Arm Weapon Codes\Unlock Wg-Xc4
+300370D3 0001
+#Right Arm Weapon Codes\Unlock Wg-1-Karasawa
+300370D4 0001
+#Right Arm Weapon Codes\Unlock Wg-Rfm118
+300370D5 0001
+#Right Arm Weapon Codes\Unlock Wg-Xf Ppk
+300370D6 0001
+#Right Arm Weapon Codes\Unlock Wg-Hg1
+300370D7 0001
+#Right Arm Weapon Codes\Unlock Wg-Pb26
+300370D8 0001
+#Right Arm Weapon Codes\Unlock Wa-Finger
+300370D9 0001
+#Right Arm Weapon Codes\Unlock All Right Arm Weapons
+50000A02 0000
+800370C6 0101
+#Back Weapon Codes\Unlock Wm-S40/1
+30037089 0002
+#Back Weapon Codes\Unlock Wm-Sa0/2
+3003708A 0002
+#Back Weapon Codes\Unlock Wm-S60/4
+3003708B 0002
+#Back Weapon Codes\Unlock Wm-S60/6
+3003708C 0002
+#Back Weapon Codes\Unlock Wm-Mvg404
+3003708D 0002
+#Back Weapon Codes\Unlock Wm-Mvg802
+3003708E 0002
+#Back Weapon Codes\Unlock Wm-L201
+3003708F 0002
+#Back Weapon Codes\Unlock Wm-X201
+30037090 0002
+#Back Weapon Codes\Unlock Wm-X5-Aa
+30037091 0002
+#Back Weapon Codes\Unlock Wm-X10
+30037092 0002
+#Back Weapon Codes\Unlock Wm-94001
+30037093 0002
+#Back Weapon Codes\Unlock Wm-Ps-2
+30037094 0002
+#Back Weapon Codes\Unlock Wm-At
+30037095 0002
+#Back Weapon Codes\Unlock Wm-T0100
+30037096 0002
+#Back Weapon Codes\Unlock Wm-Smss24
+30037097 0002
+#Back Weapon Codes\Unlock M118-Td
+30037098 0002
+#Back Weapon Codes\Unlock Wr-550
+3003709B 0002
+#Back Weapon Codes\Unlock Wr-S100
+3003709C 0002
+#Back Weapon Codes\Unlock Wr-M50
+3003709D 0002
+#Back Weapon Codes\Unlock Wr-M70
+3003709E 0002
+#Back Weapon Codes\Unlock Wr-L24
+3003709F 0002
+#Back Weapon Codes\Unlock Wc-Cm35
+300370A5 0002
+#Back Weapon Codes\Unlock Wc-St120
+300370A6 0002
+#Back Weapon Codes\Unlock Wc-Ln350
+300370A7 0002
+#Back Weapon Codes\Unlock Wc-Gn230
+300370A8 0002
+#Back Weapon Codes\Unlock Wc-X94000
+300370A9 0002
+#Back Weapon Codes\Unlock Wc-Xc8000
+300370AA 0002
+#Back Weapon Codes\Unlock Wc-01Ql
+300370AB 0002
+#Back Weapon Codes\Unlock Wc-Spgun
+300370AC 0002
+#Back Weapon Codes\Unlock Wc-Ir24
+300370AD 0002
+#Back Weapon Codes\Unlock Rxa-01We
+300370B1 0002
+#Back Weapon Codes\Unlock Rz-A0
+300370B2 0002
+#Back Weapon Codes\Unlock Rxa-99
+300370B3 0002
+#Back Weapon Codes\Unlock Rxa-77
+300370B4 0002
+#Back Weapon Codes\Unlock Rz-A1
+300370B5 0002
+#Back Weapon Codes\Unlock Rzt-333
+300370B6 0002
+#Back Weapon Codes\Unlock Rz-Bbp
+300370B7 0002
+#Back Weapon Codes\Unlock Rz-Fw2
+300370B8 0002
+#Back Weapon Codes\Unlock Wx-S800/2
+300370BD 0001
+#Back Weapon Codes\Unlock Wx-S800-Gf
+300370BE 0001
+#Back Weapon Codes\Unlock Xcs-9900
+300370BF 0001
+#Back Weapon Codes\Have All Back Weapons
+30037089 0002
+50000702 0000
+8003708A 0202
+30037098 0002
+3003709B 0002
+8003709C 0202
+8003709E 0202
+300370A5 0002
+50000402 0000
+800370A6 0202
+300370B1 0002
+50000302 0000
+800370B2 0202
+300370B8 0002
+300370BD 0001
+800370BE 0101
+#Leg Codes\Unlock Ln-1001
+30037021 0001
+#Leg Codes\Unlock Ln-Ssvt
+30037022 0001
+#Leg Codes\Unlock Ln-3001
+30037023 0001
+#Leg Codes\Unlock Ln-1001-Px-0
+30037024 0001
+#Leg Codes\Unlock Ln-501
+30037025 0001
+#Leg Codes\Unlock Ln-Ssvr
+30037026 0001
+#Leg Codes\Unlock Ln-1001B
+30037027 0001
+#Leg Codes\Unlock Ln-3001C
+30037029 0001
+#Leg Codes\Unlock Ln-502
+3003702B 0001
+#Leg Codes\Unlock Ln-D-8000R
+3003702C 0001
+#Leg Codes\Unlock Ln-2Kz-Sp
+3003702D 0001
+#Leg Codes\Unlock Lnks-1B46J
+3003702E 0001
+#Leg Codes\Unlock Lb-4400
+3003702F 0001
+#Leg Codes\Unlock Lb-4401
+30037031 0001
+#Leg Codes\Unlock Lb-4303
+30037032 0001
+#Leg Codes\Unlock Lb-1000-P
+30037033 0001
+#Leg Codes\Unlock Lbks-2B45A
+30037034 0001
+#Leg Codes\Unlock Lf-205-Sf
+30037036 0001
+#Leg Codes\Unlock Lfh-X3
+30037037 0001
+#Leg Codes\Unlock Lf-Dex-1
+30037038 0001
+#Leg Codes\Unlock Lfh-X5X
+3003703B 0001
+#Leg Codes\Unlock Lc-Mos18
+3003703C 0001
+#Leg Codes\Unlock Lc-Uki60
+3003703D 0001
+#Leg Codes\Unlock Lc-Htp-Aaa
+3003703F 0001
+#Leg Codes\Unlock Lc-Mos4545
+30037040 0001
+#Leg Codes\Have All Leg Parts
+30037021 0001
+50000302 0000
+80037022 0101
+30037029 0001
+3003702B 0001
+50000202 0000
+8003702C 0101
+30037031 0001
+80037032 0101
+30037034 0001
+80037036 0101
+30037038 0001
+3003703B 0001
+8003703C 0101
+3003703F 0001
+30037040 0001

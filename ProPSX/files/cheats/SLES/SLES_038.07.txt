@@ -1,0 +1,3 @@
+#Infinite Energy Player 1 Only activate during battles
+8019A01E 00B6
+

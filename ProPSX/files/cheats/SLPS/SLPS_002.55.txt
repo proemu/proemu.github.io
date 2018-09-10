@@ -1,0 +1,27 @@
+#Max Score (P1)
+800BB200 E0FF
+800BB202 05F5
+#Send No Kougekidamas (P1)
+300BB508 0000
+#Send No Kougekidamas (P2)
+300BB509 0000
+#Send Max Kougekidamas (P1)
+300BB508 00FF
+#Send Max Kougekidamas (P2)
+300BB509 00FF
+#Play as Chen (P1)		
+300BB1D0 000B
+#Play as Chen (P2)		
+300BB1D2 000B
+#Play as Hattari (P1)		
+300BB1D0 000E
+#Play as Hattari (P2)		
+300BB1D2 000E
+#Play as Ichiba (P1)		
+300BB1D0 000C
+#Play as Ichiba (P2)		
+300BB1D2 000C
+#Play as Okugata (p1)		
+300BB1D0 000D
+#Play as Okugata (P2)		
+300BB1D2 000D

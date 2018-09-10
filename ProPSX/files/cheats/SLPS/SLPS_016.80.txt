@@ -1,0 +1,8 @@
+#Infinite Energy
+800E0950 FFFF
+#Infinite Shield
+800E6344 FFFF
+#Infinite Sub Weapon
+800E095C 03E7
+#Infinite Proton
+800E0962 0010

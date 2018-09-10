@@ -1,0 +1,19 @@
+#Infinite Health P1
+8004C508 0098
+#Infinite Health P2
+8004C814 0098
+#Infinite Power P1
+8004C7B8 3F00
+#Infinite Power P2
+8004CAC4 3F00
+#No Health P1
+8004C508 0000
+#No Health P2
+8004C814 0000
+#No Power P1
+8004C7B8 0000
+#No Power P2
+8004CAC4 0000
+#Unlock All Characters		
+50000501 0000
+300510F2 0001

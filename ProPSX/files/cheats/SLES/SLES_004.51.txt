@@ -1,0 +1,8 @@
+#Infinite Money
+8006D4A0 00C7
+#Infinite Bridgebuilder
+8006D2C0 0014
+#Infinite Grabhelmet
+8006D488 0014
+#Infinite Lifes
+8006D4B4 0009

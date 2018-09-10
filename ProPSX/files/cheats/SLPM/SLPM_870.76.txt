@@ -1,0 +1,20 @@
+#All Available Stage
+801D04C8 0101
+801D04CA 0101
+801D04CC 0101
+801D04CE 0101
+301D04D0 0001
+#Add Two Simultaneous Play
+301D0518 0001
+#Speed Games
+8007FB82 1400
+#Infinite Film Also Hit The Enemy 1P &2P
+8001FF1C 0000
+#Infinite Film 1P
+800297E4 0000
+#Infinite Film 2P part of the data to 0001 and take a picture every time the film increases.
+8002A4F4 0000
+#Invincible 1P
+8001FF5C 0001
+#Invincible 2P
+800205A8 0001

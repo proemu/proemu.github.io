@@ -1,0 +1,14 @@
+#007 Twne Inf Ammo
+30073D3D 0001
+#007 Twne Invincible
+80073A04 0001
+30073D3A 0001
+#All Cheats Unlocked		
+8001F16A FFFF
+#All Weapons		
+30073D38 0001
+#Unlock All Missions & Movies	
+50001A01 0000
+3001F2D2 0001
+#Unlock Secret Win Game Movie	
+8001F28E 0002

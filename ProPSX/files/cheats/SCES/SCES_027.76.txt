@@ -1,0 +1,8 @@
+#Time Crisis 2 Inf Ammo
+80076760 0006
+#Time Crisis 2 Inf Time
+800766F4 135C
+#Time Crisis 2 Inf Lives
+80076768 0005
+#Time Crisis 2 Inf Health
+8007D484 0003

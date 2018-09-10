@@ -1,0 +1,24 @@
+#Energia Infinita
+801173C8 03FC
+#Level Steel Mill
+801FFF5C 0001
+#Level Research Lab
+801FFF5C 0006
+#Level Tank Factory
+801FFF5C 000A
+#Level Polar Research Base
+801FFF5C 000F
+#Level Jungle Temple
+801FFF5C 0012
+#Level Chemical Plant
+801FFF5C 0016
+#Level Prison Island
+801FFF5C 001A
+#Level Undersea Base
+801FFF5C 001f
+#Level Skyscraper HQ
+801FFF5C 0023
+#Level Credits
+801FFF5C 0028
+
+

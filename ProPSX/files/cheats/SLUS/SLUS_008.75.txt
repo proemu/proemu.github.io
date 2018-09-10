@@ -1,0 +1,32 @@
+#Infinite Health	
+D004B1BE A622
+8004B1BE 2400		
+#Infinite Webbing	
+D0048C42 AE03
+80048C42 2400
+#Enable All Costumes	
+800A5708 FFFF
+800A570A FFFF		
+#Enable All Characters in Viewer	
+800A570C FFFF
+800A570E FFFF		
+#Enable All Movies	
+800A5710 FFFF
+800A5712 FFFF		
+#Enable All Comic Collections	
+800A5714 FFFF
+800A5716 FFFF		
+#Enable Game Covers	
+800A5718 FFFF
+800A571A FFFF		
+#Enable Everything	
+50000A02 0000
+800A5708 FFFF	
+#Unlock Story Boards	
+800A56DC 0102		
+#Enable Level Select	
+800B4F80 0001
+#Invulnerable Cheat Enabled	
+800B4F6C 0001
+#Enable What If Contest?	
+800B4F5C 0001

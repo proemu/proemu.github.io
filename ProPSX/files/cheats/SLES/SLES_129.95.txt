@@ -1,0 +1,18 @@
+#Alle Städte und Missionen freigeschaltet		
+D01C138A 2404
+301C1388 0000
+#Alle Geheimnisse freigeschaltet		
+300AA4F4 0028
+#Kann weiterspielen, wenn Auto Schrott ist	
+D0063BDA 1040
+30063BDA 0000
+#Verbrechensanzeige auf Null	
+D004C4DE 0044
+8004C4E0 0000
+D004C4DE 0044
+8004C4E2 0000
+#Verkehr angehalten		
+D0053FB4 0018
+80053FB0 0000
+D0053FB4 0018
+80053FB2 0000

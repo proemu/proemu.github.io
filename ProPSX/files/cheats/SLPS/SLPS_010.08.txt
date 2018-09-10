@@ -1,0 +1,32 @@
+#Infinite Lives 
+8008109C 0003 
+#Invincible 
+800853F0 001D
+#Infinite Special Weapon Ammo 
+8008450A 000F 
+8008450C 000F 
+#Infinite Top Pod Ammo 2 
+8008465A 000F 
+#Have Unknown Fighter Type I 
+D0083B04 0010 
+8008110C 0003 
+#Have Unknown Fighter Type II 
+D0083B04 0010 
+8008110C 0004
+#Enable Level Select With All Levels Availible	
+800AC5CE 0001
+80085638 FFFF
+#Invincible Alternate
+800853A4 0000
+800AAAE4 0000
+800AAAE5 0000
+#All aircraft available 
+801FD524 1183
+#All weapons can be selected at the start 
+801FD526 0FFF
+#GALLERY fully open 
+800ABDF0 0001
+801FEC98 007F
+801FEC9C 0FFF
+801FEC9E 001F
+

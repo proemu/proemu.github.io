@@ -1,0 +1,40 @@
+#Invincible
+800FEB7C 0490
+#Small Soldiers
+800FEB7C 00A8
+#Reallly Small Soldiers
+800FEB7C 0044
+#Infinite Health	
+800FEB7C 0310		
+#Have Grenades & Infinite Ammo	
+300F8999 0005		
+#Have Mortar & Infinite Shells	
+300F899A 000A		
+#Have Bazooka & Infinite Shells	
+300F899B 000A		
+#Have Flame Thrower & Infinite Fuel	
+300F899C 0064		
+#Have Auto Rifle & Infinite Rounds	
+300F899D 00FA	
+#Have Explosives & Infinte Ammo	
+300F899E 0005		
+#Have Infinite Medpacks	
+300F89A0 0003		
+#Have Mine Detector	
+300F89A1 00FF		
+#All Levels Unlocked (At main menu go to the options and select audio. Instead of going into the audio menu you will go into the level select menu.) 
+800F7AD8 0002
+800F7ADC 0006
+D0156410 FF74
+800F87C4 F52C	
+#Infinite Time	
+D00586D0 D5C0
+800586D2 2400		
+#Infinite Armor - PT Boat	
+800FECA0 17F0		
+#Infinite Armor - Jeep	
+800FF808 14B0		
+#Infinite Armor - Tank	
+800FFA50 EAD0		
+#Infinite Armor - Train	
+80100C90 1FF0

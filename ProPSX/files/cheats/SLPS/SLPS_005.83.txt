@@ -1,0 +1,5 @@
+#Infinite Life
+800A8510 000C
+#Time 98 when youe press select 
+D008D976 FFFE 
+300D01CD 0016

@@ -1,0 +1,37 @@
+#Disc 2 Always Have Bullet		
+801A0B14 0001
+#Disc 2 Always Have Cash		
+801A0094 0001
+#Disc 2 Always Have CIA Card		
+801A1074 0001
+#Disc 2Always Have Feather		
+801A0844 0001
+#Disc 2 Always Have Kitchen Knife		
+801A0F84 0001
+#Disc 2	Always Have Knife(Butterfly)		
+801A6214 0001
+#Disc 2 Always Have Medal		
+801A0A24 0001
+#Disc 2 Always Have Skis		
+8019FD14 0001
+#Disc 2 Always Have Taco		
+801A0934 0001
+#Disc 2 Always Have Vidbook		
+801A0414 0001
+#Disc 2 Take no damage from Edison Pettibone's bullets during the Aspen sky-diving scene		
+80166544 0000
+#Disc 2 Take no damage in fight with first showgirl		
+801504BC 0000
+#Disc 2 Take no damage in fight with second showgirl		
+80149C1C 0000
+#Disc 2 Take no damage in fight with third showgirl		
+8014304C 0000
+#Disc 2 Take no damage on snowboarders shooting scene		
+8018E384 0000
+#Disc 2 Takes less hits to knock down first showgirl		
+8015043C 0005
+#Disc 2	Takes less hits to knock down second showgirl		
+80149B9C 0005
+#Disc 2	Takes less hits to knock down third showgirl		
+80142FCC 0005
+

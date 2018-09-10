@@ -1,0 +1,235 @@
+#Other Codes\Misc. Codes\No Random Battles
+80143F22 0000
+#Other Codes\Misc. Codes\5 Million Zenny
+80144F50 F08E
+80144F52 02FA
+#Other Codes\Misc. Codes\Time Always 00:00
+80144FC0 0000
+#Other Codes\Misc. Codes\Have All Dragon Genes
+80145548 FFFF
+8014554A FFFF
+#Other Codes\In-Battle Codes\Infinite Hp\1st Character
+30145F18 03E7
+#Other Codes\In-Battle Codes\Infinite Hp\2nd Character
+30146058 03E7
+#Other Codes\In-Battle Codes\Infinite Hp\3rd Character
+30146198 03E7
+#Other Codes\In-Battle Codes\Infinite Mp\1st Character
+30145F1A 03E7
+#Other Codes\In-Battle Codes\Infinite Mp\2nd Character
+3014605A 03E7
+#Other Codes\In-Battle Codes\Infinite Mp\3rd Character
+3014619A 03E7
+#Other Codes\In-Battle Codes\Immune To Status Changes\1st Character
+30145F10 0000
+#Other Codes\In-Battle Codes\Immune To Status Changes\2nd Character
+30146050 0000
+#Other Codes\In-Battle Codes\Immune To Status Changes\3rd Character
+30146190 0000
+#Other Codes\In-Battle Codes\Immune To Status Changes\All Spells Cost 0 Ap
+301463C8 0000
+#Other Codes\In-Battle Codes\Immune To Status Changes\Extra Items
+D0099094 FFFF
+80099096 0001
+#Other Codes\In-Battle Codes\Immune To Status Changes\Infinite Items
+D009909E A082
+8009909E 2400
+#Character Codes\Garr Codes\Max Hp
+80144AC4 03E7
+80144ACC 03E7
+#Character Codes\Garr Codes\Max Ap
+80144AC6 03E7
+80144ACE 03E7
+#Character Codes\Garr Codes\Max Power
+80144AD0 03E7
+#Character Codes\Garr Codes\Max Defense
+80144AD2 03E7
+#Character Codes\Garr Codes\Max Agility
+80144AD4 03E7
+#Character Codes\Garr Codes\Max Intelligence
+80144AD6 03E7
+#Character Codes\Garr Codes\Max Level
+80144AB6 0063
+#Character Codes\Garr Codes\65535 Experience
+80144AB8 FFFF
+#Character Codes\Garr Codes\Max Experience
+80144ABA 03E7
+#Character Codes\Momo Codes\Master Modifier
+80144CB6 ??00
+%MASTER
+#Character Codes\Momo Codes\Max Hp
+80144CB0 03E7
+80144CB8 03E7
+#Character Codes\Momo Codes\Max Ap
+80144CB2 03E7
+80144CBA 03E7
+#Character Codes\Momo Codes\Max Power
+80144CBC 03E7
+#Character Codes\Momo Codes\Max Defense
+80144CBE 03E7
+#Character Codes\Momo Codes\Max Agility
+80144CC0 03E7
+#Character Codes\Momo Codes\Max Intelligence
+80144CC2 03E7
+#Character Codes\Momo Codes\Max Level
+80144CA2 0063
+#Character Codes\Momo Codes\65535 Experience
+80144CA4 FFFF
+#Character Codes\Momo Codes\Max Experience
+80144CA6 03E7
+#Character Codes\Nina Codes\Max Hp
+80144A20 03E7
+80144A28 03E7
+#Character Codes\Nina Codes\Max Ap
+80144A22 03E7
+80144A2A 03E7
+#Character Codes\Nina Codes\Max Power
+80144A2C 03E7
+#Character Codes\Nina Codes\Max Defense
+80144A2E 03E7
+#Character Codes\Nina Codes\Max Agility
+80144A30 03E7
+#Character Codes\Nina Codes\Max Intelligence
+80144A32 03E7
+#Character Codes\Nina Codes\Max Level
+80144A12 0063
+#Character Codes\Nina Codes\65535 Experience
+80144A14 FFFF
+#Character Codes\Nina Codes\Max Experience
+80144A16 03E7
+#Character Codes\Peco Codes\Max Hp
+80144D54 03E7
+80144D5C 03E7
+#Character Codes\Peco Codes\Max Ap
+80144D56 03E7
+80144D5E 03E7
+#Character Codes\Peco Codes\Max Power
+80144D60 03E7
+#Character Codes\Peco Codes\Max Defense
+80144D62 03E7
+#Character Codes\Peco Codes\Max Agility
+80144D64 03E7
+#Character Codes\Peco Codes\Max Intelligence
+80144D66 03E7
+#Character Codes\Peco Codes\Max Level
+80144D46 0063
+#Character Codes\Peco Codes\65535 Experience
+80144D48 FFFF
+#Character Codes\Peco Codes\Max Experience
+80144D4A 03E7
+#Character Codes\Rei Codes\Master Modifier
+80144C12 ??00
+%MASTER
+#Character Codes\Rei Codes\Max Hp
+80144C0C 03E7
+80144C14 03E7
+#Character Codes\Rei Codes\Max Ap
+80144C0E 03E7
+80144C16 03E7
+#Character Codes\Rei Codes\Max Power
+80144C18 03E7
+#Character Codes\Rei Codes\Max Defense
+80144C1A 03E7
+#Character Codes\Rei Codes\Max Agility
+80144C1C 03E7
+#Character Codes\Rei Codes\Max Intelligence
+80144C1E 03E7
+#Character Codes\Rei Codes\Max Level
+80144BFE 0063
+#Character Codes\Rei Codes\65535 Experience
+80144C00 FFFF
+#Character Codes\Rei Codes\Max Experience
+80144C02 03E7
+#Character Codes\Ryu Codes\Max Hp
+8014497C 03E7
+80144984 03E7
+#Character Codes\Ryu Codes\Max Ap
+8014497E 03E7
+80144986 03E7
+#Character Codes\Ryu Codes\Max Power
+80144988 03E7
+#Character Codes\Ryu Codes\Max Defense
+8014498A 03E7
+#Character Codes\Ryu Codes\Max Agility
+8014498C 03E7
+#Character Codes\Ryu Codes\Max Intelligence
+8014498E 03E7
+#Character Codes\Ryu Codes\Max Level
+8014496E 0063
+#Character Codes\Ryu Codes\65535 Experience
+80144970 FFFF
+#Character Codes\Ryu Codes\Max Experience
+80144972 03E7
+#Character Codes\Teepo Codes\Max Hp
+80144B68 03E7
+80144B70 03E7
+#Character Codes\Teepo Codes\Max Ap
+80144B6A 03E7
+80144B72 03E7
+#Character Codes\Teepo Codes\Max Power
+80144B74 03E7
+#Character Codes\Teepo Codes\Max Defense
+80144B76 03E7
+#Character Codes\Teepo Codes\Max Agility
+80144B78 03E7
+#Character Codes\Teepo Codes\Max Intelligence
+80144B7A 03E7
+#Character Codes\Teepo Codes\Max Level
+80144B5A 0063
+#Character Codes\Teepo Codes\65535 Experience
+80144B5C FFFF
+#Character Codes\Teepo Codes\Max Experience
+80144B5E 03E7
+#Other Codes\Misc. Codes\Max Fish Casting Power
+801440BC 0100
+#Other Codes\Misc. Codes\Turn Camp Button Into Warp To Last Save Point
+8014504A 0001
+#Other Codes\Misc. Codes\Have Wooden Rod
+801451DE 2E0E
+#Other Codes\Misc. Codes\Have Bamboo Rod
+801451F0 2F0E
+#Other Codes\Misc. Codes\Have Deluxe Rod
+801451F2 300E
+#Other Codes\Misc. Codes\Have Angling Rod
+801451F4 310E
+#Other Codes\Misc. Codes\Have Spanner
+801451F6 320E
+#Other Codes\Misc. Codes\Have Master's Rod
+801451F8 330E
+#Other Codes\Misc. Codes\Ship Engine Never Overheats
+80145E9A 0000
+#Other Codes\Misc. Codes\Electric Gate In Front Entrance Of Factory Turned Off
+80144F32 3E10
+#Other Codes\Misc. Codes\Infinite Tidal Time
+80144370 1800
+80144372 461E
+#Other Codes\Misc. Codes\Enable All Fairy Songs
+D01D0EC6 A420
+801D0EC6 2400
+.With this code, it allows you to select more songs than actually exist; however, DO NOT choose any song after Castle in the Sky!
+#Other Codes\Misc. Codes\Infinite Items
+D01D44CE A262
+801D44CE 2400
+D01D3666 A262
+801D3666 2400
+#Other Codes\Misc. Codes\Have All Items
+50004301 0000
+3014534C 0014
+50005B01 0000
+3014524C 0014
+50003301 0000
+301453CC 0014
+50005201 0000
+301452CC 0014
+50004301 0001
+3014514C 0000
+50005B01 0001
+3014504C 0000
+50003301 0001
+301451CC 0000
+50005201 0001
+301450CC 0000
+#Other Codes\Misc. Codes\Infinite Health For Beyd (Battle Against Zig)
+801EB6C4 004B
+#Other Codes\Misc. Codes\One Hit Death For Zig
+801EB7DC 0000

@@ -1,0 +1,4 @@
+#Infinite Time	
+80079B80 2316
+#Max Money	
+80079110 0007

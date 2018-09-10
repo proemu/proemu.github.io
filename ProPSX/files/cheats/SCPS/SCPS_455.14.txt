@@ -1,0 +1,16 @@
+#Inf. Health		
+8007F5FC 0005
+#Inf. Ammo		
+8007F5F4 0006
+#Inf. Credits		
+8007F580 0009
+#Inf. Time		
+8007F584 1770
+#Max Combo		
+8007F718 270F
+#Total Time = 00:00		
+800D1C3C 0000
+800D1C3E 0000
+#Accuracy = 100%		
+800D1DC4 270F
+800D1DC8 270F

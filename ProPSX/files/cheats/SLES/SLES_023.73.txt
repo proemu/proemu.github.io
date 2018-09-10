@@ -1,0 +1,38 @@
+#Start On Last Lap/Finish 1st
+E00A22FA 0000
+300A22FA 0004
+#Max Season Points
+800FCDF4 FFFF
+#Max Speed
+300A1D7E 00FF
+#Competition Speed Max
+300A1D7D 00DFD
+#Timer Milliseconds
+8009E2E4 0000
+#Timer Seconds
+8009E2E6 0000
+#Number Of Laps 4
+300A1D75 0004
+300A1E01 0004
+#Advance To 5th Lap With L1+R1 .Use at beginning of the race; value must be 1 less than No. of laps.
+D00427FE F3FF
+300A22FA 0004
+#Start At Last Season Race With L2+R2 .Try to use while in SEASON/OPTION menu
+D00427FE FCFF
+300A1D72 000F
+#Vs Mode Codes\P1 Score Max
+800A2510 FFFF
+#Vs Mode Codes\P2 Score Max
+800A2544 FFFF
+#Vs Mode Codes\P1 L2/R2 To Increase/Decrease Score
+E00A1D38 0002
+100A2510 0001
+E00A1D38 0001
+110A2510 0001
+#Vs Mode Codes\P2 L2/R2 To Increase/Decrease Score
+E00A1D60 0002
+100A2544 0001
+E00A1D60 0001
+110A2544 0001
+#Vs Mode Codes\Infinite Time
+8009E2E6 0000

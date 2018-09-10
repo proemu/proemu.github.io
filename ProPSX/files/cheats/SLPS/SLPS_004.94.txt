@@ -1,0 +1,9 @@
+#Infinite Time
+800B5400 4640
+#Invincible
+800B55B0 005C
+#Infinite Lives
+800B5648 0003
+#Infinite Magic
+800B5650 0003
+

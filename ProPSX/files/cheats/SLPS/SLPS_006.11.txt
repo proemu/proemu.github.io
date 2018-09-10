@@ -1,0 +1,16 @@
+#Max Score (P1) 	
+801A958C 967F
+801A958E 0098 		
+#Step 99 Chain (P1) 	
+301A97D4 0063 		
+#No Counter Gems (P1) 	
+301A9A12 0000 		
+#No Counter Gems (P2) 	
+301A9766 0000 		
+#99 Counter Gems (P1) 	
+301A9A12 0063 		
+#Unlock Extras 	
+50000504 0000
+8016B308 07FF
+50000901 0000
+3016B31C 0001

@@ -1,0 +1,25 @@
+#P1 Infinite Lifes
+8006FBB0 0007
+#P1 Infinite Ammo
+8006FC04 0008
+#P2 Infinite Lifes
+8006FC40 0007
+#P2 Infinite Ammo
+8006FC94 0008
+#Infinite Credits P1
+8006B4F0 0009
+#Infinite Credits P2
+8006B4F4 0009
+#Always Machine Gun Ammo P1
+D006FC00 0000
+8006FC00 0001
+#Always Machine Gun Ammo P2
+D006FC90 0000
+8006FC90 0001
+#Always Shot Gun Ammo P1
+D006FC00 0000
+8006FC00 0002
+#Always Shot Gun Ammo P2
+D006FC90 0000
+8006FC90 0002
+

@@ -1,0 +1,19 @@
+#Always stage clear
+800C2022 0000
+#Have 999999 points
+800C1F24 423F
+800C1F26 000F
+#Infinite HP
+800C1EE2 0003
+#Infinite  battery
+800C1EE6 0100
+800C1EEA 0100
+#Clear Stage Press Select + Left
+D00B60E2 7EFF
+800C2022 0000
+#All the stages can be selected
+300C1F28 00FF
+#Model fully open
+800C1F2C 0007
+#Motor fully open
+800C1F30 0007

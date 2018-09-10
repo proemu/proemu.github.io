@@ -1,0 +1,18 @@
+#Unlock Rally De Africa
+801114B0 0001
+#Unlock All Tracks In Spot Races
+8011096C 0001
+8011096E 0001
+#Unlock All Classes Championship Mode
+80110960 0001
+80110962 0001
+80110964 0001
+#Rossini-Codes Time 00:00:00 (1St)
+800C51EC 0000
+#Tylor-Codes Time 00:00:00 (1St)
+800C5B70 0000
+#Verlaine-Codes Time 00:00:00 (1St)
+800C64F4 0000
+#Verlaine cars Time 0 
+800C6E79-0001
+

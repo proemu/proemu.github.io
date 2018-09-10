@@ -1,0 +1,37 @@
+#Infinite Peanuts (100)
+80095500 0064
+#Max Number Of Photographs
+300964D8 0063
+#Infinite Balloon Attacks
+80095AA0 0063 
+#Maximum strength 
+300965B0 00C8 
+#Invincible / Heart 
+300965B5 00FF 
+#Kyoro coin 
+30095AA4 0005 
+#Item / remaining number 
+30095AA0 0063 
+#Unlimited flight duration of flap jump 
+3007D1B2 0050 
+#Tamauke / TIME 
+3007C90E 0063 
+#Slot / TIME 
+3007C918 0063 
+#Number of rock-paper-scissors hammer / Kyoro chan 
+3007C918 0003 
+#Number of rock-paper-scissors hammer / partner 
+3007C919 0003 
+#Tamauke / scores 
+8007C91E 03E7 
+#Slot / number 
+3007C920 0063 
+#Unlimited number of flap jump 
+3007D1A9 0000 
+#invincible don't touch enemy
+3007D1AA 00FF 
+#Photo booth notebook / presence + 01h 	
+30095A20 00FF 
+30095A83 00FF 
+#Photo booth number	
+300964D8 0014

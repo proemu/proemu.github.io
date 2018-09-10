@@ -1,0 +1,12 @@
+#Season: Always First/Start on Last Lap 	
+800E7B1C 000F
+#Support: Always First/Start on Last Lap 	
+800E7A8C 000F
+#Unlock All Tracks 	
+3001016D 0001 		
+#Unlock All Cars 	
+3001016E 0001
+#Disable Championship Disqualification Cheat 	
+3001016F 0001 		
+#Unlock Mini Car Mode Cheat 	
+30010170 0001

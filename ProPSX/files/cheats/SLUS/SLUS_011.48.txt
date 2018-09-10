@@ -1,0 +1,8 @@
+#Infinite Health Karne
+8010F624 0064
+#Infinite Health Kenzo
+8010F72C 0064
+#Infinite Health Matlock
+8010F834 0064
+#Infinite Ammo
+800A11AE 0000

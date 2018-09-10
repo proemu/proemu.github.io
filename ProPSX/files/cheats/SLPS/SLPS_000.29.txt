@@ -1,0 +1,30 @@
+#Infinite Money
+800EFDB8 EA60
+#Opponent Money is Always 0
+800C41A0 0000
+#Infinite Item Suu Kyi eye
+800F1258 0009
+#nfinite Item Hyper chastisement
+800F1260 0009
+#nfinite Item Suu Kyi stick
+800F1270 0009
+#MAX point have their own
+800EFDB8 869F
+800EFDBA 0001
+#Minus point has the other
+800C41AD FFFF
+800C41A2 FFFF
+#Infinite panel match remaining count
+800C0A48 0007
+#Point level MAX
+800C4330 0004
+800C6838 0018
+#Everyone clear suddenly free play mode
+800F1E68 0000
+800F1E6A 0000
+800F1E6C 0000
+800F1E6E 0000
+800F1E70 0000
+800F1E72 0000
+800F1E74 0000
+800F1E76 0000

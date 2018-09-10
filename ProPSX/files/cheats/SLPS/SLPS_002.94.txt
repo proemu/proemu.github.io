@@ -1,0 +1,6 @@
+#Infinite time
+801E82A4 86A0
+801E82A6 0001
+#Always 0 mistakes
+801E82F0 0000
+

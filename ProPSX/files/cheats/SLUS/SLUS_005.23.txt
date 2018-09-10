@@ -1,0 +1,11 @@
+#Home Team Scores 100
+8007E114 0064
+#Home Team Scores 0
+8007E114 0000
+#Away Team Scores 100
+8007F578 0064
+#Away Team Scores 0
+8007F578 0000
+#Enable Secrets Menu & All Cheats Enabled
+80087FBE 0FFF
+

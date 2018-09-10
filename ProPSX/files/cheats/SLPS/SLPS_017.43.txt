@@ -1,0 +1,138 @@
+#Home from school at the time of the conversation with the heroine, pounding heart up Press  L2 button
+D016B6C0 0001 
+8016B868 0064
+#Home from school at the time of the conversation with the heroine, palpitation gauge largest  press R2 button 
+D016B6C0 0002 
+8016B86C 0064
+#Good friend degree maximum Morishita Akane
+8016BBCC 03E7
+#Longing maximum degree Morishita Akane
+8016C284 03E7
+#Good friend degree maximum Nanase Kasumi
+8016BB74 03E7 
+#Longing maximum degree Nanase Kasumi# 
+8016C1D4 03E7
+#Good friend degree maximum Hatano Aoi
+8016BB50 03E7 
+#Longing maximum degree Hatano Aoi
+8016C16C 03E7
+#Good friend Sanae Miyama maximum degree
+8016BBDC 03E7 
+#Longing maximum degree Sanae Miyama
+8016C290 03E7
+#Good friend degree maximum Sawada
+8016BBB4 03E7 
+#Longing maximum degree Sawada
+8016C254 03E7
+#Good friend Yoko Okano maximum degree
+8016BB58 03E7 
+#Longing maximum degree Yoko Okano 
+8016C190 03E7
+#Good friend degree maximum Kosaka Maiko
+8016BBD8 03E7 
+#Longing maximum degree Kosaka Maiko
+8016C28C 03E7
+#Good friend degree maximum Nakazato Kaori
+8016BB54 03E7 
+#Longing maximum degree Nakazato Kaori
+8016C180 03E7
+#Good friend degree maximum Mizuki Ayumi
+8016BBD4 03E7 
+#Longing maximum degree Mizuki Ayumi
+8016C288 03E7
+#Good friend degree maximum Kazama grove
+8016BB6C 03E7 
+#Longing maximum degree Kazama grove
+8016C1C8 03E7
+#All IIllustrations in Album Morishita Akane
+801D1318 FFFF 
+801D131A FFFF 
+801D131C FFFF 
+801D131E FFFF 
+801D1320 FFFF 
+801D1322 FFFF 
+801D1324 FFFF
+#All IIllustrations in Album  Nanase Kasumi
+801D1326 FFFF 
+801D1328 FFFF 
+801D132A FFFF 
+801D132C FFFF 
+801D132E FFFF 
+801D1330 FFFF 
+801D1332 FFFF 
+801D1334 FFFF
+#All IIllustrations in Album  Hatano AoI 
+801D1336 FFFF 
+801D1338 FFFF 
+801D133A FFFF 
+801D133C FFFF 
+801D133E FFFF 
+801D1340 FFFF 
+801D1342 FFFF
+#All IIllustrations in Album  Sanae Miyama
+801D1344 FFFF 
+801D1346 FFFF 
+801D1348 FFFF 
+801D134A FFFF 
+801D134C FFFF 
+801D134E FFFF 
+801D1350 FFFF 
+801D1352 FFFF
+#All IIllustrations in Album  Sawada
+801D1354 FFFF 
+801D1356 FFFF 
+801D1358 FFFF 
+801D135A FFFF 
+801D135C FFFF 
+801D135E FFFF 
+801D1360 FFFF
+#All IIllustrations in Album  Yoko Okano
+801D1362 FFFF 
+801D1364 FFFF 
+801D1366 FFFF 
+801D1368 FFFF 
+801D136A FFFF 
+801D136C FFFF 
+801D136E FFFF 
+801D1370 FFFF 
+#All IIllustrations in Album  Kosaka Maiko
+801D1372 FFFF 
+801D1374 FFFF 
+801D1376 FFFF 
+801D1378 FFFF 
+801D137A FFFF 
+801D137C FFFF 
+801D137E FFFF 
+#All IIllustrations in Album  Nakazato Kaori
+801D1380 FFFF 
+801D1382 FFFF 
+801D1384 FFFF 
+801D1386 FFFF 
+801D1388 FFFF 
+801D138A FFFF 
+801D138C FFFF 
+801D138E FFFF
+#All IIllustrations in Album  Mizuki Ayumi
+801D1390 FFFF 
+801D1392 FFFF 
+801D1394 FFFF 
+801D1396 FFFF 
+801D1398 FFFF 
+801D139A FFFF 
+801D139C FFFF
+#All IIllustrations in Album  Kazama grove
+801D139E FFFF 
+801D13A0 FFFF 
+801D13A2 FFFF 
+801D13A4 FFFF 
+801D13A6 FFFF 
+801D13A8 FFFF 
+801D13AA FFFF 
+801D13AC FFFF
+#All IIllustrations in Album  Other
+801D13AE FFFF 
+801D13B0 FFFF 
+801D13B2 FFFF 
+801D13B4 FFFF 
+801D13B6 FFFF 
+801D13B8 FFFF

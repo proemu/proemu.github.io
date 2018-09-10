@@ -1,0 +1,8 @@
+#Invincibility All Characters
+80060E48 004F
+#Infinite Energy
+80060D7C 0060
+80072A64 0060
+#Have 99 blue power gems (used for special attack)
+80060E88 0063
+

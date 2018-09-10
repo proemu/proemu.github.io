@@ -1,0 +1,17 @@
+#Infinite Money P1
+800DA694 FFFF
+#Infinite Money P2
+800DA6C4 FFFF
+#Infinite Money P3
+800DA6F4 FFFF
+#Infinite Money P4
+800DB724 FFFF
+#1 Trillion Dollars P1
+800DA696 3B9B
+#1 Trillion Dollars P2
+800DA6C6 3B9B
+#1 Trillion Dollars P3
+800DA6F6 3B9B
+#1 Trillion Dollars P4
+800DB726 3B9B
+

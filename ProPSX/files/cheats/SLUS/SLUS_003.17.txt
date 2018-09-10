@@ -1,0 +1,8 @@
+#Infinite HP
+801297F5 0630
+#Infinite Grenades (Upon Pickup)
+801299D0 0003
+#Infinite Ammo--Gattling Gun (Upon Pickup).Turn the codes on at the first game screen
+80129954 005E
+#Have All Powerups Maps And Armor		
+80127694 FFFF

@@ -1,0 +1,28 @@
+#Infinite Front Shield
+801A2B3C 012C
+#Infinite Left Shield
+801A2B3E 012C
+#Infinite Right Shield
+801A2B40 012C
+#Infinite Rear Shield
+801A2B42 012C
+#Infinite Rockets
+801B8A42 0064
+#Infinite Lock-Ons
+801B8A44 0008
+#Infinite Swarmers
+801B8A46 0008
+#Infinite Plasma Cannon Charges
+801B8A48 2003
+#Infinite Flash Bombs
+801B8A4E 270E
+#Infinite Doomsday Bombs
+801B8A4A 0001
+#Machine Gun Never Overheats
+801B8A40 0000
+#Missiles Automatically Fire Rapidly
+801B8A4C 0001
+#Rapid Fire
+801B8A56 0000
+#Invulnerable
+8013A51C 0000

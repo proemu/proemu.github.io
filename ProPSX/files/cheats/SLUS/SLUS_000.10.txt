@@ -1,0 +1,17 @@
+#Player 1 Always Wins
+80073BD8 000F
+#Infinite Strikes
+80170908 0000
+#Infinite Balls
+80179A10 0000
+#Infinite Outs
+80173E30 0000
+#Away Team Always Scores 9
+30173BD9 0009
+#Away Team Always Scores 0
+30173BD9 0000
+#Visiting Team Always Scores 9
+30173BD8 0009
+#Visiting Temm Always Scores 0
+30173BD8 0000
+

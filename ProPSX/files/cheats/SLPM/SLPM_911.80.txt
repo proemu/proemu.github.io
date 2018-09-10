@@ -1,0 +1,18 @@
+#Fundage
+8010F5E0 869F
+8010F5E2 0001
+#Recipes And Fill All 99 Items
+D004BB2E 1440
+8004BB2C 0001
+# Looking At The Completed Book Items Items
+D004BB2E 1440
+8004BB2C 0001
+#Workshop Will Clean Up
+800E3F5C 0000
+#Max Popular Status Other Than Companionship
+800CC52E 0000
+D00335FE 1040
+800335FC 0001
+#Elie Popularity Overnight 100
+D003340E 1040
+8002240C 0001

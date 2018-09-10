@@ -1,0 +1,8 @@
+#Infinite Energy
+800E1188 B14B
+#Infinite Mini-Missiles
+800E1194 03E7
+#Sub-Weapon Doesn't Decrease
+800165CE 3C00
+#Infinite Photons
+300E119A 0063

@@ -1,0 +1,63 @@
+#Money 99999999
+80081C88 E0FF 
+80081C8A 05F5 
+#Infinite HP  in combat
+800BCDE0 2800 
+800BCDE2 0800 
+8000A000 1021 
+8000A002 0040 
+8000A004 F379
+8000A006 0C02 
+#All items in possession
+D00A273A 0C01 
+800A2734 0063 
+D00A273A 0C01
+800A2736 2406
+#All cards MAX
+50008702 0000 
+80081EC4 03E7 
+#LV99 When you battle once 
+D00DAACA 1440 
+800DAACA 1040 
+#Rank up to use once Persona 
+D00B95AE 2463 
+800B95AC 00FF 
+#Tarot all 
+50001602 0000 
+80081EC6 03E7
+#Materials all 
+50002002 0000 
+80081EF4 03E7
+#Magic all 
+50004902 0000 
+80081F36 03E7
+#In'nosensu all 
+50000502 0000 
+80081FC8 03E7 
+#Accessories? All 
+50003701 0000 
+30081D0F 0063 
+#Armor all 
+50001B01 0000 
+30081E6A 0063 
+#Hat all 
+50001301 0000 
+30081E3D 0063 
+#All weapons 
+50000E01 0000 
+30081E15 0063 
+#Boots all 
+50001301 0000 
+30081E97 0063
+#Map fully open effect appears by looking at the map
+D00AF000 5F98 
+800AF018 00FF 
+D00AF000 5F98 
+800AF01A 2403 
+D00AF000 5F98 
+800AF026 A083 
+#EXTRA DUNGEON appearance , use the Code, make a save. When launching the game with the saved data, the option "EXTRA DUNGEON" appears in the title menu.
+30082135 000F 
+#EXTRA DUNGEON clear benefits all
+30082163 00FB 
+30082164 00FF 

@@ -1,0 +1,62 @@
+#Infinite Continues
+D00EEBD4 0004
+800EEBD4 0005
+#Infinite Lives P1
+D00ADDEA 0014
+800ADDEA 001E
+#Infinite Lives P2
+D00ADEAA 001E
+800ADEAA 0028
+#Inf. Ammo (P1)		
+D00ADDE2 0000
+800ADDE6 03E7
+#Inf. Ammo (P2)		
+D00ADE6E 0000
+800ADE72 03E7
+Inf. Special Attacks (P1)		
+D00ADDE2 0000
+800ADDE8 0005
+#Inf. Special Attacks (P2)		
+D00ADE6E 0000
+800ADE74 0005
+#Always Play Level Gettin' Started		
+D0056580 0001
+80056580 0001
+#Always Play Level Smashing Pacifists		
+D0056580 0001
+80056580 0002
+#Always Play Level Goin' Underground		
+D0056580 0001
+80056580 0003
+#Always Play Level Keep Cool		
+D0056580 0001
+80056580 0004
+#Always Play Level Gettin' Hot		
+D0056580 0001
+80056580 0005
+#Always Play Level Make Some Noize		
+D0056580 0001
+80056580 0006
+#Always Play Level Hear No Evil		
+D0056580 0001
+80056580 0007
+#Always Play Level Saving Clones		
+D0056580 0001
+80056580 0008
+#Always Play Level Cheb's Island		
+D0056580 0001
+80056580 0009
+#Always Play Level The House On The Hill		
+D0056580 0001
+80056580 000A
+#Always Play Level Bunsen And The Labs		
+D0056580 0001
+80056580 000B
+#Always Play Level Kickin' Some Ass		
+D0056580 0001
+80056580 000C
+#Always Play Level Happy?End		
+D0056580 0001
+80056580 000D
+#Unlock All Extras Unlocks all pause menu cheats and replaces Sister Magpie with Fwank.	
+300565E4 00FF

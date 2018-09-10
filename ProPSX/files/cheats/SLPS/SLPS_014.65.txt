@@ -1,0 +1,123 @@
+#Funds 99999
+800CE11C 869F
+800CE11E 0001
+#Scenario SELECT Scenary 1-14 01-0E sELECTED THE LAST
+300CE120 000E
+#Infinite number of attacks
+D001B650 FFFF
+8001B650 0000
+#Does not increase TP
+D007DBDA 0043
+8007DBDA 0040
+#Does not decrease AP
+D007DBC6 0043
+8007DBC6 0040
+D001B1F4 004A
+8001B1F4 0000
+D001B1F6 A483
+8001B1F6 0000
+D001B408 004C
+8001B408 0000
+D001B40A A602
+8001B40A 0000
+D007EA92 0043
+8007EA92 0040
+#Mortal blow attack mode Press L2
+D0053570 0001
+80080506 0000
+#No damage mode Press R2
+D0053570 0002
+80080506 0080
+#Level 99 Main Character
+300CE194 0063
+#Fast Level Up Main Character
+800CE196 0001
+#Max Magic Point Main Character
+800CE19A 03E7
+#Max Bas & Max Pow Main Character
+800CE19C 2020
+#Max Dex & Max Agl Main Character
+800CE19E 2020
+#Max Def & Max Wep Main Character
+800CE1A0 2020
+#Level 99  2ND Character
+300CE1CD 0063
+#Fast Level Up 2ND Character
+800CE1CE 0001
+#Max Magic Point 2ND Character
+800CE1D2 03E7
+#Max Bas & Max Pow 2ND Character
+800CE1D4 2020
+#Max Dex & Max Agl 2ND Character
+800CE1D6 2020
+#Max Def & Max Wep 2ND Character
+800CE1D8 2020
+#Level 99  3RD Character
+300CE205 0063
+#Fast Level Up 3RD Character
+800CE206 0001
+#Max Magic Point 3RD Character
+800CE20A 03E7
+#Max Bas & Max Pow 3RD Character
+800CE20C 2020
+#Max Dex & Max Agl 3RD Character
+800CE20E 2020
+#Max Def & Max Wep 3RD Character
+800CE210 2020
+#Level 99 4Rd Character
+300CE23D 0063
+#Fast Level Up 4Rd Character
+800CE23E 0001
+#Max Magic Point 4Rd Character
+800CE242 03E7
+#Max Bas & Max Pow 4Rd Character
+800CE244 2020
+#Max Dex & Max Agl 4Rd Character
+800CE246 2020
+#Max Def & Max Wep 4Rd Character
+800CE248 2020
+#Level 99 5TH Character
+300CE275 0063
+#Fast Level Up 5TH Character
+800CE276 0001
+#Max Magic Point 5TH Character
+800CE27A 03E7
+#Max Bas & Max Pow 5TH Character
+800CE27C 2020
+#Max Dex & Max Agl 5TH Character
+800CE27E 2020
+#Max Def & Max Wep 5TH Character
+800CE280 2020
+#LV55 & HP maximum (all positions) 
+50000C38 0000 
+300CE195 00FF 
+50000C38 0000 
+800CE196 01F4 
+#Maximum Spirit (all positions) 
+50000C38 0000 
+800CE19A 03E7 
+#Maximum BAS & POW (all positions) 
+50000C38 0000 
+800CE19C 2020 
+#Maximum DEX & AGL (all positions) 
+50000C38 0000 
+800CE19E 2020 
+#Maximum DEF & WEP (all positions) 
+50000C38 0000 
+800CE1A0 2020 
+#All 99 weapons 
+50002003 0001 
+300CE4C4 0000 
+50002003 0000 
+300CE4C5 0063 
+#Alll 99 ornaments 
+50001303 0001 
+300CE524 0001 
+50001303 0000 
+300CE525 0063 
+#All 99 seal stones 
+50001C03 0001 
+300CE584 0000 
+50001C03 0000 
+300CE585 0063 
+

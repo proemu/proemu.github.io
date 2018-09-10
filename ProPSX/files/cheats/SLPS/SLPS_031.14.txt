@@ -1,0 +1,89 @@
+#Gochamaze Puyo Puyo 1P Final Stage		
+D00BE0F0 0000
+800BE0F4 0009
+D00BE0F0 0001
+800BE0F4 0013
+D00BE0F0 0002
+800BE0F4 001D
+#Gochamaze Puyo Puyo 1P Inf. Specials (Player)	
+300D2DFE 0005
+#Gochamaze Puyo Puyo 1P Massive Ojama Puyos (CPU)		
+800D427C 001E
+#Gochamaze Puyo Puyo 1P No Ojama Puyos (Player)		
+800D2E64 0000
+#Gochamaze Puyo Puyo 1P Slow Speed (Player)		
+300D2E1D 0000
+#Puyo Puyo Tsuu 1P Final Stage	
+800B6C58 0008
+#Puyo Puyo Tsuu 1P Max Exp.		
+800B6C5C 423F
+800B6C5E 000F
+#Puyo Puyo Tsuu Can't Pop Puyos (P1)		
+300CBDF4 007F
+#Puyo Puyo Tsuu Can't Pop Puyos (P2)		
+300CD190 007F
+#Puyo Puyo Tsuu Massive Ojama Puyos (P1)		
+800CBE64 001E
+#Puyo Puyo Tsuu Massive Ojama Puyos (P2)		
+800CD200 001E
+#Puyo Puyo Tsuu Max Score (P1)		
+800CBE74 E0FF
+800CBE76 05F5
+#Puyo Puyo Tsuu Max Score (P2)		
+800CD210 E0FF
+800CD212 05F5
+#Puyo Puyo Tsuu No Ojama Puyos (P1)		
+800CBE64 0000
+#Puyo Puyo Tsuu No Ojama Puyos (P2)		
+800CD200 0000
+#Puyo Puyo Tsuu Slow Speed (P1)		
+300CBE1D 0000
+#Puyo Puyo Tsuu Slow Speed (P2)		
+300CD1B9 0000
+#Puyo Puyo Can't Pop Puyos (P1)		
+300CB0A4 007F
+#Puyo PuyoCan't Pop Puyos (P2)		
+300CC440 007F
+#Puyo Puyo Final Stage		
+800B46EC 000F
+#Puyo Puyo Massive Ojama Puyos (P1)		
+800CB114 001E
+#Puyo Puyo Massive Ojama Puyos (P2)		
+800CC4B0 001E
+#Puyo Puyo Max Score (P1)		
+800CB124 E0FF
+800CB126 05F5
+#Puyo Puyo Max Score (P2)		
+800CC4C0 E0FF
+800CC4C2 05F5
+#Puyo Puyo No Ojama Puyos (P1)		
+800CB114 0000
+#Puyo Puyo No Ojama Puyos (P2)		
+800CC4B0 0000
+#Puyo Puyo Slow Speed (P1)		
+300CB0CD 0000
+#Puyo Puyo Slow Speed (P2)		
+300CC469 0000
+#Puyo Puyo Unlock Sound Test		
+80095C90 0001
+#Puyo Puyo Quest Mode Have All Keys		
+300FBF52 001E
+300FBF60 0003
+#Puyo Puyo Quest Mode Have All Medals		
+300FBF65 003F
+#Puyo Puyo Quest Mode Inf. HP / Max HP		
+300FBF49 0008
+300FBF4A 0008
+#Puyo Puyo Quest Mode Invisible		
+300FBF64 0001
+#Puyo Puyo Quest Mode Max $		
+800FBF5C E0FF
+800FBF5E 05F5
+#Puyo Puyo Quest Mode Max All Stats		
+50000302 0000
+800FBF4C 00FF
+#Puyo Puyo Quest Mode Max Exp.		
+800FBF54 E0FF
+800FBF56 05F5
+#Puyo Puyo Quest Mode Max Level		
+300FBF48 0063

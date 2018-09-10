@@ -1,0 +1,41 @@
+#Max Money
+8019C610 C9FF
+8019C612 3B9A
+#Infinite Race Tries
+801E3FFA 0005
+#Always Place 1st
+8009E53C 0001
+#Infinite Time
+8009ACA4 06C5
+#Nitro Boost With this code, Release Gas and Press O button for Nitro Boost.
+D01E4072 0020
+8009E52E 0FFF
+#Extra Gp Have Erriso
+8019C620 0100
+#Have Abeille
+8019C628 0100
+#Have Pegase
+8019C630 0100
+#Have Acceron
+8019C640 0100
+#Have Bayonet
+8019C648 0100
+#Have Hijack
+8019C650 0100
+#Have Fatalita
+8019C658 0100
+#Have Istante
+8019C660 0100
+#Have Ghepardo
+8019C668 0100
+#Have Vainqure
+8019C670 0100
+#Have Bulldog
+8019C678 0100
+#Have Squaldon
+8019C680 0100
+#Darwin Awards' Jato Car
+8009E480 0AAF
+#Custom Logo Colors (Team Logo Design Screen Under Paint)
+3007F638 0001
+

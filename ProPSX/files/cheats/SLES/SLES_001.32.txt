@@ -1,0 +1,54 @@
+#Invincible
+800A8888 0001
+800A8880 00C7
+800A887C 0064
+#Mega Rapid Fire!
+800A894C 0001
+#Unlimited Bullets
+800A88F0 0064
+#Unlimited Shotgun Shells
+800A88F4 0064
+#Unlimited Rockets
+800A88FC 0064
+#Unlimited Plasma
+800A88F8 0064
+#Have Shotgun
+800A88D4 0001
+#Have Double-Barrel Shotgun
+800A88D8 0001
+#Have Chaingun
+800A88DC 0001
+#Have Rocket Launcher
+800A88E0 0001
+#Have Plasma Rifle
+800A88E4 0001
+#Have Bfg
+800A88E8 0001
+#Have Chainsaw
+800A88EC 0001
+#Have Red Key
+800A88A0 0001
+#Have Blue Key
+800A88A4 0001
+#Have Yellow Key
+800A88A8 0001
+#Night Vision On
+800A889C 0001
+#Turn On Level Map
+800A8898 0001
+#God Mode
+800A8918 0002
+#X-Ray Vision
+800A8918 0080
+#X-Ray Vision And God Mode
+800A8918 0082
+#More Light
+800A889E 0001
+#Have All Guns (Use this code or the specified gun codes)
+50000704 0000
+800A88D4 0001
+#Infinite Ammo (Use this code or the specified gun codes)
+50000404 0000
+800A8664 0064
+
+

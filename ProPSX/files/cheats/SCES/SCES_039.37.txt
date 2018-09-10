@@ -1,0 +1,10 @@
+#Infinite Health 
+800C765E 0003
+#All Movies,Backgrounds & Characters (Needs a asave game to work)
+300C49C9 001D
+#6 Diary Pieces
+800C49CA 0006
+#99 Pirate Atoms
+800C49B8 00FF
+#Max Drubloons
+800C4970 07D0

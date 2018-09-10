@@ -1,0 +1,18 @@
+#Infinite Lives
+800B6590 0005
+#Infinite Bullets (No Reload)
+800B6170 0006
+#Infinite Credits
+800B60A8 0009
+#Infinite Time
+800B60B8 0DDD
+#Playing Time = 0
+800B61A4 0000
+#Always 1 Shot
+D00B63E0 0000
+800B63E0 0001
+#Always Perfect
+C20B6270 0001
+800B63E0 0000
+#Timer Counts Up
+800527D0 0001

@@ -1,0 +1,6 @@
+#Start On Lap 3
+800B9578 0002
+#Max Points in Championship Mode
+800BE5DC 03E7
+
+

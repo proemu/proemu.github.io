@@ -1,0 +1,6 @@
+#Infinite Lives
+801DB768 0004
+#Infinite Crystals
+801DB774 0020
+#Infinite Energy
+801DB760 0064

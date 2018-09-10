@@ -1,0 +1,29 @@
+#Home Team Score 100
+800AE118 0064
+#Home Team Score 0
+800AE118 0000
+#Away Team Score 100
+800AE768 0064
+#Away Team Score 0
+800AE768 0000
+#Unlock All Legends
+50000402 0000
+8008267C FFFF
+#Home Team Infinite Timeouts
+800AE120 0007
+#Home Team No Timeouts
+800AE120 0000
+#Away Team Infinite Timeouts
+800AE770 0007
+#Away Team No Timeouts
+800AE770 0000
+#Max Stats
+D008235A 0BB8
+50000902 0000
+801FFD84 6464
+#Infinite Shot Clock Time
+800B5930 0330
+800B9FF2 0107
+800BA006 00D9
+8013874E 0231
+

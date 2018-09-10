@@ -1,0 +1,11 @@
+#P1 9 Goals
+80113B9E 0009
+#CPU 0 Goals 
+80113BA0 0000
+#Game speed 
+800ACAFC 0001 
+#Full-time Press L2 + R2 buttons
+D00F94EE 0003
+80113B96 001E
+#Game speed 
+800ACAFC 0001 

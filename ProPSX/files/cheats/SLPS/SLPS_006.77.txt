@@ -1,0 +1,22 @@
+#Max Money
+80010004 270F
+#High performance machine engine 
+80010090 00FF 
+#High performance machine Aerodynamic
+800100A0 00FF 
+#High performance machine Suspension
+800100A8 00FF
+#High performance machineTransmission 
+800100B8 00FF
+#High performance machine Electrical system
+800100B0 00FF
+#Durability machine engine
+80010098 00FF 
+#Durability machine  Aerodynamic
+800100A4 00FF 
+#Durability machine  Suspension
+800100AC 00FF 
+#Durability machine Transmission
+800100BC 00FF 
+#Durability machine Electrical system
+800100B4 00FF 

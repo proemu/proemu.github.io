@@ -1,0 +1,13 @@
+#P1 Infinite Energy 	
+801CBC38 00A6
+#? is Available		
+800A8832 0001
+#CPU Always Does A Finishing Move If It Beats You		
+801EEAB4 0001
+#P1 One Hit Death		
+DO1CBC38 00A6
+801CBC38 0001
+#P1 Only Needs to Win 1 Round		
+D01FB568 0000
+801FB568 0001
+

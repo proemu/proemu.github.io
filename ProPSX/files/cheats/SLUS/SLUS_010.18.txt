@@ -1,0 +1,35 @@
+#Have Cherry
+80109510 0001
+#Have Stawberry
+80109512 0001
+#Have Peach
+80109514 0001
+#Have Pretzel
+80109516 0001
+#Have Apple
+80109518 0001
+#Have Pear
+8010951A 0001
+#Have Banana
+8010951C 0001
+#Have Gold Key
+8010951E 0001
+#Have Red Key
+80109520 0001
+#Have Blue Key
+80109522 0001
+#Have Green Key
+80109524 0001
+#Have Purple Key
+80109526 0001
+#Ms. Pac-Skate Mode
+8010961A 0001
+#Plenty Of Pac-Dots
+D01F81CA 0001
+801F81CA 03E7
+#Have All Fruit And Keys
+50000C02 0000
+80109510 0001
+#Infinite Lives-Classic Mode
+D00F5800 0002
+800F5800 0063

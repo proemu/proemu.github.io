@@ -1,0 +1,11 @@
+#Unendlich Superlaser
+800A19C8 04B0
+#Unendlich Gesundheit
+800B2606 000E
+#9 Leben
+800B260A 0009
+#99 Coins
+800B260E 0063
+#Unverwundbar
+800B25B0 0001
+800B2604 0040

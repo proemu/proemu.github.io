@@ -1,0 +1,12 @@
+#Xevious\Invincibility
+80025E82 1000
+#Xevious 3D\Infinite Life Player 1
+8012DC90 0003
+#Xevious 3D\Full Gun Power Player 1
+8012DC28 0003
+#Xevious 3D\Infinite Life Player 2
+8012DC94 0003
+#Xevious 3D\Full Gun Power Player 2
+8012DC2C 0003
+#Xevious 3D\Invincibility P1 & P2
+8006E272 1000

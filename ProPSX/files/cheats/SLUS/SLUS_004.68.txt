@@ -1,0 +1,48 @@
+#Clementt Infinite Hp
+8010B602 03E7
+#Clementt Max Hp
+8010B604 03E7
+#Clementt Infinite Mp
+8010B606 03E7
+#Clementt Max Mp
+8010B608 03E7
+#Harv-5Infinite Hp
+8010B5C4 03E7
+#Harv-5 Max Hp
+8010B5C6 03E7
+#Harv-5 Infinite Mp
+8010B5C8 03E7
+#Harv-5 Max Mp
+8010B5CA 03E7
+#Jirinainfinite Hp
+8010B50A 03E7
+#Jirina Max Hp
+8010B50C 03E7
+#Jirina Infinite Mp
+8010B50E 03E7
+#Jirina Max Mp
+8010B510 03E7
+#Stinger Infinite Hp
+8010B586 03E7
+#Stinger Max Hp
+8010B588 03E7
+#Stinger Infinite Mp
+8010B58A 03E7
+#Stinger Max Mp
+8010B58C 03E7
+#Windleaf Infinite Hp
+8010B4CC 03E7
+#Windleaf Max Hp
+8010B4CE 03E7
+#Windleaf Infinite Mp
+8010B4D0 03E7
+#Windleaf Max Mp
+8010B4D2 03E7
+#Xero Infinite Hp
+8010B548 03E7
+#Xero	Max Hp
+8010B54A 03E7
+#Xero	Infinite Mp
+8010B54C 03E7
+#Xero Max Mp
+8010B54E 03E7

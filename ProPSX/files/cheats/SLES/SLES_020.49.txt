@@ -1,0 +1,39 @@
+#Have 12 puzzle pieces	
+800C6BCC 0FFF
+#50 Reptar Bars
+800C6BD8 0127
+#Infinite Energy 
+800E41FC 00FF
+#Infinite Time 
+300C5979 0069
+#25 Globos Recogidos espejo al coger uno
+300E4201 0018
+#El Circo Angelicus Spike ha reunido 12 huesos	
+800E4200 0C00
+#Infinite battery	
+800F622C 5800
+#La Carrera de las galletas / Tommy's Touchdown Once again only eat / drink	
+800C60E6 0001 
+#Los viajes de Cynthia Bone spikes Max	
+800E41FC 00FF
+#La Montaña del helado Hole 1 Always hole in one	
+300E420E 0001
+#La Montaña del helado Hole 2 Always hole in one	
+300E420F 0001
+#La Montaña del helado Hole 3 Always hole in one	
+300E4210 0001
+#La Montaña del helado Hole 4 Always hole in one	
+300E4211 0001
+#La Montaña del helado Hole 5 Always hole in one	
+300E4212 0001
+#La Montaña del helado Hole 6 Always hole in one	
+300E4213 0001
+#La Montaña del helado Hole 7 Always hole in one	
+300E4214 0001
+#La Montaña del helado Hole 8 Always hole in one	
+300E4215 0001
+#La Montaña del helado Hole 9 Always hole in one	
+300E4216 0001
+
+
+

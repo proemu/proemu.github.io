@@ -1,0 +1,10 @@
+#Infinite Energy Level 1
+801E65BC 0032
+#Infinite Revolver Ammo 
+80110AD6 0006
+#Infinite Thompson Ammo 
+80110AD8 001E
+#Infinite Thompson Ammo (Alt)
+801EA39C 03E7
+#Infinite Pistol Ammo (Alt)
+801EA3AE 03E7

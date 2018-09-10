@@ -1,0 +1,9 @@
+#Infinite Energy Jerry
+8006CCD4 03E8
+#Quick Kill-Tom
+8006D0FC 0000
+#Have All Levels
+800337E8 000E
+#Cheat Mode  All levels will be unlocked, you can modify the player health (pause menu), and warp to any level (pause menu).
+300337D4 0001
+

@@ -1,0 +1,24 @@
+#Infinite Time P1
+80050778 06BD
+#Infinite Life P1
+80050820 000A
+#Infinite Special Attack P1
+80089ECE 0009
+#Total Time
+80050890 0000
+#Infinite Time P2
+8005077C 06BD
+#Infinite Life P2
+80050824 000A
+#Infinite Special Attack P2
+80089F12 0009
+#Infinite Credit
+80050958 0063
+#Win All Telvision Mode
+300593F8 0001
+300593F9 0001
+300593FA 0001
+
+
+
+

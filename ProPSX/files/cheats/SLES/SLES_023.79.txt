@@ -1,0 +1,6 @@
+#Points always 0 in show jumping
+80182D94 0000
+#Points always 0 in cross country
+80137668 0000
+#0 errors in dressage
+8019F0B8 0000

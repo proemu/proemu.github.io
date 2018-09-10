@@ -1,0 +1,14 @@
+#Start On Lap 2 - Press x &  Up Until Crossing The Starting Line
+D00E4A1E BFEF
+80081338 0001
+#Unlocked All Tracks - Arcade Mode
+80017012 6600
+#Unlocked All Cars - Arcade Mode
+80017014 0009
+#Max Cash
+800170BE 00FF
+#999 Pts
+800170E8 03E7
+#Always Place 1st		
+80081594 0000
+

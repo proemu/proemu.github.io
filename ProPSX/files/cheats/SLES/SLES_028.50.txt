@@ -1,0 +1,29 @@
+#Infinite health P1	
+D20B100C 0064
+300B100C 0064
+#Infinite power 	
+D20B1010 0064
+300B1010 0064
+#Arcade mode Start at final fight 	
+D00A1238 0000
+300A1238 000B
+#Infinite Continues 	
+300A126C 0008
+#Secret character Michael Jackson	
+301F13E8 000C
+#Secret character G.C. Thunder	
+301F13E8 000D
+#Secret character Shaquille O'Neal	
+301F13E8 000E
+#Secret character Rocket Samchav	
+301F13E8 000F
+#Secret character Robox Rese4	
+301F13E8 0010
+#Secret character First Lady	
+301F13E8 0011
+#Secret character Mr President	
+301F13E8 0012
+Secret character The Boss Rumble	
+301F13E8 0013
+
+

@@ -1,0 +1,7 @@
+#Always Place First
+80071F80 0001
+#One Lap To Race
+8006047E 0104
+#All Cars & Tracks
+800597CE 0003
+

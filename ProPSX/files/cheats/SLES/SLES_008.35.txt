@@ -1,0 +1,16 @@
+#Unendlich Leben
+800FF7A8 000F
+#Unverwundbar(.benutzt eingebauten Cheat, also Vorsicht)
+800FF250 0001
+#Alle Waffen Anw‰Hlbar
+800FF24C 0001
+#Alle Level Anw‰Hlbar
+800FF264 0001
+#Alle Checkpoints Anw‰Hlbar
+800FF26C 0001
+#Unendlich Smartbombs
+8005D008 0000
+#Unendlich Gesundheit
+8005DAB2 3C00
+#Unendlich Munition
+80022C5E 3C00

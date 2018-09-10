@@ -1,0 +1,34 @@
+#Track Select Dynamite Pass 	
+800B2628 0000
+#Track Select Ground Zero Gulch 	
+800B2628 0001
+#Track Select Devil's Kitchen 	
+800B2628 0002	
+#Track Select Mercurial Forest 	
+800B2628 0003	
+#Track Select Hades Highway 	
+800B2628 0004	
+#Track Select Arctic Inferno 	
+800B2628 0005	 
+#Total Time = 00:00:00 	
+801F3ACC 0000
+#Car Select Tree Killer	
+800B2614 0000
+#Car Select Fire Witch	
+800B2614 0001
+#Car Select Snow Spider
+800B2614 0002
+#Car Select Canyon Snake
+800B2614 0003
+#Car Select Sand Blaster	
+800B2614 0004
+#Car Select Shasta Cyclone	
+800B2614 0005
+#Car Select Mother	
+800B2614 0006
+#Start on Lap 3		
+D01F53B4 0000
+801F53B4 0002
+801F52B8 0002
+
+

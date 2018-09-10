@@ -1,0 +1,9 @@
+#Infinite strength It is not valid if you may fall into the hole, it was eaten by a dinosaur
+80028DB0 03E8 
+80028DB2 3404 
+80028DBC 0022 
+80028DBE A444 
+#Infinite oxygen 
+80033F00 0000 
+#All weapons 
+300929FF 0001

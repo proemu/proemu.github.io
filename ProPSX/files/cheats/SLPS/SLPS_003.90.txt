@@ -1,0 +1,47 @@
+#Dig Dug Infinite Lives P1	
+801309D0 0004
+#Dig Dug Infinite Lives P2	
+80130A34 0004
+#Dig Dug Infinite Credits	
+8012D600 0009
+#Galaxian Infinite Lives (Both Players)	
+8010E864 0005
+#Galaxian Infinite Credits	
+8010E86C 0009
+#Ms. Pac-Man Infinite Lives P1	
+80141A18 0004
+#Ms. Pac-Man Infinite Lives P2	
+80141A1C 0004
+#Ms. Pac-Man Infinite Credits	
+801418EC 0009
+#Ms. Pac-Man Eat All Ghosts All The Time	
+80193FD4 0000
+80193FD6
+#Phozon Infinite Lives P1	
+30167480 0005
+#Phozon Infinite Lives P2	
+30167481 0005
+#Phozon Infinite Credits	
+80167218 0009
+#Pole Position 2 Infinite Time	
+80134646 7000
+#Pole Position 2 Lap Time Always Below 0.01	
+8013465A 0000
+80134658 0000
+80134656 0000
+80134654 0000
+#Pole Position 2 Max Speed 	
+30131FB5 00FF
+#Pole Position 2 Infinite Credits	
+80131FEE 0900
+#Tower of Druaga Infinite Lives P1	
+8016569E 0004
+#Tower of Druaga Infinite Lives P2	
+801656EA 0004
+#Tower of Druaga Infinite Time (Both Players)	
+8015E4B8 4E20
+#Tower of Druaga Infinite Keys (Both Players)	
+8015E584 0001
+#Tower of Druaga Infinite Credits	
+8015E4D4 0009
+

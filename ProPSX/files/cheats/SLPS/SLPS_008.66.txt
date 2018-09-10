@@ -1,0 +1,4 @@
+#Infinite Step
+80080BE0 0000
+#Infinite Time
+80080AF4 135D

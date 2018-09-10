@@ -1,0 +1,24 @@
+#Unlimited Shield
+8011390C 0320
+#Unlimited Power
+80113858 0000
+#Unlimited Fuel
+8011380E 001C
+#Unlimited Laser
+80113864 0000
+#Unlimited Photon Cannon
+80113870 0001
+#Unlimited Induction
+80113874 012C
+#Unlimited Gatling Gun
+8011387A 0001
+#Unlimited Hs3096
+8011386C 000A
+#Unlimited Plasma Rockets
+8011386E 012B
+#Unlimited Srl Zero
+80113872 0014
+#Unlimited Emp-83C
+80113876 0014
+#Unlimited Flame Cloud
+80113878 0001

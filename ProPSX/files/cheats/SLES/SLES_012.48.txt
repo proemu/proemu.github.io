@@ -1,0 +1,4 @@
+#Always First Place
+80086A88 0001
+#Have 9999 points
+800836F4 270F

@@ -1,0 +1,11 @@
+#Unendlich Energie
+8005D44C 0032
+#Unendlich Munition
+8005D43C 0190
+#Unendlich Zeit
+8005D48C 04B0
+#Unendlich Item 1
+3007 0A73 0009
+#Unendlich Item 2
+3007 0A75 0009
+

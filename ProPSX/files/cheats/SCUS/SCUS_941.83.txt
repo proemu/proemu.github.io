@@ -1,0 +1,11 @@
+#Always Be Rappin Cool
+801C368E 0000
+#Aways Score 999 Points
+801C3670 03E7
+#KT & The Sunny Funny Band Unlocked
+30087B92 0001
+#All Stages Unlocked
+30087B92 0001
+50000602 0000
+30087B86 0003
+

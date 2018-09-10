@@ -1,0 +1,10 @@
+#Easy Win Player 1
+3009D4A2 000F
+E009D4A2 000F
+3009D3DF 000E
+#First Person To A Flag Wins
+3009D4A2 0001
+#Infinite Bonus Level Time
+800912B8 FFFF
+#Infinite Magic
+8009D3D2 000F

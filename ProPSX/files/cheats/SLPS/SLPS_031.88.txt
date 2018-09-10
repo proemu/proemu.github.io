@@ -1,0 +1,10 @@
+#Infinite Credits  	
+8002C546 2400
+#Infinite Health 	
+8001E83E 2400
+#Infinite Time 	
+80022BDA 2400
+#No Reload 	
+8001E516 2400
+#Overall Time Is 0:00:00 	
+80022C76 2400

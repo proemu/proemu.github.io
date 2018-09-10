@@ -1,0 +1,21 @@
+#Infinite Energy P1
+30097428 007F
+#Infinite Energy P2
+30097540 007F
+#Emotion P1
+80097448 5F5F
+#Emotion P2
+80097560 5F5F
+#Stop Character Select Timer
+D01FFF68 0013
+801FFF68 0014
+#Enable All Secret Characters In Vs. Mode
+80081A68 FFFF
+80081A6A 00FF
+#stage jump 1P
+300973FF 0000
+#2P strength zero Press L2
+D00821D0 0001
+30097540 0000
+#2P strength zero 
+30097540 0000

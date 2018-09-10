@@ -1,0 +1,32 @@
+#Infinite Energy-Capsules
+80123F1C 0001
+8012440C 0001
+#Infinite Plasma
+8012397E 0005
+#Infinite Rockets
+80123AE6 0005
+#Infinite Mega Blast
+80123DB6 0001
+#Infinite Health	
+800AD13A 0000
+#No Blue Energy (Radiation)		
+800AD146 0000
+#Have all keys	
+30123F1C 0001
+30124628 0001
+#Have Clones	
+301238C0 0001
+#Invulnerable	
+800AD1FE 0100
+#Level Select Hangar Press X at Password-Screen		
+D00AD70E 0000
+300AD70E 0004
+#Level Select Jail Press X at Password-Screen	
+D00AD70E 0000
+300AD70E 0001
+#Level Select Laboratory Press X at Password-Screen	
+D00AD70E 0000
+300AD70E 0003
+#Level Select Temple Press X at Password-Screen	
+D00AD70E 0000
+300AD70E 0002

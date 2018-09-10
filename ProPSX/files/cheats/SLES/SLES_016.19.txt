@@ -1,0 +1,22 @@
+#Unlimited Health
+800D79BA 4DE0
+#Infinite Armor
+800D7BBC 1120
+#Infinite Jet Pac
+D00D7CE0 0000
+800D7CE0 0001
+800D7CE2 7777
+#Have Biomask
+800D7CE4 0001
+#Infini Biomask
+800D7CE6 7FFF
+#Have Medikits
+800D7CF0 0001
+#Infini Medikits
+800D7CF2 7FFF
+#Have Goggle
+800D7CE8 0001
+#Infini Goggle
+800D7CEA 7FFF
+#Have A Transport Room Id
+800D7CF8 0001

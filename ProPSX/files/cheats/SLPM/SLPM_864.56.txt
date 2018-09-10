@@ -1,0 +1,10 @@
+#Infinite Lives
+800C98FA 0063
+#Infinite Bombs
+800ED7DE 0063
+#Another Mission Infinite Gold Press L1
+D00D4428 0400
+800FF484 6FFF
+#Start in Last Level
+D00ED634 0000
+800ED634 0005

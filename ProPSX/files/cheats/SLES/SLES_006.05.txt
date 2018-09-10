@@ -1,0 +1,9 @@
+#P1 throws 99 stones to other P2 	
+301BA366 0063
+301BA536 0063 		
+#P1 Press L2 For Instant Win 	
+D01CAD2A 0001
+801BA366 0046 		
+#Open All Prizes, Modes 
+50001102 0000
+8017C5F8 FFFF

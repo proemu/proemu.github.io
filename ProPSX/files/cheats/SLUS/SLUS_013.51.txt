@@ -1,0 +1,14 @@
+#Extra Lives
+80091960 0001
+#Infinite Health
+80095AD0 00FF
+80095AD2 2402
+80095AD4 00BC
+80095AD6 A482
+#Infinite Lives
+800919C6 2400
+#Infinite Special
+8009C616 2400
+#Infinite Time
+800C9B1E 0FFF
+

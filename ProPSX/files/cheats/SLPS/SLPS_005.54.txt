@@ -1,0 +1,6 @@
+#Infinite Bomb
+8019B9F4 0003
+#Infinite Hp
+8019BC50 003E
+#Infinite Extra
+8019B858 2B00

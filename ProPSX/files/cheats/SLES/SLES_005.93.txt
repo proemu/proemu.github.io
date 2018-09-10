@@ -1,0 +1,14 @@
+#100 Diamonds
+80074BC0 0064
+#Infinite Lives
+80075234 00FF
+#Six Gobbos Found
+80074BC8 0006
+#Five Coloured Crystals Found
+80074D24 001F
+#Invincible Croc
+8007C486 FFF1
+#Invisible Croc
+8007C486 0002
+#Level Select (.?00-FF Insert the levelnumber in hex. For instance 00 warps you to Level 1, 01 to Level 2, 0A to Level 11 and so on)
+8007542C 0001

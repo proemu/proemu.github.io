@@ -1,0 +1,9 @@
+#Have 10000 Points
+800A24AC 2710
+#No Penalties For Missing Gates
+800A26BA 6300
+#Unlock All Mountains, Boards And Riders
+800679F4 0005
+#Each trick is worth 4000 points	
+8002 F2FC 0FA0
+8002 F2FE 2407

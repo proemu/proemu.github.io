@@ -1,0 +1,16 @@
+#Money Code
+8014873C FFFF
+#Full Stamina
+800100EA 077F
+#P1 Has All Animals	
+80148736 FFFF		
+#Infinite Time: Bonus Round	
+8014AB20 0C69		
+#Max GB in Bonus Round	
+80148894 03E7
+#Lap 1 is 0:00:00	
+8014AB20 0000		
+#Lap 2 is 0:00:00	
+8014AB24 0000		
+#Lap 3 is 0:00:00	
+8014AB28 0000

@@ -1,0 +1,17 @@
+#Infinite Checkpoint Time
+8009103C 0000
+#Always Place First
+80130994 0001
+#Perfect Score In Half Pipe
+8009A868 5555
+8009A87C 5555
+8009A882 5555
+8009A880 5555
+#Extra Boards
+80057102 0007
+#Extra Tracks
+800570FC 000A
+#Enable Extra Characters
+80057100 FFFF
+#Mirror Mode
+80057104 0001

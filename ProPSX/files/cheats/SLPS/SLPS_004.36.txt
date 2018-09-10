@@ -1,0 +1,28 @@
+#Tiger Heli\Infinite Bombs Player 1
+8008CD70 02FF
+#Tiger Heli\Infinite Helis Player 1
+8008CD7A 010F
+#Kyukyoku Tiger\Maximum Shot Player 1
+800917A2 0028
+#Kyukyoku Tiger\Infinite Bombs Player 1
+800917A4 0007
+#Kyukyoku Tiger\Shotgun Only Player 1
+800917B2 0058
+#Kyukyoku Tiger\Infinite Helis Player 1
+800D8D00 000A
+#Twin Cobra\Maximum Shot Player 1
+80093A42 0028
+#Twin Cobra\Infinite Bombs Player 1
+80093A44 0007
+#Twin Cobra\Shotgun Only Player 1
+80093A52 0058
+#Twin Cobra\Infinite Helis Player 1
+800DB448 000A
+#Twin Cobra\Maximum Shot Player 2
+8009030A 0028
+#Twin Cobra\Infinite Bombs Player 2
+8009030C 0007
+#Twin Cobra\Shotgun Only Player 2
+8009031A 0058
+#Twin Cobra\Infinite Helis Player 2
+80098F18 000A

@@ -1,0 +1,21 @@
+#HaveABA Ball 	
+300AE4DD 0001 		
+#Have West Coast Court 	
+300AE4F8 0001 		
+#Have New 1-On-1 Uniform 	
+300AE4F9 0001 		
+#Have Rewards Expansion 	
+300AE4FA 0001 		
+#Have Michael Jordan 	
+300AE4F1 0001 		
+#Have New Music Track 	
+300AE4FB 0001	
+#Home Team Score 100	
+800A8A10 0064
+#Home Team Score 0	
+800A8A10 0000
+#Away Team Score 100	
+800A9064 0064
+#Away Team Score 0	
+800A9064 0000
+

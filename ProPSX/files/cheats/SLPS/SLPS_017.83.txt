@@ -1,0 +1,39 @@
+#SPEED Always 120km / h Press R1 
+D009AAFE 0008 
+800A367A 4140 
+#SPEED Always 120km / h 
+800A367A 4140 
+#Full Tank of Gasoloine 
+300A3658 0078 
+#Not reduce gasoline 
+D0108718 FFFF 
+80108718 0000 
+#It does not advance even more time sleeping 
+D0025110 0321 
+80025110 0000 
+D0025112 A385 
+80025110 0000 
+#All Map	
+300A34EF 00FF
+#Organizer / characters	
+300A350F 00FF	
+#Organizer / phone number	
+300A350F 00FF
+#Infinite Combat strength  Player	
+300A3774 0078
+#Combat strength Enemy 0	
+300A3776 0000	
+#Damage number of times in combat / enemies and bear	
+30107854 0009	
+#Combat / physical fitness of the bear	
+30107857 0064
+#Combat / stamina gauge and bear	
+30107858 0064	
+#Combat / No physical fitness of the bear	
+30107857 0000
+#Combat / No stamina gauge and bear	
+30107858 0000
+#The number of combat / bullet and bear	
+300A36D8 0007
+#DaY 7 END OF GAME	
+300A373C 0007

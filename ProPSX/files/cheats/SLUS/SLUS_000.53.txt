@@ -1,0 +1,29 @@
+#Inf Energy Skeet Shoot
+80067C10 0007
+#Inf Shooting Skeet Shoot (.enter the #NEMROSIM# as your name.Then while playing the game, pause and select#Load# to view the passwords for any level and to start at that point. The master code will also allow difficulty level 1 to be chosen for both Arcade and Puzzle modes. The master code will also allow the game to be uncensored. This is most notable in level 22 (SLICEOMATIC).)
+80067C0C FF64
+#Inf Energy And Shooting All Flying
+80068334 0190
+#Kill All Viruses (With this code, the percent still changes, but it will kill the virus when you go all the way through it!)
+8006832C 0009
+#Open All Levels
+30052DB4 0001
+30052DB5 0001
+30052DB6 0001
+30052DB7 0001
+30052DC1 0001
+30052DC2 0001
+30052DC3 0001
+30052DC4 0001
+30052DC5 0001
+30052DC8 0001
+30052DC9 0001
+30052DCA 0001
+30052DCB 0001
+30052DCC 0001
+30052DCD 0001
+#Enable Easy Arcade & Easy Puzzle Levels
+80067E14 0000
+80067E16 0000
+
+

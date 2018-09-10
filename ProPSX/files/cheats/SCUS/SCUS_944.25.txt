@@ -1,0 +1,237 @@
+#Infinite Health
+8006A248 0003
+#Infinite Lives
+8006712C 0004
+#Have Swim/Dive Learned
+80064682 0001
+#Have Climb Learned
+80064686 0001
+#Have Headbash Learned
+8006468A 0001
+#Max Gems
+800670CC FFFF
+#Max Orbs
+3006702C 00FF
+#Flying Spyro .Press Up+X
+D00683A0 1040
+3006A08D 000F
+#Have Spit Fire Breath
+D00683A0 0020
+3006A1C9 000F
+#Enable Summer Forest
+3006B084 0001
+#Enable Glimmer
+3006B085 0001
+#Enable Idol Springs
+3006B086 0001
+#Enable Clossus
+3006B087 0001
+#Enable Hurricos
+3006B088 0001
+#Enable Aquaria Towers
+3006B089 0001
+#Enable Sunny Beach
+3006B08A 0001
+#Enable Ocean Speedway
+3006B08B 0001
+#Enable Crush's Dungeon
+3006B08C 0001
+#Enable Autumn Plains
+3006B08D 0001
+#Enable Skelos Badlands
+3006B08E 0001
+#Enable Crystal Glacier
+3006B08F 0001
+#Enable Breeze Harbor
+3006B090 0001
+#Enable Zephyr
+3006B091 0001
+#Enable Metro Speedway
+3006B092 0001
+#Enable Scorch
+3006B093 0001
+#Enable Shaddy Oasis
+3006B094 0001
+#Enable Magma Cone
+3006B095 0001
+#Enable Fracture Hills
+3006B096 0001
+#Enable Icy Speedway
+3006B097 0001
+#Enable Gulp's Overlook
+3006B098 0001
+#Enable Winter Tundra
+3006B099 0001
+#Enable Mystic Marsh
+3006B09A 0001
+#Enable Cloud Temples
+3006B09B 0001
+#Enable Canyon Speedway
+3006B09C 0001
+#Enable Robotica Farms
+3006B09D 0001
+#Enable Metropolis
+3006B09E 0001
+#Enable Riptor's Arena
+3006B0A0 0001
+#Unlock All Levels
+50000F02 0000
+8006B084 0101
+#World 1-Have All Gems
+50000804 0000
+8006AC04 0190
+#World 1-Have All Orbs
+50000402 0000
+80069FD0 0F0F
+#World 1-Have All Tailsman
+50000402 0000
+8006B264 0101
+#World 2-Have All Gems
+50000B04 0000
+8006AC28 0190
+#World 2-Have All Orbs
+50000602 0000
+80069FD8 0F0F
+#World 2-Have All Tailsman
+50000502 0000
+8006B26E 0101
+#World 3-Have All Gems
+50000604 0000
+8006AC58 0190
+#World 3-Have All Orbs
+50000402 0000
+80069FE4 0F0F
+#World 1\Summer Forest Codes\Have All Gems
+8006AC04 0190
+#World 1\Summer Forest Codes\Have All Orbs
+30069FD0 000F
+#World 1\Glimmer Codes\Have All Gems
+8006AC08 0190
+#World 1\Glimmer Codes\Have All Orbs
+30069FD1 000F
+#World 1\Glimmer Codes\Have Magic Pick Tailsman
+3006B265 0001
+#World 1\Idol Springs Codes\Have All Gems
+3006AC0C 0190
+#World 1\Idol Springs Codes\Have All Orbs
+30069FD2 000F
+#World 1\Idol Springs Codes\Have Jade Idol Tailsman
+3006B266 0001
+#World 1\Colossus Codes\Have All Gems
+8006AC10 0190
+#World 1\Colossus Codes\Have All Orbs
+30069FD3 000F
+#World 1\Colossus Codes\Have Golden Statue Tailsman
+3006B267 0001
+#World 1\Hurricos Codes\Have All Gems
+8006AC14 0190
+#World 1\Hurricos Codes\Have All Orbs
+30069FD4 000F
+#World 1\Hurricos Codes\Have Gear Of Power Tailsman
+3006B268 0001
+#World 1\Aquaria Towers Codes\Have All Gems
+8006AC18 0190
+#World 1\Aquaria Towers Codes\Have All Orbs
+30069FD5 000F
+#World 1\Aquaria Towers Codes\Have Enchanted Shell Tailsman
+3006B269 0001
+#World 1\Sunny Beach Codes\Have All Gems
+8006AC1C 0190
+#World 1\Sunny Beach Codes\Have All Orbs
+30069FD6 000F
+#World 1\Sunny Beach Codes\Have Turtle Medallion Tailsman
+3006B26A 0001
+#World 1\Ocean Speedway Codes\Have All Gems
+8006AC20 0190
+#World 1\Ocean Speedway Codes\Have All Orbs
+30069FD7 000F
+#World 2\Autumn Plains\Have All Gems
+8006AC28 0190
+#World 2\Autumn Plains\Have All Orbs
+30069FD9 000F
+#World 2\Skelos Badlands\Have All Gems
+8006AC2C 0190
+#World 2\Skelos Badlands\Have All Orbs
+30069FDA 000F
+#World 2\Skelos Badlands\Have Ancient Bone Tailsman
+3006B26E 0001
+#World 2\Crystal Glacier\Have All Gems
+8006AC30 0190
+#World 2\Crystal Glacier\Have All Orbs
+30069FDB 000F
+#World 2\Crystal Glacier\Have Ice Crystal Tailsman
+3006B26F 0001
+#World 2\Breeze Harbor\Have All Gems
+8006AC34 0190
+#World 2\Breeze Harbor\Have All Orbs
+30069FDC 000F
+#World 2\Breeze Harbor\Have Glass Anchor Tailsman
+3006B270 0001
+#World 2\Zephyr\Have All Gems
+8006AC38 0190
+#World 2\Zephyr\Have All Orbs
+30069FDD 000F
+#World 2\Zephyr\Have Bomb Tailsman
+3006B271 0001
+#World 2\Metro Speedway\Have All Gems
+8006AC3C 0190
+#World 2\Metro Speedway\Have All Orbs
+30069FDE 000F
+#World 2\Scorch\Have All Gems
+8006AC40 0190
+#World 2\Scorch\Have All Orbs
+30069FDF 000F
+#World 2\Scorch\Have Emerald Scarab Tailsman
+30069273 0001
+#World 2\Shaddy Oasis\Have All Gems
+8006AC44 0190
+#World 2\Shaddy Oasis\Have All Orbs
+30069FE0 000F
+#World 2\Shaddy Oasis\Have Mystic Lamp Tailsman
+3006B274 0001
+#World 2\Magma Cone\Have All Gems
+8006AC48 0190
+#World 2\Magma Cone\Have All Orbs
+30069FE1 000F
+#World 2\Magma Cone\Have Volcano Idol Tailsman
+3006B275 0001
+#World 2\Fracture Hills\Have All Gems
+8006AC4C 0190
+#World 2\Fracture Hills\Have All Orbs
+30069FE2 000F
+#World 2\Fracture Hills\Have Bronze Flute Tailsman
+3006B276 0001
+#World 2\Icy Speedway\Have All Gems
+8006AC50 0190
+#World 2\Icy Speedway\Have All Orbs
+30069FE3 000F
+#World 3\Winter Tundra\Have All Gems
+8006AC58 0190
+#World 3\Winter Tundra\Have All Orbs
+30069FE5 000F
+#World 3\Mystic Marsh\Have All Gems
+8006AC5C 0190
+#World 3\Mystic Marsh\Have All Orbs
+30069FE6 000F
+#World 3\Cloud Temples\Have All Gems
+8006AC60 0190
+#World 3\Cloud Temples\Have All Orbs
+30069FE7 000F
+#World 3\Canyon Speedway\Have All Gems
+8006AC64 0190
+#World 3\Canyon Speedway\Have All Orbs
+30069FE8 000F
+#World 3\Robotica Farms\Have All Gems
+8006AC68 0190
+#World 3\Robotica Farms\Have All Orbs
+30069FE9 000F
+#World 3\Metropolis\Have All Gems
+8006AC6C 0190
+#World 3\Metropolis\Have All Orbs
+30069FEA 000F
+#World 3\More Misc. Codes\Big Head
+300698BE 0001
+#World 3\More Misc. Codes\Flat Mode
+300698BF 0001
+#World 3\More Misc. Codes\All Abilities
+300698B0 0001

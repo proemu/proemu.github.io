@@ -1,0 +1,76 @@
+#Infinite Energy
+800A6F94 03E8
+801BB576 03E8
+#Inf Energy Level 2
+800A6F94 03E8
+801C9A12 03E8
+#Infinite Air
+800AB2CE 0708
+#Infinite large medipacks
+800AB3FE 0009
+#Infinite energy Burial Chambers Level
+801C3118A 03E8
+#Infinite energy Valley of the Kings Level
+801B51FA 03E8
+#Infinite energy KV5 Level
+801C258E 03E8
+#Infinite energy Temple of Karnak Level
+801D2446 03E8
+#Infinite energy The Great Hypostyle Hall Level
+801CEFF6 03E8
+#Infinite energy Secret Lake Level
+801B36D2 03E8
+#Infinite energy Tomb of Semerketh Level
+801D3C6E 03E8
+#Infinite energy Guardian of Semerkhet Level
+801AC2A6 03E8
+#Infinite energy Desert Railroad Level
+801BB83A 03E8
+#Infinite energy Alexandria Level
+801B8EF2 03E8
+#Infinite energy Coastal Ruins Level
+801CF2A6 03E8
+#Infinite energy Pharos, Temple of Isis Level
+801CA02E 03E8
+#Infinite energy Cleopatra's Palaces Level
+801C4D9A 03E8
+#Infinite energy Catacombs
+801CA6C6 03E8
+#Infinite energy Temple of Poseidon
+801C0762 03E8
+#Infinite energy The Lost Library
+801DDB76 03E8
+#Infinite energy Bovedas de la Biblioteca
+801B6262 03E8
+#Infinite energy City of the Dead
+801CBA86 03E8
+#Infinite energy Trenches
+801CF96A 03E8
+#Infinite energy Chambers of Tulun
+801D0FBE 03E8
+#Infinite energy Street Bazaar
+801C2DEE 03E8
+#Infinite energy Citadel Gate
+801CF9C6 03E8
+#Infinite energy Citadel
+801D922E 03E8
+#Infinite energy The Sphinx Complex
+801C1A3E 03E8
+#Infinite energy Underneath the Sphinx
+801CFC92 03E8
+#Infinite energy Menkaure's Pyramid
+801BD7DA 03E8
+#Infinite energy Inside Menkaure's Pyramid
+801D5BAE 03E8
+#Infinite energy The Mastabas
+801D235E 03E8
+#Infinite energy The Great Pyramid
+801C5046 03E8
+#Infinite energy Khufu's Queens Pyramids
+801D4E52 03E8
+#Infinite energy Inside The Great Pyramid
+801C8DCA 03E8
+#Infinite energy Temple of Horus
+801CE0CE 03E8
+#Infinite energy Temple of Horus - Final Battle
+801C4C1A 03E8

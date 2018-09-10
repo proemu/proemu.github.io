@@ -1,0 +1,9 @@
+#Infinite Health 	
+8014C194 0005 
+8014C19E 0200 		
+#Time Always 0 Enable when you start the level
+80101CD4 0000
+#Infinite Money 	
+80101C0C 423F
+80101C0E 000F
+

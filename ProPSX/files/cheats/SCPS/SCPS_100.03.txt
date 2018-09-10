@@ -1,0 +1,15 @@
+#Infinite & Max Health Character 1 (Brown Hair Girl)
+80010264 03E7
+80010266 03E7
+#Infinite & Max Health Character 2 (Bull)
+8001027A 03E7
+8001027C 03E7
+#Infinite & Max Health Character 3 (Blonde Girl)
+80010290 03E7
+80010292 03E7
+#Infinite Gun Bullets
+8001002C 012C
+#Infinite Bombs
+80010030 0003
+#Infinite Gold
+80010040 270F

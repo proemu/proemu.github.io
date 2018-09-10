@@ -1,0 +1,8 @@
+#Always place first	
+8009EBC0 0001
+#Max cash	
+800974C8 FFFF
+#Unlock all tracks & boats
+50000602 0000
+800A30A4 0000
+300A30B0 0000

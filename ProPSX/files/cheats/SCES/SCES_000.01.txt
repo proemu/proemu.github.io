@@ -1,0 +1,20 @@
+#Black Car 	
+800856D2 000C 		
+#Infinite time 	
+80136198 099F 		
+#More Speed 	
+80085770 07FF
+#Enable Extra Tracks 	
+8017C91C 00FF
+#Start On Last Lap/Quick Finish
+E20857A4 0002
+800857A4 0003
+#Beginner Levelselect extra	
+80085684 0005
+#Mid-level select extra	
+80085684 0006
+#High-level select extra	
+80085684 0007
+#TT level select extra	
+80085684 0008
+

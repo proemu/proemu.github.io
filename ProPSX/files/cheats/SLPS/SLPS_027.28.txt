@@ -1,0 +1,75 @@
+#Infinite Money
+80112D80 9671
+80112D82 0098
+#Quick Level Up
+80115F48 FFFF
+80115F4A 7FFF
+#HP largest piece of life 
+D01AACEA 2442 
+801AACE8 270F 
+#AP largest piece of magic 
+D01AAD1E 2462 
+801AAD1C 03E7 
+##Infinite & Max HP Ryu
+80112960 270F
+801129B8 270F
+#Infinite & Max AP Ryu
+80112964 03E7 
+801129BC 03E7 
+#Infinite Ap When Ryu Transforms To A Dragon
+D01D8FEE 8CC2
+801D8FEE 8CC0
+#I filled all skill list 
+801135C8 FFFF 
+801135CA FFFF 
+801135CC FFFF 
+801135CE FFFF 
+801135D0 FFFF 
+#Get All Dragon Liu 
+801138D8 0001 
+801138DE 0001 
+801138E4 0001 
+801138EA 0001 
+801138F0 0001 
+801138F6 0001 
+#Infinite & Max HP dragon Aura 
+801138DA 270F 
+801138DC 270F 
+#Infinite & Max HP dragon Kaiser 
+801138E0 270F 
+801138E2 270F 
+#Infinite & Max HP dragon Wyburn 
+801138E6 270F 
+801138E8 270F 
+#Infinite & Max HP dragon Warrior 
+801138EC 270F 
+801138EE 270F 
+#Infinite & Max HP dragon Behemosu 
+801138F2 270F 
+801138F4 270F 
+#Infinite & Max HP dragon Hen'na  
+801138F8 270F  
+801138FA 270F 
+#No Random Battles
+D01D734A 2483 
+801D7348 0000 
+#Maximum level after the end of combat 
+D01CD026 1040 
+801CD024 0001 
+#Save at any time 
+D01AA422 1462 
+801AA422 1000 
+#Save anywhere Item is still gray, but I can save 
+D01AA420 0005 
+801AA422 1000 
+#HP all recovery When you open the menu screen 
+D01B19C8 001B 
+801B19D0 0014 
+D01B19C8 001B 
+801B19D2 AE43 
+#AP all recovery When you open the menu screen 
+D01B19C8 001B 
+801B1A1C 0018 
+D01B19C8 001B 
+801B1A1E AE43 
+

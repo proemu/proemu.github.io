@@ -1,0 +1,9 @@
+#Infinite Time
+800E9B30 FFFF
+#Infinite Ammo
+800E9B48 0005
+#Start On Last Stage
+D006ECCC 0000
+8006ECCC 0007
+#Unlock Photo Gallery
+800D2BEC 0004

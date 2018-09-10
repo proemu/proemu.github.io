@@ -1,0 +1,12 @@
+#Infinite energy in battle Haru Glory  
+80115A16 03E7 
+#Infinite energy in battle Shuda  
+8011595E 03E7 
+#Infinite energy in battle Elie  
+80115ACE 03E7 
+ACTION REPLAY CODES:
+#Infinite Gold  
+800F1628 967F
+800F162A 0098 
+#No random battles  
+800F1A56 0000 

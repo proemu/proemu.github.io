@@ -1,0 +1,5 @@
+#Infinite Ball 	
+8009D684 FFFF 
+8009D685 FFFF
+#Super reach number	
+8009D6B4 0004

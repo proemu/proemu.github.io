@@ -1,0 +1,33 @@
+#Infinite Money (60000)
+8009B4EC EA60
+#Infinite Energy Players Character In Battle
+800CE842 03E7
+#Infinite Mp Players Character In Battle
+800CE844 03E7
+#Infinite Energy Players Character In Menu
+800CDFA2 03E7
+800CDFA6 03E7
+#Infinite Mp Players Character In Menu
+800CDFA4 03E7
+800CDFA8 03E7
+#Reliability Max 1 Person	
+300CDFB0 0063
+#Reliability Max 2 Person	
+300CDFB1 0063
+#Reliability Max 3 person	
+300CDFB2 0063
+#Reliability Max 4 person
+300CDFB3 0063
+#Heroic gauge	
+8009B4E8 03E7
+Possession GOLD	
+8009B4EC 869F 
+8009B4EE 0001
+#Number of roulette	
+3009B5A8 0006
+#Damage caused during combat Max	
+800AEC32 03E7
+#All Profiles	
+800CD4FF FFFF	
+#All Event	
+300CDFFF 00FF

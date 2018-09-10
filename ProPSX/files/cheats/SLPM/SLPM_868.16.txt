@@ -1,0 +1,7 @@
+#Have 999999 coins
+80056EBC 423F
+80056EBE 000F
+#Player 1 has 99 hits in story mode Level 1
+8014E72C 0063
+#Player 2 has 99 hits in story mode Level 1
+8014E730 0063

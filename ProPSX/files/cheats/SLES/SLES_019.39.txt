@@ -1,0 +1,24 @@
+#Unendlich Leben
+80013352 3C00
+#Unendlich Energie
+8001326E 3C00
+#Unendlich Monde
+8003280E 3C00
+#Unendlich Luft
+8002B8CE 3C00
+#Unendlich KostüMzeit
+8002C452 3C00
+#99 ZahnräDer
+800B4DD6 0063
+#Unendlich Zeichen
+800B4DE0 0063
+#Alle TraumschlüSsel
+50000C02 0000
+80094CC8 FFFF
+#Alle Level GeöFfnet
+50000202 0000
+80093CC2 FFFF
+#Alle Winks
+50000302 0000
+80094CB8 FFFF
+

@@ -1,0 +1,7 @@
+#Infinite energy
+801A6BC8 0032
+#Infinite MP
+801A6BCA 0022
+#Have 99999 money
+801A6BD0 869F
+801A6BD2 0001

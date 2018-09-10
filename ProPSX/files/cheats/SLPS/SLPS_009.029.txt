@@ -1,0 +1,20 @@
+#Arcade Mode Infinite Bullets P1		
+800AC9C8 0063
+#Arcade Mode Infinite Lives P1		
+800B6B4C 0008
+#Arcade Mode Infinite Lives P2		
+800B6B4E 0008
+#Arcade Mode Infinite Time	
+800AC9E4 0016
+800A2E06 FFFF
+#RPG Mode All Status Are Available		
+800AC9EC 03E7
+800A2DF8 03E7
+800A2E00 03E7
+800C1E2C 03E7
+#RPG Mode Infinite Money		
+800A3684 423F
+800A3686 000F
+#RPG Mode Max EXP		
+800B6ED0 FFF6
+800B6ED2 0009

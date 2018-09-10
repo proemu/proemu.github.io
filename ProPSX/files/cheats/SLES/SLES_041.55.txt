@@ -1,0 +1,7 @@
+#Lives
+800A274C 0009
+#Health
+800A276C 0064
+#Machinegun Ammo And Granades
+800A2776 0063
+800A277E 0063

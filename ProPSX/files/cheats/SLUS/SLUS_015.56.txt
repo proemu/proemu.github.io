@@ -1,0 +1,16 @@
+#Always On Lap 3 	
+8006B764 0003	
+#Always On Lap 4 	
+8006B764 0004	
+#Always On Lap 5 	
+8006B764 0005 
+#Always On Lap 6 	
+8006B764 0006
+#Max Points 	
+800812B4 001B 		
+#Open All Cups 	
+80081134 00FF 		
+#Unlock Chloe 	
+800755C0 0001 	
+#Unlock Picasso 	
+80075638 0001

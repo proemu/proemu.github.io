@@ -1,0 +1,33 @@
+#End of a combat Gil MAX
+8016509A 1400
+#After the end of a combat experience all MAX
+80165612 1400
+#Level-up maximum HP / Max MP MAX
+8016607A 1400
+#Level-up ability MAX
+80165CF6 1400
+80165D92 1400
+#No Random Battles
+800D0686 0000
+#Experience value MAX in combat once 
+D0165610 000D 
+80165610 0001 
+#Money in MAX in the battle of once 
+D0165098 000D 
+80165098 0001 
+#(Encounter When you press the L2) does not go out Zako enemy 
+300D0686 0000 
+D01FDB76 FEFF 
+300D0685 0001 
+#Enemies HP1 
+80156500 D98B 
+80156504 0001 
+80156518 D98B 
+8015651C 0000 
+#Does not decrease during movement MP 
+80131FF0 D98B 
+80131FF4 0000 
+#HP all recovery recovery magic once moving 
+80131668 0001 
+#Save anywhere 
+300D1A02 0008 

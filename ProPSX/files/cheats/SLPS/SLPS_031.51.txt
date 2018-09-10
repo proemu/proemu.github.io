@@ -1,0 +1,2 @@
+#Infinite Hp in Fortress attack
+80161F1E 0064

@@ -1,0 +1,9 @@
+#Infinite energy character 1  
+80099406 03E7
+80099404 03E7 
+#Infinite energy Gazel  
+80099446 03E7
+80099444 03E7 
+#Infinite money (60000)  
+80097AC4 EA60 
+ 

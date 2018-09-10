@@ -1,0 +1,14 @@
+#Infinite Money
+80129BCC 869F
+80129BCE 0001
+#Infinite Energy Pet 1
+801EF52E 03E7
+80130C88 03E7
+#All illustrations 
+5000B401 0000 
+30170641 0002 
+#Command of the into a friend can be selected Infinite Times
+30152D70 0000 
+30153358 0000 
+#Star Stone 99 
+30129BD4 0063 

@@ -1,0 +1,53 @@
+#Infinite Energy
+80071A20 0000
+80071A22 0000
+#Have Silver Key
+300AA848 0001
+#Have Silver Key 2
+300AA849 0001
+#Have Small Silver Key
+300AA84A 0001
+#Have Keys On A Ring
+300AA84B 0001
+#Have Dynamite
+300AA84C 0001
+#Have Clippers
+300AA84D 0001
+#Have Silver Key 3
+300AA84E 0001
+#Walk Thru Walls
+D007C220 0059
+8007C222 1000
+#Debug Info
+300B92F0 0001
+#Level Select+Streamzone
+300B9300 0001
+8002639C 0001
+8002639E 2415
+#Infinite Health Codes\Level 1
+D01ABCD8 0000
+8018E518 0064
+#Infinite Health Codes\Level 2
+D01ABCD8 0001
+8018DF58 0064
+#Infinite Health Codes\Level 3
+D01ABCD8 0002
+8018CFB0 0064
+#Infinite Health Codes\Level 4
+D01ABCD8 0003
+8018EEE8 0064
+#Infinite Health Codes\Level 5
+D01ABCD8 0004
+8018DF98 0064
+#Infinite Health Codes\Level 6
+D01ABCD8 0005
+8018EC30 0064
+#Infinite Health Codes\Level 7
+D01ABCD8 0006
+8018D448 0064
+#Infinite Health Codes\Level 8
+D01ABCD8 0007
+8018E178 0064
+#Infinite Health Codes\Level 9
+D01ABCD8 0008
+8018D998 0064

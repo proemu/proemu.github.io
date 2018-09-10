@@ -1,0 +1,21 @@
+#Infinite Energy Character 1 In Battle
+800E5504 03E7
+#Infinite Money 50000
+801C9B54 C350
+#Have 1000 Exp points in fighter job
+801CBD18 03E8
+#LV	
+301CA6E1 0002
+#No Random Battles
+8005C7A0 0000 
+8005C7A2 0000
+#During combat maximum Genki	
+800E5506 03E7
+#Combat stress	
+300E5508 0064
+#During combat tension	Max
+300E550A 0064
+#During combat balloon	Max
+300E5518 00FF
+#During combat opponent gauge 0
+800E55D0 0000

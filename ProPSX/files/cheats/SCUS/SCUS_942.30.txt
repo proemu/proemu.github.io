@@ -1,0 +1,29 @@
+#Inf hp in battle 1st character
+8001D824 03E7
+#Inf hp in battle 2nd character
+8001DA28 03E7 
+#Inf hp in battle 3rd character
+8001DC2C 03E7 
+#Inf hp in battle 4th character
+8001DE30 03E7
+#Inf hp in battle 5th character	
+8001DE34 03E7
+#Inf Magic In Battle
+83FE27C7 03E7
+#Inf Attack Points In  Battle
+83FE27CB 03E7
+#Inf Lp In Battle
+83FE27CF 0063
+#Infinite Credits 	
+80012808 967F
+8001280A 0098 		
+#ALL Regions Selectable On Region Map 	
+80012B7E 0000
+80012B80 0000
+#Have All Items 
+5000FF02 0001
+8001288C 6300
+#Hold L1+L2+R1+R2, Then Attack Virgil (The Ring Lord) In Riki's Scenario To Win The Fight		
+D012C008 000F
+3012C7EE 000A
+

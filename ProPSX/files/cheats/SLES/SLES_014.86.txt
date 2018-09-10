@@ -1,0 +1,4 @@
+#Infinite Money P1
+801D5CB6 0090
+#Infinite Money P2
+801D600A 0090

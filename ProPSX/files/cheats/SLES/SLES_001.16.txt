@@ -1,0 +1,6 @@
+#Player 2 Goals Always 0
+80016CD4 0000
+#Player 1 Goals Always 1
+80016CD2 000A
+#Infinite Time
+80016CC0 0000

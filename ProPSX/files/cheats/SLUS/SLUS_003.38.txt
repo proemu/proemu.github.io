@@ -1,0 +1,29 @@
+#Ceiling Never Falls
+800455B6 000A
+80045D76 FFFA
+800EE39C 0000
+800EE916 000A
+#No Timer
+800EE580 0001
+#City Modifier Puzzle Mode - Egypt		
+800EEBB0 0000 
+#City Modifier Puzzle Mode - Ankor Wat		
+800EEBB0 0001
+#City Modifier Puzzle Mode - Maya		
+800EEBB0 0002 
+#City Modifier Puzzle Mode - Knossos		
+800EEBB0 0003 
+#City Modifier Puzzle Mode - Uknown		
+800EEBB0 0004 
+#Have Stage Select (Pause Menu-Puzzle Game Only)
+D00EE964 0001
+300F35C8 001F
+#Puse (Pause?)
+800F2CEC 000F
+800F35C0 660E
+#Classic Mode Drop Pieces On Left Side To Clear Lines		
+D00A2EB8 8BA0
+800A2E88 0013
+#Puzzle Mode Drop Pieces On Left Side To Clear Lines		
+D00ADA88 B6AB
+800ADA58 0013

@@ -1,0 +1,24 @@
+#Konami Tennis Enemy score always 0
+8001E031 0000
+#Konami Soccer Enemy score always 0
+8001E0F6 0000
+#Konami  Rally infinite fuel
+8001E065 00FA
+#Comic Bakery Infinites Lives
+8001E050 0002
+#Pippols Infinites Lives
+8001E050 0002
+#King's Valley Infinites Lives
+8001E050 0004
+#Penguin  Adventure Infinites Lives
+8001E090 0004
+#Penguin  Adventure Infinite Time
+8001E08B 0190
+#Time Pilot Infinites Lives
+8001E002 0002
+#Parodius Infinites Lives
+8001E240 0003
+#Salamander Player 1 Infinites Lives
+8001E300 003
+#Salamander Player 2 Infinites Lives
+8001E380 003

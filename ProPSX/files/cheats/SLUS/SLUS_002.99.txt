@@ -1,0 +1,4 @@
+#Only One Shot Recorded
+800DEC44 0001
+#Shot's Score 2
+80028764 0002

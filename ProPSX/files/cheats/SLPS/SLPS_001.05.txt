@@ -1,0 +1,6 @@
+#Infinite credit 
+80074BA0 0005 
+#Infinite Bomb 
+800772D4 0003 
+#Invincibility 
+8007754A 0001

@@ -1,0 +1,25 @@
+#Infinite Lives Player 1
+80142DAA 0007
+#Infinite Lives Player 2
+80142E2A 0007
+#Inf. Special Attacks (P1)		
+80124156 0010
+#Inf. Special Attacks (P2)		
+80126E56 0010
+#Player 1 is Invincible		
+30123C56 00C0
+#Press R2 to Change Character In-Game (P1)		
+E0142C04 0002
+80142DA8 0001
+#Press R2 to Change Character In-Game (P2)		
+E0142C0C 0002
+80142E28 0001
+#Unlock Extras		
+C1000000 0000
+80142C3A 0001
+#Use Konami Code Endlessly (P1)		
+80142C40 0001
+#Use Konami Code Endlessly (P2)		
+80142C42 0001
+#Mission Perfect
+80142F20 0331

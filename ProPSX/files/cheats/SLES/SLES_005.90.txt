@@ -1,0 +1,15 @@
+#Infinite Time To Choose
+D013357A 023D
+8013357A 02FF
+D0133562 023D
+80133562 02FF
+#Infinite Time
+80133414 0675
+#Laptime = 0
+80132C54 0000
+#Passed Cars = 32
+80133594 0020
+#Turbo Boost Press R2 to activate
+D0132C08 0002
+80133376 02FF
+

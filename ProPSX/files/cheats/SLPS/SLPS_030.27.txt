@@ -1,0 +1,5 @@
+#Infinite money 99999
+80158B34 869F
+80158B36 0001
+#Infinite HP Character 1
+800F5588 0063

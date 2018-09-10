@@ -1,0 +1,11 @@
+#Inf. Lives
+80184500 0063
+#Invincible
+801844E0 000F
+#Max Stars
+801844E4 0063
+#Infinite Health
+8018457C 0003
+#Press L2 for Max HP
+E0184548 0001
+8018457C 0003

@@ -1,0 +1,48 @@
+#Infinite Health
+800A802E 2400
+#Infinite Energy
+8009F832 2400
+#Infinite Lives
+8009F31A 2400
+#Infinite Health Underground Recycling Plant (Body Split Battle Only!)		
+8010B126 000C
+D00716E8 1020
+800ACDBE AE42
+D00716E8 4020
+800ACDBE 2400
+#Infinite Teeny Weeny
+800A39CA 2400
+#Level Modifier	Dead River Canyon	
+800714FE 0000
+#Level Modifier	Mortar-Villa Airfield	
+800714FE 0001
+#Level Modifier	Underground Recycling Plant	
+800714FE 0002
+#Level Modifier	Raw Material Nano Mine	
+800714FE 0003
+#Level Modifier	Desert Robo-Train	
+800714FE 0004
+#Level Modifier	Nanometal Curing & Cooling Center	
+800714FE 0005
+#Level Modifier	The Nanometal Mountain	
+800714FE 0006
+#Level Modifier	Steel-Earth Plains	
+800714FE 0007
+#Level Modifier	Atmospheric Reduction Center	
+800714FE 0008
+#Level Modifier	Magneto Synchrotron Transporter	
+800714FE 0009
+#Level Modifier	Underground Recycling Plant	
+800714FE 000A
+#Level Modifier	The Frozen Lake	
+800714FE 000B
+#Level Modifier	Mount Mutank	
+800714FE 000C
+#Level Modifier	The Rail Gun Launcher	
+800714FE 000D
+#Level Modifier	Unknown	
+800714FE 000E
+#Level Modifier	The Maze (Final Mission)
+800714FE 000F
+#Level Modifier	 Mutank Slide	
+800714FE 0010

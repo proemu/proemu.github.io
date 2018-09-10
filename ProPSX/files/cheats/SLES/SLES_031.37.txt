@@ -1,0 +1,19 @@
+#Infinite Energy (.Don't use until the game start or it will broke the game)
+8016CBC5 0200
+#Infinite ammo PPK
+800B66C0 0063
+#Infinite ammo K99
+800B69A0 0063
+#Infinite ammo escopeta
+800B6A58 0002
+#All Cheats Unlocked
+8001F1BA 03FF
+#Unlock All Missions & Movies
+50000A01 0000 
+3001F325 0001
+#All FMV of Win the Stages
+50000A01 0000
+3001F330 0101
+#Unlock Secret Win Game Movie	
+8001F2DE 0002
+

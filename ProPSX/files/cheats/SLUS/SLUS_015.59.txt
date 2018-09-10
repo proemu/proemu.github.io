@@ -1,0 +1,11 @@
+#Infinite Energy Trollerut
+80164FBC 000A
+#100 Diamonds Trollerut
+80164FC0 0064
+#100 Diamonds Trollerit
+80163790 0064
+801C5B18 0064
+#Infinite Energy Trollerat
+80165E44 0005
+#100 Diamonds Trollerat
+80165E48 0064

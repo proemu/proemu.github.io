@@ -1,0 +1,23 @@
+#Max Blood Line
+801CAA76 0190
+#Lok Almost Invulnerable
+800A7EA4 0001
+#Save Anywhere (.Press O+X)
+D00A83C4 0060
+801CAAF8 2C00
+D00A83C4 0060
+801CAB04 0001
+#Lok Infinite Blood (With this code, you have to switch the effects down to die at the beginning and any other time you are supposed to die!! and you have to turn them downwhen you drink from a fountain.. otherwise there will be an infinite loop started until you shut the effects off!)
+801CAA74 0190
+801CAA76 0190
+#Lok Infinite Magic
+801CAA7A 0059
+#Have All Blood Fountain Power-Up Enhancements	
+801CAB28 0303
+801CAB2A 0101
+300A7D85 0001
+#Almost All Enemies Will Die or Be In Submission After One Hit
+500017A4 0000
+800B8728 FFFE
+500013A4 0000
+800B95E6 FFFE

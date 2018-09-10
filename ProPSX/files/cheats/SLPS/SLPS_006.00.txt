@@ -1,0 +1,28 @@
+#Max Speed 	
+8009DECE 03E7 	
+#Infinite Money 	
+8019BFB0 FFFF
+8019BFB2 00FF 		
+#Always Place first 	
+8009DEDC 0001 		
+#Loads of Race Credits 	
+801E371C 4236
+801E371E 0098 		
+#Loads of Race Credits (Extra GP) 	
+801E6500 9676
+801E6502 0098 		
+#Infinite Chances 	
+801E396A 0003 	
+#Unlock Extra GP 
+8019C168 0001 	
+#Infinite Chances (Extra GP) 	
+8009DF22 0003
+#Extra GP Race victory MYTHICAL COAST 
+3009DF1C 0001 
+#Extra GP Race victory OVER PASS CITY 
+3009DF1D 0001 
+#Extra GP Race victory LAKESIDE GATE 
+3009DF1E 0001 
+#Extra GP Race victory THE EXTREAM OVAL 
+3009DF1F 0001 
+

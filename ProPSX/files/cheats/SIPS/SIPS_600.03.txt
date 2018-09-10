@@ -1,0 +1,23 @@
+#Pickup Over Pickup
+8002D614 0000
+#Repeat Use Item
+80028E68 0000
+#Repeat Use Red Missile
+80028E1C 0000
+#Repeat Use Mine
+80028ED0 0000
+#Repeat Use Turbo
+8002908C 0000
+#Repeat Use Shield
+80028FB0 0000
+#Rapier mode 
+D01F701A 0001 
+801F701A 0101 
+#Rapier level 
+D01F701A 0101 
+801F7046 0101 
+#Race start infinite 
+D01F7014 0802 
+801F7014 0803 
+#Infinite Turbo 
+8002908C 0000

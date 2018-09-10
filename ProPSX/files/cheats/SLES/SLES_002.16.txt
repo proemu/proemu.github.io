@@ -1,0 +1,22 @@
+#Unverwundbar
+80087F32 0600
+#Unendlich Geld
+80085868 C350
+#Waffe ÜBerhitzt Nie
+80087F20 0000
+#Max Panzerung
+80085852 0006
+#Max Sams
+80085856 0004
+#Max Air Support
+8008585C 0001
+#Max Motor
+8008585E 0004
+#Max Tracks
+80085860 0004
+#Max Reload Mech
+80085862 0004
+#Max Ziel-Computer
+80085864 0004
+#Max KüHlung
+80085866 0004

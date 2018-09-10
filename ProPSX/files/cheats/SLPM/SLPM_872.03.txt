@@ -1,0 +1,6 @@
+#Infinite HP in battle  
+80151E94 03E7
+80151E96 03E7 
+#Have 99999 money  
+80159620 869F
+80159622 0001 

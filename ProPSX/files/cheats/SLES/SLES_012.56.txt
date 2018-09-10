@@ -1,0 +1,134 @@
+#Unendlich Health
+30127D44 0032
+#Max Health
+30127D48 0032
+#Unendlich Geld
+801EB834 270F
+#Unsichtbar
+80127EFC 0002
+#Alle SchlüSsel
+301EB934 0063
+301EB994 0001
+301EB99C 0001
+#Unendlich Magie
+301EB830 0004
+#Max Magie
+301EB832 0004
+#Besitze Weidenbogen
+301EB858 0001
+#Besitze Zauberstab
+301EB85C 0001
+#Besitze Legend Schwert
+301EB860 0001
+#Besitze Eisen-Morgenstern
+301EB864 0001
+#Besitze Eisstab
+301EB868 0001
+#Besitze Feuerstab
+301EB878 0001
+#Besitze 99 Falken
+301EB83A 0063
+#Besitze Bombe
+301EB83A 0001
+#HöHer Springen (.Je länger man den X-Knopf gedrückt hält, um so höher wird Alundra springen. Zum steuern die Richtungsknöpfe in der Luft drücken.)
+D0126F28 0040
+80127DEA 0003
+#Warp Tore Offen
+301EB3F6 00FF
+#3 TüRen Beim Imp Tempel
+801EB3DC 0400
+801EB3DE 0011
+#Items\HeilkräUter (.Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.)
+301EB8D0 0001
+#Items\StäRkungselixier
+301EB8D4 0001
+.Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.
+#Items\Zaubertrank
+301EB8D8 0001
+.Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.
+#Items\Wunderextrakt
+301EB8DC 0001
+.Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.
+#Items\Wasserumhang
+301EB8E0 0001
+.Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.
+#Items\Krafttrank
+301EB8E4 0001
+.Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.
+#Items\Erdschriftrolle
+301EB8EC 0001
+.Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.
+#Items\Erdbuch
+301EB8F0 0001
+.Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.
+#Items\Aquaschriftrolle
+301EB8F4 0001
+.Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.
+#Items\Wasserbuch
+301EB8F8 0001
+.Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.
+#Items\Feuerschriftrolle
+301EB8FC 0001
+.Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.
+#Items\Feuerbuch
+301EB900 0001
+.Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.
+#Items\Windschriftrolle
+301EB904 0001
+.Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.
+#Items\Windbuch
+301EB908 0001
+.Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.
+#Items\Olgas Ring
+301EB90C 0001
+.Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.
+#Items\Oaks Ring
+301EB910 0001
+.Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.
+#Items\Armband Silber
+301EB914 0001
+.Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.
+#Items\Naras Zauber
+301EB918 0001
+.Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.
+#Items\Heil-Ring
+301EB91C 0001
+.Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.
+#Items\Auffrischer
+301EB920 0001
+.Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.
+#Items\Krafthandschuh
+301EB92C 0001
+.Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.
+#Items\AufzugschlüSsel
+301EB930 0001
+.Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.
+#Items\Rubin-Wappen
+301EB938 0001
+.Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.
+#Items\Saphir-Wappen
+301EB93C 0001
+.Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.
+#Items\Topas-Wappen
+301EB940 0001
+.Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.
+#Items\Achat-Wappen
+301EB944 0001
+.Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.
+#Items\Granat-Wappen
+301EB948 0001
+.Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.
+#Items\Smaragd-Wappen
+301EB94C 0001
+.Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.
+#Items\Blumenstrauß
+301EB968 0001
+.Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.
+#Items\SchlüSsel Klein
+301EB96C 0001
+.Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.
+#Items\Brief Von Jess
+301EB970 0001
+.Bei den Item-Codes... Nur die aktivieren, die man auch wirklich braucht. Nicht alle auf einmal. Danach abspeichern und nicht mehr aktivieren.
+#Items\Passierschein
+301EB924 0001

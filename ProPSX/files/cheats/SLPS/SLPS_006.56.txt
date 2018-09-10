@@ -1,0 +1,134 @@
+#Have 9999 money
+8011BB74 270F
+#Joan Ferrero Ability ALL 100
+800E2228 6464 
+800E222A 6464 
+800E222C 6464 
+800E222E 6464
+#Joan Ferrero Voyage & combat Lv mAX
+800E2262 6363 
+#Joan Ferrero All skills 
+800E226E 611F  
+#Otto Spinola Ability ALL 100 
+800E228C 6464 
+800E228E 6464 
+800E2290 6464 
+800E2292 6464 
+#Otto Spinola Voyage & combat LV Max 
+800E2294 6363
+#Otto Spinola All skills 
+800E22A0 631F 
+#Ernesto Lopez Ability ALL 100
+800E22BE 6464 
+800E22C0 6464 
+800E22C2 6464 
+800E22C4 6464 
+#Ernesto Lopez Voyage & combat Lv Max 
+800E22C6 6363
+#Ernesto Lopez All skills 
+800E22D2 651F 
+#Ernesto Lopez The degree of friendship Max 
+800E21E8 C8C8 
+800E21EA C8C8 
+800E21EC C8C8 
+800E21EE 00C8 
+#Pietro Konti Ability ALL 100
+800E22F0 6464 
+800E22F2 6464 
+800E22F4 6464 
+800E22F6 6464 
+#Pietro Konti Voyage & combat Lv Max 
+800E22F8 6363 
+#Pietro Konti All skills 
+800E2304 641F 
+#Al-Vu~ezasu Ability ALL 100
+800E2322 6464 
+800E2324 6464 
+800E2326 6464 
+800E2328 6464 
+#Al-Vu~ezasu Voyage & combat Lv Max
+800E232A 6363
+#Al-Vu~ezasu All skills 
+800E2336 621F 
+#Rocco Aremukeru Ability ALL 100
+800E2FA2 6464 
+800E2FA4 6464 
+800E2FA6 6464 
+800E2FA8 6464 
+#Rocco Aremukeru Voyage & combat Lv Max
+800E2FAA 6363
+#Rocco Aremukeru All skills 
+800E2FB6 601F 
+#Enrico Maryoni Ability ALL 100
+800E2FD4 6464 
+800E2FD6 6464 
+800E2FD8 6464 
+800E2FDA 6464 
+
+#Enrico Maryoni Voyage & combat Lv Max 
+800E2FDC 6363
+#Enrico Maryoni All skills 
+800E2FE8 601F 
+#Domingo Manyana Ability ALL 100
+800E3006 6464 
+800E3008 6464 
+800E300A 6464 
+800E300C 6464 
+#Domingo Manyana Voyage & combat Lv Max
+800E300E 6363
+#Domingo Manyana All skills 
+800E301A 601F 
+#Franco Sanudo Ability ALL 100
+800E3038 6464 
+800E303A 6464 
+800E303C 6464 
+800E303E 6464 
+#Franco Sanudo Voyage & combat Lv Max
+800E3040 6363
+#Franco Sanudo All skills  
+800E304C 611F 
+#Andrea Giji Ability ALL 100
+800E306A 6464 
+800E306C 6464 
+800E306E 6464 
+800E3070 6464 
+#Andrea Giji Voyage & combat Lv Max
+800E3072 6363
+#Andrea Giji All skills  
+800E307E 611F 
+#Matthew Roy Ability ALL 100 
+800E30CE 6464 
+800E30D0 6464 
+800E30D2 6464 
+800E30D4 6464 
+#Matthew Roy Voyage & combat Lv Max 
+800E30D6 6363
+#Matthew Roy All skills  
+800E30E2 631F 
+#Camillo-Stefano Ability ALL 100 
+800E3100 6464 
+800E3102 6464 
+800E3104 6464 
+800E3106 6464 
+#Camillo-Stefano Voyage & combat Lv Max
+800E3108 6363
+#Camillo-Stefano All skills  
+800E3114 641F 
+#Lloyd Staten Ability ALL 100
+800E3132 6464 
+800E3134 6464 
+800E3136 6464 
+800E3138 6464 
+#Lloyd Staten Voyage & combat Lv Max
+800E313A 6363
+#Lloyd Staten All skills  
+800E3146 651F 
+#Jahan Salim Ability ALL 100 
+800E3164 6464 
+800E3166 6464 
+800E3168 6464 
+800E316A 6464 
+#Jahan Salim Voyage & combat Lv Max
+800E316C 6363
+#Jahan Salim All skills 
+800E3178 621F 

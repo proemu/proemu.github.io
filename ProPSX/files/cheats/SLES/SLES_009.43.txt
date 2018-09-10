@@ -1,0 +1,10 @@
+#Infinite Lives
+8009FE70 00FF
+#Infinite B's
+8009FE78 00FF
+#Infinite Dynamite
+8009FE76 00FF
+#Infinite Money
+8009FE74 00FF
+#Infinite Energy
+8009FE72 0003

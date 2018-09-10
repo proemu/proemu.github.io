@@ -1,0 +1,16 @@
+#Player 1\Infinite Energy
+8006E860 00A0
+#Player 1\No Energy
+8006E860 0000
+#Player 2\Infinite Energy
+8006E870 00A0
+#Player 2\No Energy
+8006E860 0000
+#Player 1\Infinite Combo Meter
+8006E866 0010
+#Player 2\Infinite Combo Meter
+8006E86E 0010
+#Player 1\No Combo Meter
+8006E866 0000
+#Player 2\No Combo Meter
+8006E86E 0000

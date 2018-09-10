@@ -1,0 +1,4 @@
+#Freeze Elapse Timer
+8009DA5C 0000
+#Infinite Time
+8009DA64 D500

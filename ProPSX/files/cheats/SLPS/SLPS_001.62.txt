@@ -1,0 +1,20 @@
+#Infinite Energy
+80020414 0005
+#Infinite Bombs
+8002041C 0004
+#Gun Power = 5
+80020410 0005
+#Second Gun Power = 5
+800204DC 0005
+#Ship Type = 1
+80020408 0001
+#Ship Type = 2
+80020408 0002
+#Ship Type = 3
+80020408 0003
+#Ship Type = 4
+80020408 0004
+#Max Shots Level 5
+8002040C 0005
+#Infinite Credits
+8002050C 0005

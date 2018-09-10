@@ -1,0 +1,26 @@
+#Refill Energy P1 (Press Select)
+800528AC 6666
+D0053408 0100
+80052C28 6666
+#Infinite Energy P1 
+800528AC 6666
+80052C28 6666
+#Max Stamina P1
+800528AE 6666
+80052C2A 6666
+#Quick Finish
+80052D5C 0010
+#Restart Count Down (Press L2 + R2)
+D0053408 0003
+300792AC 0000
+#Instant Count (Press L1 + R1)
+D0053408 000C
+300792AC 0000
+#P1 Never Knock Down
+80050B88 1FE9
+#P1 Infinite Hp
+80050B8A 1FE9
+#P2 Never Knock Down
+8005100C 1FE9
+#P2 Infinite Hp
+8005100E 1FE9

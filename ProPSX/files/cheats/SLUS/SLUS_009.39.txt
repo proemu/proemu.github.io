@@ -1,0 +1,303 @@
+#Rikimaru Codes\Record Codes\The Training Course\Grand Master Status
+30010074 0006
+#Rikimaru Codes\Record Codes\The Training Course\Max Kills
+30010075 00FF
+#Rikimaru Codes\Record Codes\The Training Course\Max Score
+80010076 7FFF
+#Rikimaru Codes\Record Codes\The Training Course\Time 0:00.0/Enables Mission
+80010078 EA5F
+#Rikimaru Codes\Record Codes\The Gang Of Thieves\Grand Master Status
+3001007C 0006
+#Rikimaru Codes\Record Codes\The Gang Of Thieves\Max Kills
+3001007D 00FF
+#Rikimaru Codes\Record Codes\The Gang Of Thieves\Max Score
+8001007E 7FFF
+#Rikimaru Codes\Record Codes\The Gang Of Thieves\Time 0:00.0/Enables Mission
+80010080 EA5F
+#Rikimaru Codes\Record Codes\Treason At Gohde Castle\Grand Master Status
+30010084 0006
+#Rikimaru Codes\Record Codes\Treason At Gohde Castle\Max Kills
+30010085 00FF
+#Rikimaru Codes\Record Codes\Treason At Gohde Castle\Max Score
+80010086 7FFF
+#Rikimaru Codes\Record Codes\Treason At Gohde Castle\Time 0:00.0/Enables Mission
+80010088 EA5F
+#Rikimaru Codes\Record Codes\Lord Toda's War Camp\Grand Master Status
+3001008C 0006
+#Rikimaru Codes\Record Codes\Lord Toda's War Camp\Max Kills
+3001008D 00FF
+#Rikimaru Codes\Record Codes\Lord Toda's War Camp\Max Score
+8001008E 7FFF
+#Rikimaru Codes\Record Codes\Lord Toda's War Camp\Time 0:00.0/Enables Mission
+80010090 EA5F
+#Rikimaru Codes\Record Codes\Demon Mountain\Grand Master Status
+30010094 0006
+#Rikimaru Codes\Record Codes\Demon Mountain\Max Kills
+30010095 00FF
+#Rikimaru Codes\Record Codes\Demon Mountain\Max Score
+80010096 7FFF
+#Rikimaru Codes\Record Codes\Demon Mountain\Time 0:00.0/Enables Mission
+80010098 EA5F
+#Rikimaru Codes\Record Codes\The Secret Harbor\Grand Master Status
+3001009C 0006
+#Rikimaru Codes\Record Codes\The Secret Harbor\Max Kills
+3001009D 00FF
+#Rikimaru Codes\Record Codes\The Secret Harbor\Max Score
+8001009E 7FFF
+#Rikimaru Codes\Record Codes\The Secret Harbor\Time 0:00.0/Enables Mission
+800100A0 EA5F
+#Rikimaru Codes\Record Codes\The Temple Of Dreams\Grand Master Status
+300100A4 0006
+#Rikimaru Codes\Record Codes\The Temple Of Dreams\Max Kills
+300100A5 00FF
+#Rikimaru Codes\Record Codes\The Temple Of Dreams\Max Score
+800100A6 7FFF
+#Rikimaru Codes\Record Codes\The Temple Of Dreams\Time 0:00.0/Enables Mission
+800100A8 EA5F
+#Rikimaru Codes\Record Codes\Ninja Village Under Attack\Grand Master Status
+300100AC 0006
+#Rikimaru Codes\Record Codes\Ninja Village Under Attack\Max Kills
+300100AD 00FF
+#Rikimaru Codes\Record Codes\Ninja Village Under Attack\Max Score
+800100AE 7FFF
+#Rikimaru Codes\Record Codes\Ninja Village Under Attack\Time 0:00.0/Enables Mission
+800100B0 EA5F
+#Rikimaru Codes\Record Codes\In Pursuit Of Tatsumaru\Grand Master Status
+300100B4 0006
+#Rikimaru Codes\Record Codes\In Pursuit Of Tatsumaru\Max Kills
+300100B5 00FF
+#Rikimaru Codes\Record Codes\In Pursuit Of Tatsumaru\Max Score
+800100B6 7FFF
+#Rikimaru Codes\Record Codes\In Pursuit Of Tatsumaru\Time 0:00.0/Enables Mission
+800100B8 EA5F
+#Rikimaru Codes\Record Codes\The Kansen Caverns\Grand Master Status
+300100BC 0006
+#Rikimaru Codes\Record Codes\The Kansen Caverns\Max Kills
+300100BD 00FF
+#Rikimaru Codes\Record Codes\The Kansen Caverns\Max Score
+800100BE 7FFF
+#Rikimaru Codes\Record Codes\The Kansen Caverns\Time 0:00.0/Enables Mission
+800100C0 EA5F
+#Rikimaru Codes\Record Codes\The Sea Battle\Grand Master Status
+300100C4 0006
+#Rikimaru Codes\Record Codes\The Sea Battle\Max Kills
+300100C5 00FF
+#Rikimaru Codes\Record Codes\The Sea Battle\Max Score
+800100C6 7FFF
+#Rikimaru Codes\Record Codes\The Sea Battle\Time 0:00.0/Enables Mission
+800100C8 EA5F
+#Rikimaru Codes\Record Codes\The Sea Battle\Have All Items
+50001401 0000
+30010019 0063
+#Ayame Codes\Record Codes\The Training Course\Grand Master Status
+300100CC 0006
+#Ayame Codes\Record Codes\The Training Course\Max Kills
+300100CD 00FF
+#Ayame Codes\Record Codes\The Training Course\Max Score
+800100CE 7FFF
+#Ayame Codes\Record Codes\The Training Course\Time 0:00.0/Enables Mission
+800100D0 EA5F
+#Ayame Codes\Record Codes\The Mountain Bandits\Grand Master Status
+300100D4 0006
+#Ayame Codes\Record Codes\The Mountain Bandits\Max Kills
+300100D5 00FF
+#Ayame Codes\Record Codes\The Mountain Bandits\Max Score
+800100D6 7FFF
+#Ayame Codes\Record Codes\The Mountain Bandits\Time 0:00.0/Enables Mission
+800100D8 EA5F
+#Ayame Codes\Record Codes\Lady Kei In Danger\Grand Master Status
+300100DC 0006
+#Ayame Codes\Record Codes\Lady Kei In Danger\Max Kills
+300100DD 00FF
+#Ayame Codes\Record Codes\Lady Kei In Danger\Max Score
+800100DE 7FFF
+#Ayame Codes\Record Codes\Lady Kei In Danger\Time 0:00.0/Enables Mission
+800100E0 EA5F
+#Ayame Codes\Record Codes\To Save A Princess\Grand Master Status
+300100E4 0006
+#Ayame Codes\Record Codes\To Save A Princess\Max Kills
+300100E5 00FF
+#Ayame Codes\Record Codes\To Save A Princess\Max Score
+800100E6 7FFF
+#Ayame Codes\Record Codes\To Save A Princess\Time 0:00.0/Enables Mission
+800100E8 EA5F
+#Ayame Codes\Record Codes\Kuban Island\Grand Master Status
+300100EC 0006
+#Ayame Codes\Record Codes\Kuban Island\Max Kills
+300100ED 00FF
+#Ayame Codes\Record Codes\Kuban Island\Max Score
+800100EE 7FFF
+#Ayame Codes\Record Codes\Kuban Island\Time 0:00.0/Enables Mission
+800100F0 EA5F
+#Ayame Codes\Record Codes\The Island Fort\Grand Master Status
+300100F4 0006
+#Ayame Codes\Record Codes\The Island Fort\Max Kills
+300100F5 00FF
+#Ayame Codes\Record Codes\The Island Fort\Max Score
+800100F6 7FFF
+#Ayame Codes\Record Codes\The Island Fort\Time 0:00.0/Enables Mission
+800100F8 EA5F
+#Ayame Codes\Record Codes\The Quarantine Village\Grand Master Status
+300100FC 0006
+#Ayame Codes\Record Codes\The Quarantine Village\Max Kills
+300100FD 00FF
+#Ayame Codes\Record Codes\The Quarantine Village\Max Score
+800100FE 7FFF
+#Ayame Codes\Record Codes\The Quarantine Village\Time 0:00.0/Enables Mission
+80010100 EA5F
+#Ayame Codes\Record Codes\Cherry Tree Hill\Grand Master Status
+30010104 0006
+#Ayame Codes\Record Codes\Cherry Tree Hill\Max Kills
+30010105 00FF
+#Ayame Codes\Record Codes\Cherry Tree Hill\Max Score
+80010106 7FFF
+#Ayame Codes\Record Codes\Cherry Tree Hill\Time 0:00.0/Enables Mission
+80010108 EA5F
+#Ayame Codes\Record Codes\In Pursuit Of Tatsumaru\Grand Master Status
+3001010C 0006
+#Ayame Codes\Record Codes\In Pursuit Of Tatsumaru\Max Kills
+3001010D 00FF
+#Ayame Codes\Record Codes\In Pursuit Of Tatsumaru\Max Score
+8001010E 7FFF
+#Ayame Codes\Record Codes\In Pursuit Of Tatsumaru\Time 0:00.0/Enables Mission
+80010110 EA5F
+#Ayame Codes\Record Codes\The Kansen Caverns\Grand Master Status
+30010114 0006
+#Ayame Codes\Record Codes\The Kansen Caverns\Max Kills
+30010115 00FF
+#Ayame Codes\Record Codes\The Kansen Caverns\Max Score
+80010116 7FFF
+#Ayame Codes\Record Codes\The Kansen Caverns\Time 0:00.0/Enables Mission
+80010118 EA5F
+#Ayame Codes\Record Codes\The Fire Demon\Grand Master Status
+3001011C 0006
+#Ayame Codes\Record Codes\The Fire Demon\Max Kills
+3001011D 00FF
+#Ayame Codes\Record Codes\The Fire Demon\Max Score
+8001011E 7FFF
+#Ayame Codes\Record Codes\The Fire Demon\Time 0:00.0/Enables Mission
+80010120 EA5F
+#Ayame Codes\Record Codes\The Fire Demon\Have All Items
+50001401 0000
+30010037 0063
+#All Character Codes\Max Item Codes\Slot 1
+D00856E2 0100
+801FFDBA 0063
+#All Character Codes\Max Item Codes\Slot 2
+D00856E2 0100
+801FFDBE 0063
+#All Character Codes\Max Item Codes\Slot 3
+D00856E2 0100
+801FFDC2 0063
+#All Character Codes\Max Item Codes\Slot 4
+D00856E2 0100
+801FFDC6 0063
+#All Character Codes\Max Item Codes\Slot 5
+D00856E2 0100
+801FFDCA 0063
+#All Character Codes\Max Item Codes\Slot 6
+D00856E2 0100
+801FFDCE 0063
+#All Character Codes\Max Item Codes\Infinite Remaining Items
+D01FFE40 000B
+801FFE40 000C
+#All Character Codes\Max Item Codes\Infinite Health
+D10104B0 0000
+8013F010 0064
+#All Character Codes\Max Item Codes\All Items (In-Battle)
+D00104B0 0001
+50001401 0000
+3013F159 0063
+#All Character Codes\Unlock Mission Editor Level Codes\Emancipation
+30010481 0001
+#All Character Codes\Unlock Mission Editor Level Codes\Into The Enemy's Lair
+30010482 0001
+#All Character Codes\Unlock Mission Editor Level Codes\The Demon Encampment
+30010483 0001
+#All Character Codes\Unlock Mission Editor Level Codes\The Floating Temple
+30010484 0001
+#All Character Codes\Unlock Mission Editor Level Codes\The Howling Wind
+30010485 0001
+#All Character Codes\Unlock Mission Editor Level Codes\A Moonless Night
+30010486 0001
+#All Character Codes\Unlock Mission Editor Level Codes\Silent Forest
+30010487 0001
+#All Character Codes\Unlock Mission Editor Level Codes\The Depths Of Despair
+30010488 0001
+#All Character Codes\Unlock Mission Editor Level Codes\Washed Ashore
+30010489 0001
+#All Character Codes\Unlock Mission Editor Level Codes\A Brand New Evil
+3001048A 0001
+#All Character Codes\Unlock Mission Editor Level Codes\Tenchu, Inc
+3001048B 0001
+#All Character Codes\Unlock Mission Editor Level Codes\Unlock All Mission Editor Levels
+50000B01 0000
+30010481 0001
+#All Character Codes\Unlock Mission Editor Level Codes\Unlock Tatsumaru
+80010008 FFFF
+#Tatsumaru Codes\Record Codes\A Shadow\Grand Master Status
+30010124 0006
+#Tatsumaru Codes\Record Codes\A Shadow\Max Kills
+30010125 00FF
+#Tatsumaru Codes\Record Codes\A Shadow\Max Score
+80010126 7FFF
+#Tatsumaru Codes\Record Codes\A Shadow\Time 0:00:00/Enable Mission
+80010128 EA5F
+#Tatsumaru Codes\Record Codes\The Head Of Lord Toda\Grand Master Status
+3001012C 0006
+#Tatsumaru Codes\Record Codes\The Head Of Lord Toda\Max Kills
+3001012D 00FF
+#Tatsumaru Codes\Record Codes\The Head Of Lord Toda\Max Score
+8001012E 7FFF
+#Tatsumaru Codes\Record Codes\The Head Of Lord Toda\Time 0:00:00/Enable Mission
+80010130 EA5F
+#Tatsumaru Codes\Record Codes\Labor Shortage\Grand Master Status
+30010134 0006
+#Tatsumaru Codes\Record Codes\Labor Shortage\Max Kills
+30010135 00FF
+#Tatsumaru Codes\Record Codes\Labor Shortage\Max Score
+80010136 7FFF
+#Tatsumaru Codes\Record Codes\Labor Shortage\Time 0:00:00/Enable Mission
+80010138 EA5F
+#Tatsumaru Codes\Record Codes\Guarding The Secret Harbor\Grand Master Status
+3001013C 0006
+#Tatsumaru Codes\Record Codes\Guarding The Secret Harbor\Max Kills
+3001013D 00FF
+#Tatsumaru Codes\Record Codes\Guarding The Secret Harbor\Max Score
+8001013E 7FFF
+#Tatsumaru Codes\Record Codes\Guarding The Secret Harbor\Time 0:00:00/Enable Mission
+80010140 EA5F
+#Tatsumaru Codes\Record Codes\No Mercy Unlocked\Grand Master Status
+30010144 0006
+#Tatsumaru Codes\Record Codes\No Mercy Unlocked\Max Kills
+30010145 00FF
+#Tatsumaru Codes\Record Codes\No Mercy Unlocked\Max Score
+80010146 7FFF
+#Tatsumaru Codes\Record Codes\No Mercy Unlocked\Time 0:00:00/Enable Mission
+80010148 EA5F
+#Tatsumaru Codes\Record Codes\Assault On The Ninja Village\Grand Master Status
+3001014C 0006
+#Tatsumaru Codes\Record Codes\Assault On The Ninja Village\Max Kills
+3001014D 00FF
+#Tatsumaru Codes\Record Codes\Assault On The Ninja Village\Max Score
+8001014E 7FFF
+#Tatsumaru Codes\Record Codes\Assault On The Ninja Village\Time 0:00:00/Enable Mission
+80010150 EA5F
+#Tatsumaru Codes\Record Codes\The Final Dawn\Grand Master Status
+30010154 0006
+#Tatsumaru Codes\Record Codes\The Final Dawn\Max Kills
+30010155 00FF
+#Tatsumaru Codes\Record Codes\The Final Dawn\Max Score
+80010156 7FFF
+#Tatsumaru Codes\Record Codes\The Final Dawn\Time 0:00:00/Enable Mission
+80010158 EA5F
+#Tatsumaru Codes\Record Codes\The Final Dawn\Have All Items
+50001401 0000
+30010055 0063
+#Tatsumaru Codes\Record Codes\The Final Dawn\Tatsumaru-Everything Perfect
+50000708 0000
+80010124 FF06
+50000708 0000
+80010126 7FFF
+50000708 0000
+80010128 EA5F

@@ -1,0 +1,4 @@
+#Infinite Lives - Toukaidou Gojuusan Tsugi (Deactivate after complete a level)
+8009BD80 0009
+#Infinite HP - The Wing of Madoola
+8009DD39 1000

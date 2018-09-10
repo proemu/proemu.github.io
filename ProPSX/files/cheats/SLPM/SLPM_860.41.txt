@@ -1,0 +1,11 @@
+#P1 Infinite Health  	
+301D6BB4 00C8
+#Bonus Game
+801EC4B0 270F 
+#All Movies Available  	
+801D41EC FFFF
+801D41EE FFFF
+#P2 Infinite Health		
+301D80DC 00C8
+#P2 No Health		
+301D80DC 0000

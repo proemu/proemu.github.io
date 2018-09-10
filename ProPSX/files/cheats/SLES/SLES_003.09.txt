@@ -1,0 +1,2 @@
+#Enemy always score 0
+8018CFB8 0000

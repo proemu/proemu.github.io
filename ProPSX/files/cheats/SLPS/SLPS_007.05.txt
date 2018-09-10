@@ -1,0 +1,42 @@
+#Metro Cross Master Code
+D0020F40 0005 
+#Metro Cross Infinite Time 
+80020F46 2000 
+#Baraduke Master code
+D00513E0 00C0 
+#Baraduke Infinite Lives
+800513DC 0000 
+#Baraduke Infinite Shield 
+8002C108 0000 
+#Dragon Spirit Master Code
+D003CA80 0010 
+#Dragon Spirit  Infinite Lives
+80020D50 0000
+#Dragon Spirit Infinite Health
+8003CA82 9044 
+#Dragon Spirit Invincible
+301E91C8 0001
+#Pacmania Master Code
+D0025C34 007B 
+#Pacmania Infinites Lives
+80020578 0000 
+#Pacmania Invincible
+80025C36 A060 
+#Legend Of Valkryie Master Code
+D0025544 0050 
+#Legend Of Valkryie Max Gold P1
+8018F4C6 FFFF
+#Legend Of Valkryie Max Gold P2
+8018F5CA FFFF
+#Legend Of Valkryie Infinite HP  P1
+8018F4C4 00C0
+#Legend Of Valkryie Infinite HP P2
+8018F5C8 00C0
+#Legend Of Valkryie Infinite MP P1
+8018F4C2 00C0
+#Legend Of Valkryie Infinite MP P2
+8018F5C6 00C0
+#Legend Of Valkryie Invincible P1
+8018F4B6 0024
+#Legend Of Valkryie Invincible P2
+8018F5BA 0024

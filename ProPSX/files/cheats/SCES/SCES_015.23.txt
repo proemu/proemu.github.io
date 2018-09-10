@@ -1,0 +1,8 @@
+#Energia Infinita 
+800A8C94 0004
+#Infinite Lives	
+800B288A 0009
+#Have All Levels Unlocked 
+80082404 000F
+
+

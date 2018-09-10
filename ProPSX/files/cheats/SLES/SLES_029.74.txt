@@ -1,0 +1,45 @@
+#Infinite Health
+800E03FC  0078
+#Squashed all gifts 	
+8001005A 0BB8
+8001005C 01F4
+8001005E 02EE
+80010060 02EE
+80010062 03E8 		
+#Have all usefull items 	
+800101F8 FFFF
+800101FA FFFF 		
+#Infinite rotten eggs 	
+30010058 00C8 		
+#Grinch always in disguise
+300100B4 0004
+#All Missions Completed
+800100BE FFFF
+300100C5 000A
+800100C6 0A0A
+800100C8 0A0A
+800100CA 0A0A
+800100CC 0A0A
+300100E5 000A
+800100E6 050A
+300100EE 000A
+300100FE 000A
+#Unlock All Levels
+800100AA 00FF
+#Have All 3000 Presents
+8001005A 0BB8
+#Have All Blueprints
+800100F4 0404
+800100F6 1009
+800100F8 0909
+800100FA 0010
+#Stop Timer
+8008F6CA 002B
+#Cheat  - Level Select (all regular levels open),200 Eggs & All Gadgets	
+3001008C 0007
+#Have all gadgets
+3001008C 00DC
+#Invulnerable Grinch	
+80015846 2400
+#Stop timer	
+80061A6C 0000

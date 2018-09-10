@@ -1,0 +1,6 @@
+#Infinite Blood Line	  
+801CA99C 0190
+801CA99E 0190
+#Infinite Magic Line	  
+801CA9A2 0190
+801CA9A4 0190

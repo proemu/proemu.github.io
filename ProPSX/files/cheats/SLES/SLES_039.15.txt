@@ -1,0 +1,8 @@
+#Time Always 00:00 	
+8009AD30 0000
+#Score = 99999
+8009AD20 869F
+8009AD22 0001
+#Infinite continues
+8009AD28 0003
+

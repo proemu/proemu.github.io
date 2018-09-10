@@ -1,0 +1,14 @@
+#Inf. HP (P1)	
+800BDD5C 0090
+800CD3FC 0090
+#Play as Phobos (P1)		
+300CD39D 000B
+#Play as Phobos (P2)	
+300CD771 000B
+#Play as Pyron (P1)		
+300CD39D 000C
+#Play as Pyron (P2)		
+300CD711 000C
+#Freeze Timer
+800CD5D2 FF7F
+800CDAB6 0063

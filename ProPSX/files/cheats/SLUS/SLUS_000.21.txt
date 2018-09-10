@@ -1,0 +1,6 @@
+#Infinite Shields
+80079048 FB50
+#Infinite Lifes
+800766A0 0005
+#Infinite Plasma-Bombs
+80078DD4 0003

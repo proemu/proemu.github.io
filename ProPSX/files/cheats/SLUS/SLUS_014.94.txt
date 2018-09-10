@@ -1,0 +1,6 @@
+#Infinite Time
+8004A68A 2400
+#Infinite Health
+8004DE4E 2400
+#Quick Ending		
+801E689A 001B

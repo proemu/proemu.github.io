@@ -1,0 +1,29 @@
+#Infinite Time	
+800CE750 1896
+#Bike Mode	
+8009DC02 0100
+#Gibberish Mode	
+8009DC04 0100
+#Lava Mode	
+8009DC04 0001
+#Roving Camera	
+8009DC0C 0001
+#Bonus Track	
+8009DC06 0001
+#Buggy Mode	
+8009DC02 0001
+#Enable English Commentary	
+8009DC06 0100
+#Enable French Commentary	
+8009DC08 0001
+#Enable German Commentary	
+8009DC08 0100
+#Enable Italian Commentary	
+8009DC0A 0100
+#Enable Spanish Commentary	
+8009DC0A 0001
+
+	
+
+	
+

@@ -1,0 +1,9 @@
+#Infinite Health
+80172D4C 0003
+#Invincible
+80172CCE 2403
+#Moon Jump
+8018064A 0004
+#Have 99 Stars
+80172CD0 0063
+

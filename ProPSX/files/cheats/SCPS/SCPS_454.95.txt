@@ -1,0 +1,10 @@
+#Infinite Money		
+8007F428 E0FF
+8007F42A 05F5
+#Max Hp Character 1		
+80080540 03E7
+80080542 03E7
+#Max Sp Character 1		
+80080544 03E7
+80080546 03E7
+

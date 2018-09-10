@@ -1,0 +1,58 @@
+#Infinite Money
+80073168 967F
+8007316A 0098
+#After 1 Battle, Level Max
+D00B58EC 0002
+800B58EC 0001
+#Infinite En
+D00B8600 1823
+800B8602 0060
+D00B8686 1821
+800B8688 0060
+D00B8CB8 1023
+800B8CBA 0060
+#Bs Full
+80073175 0000
+#Infinite Energy Poseidon
+8013FFC0 270F
+8013FD0A 270F
+#Infinite Energy Getter 1
+80140368 270F
+801400B2 270F
+#Infinite Energy Dragon
+8016617F 270F
+8013F962 270F
+#Infinite Energy Liger
+80140EE2 270F
+80141198 270F
+#Infinite Energy Gundam Sandrock Custom
+8014128A 270F
+80141540 270F
+#Infinite Energy Qubeley Mk-Ii
+80141632 270F
+801418E8 270F
+#Infinite Energy Daitarn 3
+8013F8F2 270F
+8013FBA8 270F
+#Infinite Energy Zz Gundam
+80140792 270F
+80140A48 270F
+#Mortal blow Press SEL + L2 - deadly blow
+D005EA9C 0101
+800C2EDA 0000
+D005EA9C 0102
+800C2EDA 0060
+#Sound select fully open
+D00F1B9E 1040
+800F1B9E 1400
+#Character encyclopedia fully open
+D00EC766 1040
+800EC766 1400
+#Robot Encyclopedia fully open
+D00EEEA2 1040
+800EEEA2 1400
+#Demo select fully open
+D00E9B9E 1040
+800E9B9E 1400
+#Scenario Select 01-4D
+80073170 004D

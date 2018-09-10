@@ -1,0 +1,15 @@
+#Infinite Air
+801F0190 4B00 
+801F0192 0002 
+#X block blow destruction
+D00C17C4 0003 
+800C17C6 1000 
+#I do not crushed in rock
+D00CC1C6 1462 
+800CC1C4 0001
+#Infinite credits 
+3019A028 000A 
+#Max Score 
+801F0158 FFFF 
+#Add staff roles to OPTION"
+3018FF96 0001

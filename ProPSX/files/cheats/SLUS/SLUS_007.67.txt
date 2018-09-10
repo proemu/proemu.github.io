@@ -1,0 +1,9 @@
+#Maximum Trick Points
+800B6924 FFFF
+#Infinite Attribute Points
+800DE5E8 0009
+#Time is 0:00:00
+800B65C8 0000
+#Never Miss Any Flags
+800B65F8 0000
+

@@ -1,0 +1,5 @@
+#Inf Energy Player 1
+800E1940 0070
+#Infinite time
+800D0C70 0063
+

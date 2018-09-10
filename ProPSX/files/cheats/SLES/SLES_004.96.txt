@@ -1,0 +1,58 @@
+#P1 Infinite Energy
+80198824 0090
+#25% Energy P1
+D0198824 0090
+80198824 0024
+#50% Energy P1
+D0198824 0090
+80198824 0048
+#75% Energy P1
+D0198824 0090
+80198824 006C
+#1-Hit Death P1
+D0198824 0000
+80198824 0001
+#P2 Infinite Energy
+80198BB8 0090
+#25% Energy P2
+D0198BB8 0090
+80198BB8 0024
+#50% Energy P2
+D0198BB8 0090
+80198BB8 0048
+#75% Energy P2
+D0198BB8 0090
+80198BB8 006C
+#1-Hit Death P2
+D0198BB8 0090
+80198BB8 0001
+#Super Always Powered At Level 3 P1
+8019888E 0090
+#Super Always Powered At Level 2 P1
+8019888E 0060
+#Super Always Powered At Level 1 P1
+8019888E 0030
+#Super Always Powered At Empty P1
+8019888E 0000
+#Super Always Powered At Level 3 P2
+80198C22 0090
+#Super Always Powered At Level 2 P2
+80198C22 0090
+#Super Always Powered At Level 1 P2
+80198C22 0090
+#Super Always Powered At Empty P2
+80198C22 0090
+#Use Most Moves In Air (Also Supers) P1
+8019880C 0000
+#Use Most Moves In Air (Also Supers) P2
+801986FA 0000
+#Infinite Taunts P1
+8019893E 0100
+#Infinite Taunts P2
+80199306 0100
+#P1 Attacks Fast
+80198800 0001
+#P2 Attacks Fast
+801991C8 0001
+#Infinite Time
+80190954 6302

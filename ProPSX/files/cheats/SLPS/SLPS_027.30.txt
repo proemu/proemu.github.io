@@ -1,0 +1,13 @@
+#Infinite & Max energy
+80090DA0 03E7
+80090DA2 03E7
+#Infinite money (9999)
+80090DA8 270F
+#Battle Infinite HP 
+80090350 03E7 
+#During combat enemy HP 0
+800903C8 0000 
+#No random encounter 
+8007C8D8 FFFF
+#Experience Gained Max 
+300902CC 270F

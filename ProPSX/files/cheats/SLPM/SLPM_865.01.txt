@@ -1,0 +1,42 @@
+#Hero HP & MP MAX
+80010C78 F3E7 
+80010C7A 3E7F 
+30010C7C 00E7 
+#Maribel HP & MP MAX 
+80010E90 F3E7 
+80010E92 3E7F 
+30010E94 00E7 
+#Gabo HP & MP MAX
+80010F9C F3E7 
+80010F9E 3E7F 
+30010FA0 00E7 
+#Ira HP & MP MAX 
+800110A8 F3E7
+800110AA 3E7F
+300110AC 00E7 
+#Melvin HP & MP MAX
+800111B4 F3E7 
+800111B6 3E7F 
+300111B8 00E7    
+#Infinite Gold
+800112D8 FFFF
+#Debug Menu press Select while in control of your character to access the menu
+800F7798 0100
+#Go anywhere in the ruler 
+80010280 FFFF 
+80010282 FFFF 
+80010284 FFFF 
+80010286 FFFF 
+80010288 FFFF 
+#MP does not decrease during combat 
+D0137ECA 1460 
+80137ECA 1000 
+#Become level 99 after a battle 
+8004CDBA 1000 
+#No Random Battles 
+80029548 0000 
+#Any door is also open without a key 
+D011AA88 000E 
+8011AA8A 1000 
+#Monster Encyclopedia 
+800112F8 0007 

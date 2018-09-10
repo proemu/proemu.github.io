@@ -1,0 +1,22 @@
+#Infinite Lives P1 	
+8018F7FC 0003
+Infinite Energy P1 	
+801A2140 0080 	
+#Infinite Turbo P1 	
+801A21F8 0005
+#Infinite Specials P1
+801A2442 0015
+#Always Play Level Arena Duel	
+8018F530 0000
+#Always Play Level Warehouse	
+8018F530 0001
+#Always Play Level Freeway	
+8018F530 0002
+#Always Play Level Park	
+8018F530 0003
+#Always Play Level Cyburbia (1P Mode Only)	
+8018F530 0004
+#Always Play Level Rooftop	
+8018F530 0005
+#Always Play Level Arena 	
+8018F530 0006

@@ -1,0 +1,12 @@
+#Assault Infinite Lives
+801E2956 000F
+#Assault Infinite Money
+801E2976 00A0
+#Ordyne Infinite Money
+800C45E0 0063
+#The Return of Ishtar Infinite Hp
+8015A3CC 03E7
+#Pacland Infinite Lives
+80057FD5 0003
+#Pacland Infinite Time
+8005803C 0909

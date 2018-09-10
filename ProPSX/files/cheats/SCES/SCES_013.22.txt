@@ -1,0 +1,157 @@
+#Unendlich Ep
+801C915C 869F
+801C915E 0001
+#Level 99
+801C9820 0063
+#Max Mp
+801C981E 03E7
+#Max Hp
+80095C90 00FF
+801C981C 00FF
+#Max At
+80095C96 00FF
+#Max Df
+80095C98 00FF
+#Max Lp
+80095C8E 0011
+#Unendlich Hp Im Kampf
+800C201C 001E
+#Unendlich Mp Im Kampf
+800C201E 03E7
+#Besitze Alle Items
+50002A01 0000
+301C9100 0001
+.Ersetzt die einzelnen Besitzcodes
+#Besitze Die Anderen Items
+50001001 0000
+301C912E 0063
+.Ersetzt die anderen Items
+#Besitze Windjuwel
+301C9100 0001
+#Besitze Mondstein
+301C9101 0001
+#Besitze Sternstein
+301C9102 0001
+#Besitze Teeservice
+301C9103 0001
+#Besitze Zerbrochenes Schwert
+301C9104 0001
+#Besitze Okarina-Buch
+301C9105 0001
+#Besitze Amulett
+301C9106 0001
+#Besitze Magischer Stein
+301C9107 0001
+#Besitze Ehering
+301C9108 0001
+#Besitze Enblem Der Jugendtruppe
+301C9109 0001
+#Besitze GefäNgnisschlüSsel
+301C910A 0001
+#Besitze Zirua's Zauberelixier
+301C910B 0001
+#Besitze Geintz' Steine
+301C910C 0001
+#Besitze Neutralisierende LöSung
+301C910D 0001
+#Besitze SäUrelöSung
+301C910E 0001
+#Besitze Gandors Dolch
+301C910F 0001
+#Besitze Steintafel
+301C9110 0001
+#Besitze AngelausüStung
+301C9111 0001
+#Besitze GoldstüCk
+301C9112 0001
+#Besitze SilberstüCk
+301C9113 0001
+#Besitze BronzestüCk
+301C9114 0001
+#Besitze Korallenkette
+301C9115 0001
+#Besitze Id-Karte (Ebene 1)
+301C9116 0001
+#Besitze Id-Karte (Ebene 2)
+301C9117 0001
+#Besitze SchwefelsäUre
+301C9118 0001
+#Besitze Falscher Schatz
+301C9119 0001
+#Besitze Karte Des Windgottes
+301C911A 0001
+#Besitze Karte Des Wassergottes
+301C911B 0001
+#Besitze Karte Des Feuergottes
+301C911C 0001
+#Besitze Karte Des Erdgottes
+301C911D 0001
+#Besitze Karte Des Riesengottes
+301C911E 0001
+#Besitze Karte Des Drachengottes
+301C911F 0001
+#Besitze Tagebuch Des Soldaten
+301C9120 0001
+#Besitze Codekarte
+301C9121 0001
+#Besitze Systemkarte
+301C9122 0001
+#Besitze ZellenschlüSsel
+301C9123 0001
+#Besitze MetallstüCk
+301C9124 0001
+#Besitze Silberner Kamm
+301C9125 0001
+#Besitze Zerfallenes Wappen
+301C9126 0001
+#Besitze Berbranntes Schwert
+301C912A 0001
+#Besitze Edelstein
+301C912C 0001
+#Besitze Kraftquelle
+301C912D 0001
+#Besitze 99 Antike Mysteriensteine
+301C912E 0063
+#Besitze 99 ZauberträNke
+301C912F 0063
+#Besitze 99 Getrocknete KräUter
+301C9130 0063
+#Besitze 99 Frische KräUter
+301C9131 0063
+#Besitze 99 Spezial KräUter
+301C9132 0063
+#Besitze 99 Schwache Elixiere
+301C9133 0063
+#Besitze 99 Starke Elixiere
+301C9134 0063
+#Besitze 99 Seltene Elixiere
+301C9135 0063
+#Besitze 99 Lebenselemente
+301C9136 0063
+#Besitze 99 WunderfrüChte
+301C9137 0063
+#Besitze 99 Lebenssteine
+301C9138 0063
+#Besitze 99 Engelsfedern
+301C9139 0063
+#Besitze 99 Pantheraugen
+301C913A 0063
+#Besitze 99 Venatawa-FrüChte
+301C913B 0063
+#Besitze 99 WeißE Kristalle
+301C913C 0063
+#Besitze 99 Schwarze Kristalle
+301C913D 0063
+#Besitze Alle Waffen
+801C9140 FFFF
+#Besitze Alle Schilde
+801C9144 FFFF
+#Besitze Alle RüStungen
+801C9148 FFFF
+#Besitze Alle Magie-SprüChe
+801C914C FFFF
+801C914E FFFF
+801C9150 FFFF
+#Besitze Alle Scepters
+801C9154 FFFF
+801C9156 FFFF

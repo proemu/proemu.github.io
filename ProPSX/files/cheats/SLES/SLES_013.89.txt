@@ -1,0 +1,7 @@
+#Always have guide P1	
+D00DA344 0000
+800DA344 00A0
+#Elapsed time always 0	
+800AF438 0000
+#Infinite time while playing P1	
+800DA324 0000

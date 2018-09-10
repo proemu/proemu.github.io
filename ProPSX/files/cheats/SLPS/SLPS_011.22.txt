@@ -1,0 +1,64 @@
+#Infinite Money
+801FBED8 869F
+801FBEDA 000F
+#Infinite HP Character 1
+801E9380 03E7
+801E9382 03E7
+#Infinite EP Character 1
+801E9384 03E7
+801E9386 03E7
+#LV 99 Character 1
+301E938C 0063
+#Infinite HP Character 2
+801E93B8 03E7
+801E93BA 03E7
+#Infinite EP Character 2
+801E93BC 03E7
+801E93BE 03E7
+#Infinite HP Character 3 (Guardian girl 2)
+801E93F0 03E7
+801E93F2 03E7
+#Infinite EP Character 3 (Guardian girl 2)
+801E93F4 03E7
+801E93F6 03E7
+#None encounter
+301E8F59 0007 
+#Guardian of light
+301E9394 0000
+#Guardian of fire	
+301E9394 0001
+#Guardian of water 	
+301E9394 0002
+#Guardian of wind 	
+301E9394 0003
+#Guardian of earth	
+301E9394 0004
+#Guardian of darkness	
+301E9394 0005	
+#Favorability Max Asha	
+801E9790 7FFF
+#Favorability Max The Karumi 
+801E97A0 7FFF
+#Favorability Max Sage
+801E97B0 7FFF
+#Favorability Max Turner
+801E97C0 7FFF
+#Favorability Max The Naruta  
+801E97D0 7FFF
+#Favorability Max The Hamyun 
+801E97E0 7FFF
+#Favorability Max Maya
+801E97F0 7FFF
+#Favorability Max Yamu
+801E9800 7FFF
+#Favorability Max The Ramiyu 
+801E9810 7FFF
+#Favorability Max Wise
+801E9820 7FFF
+#Favorability Max Degradation
+801E9830 7FFF
+#Favorability Max The Inaru
+801E9840 7FFF
+
+
+

@@ -1,0 +1,6 @@
+#Always 1st Place P1
+800305A4 0000
+#Always Low Timer P1
+800860AC 0000
+#Always 1st Place P2
+8015F598 0000

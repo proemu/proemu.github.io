@@ -1,0 +1,7 @@
+#Stop Timer
+800C06EC 0000
+#One Lap To Race
+801FC758 0001
+#Always Win 1st Place
+801FC7B0 0001
+

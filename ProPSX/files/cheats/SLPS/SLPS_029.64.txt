@@ -1,0 +1,6 @@
+#P1 Infinite Health
+3009101E 00C8
+#Start On Last Stage - Arcade Mode
+80085B04 0009
+#Able To Transform Anytime
+800880FE 0000

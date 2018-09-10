@@ -1,0 +1,14 @@
+#Unendlich Geld\RöMer, Russen, Kelten
+80118A40 FFFF
+#Unendlich Geld\Babylonier, Zulus, Japaner
+80118FB8 FFFF
+#Unendlich Geld\Deutsche, Franzosen, Wikinger
+80119530 FFFF
+#Unendlich Geld\ÄGypter, Azteken, Spanier
+80119AA8 FFFF
+#Unendlich Geld\Amerikaner, Chinesen, Perser
+8011A020 FFFF
+#Unendlich Geld\Griechen, EngläNder, Karthager
+8011A598 FFFF
+#Unendlich Geld\Inder, Mongolen, Sioux
+8011AB10 FFFF

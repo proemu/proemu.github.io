@@ -1,0 +1,19 @@
+#Classic Mode\Infinite Missiles
+8003263C 0000
+#Classic Mode\Max Points P1
+8009C95A 3C00
+#Classic Mode\Max Points P2
+8009C95E 3C00
+#Ultimate Mode\Infinite Missiles
+80059D4C 0000
+8004B734 0000
+80079B58 0000
+#Ultimate Mode\Max Score
+800C2482 3C00
+#Ultimate Mode\Max Money
+800C248E 3C00
+#Ultimate Mode\Infinite Specials
+80059F94 0000
+8005A128 0000
+8005A03C 0000
+8005A1E8 0000

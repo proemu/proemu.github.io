@@ -1,0 +1,6 @@
+#Have All Numbers
+8007409C 000C
+#Infinite Strikes
+800740A0 0000
+#Have No Numbers 
+8007409C 0000

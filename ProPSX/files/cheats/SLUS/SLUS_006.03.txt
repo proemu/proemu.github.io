@@ -1,0 +1,27 @@
+#Inf Life
+800B521E 00C4
+#Time 00
+800C1B1C 0000
+800C1B1E 0000
+#Invincible Megaman
+300B52C0 0001
+#Stop Clock In Minigames
+800BF520 007F
+#Infinite money zenny 999999
+800C1B2C 869F
+800C1B2E 0001
+#Have All Special Weapons 	
+800BE410 FFFF 	
+#Have All Normal Items		
+800BE420 FFFF
+800BE422 FFFF
+800BE424 FFFF
+800BE426 FFFF
+#Have All Special Items		
+800BE41C FFFF
+800BE41E FFFF
+#Infinite Health Boat & Airship		
+80100E02 2400
+#Unlock All Extra Modes		
+800C1B28 0001
+800C1B2A 0001

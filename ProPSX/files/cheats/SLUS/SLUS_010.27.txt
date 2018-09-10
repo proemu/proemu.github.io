@@ -1,0 +1,10 @@
+#Infinite Promoter Points
+8009CB00 270F
+#P1 Infinite Health
+8008D962 03E7
+#P1 Quick Knockdown
+8008D962 0000
+#P2 Infinite Health
+8008DBB6 03E7
+#P2 Quick Knockdown
+8008DBB6 0000

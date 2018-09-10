@@ -1,0 +1,12 @@
+#Infinite Health
+80049206 2400
+#Infinite Explosives
+80082F86 2400
+#Enable Cheat Menu (Press and hold the select button after selecting your language option)
+D00D1742 FFFE
+800DDDE0 0001
+
+
+
+
+

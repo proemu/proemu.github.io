@@ -1,0 +1,12 @@
+#All levels unlocked
+800DE44D 000A
+#Infinite health
+800DE480 000A
+#Infinite floating power
+80098E6C 0078
+#Infinite continues
+800DE47E 0003
+#Infinite lives
+800DE452 0009
+#Have 255 crystals
+800DE452 00FF

@@ -1,0 +1,5 @@
+#Always Finish 1st
+800AB926 0801
+#Infinite Money
+800B9B2C FFFF
+

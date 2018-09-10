@@ -1,0 +1,8 @@
+#Infinite Lives Player 1
+80119F74 0003
+#Infinite Bombs Player 1
+80119F99 0005
+#Infinite Lives Player 2
+80119FE0 0003
+#Infinite Bombs Player 2
+8011A005 0005

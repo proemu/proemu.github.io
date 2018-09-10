@@ -1,0 +1,49 @@
+#Versuche nehmen zu (alle Spieler)	
+D004780C FFFF
+8004780C FFFF
+#Spielbahn Modifizierer	Gravel Factory / Kiesfabrik
+3007BF90 0000
+#Spielbahn Modifiziere Quarry / Steinbruch
+3007BF90 0001
+#Spielbahn Modifiziere Flooded Quarry / Überfluteter Steinbruch
+3007BF90 0002
+#Spielbahn Modifiziere Tar Pits / Teergruben
+3007BF90 0003
+#Spielbahn Modifiziere Bonus - The Rubbles Backyard Pool / Geröllheimers Hinterhof
+3007BF90 0004
+#Spielbahn Modifiziere Bedrock Freeway / Bedrock-Autobahn
+3007BF90 0005
+#Spielbahn Modifiziere Crystal Mine / Kristallmine
+3007BF90 0006
+#Spielbahn Modifiziere Lava
+3007BF90 0007
+#Spielbahn Modifiziere Rockzilla
+3007BF90 0008
+#Spielbahn Modifiziere Bonus - Water Buffalo Lodge / Wasserbüffel-Lodge
+3007BF90 0009
+#Spielbahn Modifiziere Zetox
+3007BF90 000A
+#Spielbahn Modifiziere Hidden - Gazoo's Asteroid / Versteckt - Der Asteroid von Gazoo
+3007BF90 000B
+#P1 Bonus = 50.000
+D307B8A0 0000
+8007B8A0 C350
+#P1 Beginne mit hoher Punktzahl	
+D007B8A8 0000
+8007B8A8 8760
+D007B8AA 0000
+3007B8AA 0003
+#P1 Unendlich Versuche	
+D007B8C0 0000
+3007B8C0 0001
+#P1 Alle Pins getroffen	
+D307B8C2 0000
+3007B8C2 000A
+#P1 Alle Dodo Vögel getroffen
+E307B8C3 0000
+3007B8C3 0003
+#P1 Alle Juwelen gesammelt
+D307B8C4 0000
+3007B8C4 0064
+D109ADF4 0064
+3009ADF4 0064

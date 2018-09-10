@@ -1,0 +1,4 @@
+#Infinite Armour
+800BE068 1000
+#Enable All Levels
+800C93A8 0010

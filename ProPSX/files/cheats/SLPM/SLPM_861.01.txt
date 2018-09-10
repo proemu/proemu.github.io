@@ -1,0 +1,7 @@
+#All Omake & Wath the Movie Open and bonus open
+8008A358 FFFF
+8008A35A FFFF
+8008A35C FFFF
+8008A35E FFFF
+3008A360 00FF
+

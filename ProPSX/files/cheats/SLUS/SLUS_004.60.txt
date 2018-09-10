@@ -1,0 +1,17 @@
+#Have All Key Cards [All Levels]
+800E92F8 00FE
+#Infinite Energy	
+800E9302 0064
+#Infinite Lives	
+800E9304 0109
+#Infinite Time To Escape Mine
+800AA4B8 003C
+800AA4B6 000
+#Have All Key Cards, Headlight Booster, Auto-Map	
+800E92F8 F7FE
+#Infinite Time To Escape Mine	
+800AA4B8 003C
+800AA4B6 000A
+
+
+

@@ -1,0 +1,13 @@
+#Infinite energy (.This code provides you with an amount of about 100000 extra points on the scoreboard at the end of each level!)	
+800E80C6 2710		
+#Infinite shields	
+800380CA 0064		
+#Infinite lifes	
+300E80CC 000A
+#Invincible	
+300E80C0 0001
+
+
+
+
+

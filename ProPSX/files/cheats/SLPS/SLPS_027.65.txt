@@ -1,0 +1,3 @@
+#Have 9000000 gold in story mode
+8012308C 5440
+8012308E 0089

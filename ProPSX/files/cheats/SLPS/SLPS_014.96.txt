@@ -1,0 +1,81 @@
+#Have 999999 medals
+800B4A70 423F
+800B4A72 000F
+#All Alarm possession
+8004AAB4 3FFF 
+#Bonus Available 
+8004AAB0 0001 
+#All Bonus mini-games selectables
+8004AA6C 00FF 
+#All-selectable bonus within one monument-Mi 
+8004AAB2 0001 
+80072230 0101 
+80072232 0101 
+80072234 0101 
+80072236 0101 
+80072238 0101 
+8007223A 0101 
+8007223C 0101 
+8007223E 0101 
+80072240 0101 
+#MAX intimacy with everyone 
+50000D02 0000 
+8004CDF4 00FF 
+#Do not get angry and Nobody is jealous
+50000D02 0000 
+8004CE0C 0000
+#MAX intimacy Yamaguchi Sena
+8004CDF4 00FF 
+#MAX intimacy Ito wheat
+8004CDF6 00FF 
+#MAX intimacy Elena Yuri Nodisu 
+8004CDF8 00FF 
+#MAX intimacy Nanao Tsubasa 
+8004CDFA 00FF 
+#MAX intimacy Sakurai Mami 
+8004CDFC 00FF 
+#MAX intimacy Chitose Satomi 
+8004CDFE 00FF 
+#MAX intimacy Kakogawa Akiko
+8004CE00 00FF 
+#MAX intimacy Matsuura love 
+8004CE02 00FF 
+#MAX intimacy North green
+8004CE04 00FF 
+#MAX intimacy Tsuyama Nanako 
+8004CE06 00FF 
+#MAX intimacy Kashima Hana 
+8004CE08 00FF 
+#MAX intimacy Iwaizumi  
+8004CE0A 00FF 
+#MAX intimacy Iiyama Future 
+8004CE0C 00FF 
+#Do not get angry and Yamaguchi Sena is not jealous
+8004CDD0 0000 
+#Do not get angry and Ito wheat is not jealous 
+8004CDD2 0000 
+#Do not get angry and Elena Yuri Nodisu is not jealous  
+8004CDD4 0000 
+#Do not get angry and Nanao Tsubasa  is not jealous  
+8004CDD6 0000 
+#Do not get angry and Sakurai Mami is not jealous 
+8004CDD8 0000 
+#Do not get angry and Chitose Satomi is not jealous 
+8004CDDA 0000 
+#Do not get angry and Kakogawa Akiko is not jealous 
+8004CDDC 0000 
+#Do not get angry and Matsuura love is not jealous 
+8004CDDE 0000 
+#Do not get angry and North green is not jealous  
+8004CDE0 0000 
+#Do not get angry and Tsuyama Nanako is not jealous 
+8004CDE2 0000 
+#Do not get angry and Kashima Hana is not jealous  
+8004CDE4 0000 
+#Do not get angry and Iwaizumi is not jealous   
+8004CDE6 0000 
+#Do not get angry and Iiyama Future is not jealous  
+8004CDE8 0000 
+
+
+

@@ -1,0 +1,5 @@
+#Main character infinite HP
+800736D4 01F4
+#Main character infinite voltage (Special attacks)
+8006A5D2 0064
+

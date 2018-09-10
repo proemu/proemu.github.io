@@ -1,0 +1,10 @@
+#Infinite Ammo (Pistol & Storm Trooper Laser Rifle)
+80095108 03E7
+#Infinite Shield
+80095128 0064
+#Infinite Health
+8009512C 0064
+#Infinite Lives
+80095024 0003
+#Enable All Levels
+80010018 000E

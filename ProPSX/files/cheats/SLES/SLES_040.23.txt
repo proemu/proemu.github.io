@@ -1,0 +1,8 @@
+#Infinite Energy
+800560E4 0004
+#Infinite Lives
+80055FF4 0063
+#Infinite Tomotoes
+800560FE 0063
+#Infinite Snow Balls
+800560FA 0063

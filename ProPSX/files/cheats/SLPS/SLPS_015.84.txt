@@ -1,0 +1,12 @@
+#Infinite HP Main character
+8012EB14 07D0
+.Deactivate after battle
+##Max Money 
+800FDF3C FFFF
+#Max Money (Press L2+Up)
+D0050C50 1001
+800FDF3C FFFF
+"VICTORY PRESS Triangle + L1
+D0050DD8 0014
+8012EBC4 0000
+

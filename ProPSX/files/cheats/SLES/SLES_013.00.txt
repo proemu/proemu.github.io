@@ -1,0 +1,8 @@
+#GOld Teknos
+80128108 FFFF
+#Gold Arcanes
+30128464 00FF
+#Teknos No Gold
+30128108 0001
+#Arcanes No Gold
+30128464 0001

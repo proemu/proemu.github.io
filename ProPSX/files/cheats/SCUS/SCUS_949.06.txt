@@ -1,0 +1,13 @@
+#Infinite Lives
+8006B854 0003
+#Always Have Helmet
+8006B714 FFFF
+8006B71C FFFF
+#Infinite Bridges
+8006B660 0009
+#Infinite Digging
+8006B8B4 0009
+#Infinite Flames
+8006B8C8 0009
+#Infinite Credits
+8006B7E0 0009

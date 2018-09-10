@@ -1,0 +1,15 @@
+#Invincible
+800BA746 06CA
+#Infinite Spells On Pick-Up
+800BA744 0010
+#Infinite Health
+D006981E A4C2
+8006981E 2400
+#Extra Spell Ammo
+80091C24 0001
+#Enable All Levels
+800C4704 000F
+#Infinite Lives
+80080346 2400
+#Have Debug Option In Pause Menu
+300BA742 000C

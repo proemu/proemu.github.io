@@ -1,0 +1,4 @@
+#Enemy Points = 0
+800DFD6A 0000
+#Have 99 Points
+800DFD68 0063

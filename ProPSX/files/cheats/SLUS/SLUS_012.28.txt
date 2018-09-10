@@ -1,0 +1,12 @@
+#No Reloading
+8008167C 0008
+#Inf Health
+80081574 0018
+#Unlock All Photos/Movies .You'll need to have one game save
+50004A08 0000
+30075438 0002  
+#Have Lots Of Points/Cash - Press L1,L2,R1,R2 .It's advisable to start from the first stage as the codes changed per stage
+D0094DEE F0FF
+80081716 00FF
+D0094DEE F0FF
+800888A2 00FF

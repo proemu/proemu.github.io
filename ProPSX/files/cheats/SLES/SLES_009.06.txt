@@ -1,0 +1,8 @@
+#Home Team SCORE 100
+3007E284 0064
+#Home Team Scorer 0
+3007E284 0000
+#Away Team Score 100
+8007F6E8 0064
+#Away Team Score 0
+8007F6E8 0000

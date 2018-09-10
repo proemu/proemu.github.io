@@ -1,0 +1,5 @@
+#Maximum Speed 	
+80138220 21CC
+#Money 	
+801164AC FFFF
+801164AE FFFF

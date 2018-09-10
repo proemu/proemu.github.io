@@ -1,0 +1,11 @@
+#Infinite health P1
+800BE388 0190 
+#Infinite power P1 
+800BE38A 0200 
+#Inf. HP (P2)	
+800BE6F8 0190
+#No HP (P2)		
+800BE6F8 0000
+#Unlock Ultimate Battle 27		
+D0010120 0000
+80010120 0010

@@ -1,0 +1,15 @@
+#Open Cheat Menu (Press Select At Title Screen) 	
+D0086268 0100
+800B3A50 0004
+#Invincible (All Characters) 	
+800B6944 0001
+#Infinite Ammo (All Characters) 	
+8004E036 2400 		
+#Max Force 	
+800B829C 1000 		
+#Have All Items 	
+800B7B72 FFFF
+800B7B74 FFFF
+800B7B76 FFFF 		
+#Stop Game Timer 	
+800B4096 0000

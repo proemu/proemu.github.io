@@ -1,0 +1,28 @@
+#Infinite Money
+801DB5B4 869F
+801DB5B6 0001
+#Level Up Every Battle
+801DA500 869F
+801DA502 0001
+#Infinite & Max Energy Main Character
+801DA4FA 03E7
+801DA4FC 03E7
+#Infinite & Max Sp Main Character
+801DEE60 03E7
+801DEE62 03E7
+#Infinite & max energy first female character
+801DA532 03E7
+801DA534 03E7
+#Infinite & Max Energy Second Character
+801DA5DA 03E7
+801DA5DC 03E7
+#Infinite & Max Energy Third Character
+801DA5A2 03E7
+801DA5A4 03E7
+#Infinite & Max Energy Fourth Character
+801DA56A 03E7
+801DA56C 03E7
+#No Random battles
+801C3E30 0000 
+801C3E32 0000
+

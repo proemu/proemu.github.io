@@ -1,0 +1,5 @@
+#Infinite Rope		
+D0033FC6 8FB1
+301AA970 0019
+#P1 Majhong Score 99		
+3003756C 0063

@@ -1,0 +1,40 @@
+#Infinite Shield 
+801F8554 0001
+#Have All Tanks Unlocked & Infinite Weapons
+801F8550 0001
+#Enable Auto Lock On
+8010A4EC 0000
+#Arena Modifier	Hidden Desert Base
+801FFD18 0001
+801FFD1A 0000
+#Arena Modifier	Occupied City
+801FFD18 0002
+801FFD1A 0000
+#Arena Modifier Enemy Air Base	
+801FFD18 0003
+801FFD1A 0000
+#Arena Modifier	Canyon Run
+801FFD18 0004
+801FFD1A 0000
+#Arena Modifier Wastelands	
+801FFD18 0005
+801FFD1A 0000
+#Arena Modifier	Fortified City
+801FFD18 0006
+801FFD1A 0000
+#Arena Modifier	Forest War
+801FFD18 0007
+801FFD1A 0000
+#Arena Modifier	Mountain Run
+801FFD18 0008
+801FFD1A 0000
+#Arena Modifier	Citadel
+801FFD18 0009
+801FFD1A 0000
+#Arena Modifier	Underground Stronghold
+801FFD18 000S
+801FFD1A 0000
+#Arena Modifier	Martian Surface
+801FFD18 000B
+801FFD1A 0000
+

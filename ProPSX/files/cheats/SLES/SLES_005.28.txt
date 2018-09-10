@@ -1,0 +1,8 @@
+#Infinite Health P1
+80032146 00A6
+#P1 Always has Full Aggressor
+80032646 00CC
+#? in Options is Available	
+80032638 0001
+#No Health P2	
+800322BE 0000

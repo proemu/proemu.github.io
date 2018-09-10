@@ -1,0 +1,4 @@
+#Infinite energy in battle main character
+801490B4 0096
+#Infinite Money
+80103F30 FFFF

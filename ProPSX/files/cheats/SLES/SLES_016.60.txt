@@ -1,0 +1,34 @@
+#0 Laps To Race
+8009CBBC 0000
+#Always Place 1st
+D009CBBC 0001
+3009CBB9 0001
+#Start On Last Lap Easy
+3009CBB8 0003
+#Start On Last Lap Hard
+3009CBB8 0004
+#Start On Last Lap Expert
+3009CBB8 0005
+#Enable Scorpio, Taurus, Yuri & mirror mode
+80010D30 FFFF
+#Enable Scorpio, Taurus, Yuri & mirror mode (Press L1 & L2 & R1 & R2)
+D01F5BE4 000F
+80010D30 FFFF
+#Press R2 And x For Super Turbo Mode.
+E01F5BE4 0042
+8015957E 6300
+E01F5BE4 0042
+801596FE 6300
+E01F5BE4 0042
+8015963E 6300
+E01F5BE4 0042
+801597BE 6300
+#Seasick Camera
+8009C068 0100
+#Corkscrew Camera
+8009C064 0000
+8009C066 0000
+#Invisible Car
+80159B40 FFFF
+
+

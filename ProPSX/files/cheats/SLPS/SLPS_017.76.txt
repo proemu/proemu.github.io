@@ -1,0 +1,22 @@
+#Infinite HP in battle Gundam
+801BD150 0833
+#Infinite HP in battle 2nd Gundam (Girl)
+801BD428 03E7
+#Infinite HP in battle W Gundam
+801BD3F0 03E7
+#Maximum Gold
+801D9FE4 423F
+801D9FE6 000F
+#No Random Battles 
+800575C2 AC60
+#The MAX status when you level-up 
+8002EDCC 0001 
+8002EDFC 0001 
+8002EE08 03E7 
+8002EE2C 0001 
+8002EE5C 0001 
+8002EE8C 0001 
+8002EEBC 0001 
+8002EEEC 0001
+#Power of the attack to be given to the enemy 
+801E36BC 03E7

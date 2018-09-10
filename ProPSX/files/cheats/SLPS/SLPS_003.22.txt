@@ -1,0 +1,10 @@
+#Infinite Health
+800B7EC4 FFFF
+#Infinite Bazooka Ammo
+800841A6 0005
+#Infinite Grenades
+801F1BCC 000F
+#Infinite Flamethrower Fuel
+800841A8 0096
+#Infinite M60 Ammo
+800841AA 0096

@@ -1,0 +1,11 @@
+#Infinite Energy
+801D4FE0 00C0
+#Max Level
+8009E054 0063
+#Max Exp
+801D4D90 9698
+801D4D92 007F
+#Death blow mode Press SELECT 
+D009EA70 FEFF 
+801D4FE2 FFFE 
+

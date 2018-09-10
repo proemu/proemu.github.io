@@ -1,0 +1,52 @@
+#Yamato Infinite HP 
+801B55B4 2710 
+#Yamato Infinite EN 
+801B550A 4E20
+#Space Battleship Yamato Yamato hull 
+801B55B4 7530 
+301B7C8C 00C8 
+#Space Battleship Yamato Infinite Energy 
+801B550A 5DC0 
+801EDA84 5DC0 
+#First main gun Infinite Ammo 
+801B7BF4 03E8 
+#Second main gun Infinite Ammo
+801B7BFC 03E8 
+#Third main gun Infinite Ammo
+801B7C04 03E8 
+#Ancient Susumu HP Max
+301B7AD0 0064 
+#Daisuke Island HP Max
+301B7ADC 0064 
+#Forest snow HP Max
+301B7AE8 0064 
+#Shiro Sanada HP Max
+301B7AF4 0064 
+#Yoshikazu Aihara HP Max
+301B7B00 0064 
+#Southern Yasuo HP Max
+301B7B0C 0064 
+#Kenjiro Ota HP Max
+301B7B18 0064 
+#Tokugawa Hikozaemon HP Max
+301B7B24 0064 
+#Saito Hajime HP Max
+301B7B30 0064 
+#Saburo Kato HP Max
+301B7B3C 0064 
+#Akira Yamamoto HP Max
+301B7B48 0064 
+#Sado brewing HP Max
+301B7B54 0064 
+#Novice Hyota HP Max
+301B7B60 0064 
+#Analyzer HP Max
+301B7B6C 0064 
+#Hand-to-hand combat 1 person Infinite HP  
+801EDBB2 0064 
+#Hand-to-hand combat 2 person Infinite HP 
+801EDBE6 0064 
+#Hand-to-hand combat 3 person Infinite HP  
+801EDC1A 0064 
+#Hand-to-hand combat 4 person Infinite HP 
+801EDC4E 0064 

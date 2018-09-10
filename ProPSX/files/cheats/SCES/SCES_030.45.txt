@@ -1,0 +1,46 @@
+#Beginne mit viel Gold	
+800BAF44 8760
+800BAF46 0003
+#Gold nimmt zu	
+D010B568 1023
+3010B568 0021
+#Jederzeit speichern	
+3005A650 0001
+#Keine zufälligen Kämpfe	
+800C6DD0 0000
+#Alle Charaktere Unendlich HP	
+5000092C 0000
+800BB1E4 270F
+#Alle Charaktere Unendlich MP	
+5000092C 0000
+800BB1E6 03E7
+#Alle Charaktere Unendlich SP	
+5000092C 0000
+800BB1E8 03E7
+#Unendlich  & Max HP Albert	
+800BB2C0 270F
+800BEC66 270F
+#Unendlich  & Max HP Dart
+800BB1E4 270F
+800BE946 270F
+#Unendlich  & Max HP Haschel
+800BB294 270F
+800BEBC6 270F
+#Unendlich  & Max HP Kongol
+800BB318 270F
+800BEDA6 270F
+#Unendlich  & Max HP Lawitz
+800BB210 270F
+800BE9E6 270F
+#Unendlich  & Max HP Meru
+800BB2EC 270F
+800BED06 270F
+#Unendlich  & Max HP Miranda
+800BB344 270F
+800BEE46 270F
+#Unendlich  & Max HP Rose
+800BB268 270F
+800BE676 270F
+#Unendlich  & Max HP Shanna
+800BB23C 270F
+800BEA86 270F

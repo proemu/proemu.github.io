@@ -1,0 +1,14 @@
+#999 Ap Main Character
+8018C580 03E7
+#999 Hp First Female Warrior
+8018C984 03E7
+#999 Hp Second Female Warrior (Long Hair)
+8018CB34 03E7
+#999 Hp Second Female Warrior (Short Hair)
+8018CA5C 03E7
+#999 HP Fourth Female warrior
+8018CAC8 03E7
+8018CACA 03E7
+#999 HP Fifth Female warrior
+8018C9F0 03E7
+8018C9F2 03E7

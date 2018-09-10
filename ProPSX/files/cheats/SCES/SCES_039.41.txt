@@ -1,0 +1,12 @@
+#Energia Infinita
+800C765E 0003
+#Infinitos Diodos
+800B63C0 0063
+#999 Monedas
+800C4970 03E7
+#Todas las peliculas,escenarios y personajes (Necesita una partida guardada para funcionar)
+300C49C9 0001D
+#6 Piezas Del Diario
+800C49cA 0006
+#99 Atomos Piratas
+800C4998 0063

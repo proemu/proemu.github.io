@@ -1,0 +1,10 @@
+#Maximum Ribbons  
+8009A870 270F 
+#One Flag Needed to Victory  
+D009A42A 0001
+8009A42A 0012 
+#One Horseshoe Needed to Have All  
+D01FC9C4 0001
+801FC9C4 001A 
+ 
+

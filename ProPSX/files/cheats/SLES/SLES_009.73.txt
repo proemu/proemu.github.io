@@ -1,0 +1,26 @@
+#Leon-Codes\Infinite Health
+800C6B52 00FF
+#Leon-Codes\Have Shot Gun L1 + Square
+D00C5144 0084
+800CB840 FF07
+#Leon-Codes\Have Custom Shotgun L2 + Triangle
+D00C5144 0011
+800CB840 FF08
+#Leon-Codes\Have Magnum L1 + Triangle
+D00C5144 0014
+800CB840 FF05
+#Leon-Codes\Have Custom Magnum L1 + X
+D00C5144 0044
+800CB840 FF06
+#Leon-Codes\Have Gatling Gun R2 + Square
+D00C5144 0082
+800CB840 FF12
+#Leon-Codes\Have Flame Thrower R2 + Triangle
+D00C5144 0012
+800CB840 FF10
+#Leon-Codes\Have Rocket Launcher R2 + X
+D00C5144 0042
+800CB840 FF11
+#Leon-Codes\Have The Bag
+800CB6C4 0001
+

@@ -1,0 +1,14 @@
+#Inf Hp Character Red
+801948A0 03E7
+#Inf Bp Character Red
+801948A4 03E7
+#Inf Hp Character Blue
+801948D4 03E7
+#Inf Hp Character Yellow
+80194908 03E7
+#Inf Hp Character Green
+8019493C 03E7
+#Inf Hp Character Pink
+80194970 03E7
+
+

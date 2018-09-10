@@ -1,0 +1,27 @@
+#Each Trick is Worth Max Points
+8008554A 2402
+80085548 FFFF
+#Mega Boost With Up
+E00388C1 0010
+8003883C 1400
+#Great Trick Score
+8003872E 0098
+#Infinite Time L1 for 15 points/L2 for 0 points
+80038724 1200
+#Bonus Points
+D00988C0 0004
+801FAC00 000F
+D00988C0 0001
+801FAC00 0000
+#Max Character-Codes
+50000501 0000
+301FA9F0 000F
+#Unlock All Levels
+8008D3F8 FFFF
+#Unlock All Characters
+8008D400 FFFF
+#Unlock All Boards
+8008D404 FFFF
+8008D406 FFFF
+#Unlock Movieplayer	
+8008D3F4 0002

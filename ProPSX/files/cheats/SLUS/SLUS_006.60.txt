@@ -1,0 +1,21 @@
+#Infinite Energy Robo
+800CD742 012C
+#Infinite Health
+800CD744 0064
+#Invincible
+800CD756 0025
+#Stop Timer
+800D42E8 0000
+#Time 00:00:00
+800D42E8 0000
+800D42EA 0000
+#Max Whistles
+300D42CB 0063
+#Infinite Jet Pack Fuel With Black Smoke	LocoGamer@aol.com	
+800CD742 FFFF
+#Open All Pictures
+50000F01 0000
+300D4288 000F
+#Open Bonus Pictures/Movies/& Be At The End Of The Game!
+50003301 0000
+300D4297 00FF

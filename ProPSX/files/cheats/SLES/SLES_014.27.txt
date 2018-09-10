@@ -1,0 +1,8 @@
+#Home Team scores 9	
+8006A3BE 0009
+#Home Team scores 0	
+8006A3BE 0000
+#Away Team scores 9	
+8006CE7E 0009
+#Away Team scores 0	
+8006CE7E 0000

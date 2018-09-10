@@ -1,0 +1,10 @@
+#Infinite Energy
+8008C0E8 0014
+#Infinites Lives
+8007D9D8 0005
+800C93F0 0005
+#Max gems
+8007D9D4 03E7
+#Max eggs
+800C9452 0009
+

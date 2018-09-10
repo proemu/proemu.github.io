@@ -1,0 +1,34 @@
+#Infinite energy 	
+800B98F0 FFFF 		
+#Infinite air 	
+80116D0C 015E 		
+#All weapons & items  	
+50000E02 0000
+80040A38 0002 		
+#A lot of money 	
+800407AE 03FF
+#Unlock all missions 	
+30032595 0001
+30032596 0001
+30032597 0001
+30032598 0001
+30032599 0001
+3003259A 0001
+3003259B 0001
+3003259C 0001
+3003259D 0001
+3003259E 0001
+3003259F 0001
+300325A0 0001
+#Super speed 	
+80099CF8 0100 		
+#Infinite payload 	
+8003248C 0101 		
+#Infinite time 	
+80033080 0000 		
+#Have all subs 	
+800440F8 00FF 		
+#Infinite energy (alternate) 	
+80099CF8 0001
+#Hunting licence 	
+8003248E 0001

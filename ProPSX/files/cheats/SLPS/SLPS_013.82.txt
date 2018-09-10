@@ -1,0 +1,4 @@
+#Infinite Hp
+8008435A 0064
+#0 stamina opponent
+30084386 0000

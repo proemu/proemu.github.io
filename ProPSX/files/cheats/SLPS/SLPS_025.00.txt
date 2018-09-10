@@ -1,0 +1,7 @@
+#Infinite money 
+800BAF88 967F 
+800BAF8A 0098 
+#Money 32768 Yoshimoto circle 
+800D6B24 8000 
+#COIN  9999 sheets
+800BB0C4 270F 

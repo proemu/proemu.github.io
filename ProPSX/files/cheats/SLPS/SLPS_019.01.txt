@@ -1,0 +1,8 @@
+#Invincible
+8006D09E 0050
+#Infinite Magic
+8006D018 0004
+#Silver Key
+8006D01C 0001
+#Gold Key
+8006D034 0001

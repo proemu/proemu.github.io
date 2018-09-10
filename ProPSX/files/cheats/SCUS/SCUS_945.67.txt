@@ -1,0 +1,18 @@
+#Start At Million $ Question 	
+E01FFE74 0000
+301FFE74 000E
+#Infinite 50/50 	
+E01FFED0 0000
+301FFED0 0001
+#Infinite Ask The Audience 	
+E01FFED2 0000
+301FFED2 0001
+#Infinite Lifelines 	
+E01FFE78 0002
+301FFE78 0003
+#Infinite Phone A Friend 	
+E01FFED1 0000
+301FFED1 0001
+#Add Time-Controller 1 (Press Select)		
+D0044C6E FFFE
+300475D0 0000

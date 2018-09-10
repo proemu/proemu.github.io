@@ -1,0 +1,144 @@
+#Infinite Health (Surviving The Y)
+801C54D4 0064
+#Infinite Health (First Blood)
+801C64E4 0064
+#Infinite Health (Parklife)
+801C85AC 0064
+#Infinite Health (Speedway)
+801C591C 0064
+#Infinite Health (Trial By Fire)
+801C508C 0064
+#Infinite Health (Super Bowl)
+801C8114 0064
+#Infinite Health (Pit Area)
+801C5404 0064
+#Infinite Health (Downtown)
+801C8744 0064
+#Infinite Health (Eightway)
+801C4C64 0064
+#Infinite Health (Pits Of Fury)
+801C122C 0064
+#Infinite Health (Operating Table)
+801C7A1C 0064
+#Infinite Health (High And Mighty)
+801C352C 0064
+#Infinite Health (Laser Maze)
+801C95CC 0064
+#Infinite Health (Swamp Wave)
+801C6CD4 0064
+#Infinite Health )Highpass Loop)
+801C3A0C 0064
+#Infinite Health (Tabletop)
+801C346C 0064
+#Infinite Health (Ground Zero)
+801C795C 0064
+#Infinite Health (Fortress)
+801C39B4 0064
+#Infinite Health (Hill Of Jeopardy)
+801C2984 0064
+#Infinite Health (Showtime)
+801C851C 0064
+#Infinite Health (Laser Run)
+801C8D4C 0064
+#Infinite Health (Fireball)
+801C9A7C 0064
+#Infinite Health (The Elbow)
+801C8984 0064
+#Infinite Health (Channel Run)
+801C1DBC 0064
+#Infinite Health (Marsh Rally)
+801C44CC 0064
+#Infinite Health (Surfing 101)
+801C4B34 0064
+#Infinite Health (Mudskipper)
+801C918C 0064
+#Infinite Health (Focal Point)
+801C4674 0064
+#Infinite Health (Apex Twin)
+801C85F4 0064
+#Infinite Health (Circuitous)
+801C7B54 0064
+#Infinite Health (The Pit)
+801C1E1C 0064
+#Infinite Health (Gateway)
+801C38E4 0064
+#Infinite Health (Crossfire)
+801C5D6C 0064
+#Infinite Health (The Waste Dump)
+801C821C 0064
+#Infinite Health (T Junction)
+801C3FE4 0064
+#Infinite Health (Double Whammy)
+801C5354 0064
+#Infinite Health (Wave Hill)
+801C2D04 0064
+#Infinite Health (The Borehole)
+801C9CA4 0064
+#Infinite Health (Fire Ridge)
+801C3AD4 0064
+#Infinite Health (Racers Leap)
+801C47DC 0064
+#Infinite Health (Swamp Hopper)
+801C8A84 0064
+#Infinite Health (Switch Hitter)
+801C9724 0064
+#Infinite Health (Shellshock)
+801C575C 0064
+#Infinite Health (The 5 Chambers)
+801C23BC 0064
+#Infinite Health (Plateau Of Peril)
+801C2D04 0064
+#Infinite Health (Pipe Ruins)
+801C8AF4 0064
+#Infinite Health (X-Up)
+801C9B44 0064
+#Infinite Health (Carvers Delight)
+801C52EC 0064
+#Infinite Health (Razorblade Kisses)
+801C4B2C 0064
+#Infinite Health (Under Pressure)
+801C6AEC 0064
+#Infinite Health (Island Of Hurt)
+801C45FC 0064
+#Infinite Health (Crossbowl)
+801C89CC 0064
+#Infinite Health (The Snake)
+801C9964 0064
+#Infinite Health (Gridiron)
+801C30E4 0064
+#Infinite Health (Slider)
+801C9B3C 0064
+#Infinite Health (Gillams Island)
+801C33A4 0064
+#Infinite Health (The Canyon)
+801C2B9C 0064
+#Infinite Health (Showdown)
+801C7CA4 0064
+#Infinite Health (Cannon Bowl)
+801C8524 0064
+#Infinite Health (Bombshell)
+801C8D24 0064
+#Infinite Health (Gun Alley)
+801C478C 0064
+#Infinite Health (Switchback)
+801C8DAC 0064
+#Infinite Health (Dos Dedos)
+801C997C 0064
+#Infinite Health (Straight Up)
+801C4354 0064
+#Infinite Health (Under Fire)
+801C984C 0064
+#Infinite Health (Prize Fighter)
+801C1864 0064
+#Infinite Health (Bennys Pit)
+801C7ADC 0064
+#Infinite Health (Angels Arena)
+801C66DC 0064
+#Infinite Health (Sophies Gauntlet)
+801C470C 0064
+#Infinite Health (Apostles Temple)
+801C6E7C 0064
+#Infinite Health (Lockdowns Lair)
+801C4A24 0064
+#Infinite Health (Final Conflict)
+801C2D24 0064

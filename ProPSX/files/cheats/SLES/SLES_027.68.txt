@@ -1,0 +1,66 @@
+#Great Britain Team - Smith Infinite HP - Mission 2
+801099E5 0019
+#Great Britain Team - Percy Infinite HP - Mission 2
+80108885 0019
+#Great Britain Team - Monty Infinite HP - Mission 2
+80107725 0019
+#Great Britain Team - Billy Infinite HP - Mission 2
+801065C5 0019
+#Great Britain Team - Basil Infinite HP - Mission 2
+801044E5 0019
+#Infinite PP Points
+8002B5CE 0063
+#Infinite Player turn time
+80029181 0005
+#Mission Boot Camp 	
+8002B5D1 0000
+#Mission  The War Foundation	
+8002B5D1 0001
+#Mission Routine Patrol 	
+8002B5D1 0002
+#Mission Trench Warfare 	
+8002B5D1 0003
+#Mission Morning Glory 	
+8002B5D1 0004
+#Mission Island Invasion 	
+8002B5D1 0005
+#Mission Under Siege	
+8002B5D1 0006
+#Mission Communication Breakdown 	
+8002B5D1 0007
+#Mission The Spying Game 	
+8002B5D1 0008
+#Mission The Village People	
+8002B5D1 0009
+#Mission Bangers 'N' Mash 	
+8002B5D1 000A
+#Mission Saving Private Rind	
+8002B5D1 000B
+#Mission Just Deserts	
+8002B5D1 000C
+#Mission Glacial Guns	
+8002B5D1 000D
+#Mission Battle Stations 	
+8002B5D1 000E
+#Mission Fortified Swine 	
+8002B5D1 000F
+#Mission Over The Top	
+8002B5D1 0010
+#Mission Geneva Convention	
+8002B5D1 0011
+#Mission I Spy.....
+8002B5D1 0012
+#Mission Chemical Compound	
+8002B5D1 0013
+#Mission Achilles Heal	
+8002B5D1 0014
+#Mission High And Dry	
+8002B5D1 0015
+#Mission Assassination	
+8002B5D1 0016
+#Mission Hero Warship	
+8002B5D1 0017
+#Mission Hamburger Hill	
+8002B5D1 0018
+#Mission Well, Well, Well!
+8002B5D1 0019

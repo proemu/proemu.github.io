@@ -1,0 +1,14 @@
+#Infinite Energy P1
+8009473A 0190
+#Infinite Energy P2
+8009474C 0190
+#No Need to Reload P1	
+E0095ACC 00EA
+30095ACC 00FF
+#No Need to Reload P2	
+E0095ADC 00EA
+30095ADC 00FF
+#Press L2+R2 on Options for Debug Menu		
+E0051A00 0003
+3000E2E0 0003
+

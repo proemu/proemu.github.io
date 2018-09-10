@@ -1,0 +1,12 @@
+#Player money (999999)
+8008465C 423F
+8008465E 000F
+#Player has 99999 points
+8007859C 869F
+8007859E 0001
+#Opponent 1 has 0 points
+80078590 0000
+#Opponent 2 has 0 points
+80078594 0000
+#Opponent 3 has 0 points
+80078598 0000

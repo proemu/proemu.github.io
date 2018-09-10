@@ -1,0 +1,5 @@
+#Infinite Strokes (Iceland Golf)
+8008D8FC 0009
+#All Postcards/All Levels Unlocked
+8008DA5A FFFF
+8008DA58 FFFF

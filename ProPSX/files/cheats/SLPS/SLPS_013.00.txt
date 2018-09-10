@@ -1,0 +1,39 @@
+#Arcade Mode\P1 Infinite Energy
+300AAAB6 008C
+#Arcade Mode\P1 Infinite Energy
+300AC342 008C
+#Arcade Mode\P1 No Energy
+800AAAB6 0000
+#Arcade Mode\P2 No Energy
+800AC342 0000
+#Arcade Mode\Most Character Include Alternate Costumes
+800992C8 FFFF
+800992CA 001F
+800992CE 0005
+#Arcade Mode\Enable Tiger .You need to go to Eddy in the character selection screen and press start button to use Tiger.
+800992CC 0382
+#Arcade Mode\Total Time
+800B0F4C 0000
+#Arcade Mode\Enable Theater Mode
+300992FE 0003
+#Arcade Mode\Enable All Movies In Theater Mode
+800992D0 FFFF
+800992D2 FFFF
+800992D4 FFFF
+#Arcade Mode\Enable Tekken Ball Mode
+300992FF 0003
+#Arcade Mode\Infinite Time To Choose Character
+80119D0C 0713
+#Tekken Force Mode\Infinite Hp
+300AAAB6 008C
+#Tekken Force Mode\No Health Enemies
+800AC342 0000
+800ADBCE 0000
+#Tekken Force Mode\Infinite Time
+800AF064 FFFF
+#Tekken Force Mode\Have All Keys
+800992F0 0103
+#Tekken Force Mode\Funny With Opening, It Will Take Effect On Second Opening
+300992F8 0002
+#Tekken Force Mode\Warp To Last Stage
+800B0F44 0009

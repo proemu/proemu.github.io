@@ -1,0 +1,15 @@
+#Refresh health (press L2+R2)  
+D008FD7C 0003
+8008E094 0924 
+#999 coins (Press L2+R2)  
+D008FD7C 0003
+8008E096 0F9C 
+#Infinite golden keys  
+3008E0A6 0090 
+#Infinite silver keys  
+3008E0A1 0090 
+#Invincible  
+800D717C 0002 
+
+ 
+

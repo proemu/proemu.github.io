@@ -1,0 +1,9 @@
+#Quick Money Gain
+80129E08 FFFF
+#Max Money
+80129E08 E0FF
+80129E0A 05F5
+#Never Reload
+8012025C 0500
+#Infinite Health
+800D6AAC 0024

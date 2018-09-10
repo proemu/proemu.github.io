@@ -1,0 +1,21 @@
+#1 Fight For 99 Lv
+800834D2 00FF
+#Max At&Df
+3008353D 0064
+3008533E 0064
+#All Recover Item on Wreath	
+D00A0004 0001
+80011F80 0201
+#Infinite Money
+80012BB8 E0FF
+80012BBA 05F5
+#Infinite Hp
+80089480 FFFF
+#99 Level
+80089468 6300
+#Max Attack
+8008947E FFFF
+#Max Defence
+800894BC FFFF
+#Infinite Money Alternate
+80089550 FFFF

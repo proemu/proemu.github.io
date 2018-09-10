@@ -1,0 +1,9 @@
+#Infinite health 	
+800D96A4 4000
+800D96A6 0006
+#Invincible 	
+800D93E0 0000
+#Infinite shield lander mission 5
+800D9E34 03E8
+#Have All Characters
+800D9D10 FFFF

@@ -1,0 +1,79 @@
+#Infinite Hp
+800A2904 00C8
+#Infinite Vp
+800A291C 0019
+#Infinite Left Hand Power		
+800A2920 0047
+#Always Have Left Hand	
+300A2D28 0001
+#Have All Items	
+50002401 0000
+300A2D28 0063
+#Have Vampeal Powers	
+800A294E 0000
+#Have Map B1	
+300A2D33 0001
+#Have Map B2	
+300A2D32 0001
+#Have Map Level 1	
+300A2D30 0001
+#Have Map Level 2	
+300A2D31 0001
+#Have Map Level 3	
+300A2D34 0001
+#Have Map Level 4	
+300A2D35 0001
+#Have Map Moon Tower	
+300A2D37 0001
+#Have Map Sun Tower	
+300A2D36 0001
+#Have Blue Key	
+300A2D45 0001
+#Have Gold Plate	
+300A2D3B 0001
+#Have Green Gem	
+300A2D43 0001
+#Have Leila's Gun	
+300A2D47 0001	
+#Have Mirror Room Key	
+300A2D40 0001
+#Have Moon Tower Key	
+300A2D42 0001
+#Have Music Box Key	
+300A2D4B 0001
+#Have No Vampeal Powers	
+800A294E 0001
+#Have Plate of Earth	
+300A2D3F 0001
+#Have Plate of Fire	
+300A2D3C 0001
+#Have Plate of Water	
+300A2D3D 0001
+#Have Plate of Wind	
+300A2D3E 0001
+#Have Power Plug	
+300A2D38 0001
+#Have Purple Gem	
+300A2D44 0001
+#Have Red Key	
+300A2D46 0001
+#Have Silver Plate	
+300A2D3A 0001
+#Have Sun Tower Key	
+300A2D41 0001
+#Have Wrench	
+300A2D4A 0001
+#Have 99 Antidotes	
+300A2D2E 0063
+#Have 99 Blood Pills	
+300A2D2D 0063
+#Have 99 Elemental Stones	
+300A2D2F 0063
+#Have 99 Flash Bombs	
+300A2D2B 0063
+#Have 99 Hand Grenades	
+300A2D2A 0063
+#Have 99 Potions	
+300A2D2C 0063
+#Have 99 Wooden Darts	
+300A2D29 0063

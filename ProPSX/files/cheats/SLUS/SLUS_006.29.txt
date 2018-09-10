@@ -1,0 +1,6 @@
+#Infinite Turbo
+801B5B84 4000
+#Confidence Meter At Above Maximum		
+801B5C20 FFFF
+#Confidence Meter At Full		
+801B5C20 0FFF

@@ -1,0 +1,50 @@
+#Four Times The Initial Allotted Time
+80014D9C 1880
+80014D9E 0003
+#All Available Routes (data is not reflected in saves)
+D0071828 1880
+80071838 0085
+D0071828 1880
+8007183A 1000
+#When driving time does not decrease even under penalty
+8001E236 1000 
+#Stop at that time does not decrease even under penalty
+D0068E90 1023 
+80068E92 0060
+#Penalty invalid speed limit sign-ATC
+8002D740 7FFF 
+8002D742 2402 
+#Penalty invalid deceleration signal
+D0066F5C 003C 
+80066F5E 1000 
+#Invalid penalty emergency brake use
+8002A812 1000 
+#Invalid penalty overrun
+8002C4C0 04A0 
+8002C4C2 AF80 
+#Invalid penalty venue re-acceleration
+8002C4DE 3005 
+#Invalid penalty emergency braking stop
+8002C4EA 3007
+#The Venus in route selection Movies, also will be added. 
+D0071A18 0006 
+80071A20 000F
+D0071A18 0006 
+80071A22 2402 
+D0071A18 0006 
+80071A2A A082 
+#Route is selected, you can change weather by press select button 
+8001300E 2402 
+#Accelerated turbo 2000 
+80026DF0 1000 
+#Brake strengthening 
+800265B8 8203 
+#Stop in an instant if you put brake 
+800265B8 0777 
+800265BA 3C10 
+#Become a PRO mode treats When you finish 
+8002F9D4 0002 
+8002F9D6 2402 
+
+
+

@@ -1,0 +1,8 @@
+#Infinite Bolts
+80078B20 0025
+#Infinite Health
+80122FA8 000C
+#Infinite Lives
+80078B14 000A
+#Low Temperature Gauge
+80078B18 0170

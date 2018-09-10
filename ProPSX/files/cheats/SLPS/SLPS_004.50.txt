@@ -1,0 +1,18 @@
+#Hidden Character
+8009C470 0001
+#1P Games Win 5
+800C2B68 0005 
+#1P Games Win 6
+800C2B68 0006 
+#1P PoinS 40 
+8009C434 0003 
+#To be able to put things as long as you allow the place in your own coat
+8009C624 0000 
+801F16EE 0000 
+801F16F0 0000 
+801F16F2 0000 
+#Coupon MAX
+801F156E 03E7 
+#Item fully open
+50007F01 0000 
+301F157C 0063 

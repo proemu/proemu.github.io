@@ -1,0 +1,28 @@
+#Assault Infinite Lives (Both Players) 	
+801DCA3A 0005
+#Assault Infinite Time (Both Players) 	
+801DCA5A 0063
+#Ordyne Infinite Infinite Credits 	
+800C5664 0009 		
+#Ordyne Infinite Lives P1 	
+800C55C8 0005 		
+#Ordyne Infinite Lives P2 	
+800C55CA 0005
+#The Return of Ishtar Infinite Credits 	
+8015A7B8 0009 		
+#The Return of Ishtar Infinite Guys 	
+8015A3C0 000F
+#Pacland Infinite Credits 	
+80057F46 0009 		
+#Pacland Infinite Lives (Both Players) 	
+30058055 0005 		
+#Pacland Infinite Time (Both Players) 	
+800580BC 0909
+#Infinite Credits 	
+800A05EC 0009 		
+#The Genji and the Heike Clans Infinite Energy (Both Players) 	
+300A01B0 0032 		
+#The Genji and the Heike Clans Infinite Money (Both Players) 	
+300A01C1 0063 		
+#The Genji and the Heike Clans Infinite Sword (Both Players) 	
+300A01C9 0063

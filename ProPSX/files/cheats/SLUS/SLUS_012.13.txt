@@ -1,0 +1,11 @@
+#Start On Lap 3
+D005D8D0 0000
+8005D8D0 0002
+#Max Points
+8004D71C FFFF
+#Freeze Timer
+8004D724 0000
+#Unlock All Obstacle Courses
+8005D8EE 000F
+#Have Speed Burst	
+8004D6F0 0001

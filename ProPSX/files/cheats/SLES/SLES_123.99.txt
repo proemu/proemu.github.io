@@ -1,0 +1,18 @@
+#Unendlich HP Justin
+80010278 03E7
+#Max HP Justin
+80010276 03E7
+#Unendlich SP Justin
+80010284 03E7
+#Unendlich HP Feena	
+800102F8 03E7
+#Max HP	Feena 
+800102F6 03E7
+#Unendlich SP Feena
+80010304 03E7
+#Unendlich Goldstücke	
+80010166 0098
+#Besitze alle Zauber alle Charaktere	
+50003201 0000
+3001066C 00FF
+800106CE FFFF

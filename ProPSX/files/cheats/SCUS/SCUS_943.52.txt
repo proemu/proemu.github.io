@@ -1,0 +1,27 @@
+#Truck Modifier Enzo
+8003A620 0000
+#Truck Modifier Nadia
+8003A620 0001
+#Truck Modifier Karl
+8003A620 0002
+#Truck Modifier Lean
+8003A620 0003
+#Truck Modifier Aaron
+8003A620 0004
+#Truck Modifier Miyuki
+8003A620 0005
+#Truck Modifier Nail
+8003A620 0006
+#Truck Modifier Bear
+8003A620 0007
+#Truck Modifier Michelle
+8003A620 0008 
+#Time Below 00'01'00
+801DDA8C 0000
+#Infinite Energy
+801DBE10 0000
+#Car Crush Point Mas P1
+800BB0C0 FFFF
+#Car Crush Point Max P2
+800BB0C2 FFFF
+

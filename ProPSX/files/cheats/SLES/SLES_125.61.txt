@@ -1,0 +1,20 @@
+#Infinite Hp 
+80074F70 270F
+#Infinite Mp
+80074EF4 0064
+#Infinite 9mm Ammo CD1
+80073BE9 0063
+#Infinite Granadas Ammo
+80073B51 0063
+#Infinite 5'56 mm Rifle Ammo CD1
+80073B79 0063
+#Infinite 9mm Hydra Ammo CD1
+80073B09 0063
+#Infinite 5'56 mm Rifle Ammo CD2
+80073BA1 0063
+#Infinite 9mm Hydra Ammo CD2
+80073B11 0063
+#Exp
+80074EE0 1770
+#Bp
+80074F64 FFFF

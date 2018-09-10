@@ -1,0 +1,24 @@
+#Infinite Health
+D0015C22 0044
+80024C0E 3C00
+#Infinite Time
+D0015C22 0044
+80015C2E 3C00
+#Infinite Ammo
+D0015C22 0044
+80025DF8 0000
+#Infinite Grenades
+D0015C22 0044
+800323A8 0000
+#Infinite Shells
+D0015C22 0044
+800324B0 0000
+#Infinite Explosive Charge
+D0015C22 0044
+80032458 0000
+#Infinite Mi8
+D0015C22 0044
+80032400 0000
+#Invulnerable cheat menu (Open the pause menu) 
+D0064D0C 0000
+80064D0C 0100

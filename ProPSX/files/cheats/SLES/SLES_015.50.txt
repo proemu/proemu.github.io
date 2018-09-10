@@ -1,0 +1,13 @@
+#Unendlich Komponenten	
+8008558C 0066 
+8008 5590 0066 
+8008 5594 0066
+#Unendlich Forscher
+80085588 0066
+#Infinite Shields 
+80015F30 2400
+#Unendlich Zeit	
+80032400 E942
+#Missionsanwahl(01-12)	
+800711D4 0012
+

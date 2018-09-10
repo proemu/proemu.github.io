@@ -1,0 +1,37 @@
+#RPG Mode Infinite Health 	
+801E84D0 0080
+#RPG MOde Infinite Money 	
+801F37D0 FFFF 	
+#P1 Infinite Health
+8011EADE 00B8
+#P1 Infinite Special Energy
+8011F7D6 00D0
+#Time is Always 0:00:01
+800F6C30 0000
+#Enable All Characters
+801F19FC FFFF
+801F19FE FFFF
+#Enable All Endings
+801F1A00 FFFF
+#Infinite Time To Choose Character
+800F69EE 0EB2
+#Infinite Battle Time
+800F6C94 0930
+#P1 No Special Energy
+8011F7D6 0000
+#P2 Infinite Health
+801228F2 00B8
+#P2 1 Hit Death
+D01228F2 00B8
+801228F2 0000
+#P2 Infinite Special Energy
+801235EA 00D0
+#P2 No Special Energy
+801235EA 0000
+#Box Always On
+800F7FD4 0001
+#Box Always Off
+800F7FD4 0000
+#P1 Character Modifier (00-12)
+800F69FC 0012
+

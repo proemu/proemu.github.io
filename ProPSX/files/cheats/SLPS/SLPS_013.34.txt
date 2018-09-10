@@ -1,0 +1,6 @@
+#Infinite energy main character
+801DA756 03E7
+801DA758 03E7
+801DA748 03E7
+#Infinite energy second character
+800B6A78 03E7

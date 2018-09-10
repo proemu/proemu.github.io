@@ -1,0 +1,4 @@
+#Infinite Time
+80061868 FFFF
+#Infinite Ammo
+8019CDDC 03E7

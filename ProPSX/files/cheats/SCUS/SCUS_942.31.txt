@@ -1,0 +1,16 @@
+#P1 Infinite Freestyle Time
+80143BD0 2400
+#P2 Infinite Freestyle Time
+801430B8 2400
+#Fake Always First
+8014E0B8 0001
+#Max Tournament Points
+30010224 00FF
+#Max Points To Buy Equipment (Do not activate code 'Max Points to Buy Equipment' together with codes 'Have all characters' and 'Have all equipments for all characters', because they don't work together. First activate the #have all characters and their equipments#, save the game, then activate the #infinite points to buy equipment# code and then buy all the equipment. And then there you go!)
+8001010A 00FF
+#Have All Characters (Do not activate code 'Max Points to Buy Equipment' together with codes 'Have all characters' and 'Have all equipments for all characters', because they don't work together. First activate the #have all characters and their equipments#, save the game, then activate the #infinite points to buy equipment# code and then buy all the equipment. And then there you go!)
+50001401 0000
+30010072 0001
+#Have All Equipments For All Characters (Do not activate code 'Max Points to Buy Equipment' together with codes 'Have all characters' and 'Have all equipments for all characters', because they don't work together. First activate the #have all characters and their equipments#, save the game, then activate the #infinite points to buy equipment# code and then buy all the equipment. And then there you go!)
+50005701 0000
+300100A6 0001

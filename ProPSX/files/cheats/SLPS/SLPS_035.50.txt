@@ -1,0 +1,10 @@
+#Infinite HP in battle Lufi
+801DC454 0190
+#Infinite attack power
+801DC424 0004
+#Have 999999999 money
+80146700 E0FF
+80146702 05F5
+#Infinite HP Ship (Going Mary)
+801981BA 0145
+

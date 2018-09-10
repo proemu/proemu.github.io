@@ -1,0 +1,86 @@
+#Always Place 1st 	
+8005F49E 2400
+800BBC6E 0000
+800BBC76 0100
+800BBC7E 0200
+800BBC86 0300
+800BBC8E 0400
+800BBC96 0500 	
+.With these codes, do not combine Quick Win with Always Place 1st or Lap Modifier, and do not combine Always Place first, with Lap Modifier or Quick Win.	Thunder2
+#Infinite Turbo P1 	
+800CCF1A 0240 		
+#Lap Time 0:00.00 	
+8005F49E 2400 		
+#Hard To Kill P1 	
+800CCF26 00FF
+#Quick Win & Place 1st 	
+8005F49E 2400
+30010F6F 0000
+800BBC6E 0000
+800BBC76 0100
+800BBC7E 0200
+800BBC86 0300
+800BBC8E 0400
+800BBC96 0500
+#Play As\Spirit
+80010000 0300
+#Play As\Wild Ride
+80010000 0301
+#Play As\Tetsujin
+80010000 0302
+#Play As\Vampeera
+80010000 0303
+#Play As\The Max
+80010000 0304
+#Play As\Raven
+80010000 0305
+#Play As\Bomber
+80010000 0306
+#Play As\Convict
+80010000 0307
+#Play As\Angel
+80010000 0308
+#Play As\Technician
+80010000 0309
+#Play As\Granny
+80010000 030A
+#Play As\Captain Ballard
+80010000 030B
+#Race At\Devil's Canyon To get the correct track start a race, then quit, go back and start the race again
+8009955E 0000
+#Race At\Volcano Island To get the correct track start a race, then quit, go back and start the race again
+8009955E 0100
+#Race At\Khumbufalls To get the correct track start a race, then quit, go back and start the race again
+8009955E 0200
+#Race At\Urban Subway To get the correct track start a race, then quit, go back and start the race again
+8009955E 0300
+#Race At\Lost City To get the correct track start a race, then quit, go back and start the race again
+8009955E 0400
+#Race At\Catacombs To get the correct track start a race, then quit, go back and start the race again
+8009955E 0500
+#Race At\Skypark To get the correct track start a race, then quit, go back and start the race again
+8009955E 0600
+#Race At\Shipwreck Cove To get the correct track start a race, then quit, go back and start the race again
+8009955E 0700
+#Race At\Macchu Picchu To get the correct track start a race, then quit, go back and start the race again
+8009955E 0800
+#Race At\Sequoia Forest To get the correct track start a race, then quit, go back and start the race again
+8009955E 0900
+#Race At\Planet x To get the correct track start a race, then quit, go back and start the race again
+8009955E 0A00
+#Race At\Ytic Tsol To get the correct track start a race, then quit, go back and start the race again
+8009955E 0B00
+#Race At\Uhccip Uhcam To get the correct track start a race, then quit, go back and start the race again
+8009955E 0C00
+#Race At\Krapyks To get the correct track start a race, then quit, go back and start the race again
+8009955E 0D00
+#Race At\Olympic Park To get the correct track start a race, then quit, go back and start the race again
+8009955E 0E00
+#Race At\Circus ParkTo get the correct track start a race, then quit, go back and start the race again
+8009955E 0F00
+#Race At\Ramp Park To get the correct track start a race, then quit, go back and start the race again
+8009955E 1000
+#Race At\Coin Park To get the correct track start a race, then quit, go back and start the race again
+8009955E 1100
+#Race At\Grapple Park To get the correct track start a race, then quit, go back and start the race again
+8009955E 1200

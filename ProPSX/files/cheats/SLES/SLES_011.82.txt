@@ -1,0 +1,4 @@
+#Always Finish In First Place
+8018CB04 0001
+#Disable Other Racers
+80055138 ED50

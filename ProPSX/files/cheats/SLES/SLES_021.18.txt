@@ -1,0 +1,129 @@
+#Unendlich Chips
+800103D6 000F
+#Unendlich Gegenst‰Nde
+50004002 0000
+3001009D 00FF
+#Habe Gesamte Techniken
+50001F01 0000
+3001003C FFFF
+#Unendlich Hp
+50001F70 0000
+8001040C 03E7
+#Max Hp
+50001F70 0000
+8001040E 03E7
+#Unendlich/Max Lp
+50001F70 0000
+80010410 FFFF
+#Unendlich/Max Wp
+50001F70 0000
+80010414 FFFF
+#Max Wp-Erholung
+50001F70 0000
+30010417 0063
+#Unendlich/Max Sp
+50001F70 0000
+80010418 FFFF
+#Max Sp-Erholung
+50001F70 0000
+3001041B 0063
+#Max Kr
+50001F70 0000
+8001040A 000F
+#Max Muay Thai-Technik-Level
+50001F70 0000
+3001041D 00E3
+#Max Schwert-Technik-Level
+50001F70 0000
+3001041E 00E3
+#Max Axt-Technik-Level
+50001F70 0000
+3001041F 00E3
+#Max Stab-Technik-Level
+50001F70 0000
+30010420 00E3
+#Max Speer-Technik-Level
+50001F70 0000
+30010421 00E3
+#Max Pfeil-Technik-Level
+50001F70 0000
+30010422 00E3
+#Max Holz-Technik-Level
+50001F70 0000
+30010423 00E3
+#Max Stein-Technik-Level
+50001F70 0000
+30010424 00E3
+#Max Feuer-Technik-Level
+50001F70 0000
+30010425 00E3
+#Max Wasser-Technik-Level
+50001F70 0000
+30010426 00E3
+#Max Schall-Technik-Level
+50001F70 0000
+30010427 00E3
+#Max Biest-Technik-Level
+50001F70 0000
+30010428 00E3
+#Waffen Verschleissen Im Kampf Nicht
+50001F70 0000
+3001043D 00FF
+50001F70 0000
+3001043F 00FF
+50001F70 0000
+30010441 00FF
+50001F70 0000
+30010443 00FF
+50001F70 0000
+30010445 00FF
+50001F70 0000
+30010447 00FF
+#Im Kampf-Codes\Feinde Tot Nach Einem Angriff
+801F71E0 0000
+801F73D0 0000
+801F75C0 0000
+801F77B0 0000
+#Charakter 1-Codes\Unendlich Hp
+801F6A20 03E7
+#Charakter 1-Codes\Unendlich Lp
+301F6A28 00FF
+#Charakter 1-Codes\Unendlich Wp
+301F6A30 00FF
+#Charakter 1-Codes\Unendlich Sp
+301F6A3C 00FF
+#Charakter 1-Codes\Immun Gegen Leiden
+801F6A48 0000
+#Charakter 2-Codes\Unendlich Hp
+801F6C10 03E7
+#Charakter 2-Codes\Unendlich Lp
+301F6C18 00FF
+#Charakter 2-Codes\Unendlich Wp
+301F6C20 00FF
+#Charakter 2-Codes\Unendlich Sp
+301F6C2C 00FF
+#Charakter 2-Codes\Immun Gegen Leiden
+801F6C38 0000
+#Charakter 3-Codes\Unendlich Hp
+801F6E00 03E7
+#Charakter 3-Codes\Unendlich Lp
+301F6E08 00FF
+#Charakter 3-Codes\Unendlich Wp
+301F6E10 00FF
+#Charakter 3-Codes\Unendlich Sp
+301F6E1C 00FF
+#Charakter 3-Codes\Immun Gegen Leiden
+801F6E28 0000
+#Charakter 4-Codes\Unendlich Hp
+801F6FF0 03E7
+#Charakter 4-Codes\Unendlich Lp
+301F6FF8 00FF
+#Charakter 4-Codes\Unendlich Wp
+301F7000 00FF
+#Charakter 4-Codes\Unendlich Sp
+301F7008 00FF
+#Charakter 4-Codes\Immun Gegen Leiden
+801F7018 0000
+
+
+

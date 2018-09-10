@@ -1,0 +1,17 @@
+#All Characters
+8008B530 FFFF
+#All Levels
+8008B528 FFFF
+#Alll Boards
+8008B534 FFFF
+8008B536 FFFF
+#Additional Score
+8003852C FFFF
+#Maxi-Speed
+80038612 0FFF
+#Infinite Bonus Points		
+801FAAC0 0064
+#Infinite Time	
+80038524 11EA
+#Loose 0 Points when you Fall	
+80090794 0000

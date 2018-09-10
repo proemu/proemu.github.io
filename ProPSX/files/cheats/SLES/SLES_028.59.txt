@@ -1,0 +1,14 @@
+#Arcade Mode Alle Disziplinen jederzeit anwählbar	
+800165B0 FFFF
+#Arcade Mode 9999 Punkte P1	
+D10163D0 0000
+800163D0 270F
+#OLYMPIA Alle Trainings vollständig
+50007E04 0000
+800165E8 6464
+#OLYMPIA Alle Disziplinen A Runden, Olympiaklasse & -teilnahme freigeschaltet	
+50000C04 0000
+800165B8 0003
+#OLYMPIA Habe Goldmedaille	
+50000C04 0000
+80016D64 0006

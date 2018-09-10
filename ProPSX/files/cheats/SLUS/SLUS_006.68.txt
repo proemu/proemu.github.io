@@ -1,0 +1,58 @@
+#Infinite Health
+800B8A2C 03E7
+800B8A3C 03E7
+#Infinite Parasite Energy
+800B8A2A 270F
+800B8A4E 270F
+#Max At Points
+800B8A30 FFFF
+#Quick Level Gain
+8009CFE8 FFFF
+#Start With Smg
+D00A76BC 03E8
+800C0E50 0067
+#Max Item Slots
+800C0E0C 0032
+#Level 99
+800C0E0A 0063
+#Max Bonus Points
+800C0E10 FFFF
+#Infinite Bonus Points (Bpc)
+8004AAAC 0000
+#Infinite Ammo Everything (Bpc)
+80056BE0 0000
+#Time 00:00:00
+800A76BC 0000
+800A76BE 0000
+#Activate Tools & Bp Menu
+8009CEF0 FFFF
+#Have All Parasite Spells
+800C0E24 1FFF
+#Have Lots Of Experience
+800C0E00 FFFF
+#Max Offense
+800C0E2A 03E0
+#Max Defense
+800C0E2C 03E0
+#Max Penergy
+800C0E2E 03E0
+#Max Status Recover
+800C0E30 03E0
+#Max Active Time
+800C0E32 03E0
+#Max Item Capacity
+800C0E34 03E0
+#Access Hidden Option 1 [L1+L2]		
+D009D0F0 0005
+3009CEA0 0005
+#Access Hidden Option 2 [L1+R2]	
+D009D0F0 0006
+3009CEA0 0006
+#No Random Battles		
+800A781A 8000
+#Debug Room
+D009D0F0 0003
+8009D280 6048
+D009D0F0 0003
+3009D282 0006
+

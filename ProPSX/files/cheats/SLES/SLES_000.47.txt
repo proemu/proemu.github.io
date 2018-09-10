@@ -1,0 +1,9 @@
+#Infinite money
+800CD8C8 967F
+800CD8CA 0098
+#Infinites clones
+800CD8C6 0009
+#Infinites nitros
+800CD8C1 0009
+#Infinites missiles
+800CD8C3 0009

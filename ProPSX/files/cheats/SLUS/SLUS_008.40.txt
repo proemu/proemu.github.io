@@ -1,0 +1,28 @@
+#Activate All Cheats
+8009BCE8 FFFF
+#Unlock All Cheats
+8009BCE4 FFFF
+#Always Place First
+80012BB6 2400
+#Infinite Time
+8007EB34 6E35
+#Start on Final Lap
+8007ED5E 0101
+#World Tour Codes - All Trucks in Garage
+8013D9A4 FFFF
+8013D9A6 FFFF
+#World Tour Codes - Have Gold Cups All Divisions
+8013DA34 0000
+8013DA36 0000
+8013DA38 0000
+8013DA3A 0000
+8013DA3C 0000
+#World Tour Codes - Have Gold Cups All Divisions
+50000502 0000
+8013DA34 0000
+#World Tour Codes - Max Credits
+8013DA24 967F
+8013DA26 0098
+#World Tour Codes - Open All Divisions
+8013D998 001F
+8013DA6C 0001

@@ -1,0 +1,32 @@
+#1Er Item Infinito
+800AD91E 0063
+#99 Pocion Eter 1Er PosicióN
+800ADFAE 0063
+#99 Resucitar 1Er PosicióN
+800AE09E 0063
+#99 Aceite De Ulk 1Er PosicióN
+800AE116 0063
+#Windleaf Nivel Max.
+8010E8DC D69C
+#Vida Stinger Infinita
+8010E98E 03E7
+#Vida Windleaf Infinita
+8010E8D4 03E7
+#Vida Harv-5 Infinita
+8010E9CC 03E7
+#Magia Windleaf Infinita
+8010E8D8 03E7
+#Vida Xero Infinita
+8010E950 03E7
+#Magia Xero Infinita
+8010E954 03E7
+#Vida Clemett Infinita
+8010EA0A 03E7
+#Magia Clemett Infinita
+8010EA0E 03E7
+#Vida Jirina Infinita
+8010E912 03E7
+#Magia Jirina Infinita
+8010E916 03E7
+#Dinero Infinito
+800AE789 018B

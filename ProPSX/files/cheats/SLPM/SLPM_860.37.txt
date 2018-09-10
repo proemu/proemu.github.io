@@ -1,0 +1,17 @@
+#Salamander Inf Lives P1
+8016E056 0003
+8016E057 0003
+#Salamander Inf Lives P2
+8016E084 0003
+8016E085 0003
+#Lifeforce Inf Lives P1
+8016CCBE 0003
+8016CCBF 0003
+#Lifeforce Inf Lives P2
+8016CCEC 0003
+8016CCED 0003
+#Salamander 2 Inf Lives P1
+80128779 0003
+#Salamander 2 Inf Lives P2
+80128B2D 0003
+

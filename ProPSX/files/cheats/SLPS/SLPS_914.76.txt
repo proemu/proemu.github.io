@@ -1,0 +1,3 @@
+#Player 1 has 99999 money  
+800A4DBC 270F
+800A3890 270F 

@@ -1,0 +1,200 @@
+
+#Diverse\Charaktere Sind Unsichtbar
+800AB8B0 0000
+800AB8B2 0000
+#Diverse\Charaktere Haben Keinen Schatten
+800AB92C 0000
+800AB92E 0000
+#Diverse\Habe 9.999.999 Gil
+50000202 6A19
+8008B7B0 967F
+#Diverse\Uhr 00:00:00
+8002487A AC60
+#Diverse\Zeit LäUft RüCkwäRts
+D0024874 1021
+30024874 0023
+#Diverse\Unendlich Magische Steine Alle Charaktere
+50000990 0000
+3008B2A3 0063
+#Diverse\Magische Steine Nehmen Nicht Ab
+D01F0098 0017
+301F0098 0000
+#Diverse\Magische Steine Nehmen Zu
+D01F0088 1023
+301F0098 0021
+#Diverse\Alle Abilities Sichtbar Alle Charaktere
+50000990 0000
+3008B296 00FF
+#Diverse\Kann Jederzeit Auf 'Anlegen'-Menü Zugreifen
+D01FE0D0 0001
+301FED01 0001
+#Diverse\Keine ZufäLligen KäMpfe
+D003952C 0079
+8003952E 1000
+#Diverse\GegenstäNde\Alle Sichtbar
+5000FF02 0001
+8008B7C4 6300
+#Diverse\GegenstäNde\Nehmen Nicht Ab
+D002853A A0C2
+8002853A 0000
+%NOTE1
+#Diverse\GegenstäNde\Nehmen Zu
+D0028534 1023
+30028534 0021
+#Im Kampf\Alle Charaktere\Hp Nimmt Nicht Ab
+D00BDBE0 0028
+800BDBE0 0000
+D00BDBE0 0000
+800BDBE2 0000
+D00F3478 0004
+800F347A 0000
+#Im Kampf\Alle Charaktere\Mp Nimmt Nicht Ab
+D00B95D0 002A
+800B95D2 0000
+D00BD8FC 0002
+800BD8FE 0000
+D00BDA44 002A
+800BDA46 0000
+#Im Kampf\Alle Charaktere\Ats-Anzeige Bleibt Voll
+D00B2A58 002C
+800B2A58 0000
+D00B2A5A A600
+800B2A5A 0000
+#Im Kampf\1. Charakter\Immer Im Trancemodus (Drücke R2 & Oben)
+D00740FA FDEF
+80108F38 4000
+D00740FA FDEF
+80108F74 21FF
+#Im Kampf\1. Charakter\Super Status (Drücke R2 & Oben)
+D00740FA FDEF
+80108F36 20EC
+D00740FA FDEF
+80108F38 4000
+#Im Kampf\1. Charakter\Unendlich Hp (Drücke R2 & Oben)
+D00740FA FDEF
+80108F24 270F
+D00740FA FDEF
+80098668 270F
+#Im Kampf\1. Charakter\Unendlich Mp (Drücke R2 & Oben)
+D00740FA FDEF
+80108F26 270F
+D00740FA FDEF
+8009866E 270F
+#Im Kampf\1. Charakter\Ats-Anzeige Voll (Drücke R2 & Oben)
+D00740FA FDEF
+80108F28 1720
+#Im Kampf\2. Charakter\Immer Im Trancemodus (Drücke R2 & Oben)
+D00740FA FDEF
+80109008 4000
+D00740FA FDEF
+80109044 21FF
+#Im Kampf\2. Charakter\Super Status (Drücke R2 & Oben)
+D00740FA FDEF
+80109006 20EC
+D00740FA FDEF
+80109008 4000
+#Im Kampf\2. Charakter\Unendlich Hp (Drücke R2 & Oben)
+D00740FA FDEF
+80108FF4 270F
+D00740FA FDEF
+80098B10 270F
+#Im Kampf\2. Charakter\Unendlich Mp (Drücke R2 & Oben)
+D00740FA FDEF
+80108FF6 270F
+D00740FA FDEF
+80098B16 270F
+#Im Kampf\2. Charakter\Ats-Anzeige Voll (Drücke R2 & Oben)
+D00740FA FDEF
+80108FF8 19A0
+#Im Kampf\3. Charakter\Immer Im Trancemodus (DrüCke R2 & Oben)
+D00740FA FDEF
+801090D8 4000
+D00740FA FDEF
+80109114 21FF
+#Im Kampf\3. Charakter\Super Status (Drücke R2 & Oben)
+D00740FA FDEF
+801090D6 20EC
+D00740FA FDEF
+801090D8 4000
+#Im Kampf\3. Charakter\Unendlich Hp (Drücke R2 & Oben)
+D00740FA FDEF
+801090C4 270F
+D00740FA FDEF
+80098FB8 270F
+#Im Kampf\3. Charakter\Unendlich Mp (Drücke R2 & Oben)
+D00740FA FDEF
+801090C6 270F
+D00740FA FDEF
+80098FBE 270F
+#Im Kampf\3. Charakter\Ats-Anzeige Voll (Drücke R2 & Oben)
+D00740FA FDEF
+801090C8 190
+#Im Kampf\4. Charakter\Immer Im Trancemodus (Drücke R2 & Oben)
+D00740FA FDEF
+801091A8 4000
+D00740FA FDEF
+801091E4 21F
+#Im Kampf\4. Charakter\Super Status (Drücke R2 & Oben)
+D00740FA FDEF
+801091A6 20EC
+D00740FA FDEF
+801091A8 4000
+#Im Kampf\4. Charakter\Unendlich Hp (Drücke R2 & Oben)
+D00740FA FDEF
+80109194 270F
+D00740FA FDEF
+80099460 270F
+#Im Kampf\4. Charakter\Unendlich Mp (Drücke R2 & Oben)
+D00740FA FDEF
+80109196 270F
+D00740FA FDEF
+80099466 270F
+#Im Kampf\4. Charakter\Ats-Anzeige Voll (Drücke R2 & Oben)
+D00740FA FDEF
+80109198 1720
+#Im Kampf\1. Gegner\Sudden Death (Drücke Select Pad 2)
+D007411E FFFE
+80109264 0000
+#Im Kampf\1. Gegner\Keine Mp
+D0105708 0100
+80109266 0000
+#Im Kampf\1. Gegner\AnfäLlig FüR Alle Elemente
+D0105708 0100
+801092AE FFFF
+#Im Kampf\2. Gegner\Sudden Death (Drücke Select Pad 2)
+D007411E FFFE
+80109334 0000
+#Im Kampf\2. Gegner\Keine Mp
+D0105708 0100
+80109336 0000
+#Im Kampf\2. Gegner\AnfäLlig FüR Alle Elemente
+D0105708 0100
+8010937E FFFF
+#Im Kampf\2. Gegner\Levelmodifizierer
+D0105708 0100
+30109386 00??
+?00-FF
+#Im Kampf\3. Gegner\Sudden Death (Drücke Select Pad 2)
+D007411E FFFE
+80109404 0000
+#Im Kampf\3. Gegner\Keine Mp
+D0105708 0100
+80109406 0000
+%NOTEA2
+#Im Kampf\3. Gegner\AnfäLlig FüR Alle Elemente
+D0105708 0100
+8010944E FFFF
+#Im Kampf\3. Gegner\Levelmodifizierer
+D0105708 0100
+30109456 00??
+?00-FF
+#Nach Dem Kampf\Bekomme Nach Jedem Kampf\999 Ap
+D01F0C4C C317
+801F0C60 03E7
+D01F0C4C C317
+801F0C62 3403
+#Nach Dem Kampf\Bekomme Nach Jedem Kampf\65535 Exp
+D01F0C4C C317
+801F0C48 FFFF
+D01F0C4C C317
+801F0C4A 3404

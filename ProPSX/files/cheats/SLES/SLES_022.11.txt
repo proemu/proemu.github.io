@@ -1,0 +1,8 @@
+#Salud Infinita
+800B1F2C 03E8
+#Tiempo Ilimitado
+800BA6BC 2330
+#Misiones Extra
+800BA6B8 00FF
+#Balas Infinitas para la pistola 9mm
+800BEC5C 0009

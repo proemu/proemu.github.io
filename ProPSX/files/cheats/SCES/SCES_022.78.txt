@@ -1,0 +1,61 @@
+#Max Punkte Missions- Und Irrgarten-Modus
+D0153C62 0000
+80153C62 0098
+#Original-Modus\Max Punkte
+801BDE22 0098
+#Original-Modus\Unendlich Leben
+801A9C10 003C
+#Original-Modus\Weniger Krach
+D01F53F0 0002
+801F53F0 0003
+#Missions-Modus\Unendlich Leben
+80154394 003C
+#Missions-Modus\Unendlich Energie
+80154388 0003
+#Missions-Modus\Max Pac-Punkte
+80154398 00FF
+#Missions-Modus\Habe Pacman Select drücken
+E014D223 0001
+30154588 0001
+E014D223 0001
+3015458A 0001
+E014D223 0001
+3015458C 0001
+E014D223 0001
+3015458E 0001
+E014D223 0001
+30154590 0001
+E014D223 0001
+30154592 0001
+#Missions-Modus\100 Kirschen Nach Aufnahme
+80154546 0063
+#Missions-Modus\100 Erdbeeren Nach Aufnahme
+80154548 0063
+#Missions-Modus\100 Orangen Nach Aufnahme
+8015454A 0063
+#Missions-Modus\100 ÄPfel Nach Aufnahme
+8015454E 0063
+#Missions-Modus\100 Bananen Nach Aufnahme
+80154550 0063
+#Irrgarten-Modus\Alle IrrgäRten Komplett Und Gallerie Offen
+50000802 0000
+80154456 00FF
+50001C02 0000
+801544D2 00FF
+#Irrgarten-Modus\Alle Level Freigeschaltet
+50000804 0000
+80154598 00FF
+50000F04 0000
+80154418 00FF
+#Irrgarten-Modus\100 Melonen Nach Aufnahme
+80154552 0063
+#Irrgarten-Modus\100 Zitronen Nach Aufnahme
+80154554 0063
+#Irrgarten-Modus\100 Pfirsiche Nach Aufnahme
+8015454C 0063
+#Irrgarten-Modus\100 Glocken Nach Aufnahme
+80154558 0063
+#Irrgarten-Modus\100 Galaxien Nach Aufnahme
+80154556 0063
+#Irrgarten-Modus\100 SchlüSsel Nach Aufnahme
+8015455E 0063

@@ -1,0 +1,4 @@
+#Have 9999 money
+800D853C 270F
+#Have 999 points in Championship mode
+800D8540 03E7

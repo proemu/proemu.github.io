@@ -1,0 +1,21 @@
+@Ape Escape@SLES-01564
+#Infinite Health
+800EC388 0005
+#Infinite Oxygen
+800F4E88 0255
+#All Weapons
+800F5284 00FF
+#Infinite Missiles
+800F5282 010A
+#Infinite Bombs
+300F5281 0009
+#Infinite Lives
+800F442C 0005
+#Infinite Health
+800EC268 0005
+#Lots Of Gold Triangles
+800F4456 FFFF
+#Infinite Oxygen
+800F4D68 0258
+#Get One Monkey To Finish Level
+800F4454 00FF

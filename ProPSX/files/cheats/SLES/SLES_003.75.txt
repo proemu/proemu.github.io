@@ -1,0 +1,8 @@
+#Unendlich Jump Jets	
+800D1F94 000A
+#Schneller sein	
+800D1F84 0343
+#Kein überhitzen der Waffen	
+800D1BB0 0000
+800D1BB2 0000
+800D1BB4 0000

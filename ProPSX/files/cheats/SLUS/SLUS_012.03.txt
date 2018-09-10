@@ -1,0 +1,17 @@
+#Inf Health Incuded Enemies
+8005B9FE 2400
+#Inf Health Kits
+300EF2B8 0064
+#Inf Health Boot Camp
+801983C0 0210
+#Inf Health Mission One
+80193FCC 0210
+#Inf Health Mission 2
+80195C14 0210
+#Inf Health Mission 2 Jeep
+80195D84 2410
+#Inf Health Mission 3
+80199D68 0210
+#Have All Weapons & Items
+50000901 0000
+300EF2B1 0064

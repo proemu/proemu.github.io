@@ -1,0 +1,9 @@
+#Player has 99999 points
+800ED954 869F
+800ED956 0001
+#Opponent 1 has 0 points
+800ED958 0000
+#Opponent 2 has 0 points
+800ED95C 0000
+#Opponent 3 has 0 points
+800ED960 0000

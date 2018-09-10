@@ -1,0 +1,28 @@
+#Level Gauge Max
+800DEC2A 0270
+800DEC5C 0020
+#Stage Score Max
+800DEC2C FFFF
+800DEC2E 7FFF
+#Perfect Stage Results		
+800DEC30 03E7
+50000302 0000
+800DEC32 0000
+#All Music In Training Mode & Free Mode
+800CFD50 FFFF
+800CFD52 FFFF
+800CFD54 07FF
+#All Songs can be played (Unlock MARATHON · SURVIVAL hidden mode )
+800CFD50 FFFF 
+800CFD52 FFFF 
+800CFD54 07FF 
+300CFD56 0038 
+#Automatic performance mode Automatic performance in (L1) + Hidariao select button Automatic performance released by (R1) select + right blue button 
+D00A79A8 E140 
+300DE8CC 0001 
+D00A79A8 E180 
+300DE8CC 0000 
+D00A79A8 0104 
+300DE8CC 0001 
+D00A79A8 0108 
+300DE8CC 0000

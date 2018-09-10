@@ -1,0 +1,168 @@
+#P1 Infinite Health
+8007C124 0090
+#P1 1 Hit Kill
+D007C124 0090
+8007C124 0001
+#P1 Instant Death
+8007C124 0000
+#P2 Infinite Health
+8007C534 0090
+#P2 1 Hit Kill
+D007C534 0090
+8007C534 0001
+#P2 Instant Death
+8007C534 0000
+#Unlock Everything
+50000302 0000
+8007B72C FFFF
+#Unlock Hidden Characters & Gallery Options
+8007B72C FFFF
+8007B72E FFFF
+8007B730 FFFF
+#Infinite Round Timer
+8007B832 6363
+#P1 Infinite Hyper Combo Gauge
+8007C126 0090
+#P1 Hyper Combo Gauge Empty
+8007C126 0000
+#P2 Infinite Hyper Combo Gauge
+8007C536 0090
+#P2 Hyper Combo Gauge Empty
+8007C536 0000
+#P1 Hyper Combo Level 0
+8007C128 0000
+#P1 Hyper Combo Level 1
+8007C128 0001
+#P1 Hyper Combo Level 2
+8007C128 0002
+#P1 Hyper Combo Level 3
+8007C128 0003
+#P2 Hyper Combo Level 0
+8007C538 0000
+#P2 Hyper Combo Level 1
+8007C538 0001
+#P2 Hyper Combo Level 2
+8007C538 0002
+#P2 Hyper Combo Level 3
+8007C538 0003
+#P1 Partner Infinite Health
+8007C984 0090
+#P1 Partner 1 Hit Kill
+D007C984 0090
+8007C984 0001
+#P1 Partner Instant Death
+8007C984 0000
+#P2 Partner Infinite Health
+8007CD8C 0090
+#P2 Partner 1 Hit Kill
+D007CD8C 0090
+8007CD8C 0001
+#P2 Partner Instant Death
+8007CD8C 0000
+#P1 Infinite Special Partner Attacks
+8007C17A 0005
+#P1 No Special Partner Attacks
+8007C17A 0000
+#P2 Infinite Special Partner Attacks
+8007CDE2 0005
+#P2 No Special Partner Attacks
+8007CDE2 0000
+#P1 Max Wins
+8007B896 03E7
+#P2 Max Wins
+8007B898 03E7
+#P1 Quick Max Score
+8007C168 FFFF
+#P2 Quick Max Score
+8007C578 FFFF
+#Start On Last Stage
+E007B888 0000
+3007B888 0007
+#P1 Only Needs One Win
+E007B82A 0000
+3007B82A 0001
+#P1 Never Wins
+3007B82A 0000
+#P2 Only Needs One Win
+E007B82B 0000
+3007B82B 0001
+#P2 Never Wins
+3007B82B 0000
+#P1 Ryu With Ken Moves
+3007B8E4 0002
+#P1 Ryu With Akuma Moves
+3007B8E4 0004
+#P1 Infinite Duo Team Attack
+D007B862 0230
+8007B862 0240
+#P1 Infinite Wolverine Berserk Mode
+8007C222 01FF
+#P2 Infinite Duo Team Attack
+D007B864 0230
+8007B864 0240
+#P2 Infinite Wolverine Berserk Mode
+8007C632 01FF
+#P2 Ryu With Ken Moves
+3007B8E5 0002
+#P2 Ryu With Akuma Moves
+3007B8E5 0004
+#P1 Infinite Time For Mega Man Specials
+8007C236 0010
+#P2 Infinite Time For Mega Man Specials
+8007C646 0010
+#Enter Ex Mode (L1/R1/Select)
+D0028808 0C01
+8007B6E8 0108
+#P1 Jin Has Super Armor
+8007C258 00FF
+#P1 Rapid Attack
+8007BF76 0000
+#P1 Mega Man Has Magnetic Shockwave
+8007C24E 0001
+#P1 Mega Man's Mega Buster At Max
+8007C238 00FF
+#P2 Jin Has Super Armor
+8007C668 00FF
+#P2 Rapid Attack
+8007CBFE 0000
+#P2 Mega Man Has Magnetic Shockwave
+8007C65E 0001
+#P2 Mega Man's Mega Buster At Max
+8007C648 00FF
+#Super Hyper Attack Mode P1
+8007BF2C 0000
+#Super Hyper Attack Mode P2
+8007C33C 0000
+#All Attacks Hurt P1
+800489CE 8E13
+80048A02 0260
+80048A1A 2400
+#All Attacks Hurt P2
+8004889E 8E13
+800488D2 0260
+800488EA 2400
+#P1 Invinciblity-Hit Anywhere Only!
+80048888 C2A0
+800497F2 2400
+#Ex Menu Cheat Modifier Codes\Vs. Mode Codes\Hyper Combo Gauge Full
+3007B6FB 0001
+#Ex Menu Cheat Modifier Codes\Vs. Mode Codes\Hyper Combo Gauge Normal
+3007B6FB 0000
+#Ex Menu Cheat Modifier Codes\Vs. Mode Codes\P1 Rapid Kill (Press Select)
+D00287B0 0100
+8004AD26 2400
+D00287B0 0000
+8004AD26 A0A0
+#Ex Menu Cheat Modifier Codes\Vs. Mode Codes\P2 Rapid Kill (Press Select)
+D00287B2 0100
+8004AD26 2400
+D00287B2 0000
+8004AD26 A0A0
+#Ex Menu Cheat Modifier Codes\Vs. Mode Codes\Immune To Throws (Both Players)
+800536FE 2400
+#Ex Menu Cheat Modifier Codes\Vs. Mode Codes\Invincible P1 & Immune To Throws P2
+80048902 2400
+800536FE 2400
+#Ex Menu Cheat Modifier Codes\Vs. Mode Codes\Invincible P2 & Immune To Throws P1
+80048A32 2400
+800536FE 2400

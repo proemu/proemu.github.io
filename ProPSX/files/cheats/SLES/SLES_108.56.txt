@@ -1,0 +1,79 @@
+#Unlimited Energy (Activate only during missions)
+801EEE90 1389
+#Level Select 1	
+30093B48 0000
+#Level Select 2
+30093B48 0001
+#Level Select 3	
+30093B48 0002
+#Level Select 4	
+30093B48 0003
+#Level Select 5	
+30093B48 0004
+#Level Select 6	
+30093B48 0005
+#Level Select 7	
+30093B48 0006
+#Level Select 8	
+30093B48 0007
+#Level Select 9	
+30093B48 0008
+#Level Select 10	
+30093B48 0009
+#Level Select 11	
+30093B48 000A
+#Level Select 12	
+30093B48 000B
+#Level Select 13	
+30093B48 000C
+#Level Select 14	
+30093B48 000D
+#Level Select 15	
+30093B48 000E
+#Level Select 16	
+30093B48 000F
+#Level Select 17	
+30093B48 0010
+#Level Select 18	
+30093B48 0011
+#Level Select 19	
+30093B48 0012
+#Level Select 20	
+30093B48 0013
+#Level Select 21	
+30093B48 0014
+#Level Select 22	
+30093B48 0015
+#Level Select 23	
+30093B48 0016
+#Level Select 24	
+30093B48 0017
+#Level Select 25	
+30093B48 0018
+#Level Select 26
+30093B48 0019
+#Level Select 27	
+30093B48 001A
+#Level Select 28 	
+30093B48 001B
+#Level Select 29	
+30093B48 001C
+#Level Select 30	
+30093B48 001D
+#Level Select 31	
+30093B48 001E
+#Level Select 32	
+30093B48 001F
+#Level Select 33	
+30093B48 0020
+#Level Select 34	
+30093B48 0021
+#Level Select 35	
+30093B48 0022
+#Level Select 36 credits	
+30093B48 0023
+
+
+
+
+

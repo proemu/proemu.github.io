@@ -1,0 +1,62 @@
+#Blood On		
+301EA22C 0001
+#Fatalities On		
+301EA232 0001
+#Have All Chambers		
+50001702 0000
+801EA458 FFFF
+#Have All Characters	
+801EA1DC FFFF
+801EA1DE 001F
+#Have All Levels		
+801EA1E0 FFFF
+#Have All Secrets		
+301EA4C4 00FF
+#P1 Infinite Health
+800A5498 A000
+#P1 Always Max Power
+800A5E9E 0001
+#P1 Infinite Lives
+800A5E9C 0404
+#P1 Power Meter Full
+800A549A A000
+#P1 50% Health
+D00A5498 A000
+800A5498 5000
+#P1 No Health
+800A5498 0000
+#P2 Infinite Health
+800A5808 A000
+#P2 50% Health
+D00A5808 A000
+800A5808 5000
+#P2 No Health
+800A5808 0000
+#P2 Infinite Lives
+800A580C 0404
+#P2 Power Meter Full
+800A580A A000
+#P3 Infinite Health
+800A5B78 A000
+#P3 No Health
+800A5B78 0000
+#P3 50% Health
+D00A5B78 A000
+800A5B78 5000
+#P3 Infinite Lives
+800A5B7C 0404
+#P3 Power Meter Full
+800A5B7A A000
+#P4 Infinite Health
+800A5EE8 A000
+#P4 No Health
+800A5EE8 0000
+#P4 50% Health
+D00A5EE8 A000
+800A5EE8 5000
+#P4 Infinite Lives
+800A5EEC 0404
+#P4 Power Meter Full
+800A5EEA A000
+#Infinite Time
+800A3FC8 0000

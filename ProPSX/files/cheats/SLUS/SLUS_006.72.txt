@@ -1,0 +1,12 @@
+#Move One Dice to Clear Level		
+800CAE4E 1000
+800CAEAE 2400
+800CA40E 2400
+800CA452 2400
+#War Mode P1 Infinite Energy		
+8017E500 0063
+#Trial Mode P1 Maxed Out Score		
+8017E504 FFFF
+
+
+

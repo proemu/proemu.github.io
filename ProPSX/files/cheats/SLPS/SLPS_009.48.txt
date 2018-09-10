@@ -1,0 +1,6 @@
+#Infinite Ball Player 1
+800DA360 0004
+#Infinite Ball Player 2
+800DA3C4 0004
+#Infinite Credits
+800DA36C 0002

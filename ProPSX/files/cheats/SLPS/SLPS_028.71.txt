@@ -1,0 +1,4 @@
+#Restore Time To 30 Sec (Push R2)
+D0087C7A FDFF
+800D5F88 001E
+

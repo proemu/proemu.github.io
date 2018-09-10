@@ -1,0 +1,6 @@
+#Infinite Health
+800B2050 0005 
+#Infinite bullets
+800B1D74 0006 
+#Infinite Time 
+800B1CFC 1771

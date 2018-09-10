@@ -1,0 +1,8 @@
+#Joker Command  
+D00BEC9C 0000
+#Infinite life  
+800BC5EE 0006
+#Infinite Ammo  
+800BC538 000F
+ 
+ 

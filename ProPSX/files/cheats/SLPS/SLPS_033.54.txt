@@ -1,0 +1,14 @@
+#Infinite Lives
+800BA748 0002
+#Best Firepower 
+800BA724 0006
+#Max Super Charge
+800BA71C 0BB8
+#Max Wp Power
+800BA760 0007
+#Invincibility	
+800BA730 0002
+#Original Zanac Infinite Lives		
+8007B3E8 0002
+#Original Zanac Invincibility	
+8007B3D2 0001

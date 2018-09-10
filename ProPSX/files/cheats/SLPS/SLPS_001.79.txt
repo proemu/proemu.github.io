@@ -1,0 +1,11 @@
+#Infinite Fuel	
+800D46C4 86A0
+800D46C6 0005		
+#Infinite Armor	
+800EB83C 86A0
+800EB83E 0001		
+#Infinite Missiles	
+50000902 0000
+800611AE 0063		
+#Special FMV	
+30060760 0001

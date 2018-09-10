@@ -1,0 +1,9 @@
+#Have 999999 money
+800101E0 423F
+800101E2 000F
+#Always start in lap 6
+80160168 0006
+#Unlock Category 'A'	
+30010204 0001
+#Unlock Category 'B'	
+30010206 0001

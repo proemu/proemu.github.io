@@ -1,0 +1,12 @@
+#Special FX job at 999  
+8004F848 2706 
+#Scissors job at 999  
+8004F84A 2706 
+#Music job at 999  
+8004F84C 2706 
+#Graves job at 999  
+8004F84E 2706 
+#Sounds job at 999  
+8004F850 2706 
+#Movie job at 999  
+8004F852 2706 

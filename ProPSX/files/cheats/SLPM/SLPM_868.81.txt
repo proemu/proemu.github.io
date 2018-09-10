@@ -1,0 +1,11 @@
+#Bonus selectable
+80010870 0001
+#Mini-games can be selected
+30010875 0001
+30010876 0001
+#Album fully open
+D0053B12 1060
+80053B12 1400
+#Album fully open Alt
+800108A8 0101 
+80010988 0001 

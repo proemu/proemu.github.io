@@ -1,0 +1,4 @@
+#Infinite Energy
+80082B71 007D
+#Infinite Money (60000)
+80082B76 EA60

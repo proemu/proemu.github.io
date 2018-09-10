@@ -1,0 +1,29 @@
+#Always Have Normal Spirit P1	
+800CEF54 0032
+#Always Have Normal Spirit P2	
+800CF200 0032
+#Have Weak Spirit (Black) P1	
+800CEF54 0000
+#Have Weak Spirit (Black) P2	
+800CF200 0000
+#Have High Spirit (White) P1	
+800CEF54 0064
+#Have High Spirit (White) P2	
+800CEF54 0064
+#Time Always at 00:00	
+800752C2 0000
+#Infinite Time to Fight Outside Ring	
+80075290 0000
+8007527E 0000
+#When at Normal Spirit,it goes to Weak Spirit (Black) P1	
+D00CEF54 0032
+800CEF54 0000
+#When at Normal Spirit it goes to High Spirit (White) P1	
+D00CEF54 0034
+800CEF54 0064
+#When at Normal Spirit,it goes to Weak Spirit (Black) P2	
+D00CF200 0032
+800CF200 0000
+#When at Normal Spirit,it goes to High Spirit (White) P2	
+D00CF200 0034
+800C F200 0064

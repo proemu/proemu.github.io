@@ -1,0 +1,11 @@
+#Infinite Health
+30010042 0006
+#Maximum Normal Carrots
+30010043 0063
+#Maximum Golden Carrots
+30010047 00FF
+#Maximum Clocks
+30010045 00FF
+#Moon Jump
+D001000C 0040
+800BCC18 0009

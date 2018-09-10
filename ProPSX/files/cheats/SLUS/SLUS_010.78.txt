@@ -1,0 +1,14 @@
+#Away Team Score 9
+800C89A8 0009
+#Away Team Score 0
+800C89A8 0000
+#Home Team Score 9	
+800C89A4 0009
+#Home Team Score 0	
+800C89A4 0000
+#Have Ability To Change Body Looks At Enter Code Screen		
+300B91C0 0001
+#Pass All Certifications		
+800B9074 000A
+#Unlock Hidden Stadiums		
+30016C38 0001

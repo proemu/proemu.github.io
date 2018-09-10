@@ -1,0 +1,27 @@
+#Infinite Power P1
+800A7E0C 0096
+#No Power P1
+800A7E0C 0000
+#1 Hit Death P1
+D00A7E0C 0096
+800A7E0C 0001
+#Infinite Special Moves P1
+800A83AC 0020
+#No Special's P1
+800A83AC 0000
+#Infinite Power P2
+800A7E0E 0096
+#No Power P2
+800A7E0E 0000
+#1 Hit Death P2
+D00A7E0E 0096
+800A7E0E 0001
+#Infinite Special Moves P2
+800A83B0 0020
+#No Special's P2
+800A83B0 0000
+#Stop Battle Timer
+800A8208 2A00
+#Stage Select Enabled		
+800a80f8 0001
+

@@ -1,0 +1,12 @@
+#Instant Win-Rally 	
+D00E2BEC 0000
+800E2BEC 0FFF 		
+#Unlock All Tracks & Cars 	
+8004D9E4 FFFF 		
+#Unlock All Cheats 	
+3004C66C 00FF 		
+#Max Championship Points 	
+80050722 0064 		
+#Infinite Repair Time 	
+D0067554 0000
+80067556 2400

@@ -1,0 +1,20 @@
+#Max score (Cup-mode)	
+3013C270 00FF
+#Unlock All Tracks
+3013C269 000F
+#Infinite turbos	
+3012B36C 0009
+#All Cars
+50000302 FFFF
+8013C260 0000
+#Unlock All Cars
+50000302 FFFF
+8013C320 0000
+#Indestructible
+D011CDD4 FFFE
+3012BD4E 0001
+#Start in lap 4 (Press L1 & R1)
+D011CDD4 F3FF
+3012BA08 0003
+#Start in lap 4 
+3012BA08 0003

@@ -1,0 +1,128 @@
+#Home Team Score 9
+80071FA2 0009
+##Home Team Score 0
+80071FA2 0000
+#Away Team Score 9
+80074DA2 0009
+#Away Team Score 0
+80074DA2 0000
+#2000+ Madden Points/All Cheats Enabled
+D00616C6 801D
+50000F02 0000
+80156FF0 9999
+#2000+ Madden Points/All Cheats Enabled Alternate
+D00616C6 801D
+80156FF0 9999
+D00616C6 801D
+80156FF2 9999
+D00616C6 801D
+80156FF4 9999
+D00616C6 801D
+80156FF6 9999
+D00616C6 801D
+80156FF8 9999
+D00616C6 801D
+80156FFA 9999
+D00616C6 801D
+80156FFC 9999
+D00616C6 801D
+80156FFE 9999
+D00616C6 801D
+80157000 9999
+D00616C6 801D
+80157002 9999
+D00616C6 801D
+80157004 9999
+D00616C6 801D
+80157006 9999
+D00616C6 801D
+80157008 9999
+D00616C6 801D
+8015700A 9999
+D00616C6 801D
+8015700C 9999
+D00616C6 801D
+8015700E 9999
+#Unlock Team Codes\All 60's
+30065030 00FF
+#Unlock Team Codes\All 70's
+30065031 00FF
+#Unlock Team Codes\All 80's
+30065032 00FF
+#Unlock Team Codes\All 90's
+30065033 00FF
+#Unlock Team Codes\Madden 1999
+30065034 00FF
+#Unlock Team Codes\Madden Millenium
+30065035 00FF
+#Unlock Team Codes\Nfl Millenium
+30065036 00FF
+#Unlock Team Codes\Ea Sports
+30065037 00FF
+#Unlock Team Codes\Tiburon
+30065038 00FF
+#Unlock Team Codes\Marshells
+30065039 00FF
+#Unlock Team Codes\Tomahawks
+3006503A 00FF
+#Unlock Team Codes\Clowns
+3006503B 00FF
+#Unlock Team Codes\Praetorians
+3006503C 00FF
+#Unlock Team Codes\Junkyard Dogs
+3006503D 00FF
+#Unlock Team Codes\Industrials
+3006503E 00FF
+#Unlock Team Codes\Sugarbuzz
+3006503F 00FF
+#Unlock Team Codes\Mummies
+30065040 00FF
+#Unlock Team Codes\Viper
+30065041 00FF
+#Unlock Team Codes\Monsters
+30065042 00FF
+#Unlock Team Codes\Comets
+30065043 00FF
+#Unlock Team Codes\81 Dolphins
+30065044 00FF
+#Unlock Team Codes\81 Chargers
+30065045 00FF
+#Unlock Team Codes\76 Raiders
+30065046 00FF
+#Unlock Team Codes\78 Patriots
+30065047 00FF
+#Unlock Team Codes\97 Packers
+30065048 00FF
+#Unlock Team Codes\97 Broncos
+30065049 00FF
+#Unlock Team Codes\85 Dolphins
+3006504A 00FF
+#Unlock Team Codes\85 Bears
+3006504B 00FF
+#Unlock Team Codes\90 Giants
+3006504C 00FF
+#Unlock Team Codes\90 Bills
+3006504D 00FF
+#Unlock Team Codes\86 Browns
+3006504E 00FF
+#Unlock Team Codes\86 Broncos
+3006504F 00FF
+#Unlock Team Codes\88 49Ers
+30065050 00FF
+#Unlock Team Codes\88 Bengals
+30065051 00FF
+#Unlock Team Codes\72 Steelers
+30065052 00FF
+#Unlock Team Codes\72 Raiders
+30065053 00FF
+#Unlock Team Codes\95 Steelers
+30065054 00FF
+#Unlock Team Codes\95 Colts
+30065055 00FF
+#Unlock Team Codes\92 Bills
+30065056 00FF
+#Unlock Team Codes\92 Oilers
+30065057 00FF
+#Unlock Team Codes\All Teams
+50001402 0000
+80065030 FFFF

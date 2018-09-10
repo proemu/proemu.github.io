@@ -1,0 +1,17 @@
+#Infinite Lives P1
+800D784C 0009
+#Infinite Missiles P1
+800D7878 0000
+#Infinite Sp Attacks P1
+800D787A 1000
+#Points Max P1
+80101144 FFFF
+#Points Max P2
+8010114C FFFF
+#P1 Invincibility
+800D9C08 0095
+#Have Credit Limit Access Configuration Option Menu-Infinite Credits When Off
+300DC3E8 000C
+#Max Lock Ons
+300D7858 0010
+

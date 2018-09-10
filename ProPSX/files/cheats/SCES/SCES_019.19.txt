@@ -1,0 +1,24 @@
+#All 30 missions & difficulties open	
+30043DF8 001F
+30043DF9 001F
+30043DFA 001F
+#Open all database		
+80043DB4 03FF
+80043DBc 00FF
+80043DC4 7FFF
+80043DCC FFFF
+80043DCE 0003
+80043DD4 FFFF
+80043DD6 0003
+80043DDC FFFF
+80043DDE 0003
+80043DE4 FFFF
+80043DE6 0003
+80043DEC FFFF
+80043DEE 0003
+#Infinite Shield Raptor	.Only use in missions
+801EF4EC 36B1
+#Infinite Shield Havoc .Only use in missions	
+801EF631 001D
+#Infinite Shield Venom Gunship .Only use in missions
+801EF630 1D4D

@@ -1,0 +1,3 @@
+#Stopwatch 00:00:00 Press Select & Start Pad 2
+D0079F4A FFF6
+3005FA18 0000

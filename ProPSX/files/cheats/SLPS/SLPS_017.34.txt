@@ -1,0 +1,40 @@
+#Money 9999999
+80044220 967F
+80044222 0098
+#99 All Items
+50002302 0000
+80044224 6363
+3004426A 0063
+#First character EXP
+8004462C E0FF
+8004462E 05F5
+#Second character EXP
+80044650 E0FF
+80044652 05F5
+#The third character EXP
+80044674 E0FF
+80044676 05F5
+#Infinite & Max HP 	
+80044634 270F
+80044638 270F
+#Infinite & Max MP 
+80044636 270F
+8004463A 270F
+#Infinite & Max HP in combat Character 1	
+800DFE48 270F
+#Infinite & Max HP in combat Character 2
+800DFE6C 270F
+#Infinite & Max HP in combat Character 3
+800DFE90 270F
+#Infinite & Max HP in combat Character 4
+800DFEB4 270F
+#Infinite & Max MP in combat Character 1	
+800DFE4A 270F	
+#Infinite & Max MP in combat Character 1	
+800DFE6E 270F
+#Infinite & Max MP in combat Character 1	
+800DFE92 270F
+#Infinite & Max MP in combat Character 1	
+800DFEB6 270F
+#No random battles
+300DFFDA 0000

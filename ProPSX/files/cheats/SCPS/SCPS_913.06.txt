@@ -1,0 +1,8 @@
+#1st Character Max Experience  
+8013DB24 FFFF 
+#2nd Character Max Experience  
+8013DB58 FFFF 
+#3rd Character Max Experience  
+8013DB8C FFFF 
+#Level up to 65535  
+8016403C FFFF 

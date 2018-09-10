@@ -1,0 +1,8 @@
+#Away Team scores 0 Goals	
+8004F7B4 0000
+#Away Team Scores 9 Goals	
+8004F7B4 0009
+#Home Team scores 0 Goals	
+8004F7B0 0000
+#Home Team Scores 9 Goals	
+8004F7B0 0009

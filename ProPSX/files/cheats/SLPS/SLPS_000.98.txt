@@ -1,0 +1,8 @@
+#Infinite Nitro
+80057CB4 03B6
+#Infinite Time
+80058088 06B8
+#Max Speed		
+80058088 05F5
+80057CB4 03B6
+

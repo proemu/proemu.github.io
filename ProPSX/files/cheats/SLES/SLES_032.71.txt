@@ -1,0 +1,35 @@
+#One fruit == 999 fruits
+800212C8 03E7
+800212CA 3442
+#Infinite lives
+80075650 03E7
+#Always have 100 coins
+80021300 0064
+80021302 3402
+80021320 0064
+80021322 3402
+8002A5B4 0064
+8002A5B6 3402
+#Always have all SIMBA's letters
+30094DB6 009F
+#GodMode
+8001A73A 1000
+#All Levels Unlocked (Untested)
+50000901 0000
+8007A00A 0001
+#Have All Movies  (Untested)	
+50000901 0000
+3007A076 0001
+#All Minigames Unlocked 99 pumpkins  (Untested)
+800EB654 0063 
+#Unlock Trucchi and Thanks in the options menu
+D00A99C2 FEFF
+80073EF8 8000
+30073EFC 0000
+D00A99C2 FFFF
+80073EF8 0080
+#Activate\Deactivate debug menu Tasto R2 attiva | Tasto R1 disattiva
+D00A99C2 FDFF
+30094188 0001
+D00A99C2 F7FF
+30094188 0000

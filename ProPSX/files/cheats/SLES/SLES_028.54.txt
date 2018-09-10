@@ -1,0 +1,10 @@
+#Infinite Balls	
+D01F4790 0002
+301F4790 0003		
+#Open continue & challenge mode (Single Player)	
+D00F50F8 0001
+300F50F8 0003
+#Overall ranking - Superstar	
+301EA4A0 0000		
+#Unlock all areas	
+301EA494 0006

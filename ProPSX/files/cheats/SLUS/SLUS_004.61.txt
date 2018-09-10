@@ -1,0 +1,10 @@
+#Xevious Infinite Lives P1	
+8010D0F8 0009
+#Super Xevious Infinite Lives P1	
+8010D0F8 0009	
+#Xevious Arrangement Infinite Lives P1	
+8011FBF8 0009
+#Xevious 3D Infinite Lives P1 	
+8012DD58 0009
+#Xevious 3D Infinite Lives P2	
+8012DD5C 0009

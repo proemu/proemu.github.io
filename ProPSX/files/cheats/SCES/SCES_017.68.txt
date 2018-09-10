@@ -1,0 +1,20 @@
+#Infinite Health P1
+800C923C 00C8
+#No Health P1 (Instant Win P2)
+800C923C 0000
+#Infinite Health P2
+800C9414 00C8
+#No Health P2 (Instant Win P1)
+800C9414 0000
+#Infinite Special Powers (P1)
+800C923E 0708
+#No Special Powers (P1)
+800C923E 0000
+#Infinite Special Powers (P2)
+800C9416 0708
+#No Special Powers (P2)
+800C9416 0000
+
+
+
+

@@ -1,0 +1,23 @@
+#Infinite Armor
+800D43DC 0064
+800EB550 86A0
+#Infinite Napalm
+80060F2C 0064
+#Infinite Rockets
+80060F28 0064
+#Infinite Mavericks
+80060F2E 0064
+#Infinite Fuel Air Explosives
+80060F32 0064
+#Infinite Bunkerbusters
+80060F2A 0064
+#Infinite B61Sram
+80060F34 0064
+#Infinite Sidewinders
+80060F26 0064
+#Infinite Amraam
+80060F36 0064
+#Infinite Cluster Bombs
+80060F30 0064
+#Infinite Armor (Uses Built-In Cheat)	
+800D432E 0101

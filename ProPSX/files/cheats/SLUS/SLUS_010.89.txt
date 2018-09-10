@@ -1,0 +1,3 @@
+#P1 Max Infinite Cash 	
+800C7254 FFFF
+800C7256 FFFF

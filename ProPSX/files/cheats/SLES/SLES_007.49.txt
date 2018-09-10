@@ -1,0 +1,6 @@
+#Infinite energy
+801FB714 0064
+#Infinite ammo
+801FB6FE 0006
+#Infinite money
+801FB6F8 270F

@@ -1,0 +1,5 @@
+#Infinite Money
+800E9700 FFFF
+300E9720 00FF
+#Max People
+800E6028 FFFF

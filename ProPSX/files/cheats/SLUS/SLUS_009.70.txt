@@ -1,0 +1,27 @@
+#Stop Timer 	
+D001DB90 6AE6
+8001DB92 2400
+#P1 Refill Energy (Press R1) 	
+D00AED32 F7FF
+800BE146 0906 	
+#P2 Refill Health (Press R1) 	
+D00B6C74 F7FF
+800BE2E6 0906 	
+#P3 Refill Health (Press R1) 	
+D00BEBB6 F7FF
+800BE486 0906 	
+#P4 Refill Health (Press R1) 	
+D00C6AF8 F7FF
+800BE626 0906 	
+#P1 Infinite Lives 	
+800BE164 0003 	
+#P2 Infinite Lives 	
+800BE304 0003 	
+#Unlock All Arenas 	
+800B717C FFFF
+#Unlock All Characters 	
+800B7170 FFFF 	
+#Invincibility (All Characters)
+801FEE34 0005
+
+

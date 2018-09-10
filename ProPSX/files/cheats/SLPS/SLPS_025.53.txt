@@ -1,0 +1,31 @@
+#Infinite Health
+800A8974 00C8
+#Infinite Bullets (All Weapons)
+D00704A6 2462
+800704A4 0000
+#Max Slot For Use Items
+800A8BD0 0032 
+#Status Is Always Fine
+800A8736 0000
+#Max Weapons Slot
+800A8A70 0032 
+#I want to display the MAP in the [?] button 
+D00B3FD4 0010 
+800B4048 0001 
+D00B3FD4 0010 
+800CC0F6 0002 
+D00B3FD4 0010 
+800B4EA4 0020 
+#Speed is a little faster 
+8005A960 0001 
+#Invincibility  In hold down [L2] button I will be in the Danger
+800A8974 00C8 
+D00B3FD4 0001 
+800A8974 0000 
+#Continue limit on the number of times released 
+300B639C 0004 
+#HIT rate is 100% 
+C2063BDC 0004 
+80063BD8 0000 
+#Shortcut countdown Continue 
+800B6380 0000 

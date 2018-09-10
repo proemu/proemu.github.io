@@ -1,0 +1,14 @@
+#Infinite Health P1		
+800AD7EE 0170
+#Infinite Health P1 (Special Status)		
+800AD7EE 0070
+#Infinite Health P2		
+800AF00E 0170
+#Infinite Health P2 (Special Status)	
+800AF00E 0070
+#Unlock Team Battle Mode & All Data Mode		
+800ACA84 FFFF
+800ACA86 007F
+800ACA88 FFFF
+#Use Secret Character		
+300ACA7E 0003

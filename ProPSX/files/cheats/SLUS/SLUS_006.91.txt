@@ -1,0 +1,120 @@
+#Infinite Oxygen		
+8009914E 0708
+#Infinite Energy Jungle	
+801D301A 03E8
+#Infinite Energy Temple Ruins
+80097AD0 0002
+#Infinite Energy The River Ganges
+801D3C8A 03E8
+#Infinite Energy Caves of Kaliya	
+8017B7AE 03E8
+#Infinite Energy Coastal Village	
+801D6E9E 03E8
+#Infinite Energy Crash Site	
+801DC7DE 03E8
+#Infinite Energy Madubu Gorge
+801DABFA 03E8
+#Infinite Energy Temple of Puna
+8018E152 03E8
+#Infinite Energy Thames Wharf	
+801E1FE2 03E8
+#Infinite Energy Aldwych
+801D6A12 03E8
+#Infinite Energy Lud's Gate	
+801E26D6 03E8
+#Infinite Ennergy City	
+801927C2 03E8
+#Infinite Energy Nevada Desert	
+801D65F6 03E8
+#Infinite Energy High Security Compound
+801DF996 03E8
+#Infinite Energy Area 51	
+801DF6C2 03E8
+#Infinite Energy Antarctica	
+801D9866 03E8
+#Infinite Body Heat In Water Antarctica
+8009B044 0258
+#Infinite Energy Rx-Tech Mines	
+801DCBA2 03E8
+#Infinite Body Heat In Water Rx-Tech Mines	
+8009B044 0258
+#Infinite Energy Lost City of Tinnos	
+801D8A32 03E8
+#Infinite Energy Meteorite Cavern	
+801A5BDA 03E8
+#One Hit Knockdown Boss	 Meteorite Cavern	
+801A5CEA 0000
+#Infinite Energy All Hollows	
+80196EC2 03E8
+#Have All Special Items	
+8009758C 000C
+#Infinite Desert Eagle Ammo	
+80099208 00FF
+#Infinite Flares		
+80097504 7FFF
+#Infinite Grenade Launcher Ammo		
+8009921C 967F
+8009921E 0098
+#Infinite Harpoon Ammo		
+80099214 967F
+80099216 0098
+#Infinite Large Medi Packs		
+80097506 7FFF
+#Infinite MP5 Ammo	
+80099220 00FF
+#Infinite MP5 Ammo		
+80099220 967F
+80099222 0098
+#Infinite Rocket Launcher Ammo
+80099218 00FF
+#Infinite Savegame Crystals		
+8009750A 7FFF
+#Infinite Shotgun Ammo	
+80099210 00FF
+#Infinite Small Medi Packs		
+80097508 7FFF
+#Infinite Sprint	
+80099228 0078
+#Infinite Uzi Ammo	
+8009920C 00FF
+#Level Modifier	Jungle	
+80097AD0 0001
+#Level Modifier	Temple Ruins
+80097AD0 0002
+#Level Modifier	The River Ganges
+80097AD0 0003
+#Level Modifier	Caves of Kaliya	
+80097AD0 0004
+#Level Modifier	Coastal Village	
+80097AD0 0005
+#Level Modifier	Crash Site	
+80097AD0 0006
+#Level Modifier	Madubu Gorge
+80097AD0 0007
+#Level Modifier	Temple of Puna
+80097AD0 0008
+#Level Modifier	Thames Wharf	
+80097AD0 0009
+#Level Modifier	Aldwych
+80097AD0 000A
+#Level Modifier	Lud's Gate	
+80097AD0 000B
+#Level Modifier	City	
+80097AD0 000C
+#Level Modifier	Nevada Desert	
+80097AD0 000D
+#Level Modifier	High Security Compound
+80097AD0 000E
+#Level Modifier	Area 51	
+80097AD0 000F
+#Level Modifier	Antarctica	
+80097AD0 0010
+#Level Modifier	Rx-Tech Mines	
+80097AD0 0011
+#Level Modifier	Lost City of Tinnos	
+80097AD0 0012
+#Level Modifier	Meteorite Cavern	
+80097AD0 0013
+#Level Modifier	All Hollows	
+80097AD0 0014
+

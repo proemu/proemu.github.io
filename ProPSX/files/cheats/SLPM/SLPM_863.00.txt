@@ -1,0 +1,4 @@
+#Have 9999 Gold
+8012ACC8 270F
+#Have 9999 Food
+8012ACCA 270F

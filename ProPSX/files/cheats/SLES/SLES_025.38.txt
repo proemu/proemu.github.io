@@ -1,0 +1,146 @@
+#Start in round 3	
+E004ECEC 0001
+3004ECEC 0003
+#Liliput-racers	
+D0048D48 0001
+80016C1C 0005
+D0048D48 0001
+80016C1E 2411
+#Disables all other riders	
+80055138 ED50
+#Time frozen/always pole Before crossing the line press L1 & R1; timer will freeze. Press L2 & R2 at next
+menu-screen to have race started.
+D00AD9A6 F3FF
+800772B0 0000
+800772B2 0000
+D00AD9A6 FCFF
+800772B0 0001
+D00AD9A6 FCFF
+800772B2 2442
+#Quick win Starting from pole you will end first after crossing the line.	
+300AD6CA 0005
+#Akira Yanawaga	Start with 200 points (Championship)	
+D00AD816 0000
+300AD816 00C8
+#Akira Yanawaga No points	
+300AD816 0000
+#Carl Fogarty Start with 200 points (Championship)	
+D00AD80A 0000
+300AD80A 00C8
+#Carl Fogarty No points	
+300AD80A 0000
+#Troy Corser Start with 200 points (Championship)	
+D00AD810 0000
+300A D810 00C8
+#Troy Corser No points	
+300AD810 0000
+#Frederic Protat Start with 200 points (Championship)	
+D00AD882 0000
+300AD882 00C8
+#Frederic Protat No points	
+300AD882 0000
+#Noriyuki Haga Start with 200 points (Championship)	
+D00AD82E 0000
+300AD82E 00C8
+#Noriyuki Haga No points	
+300AD82E 0000
+#Katsuaki Fujiwara Start with 200 points (Championship)	
+D00AD840 0000
+300AD840 00C8
+#Katsuaki Fujiwara No points	
+300AD840 0000
+#Peter Goddard Start with 200 points (Championship)	
+D00AD846 0000
+300AD846 00C8
+#Peter Goddard No points
+300AD846 0000
+#Akira Yaganawa Start with 200 points (Championship)	
+D00AD824 0000
+300AD824 00C8
+#Akira Yaganawa No points	
+300AD824 0000
+#Aaron Slight Start with 200 points (Championship)	
+D00AD81C 0000
+300AD81C 00C8
+#Aaron Slight No points	
+300AD81C 0000
+#Gregorio Lavilla Start with 200 points (Championship)	
+D00AD828 0000
+300AD828 00C8
+#Gregorio Lavilla No points	
+300AD80A 0000
+#Vittoriano Guareschi Start with 200 points (Championship)	
+D00AD834 0000
+300AD834 00C8
+#Vittoriano Guareschi No points	
+300AD834 0000
+#Pierfrancesco Chili Start with 200 points (Championship)	
+D00AD83A 0000
+300AD83A 00C8
+#Pierfrancesco Chili No points	
+300AD83A 0000
+#Igor Jerman Start with 200 points (Championship)	
+D00AD84C 0000
+300AD84C 00C8
+#Igor Jerman No points	
+300AD84C 0000
+#Robert Ulm Start with 200 points (Championship)	
+D00AD852 0000
+300AD852 00C8
+#Robert Ulm No points	
+300AD852 0000
+#Carlos Macias Start with 200 points (Championship)	
+D00AD858 0000
+300AD858 00C8
+#Carlos Macias No points	
+300AD858 0000
+#Andreas Meklau Start with 200 points (Championship)	
+D00AD85E 0000
+300AD85E 00C8
+#Andreas Meklau	No points	
+300AD85E 0000
+#Lucio Pedercini Start with 200 points (Championship)	
+D00AD864 0000
+300AD864 00C8
+#Lucio Pedercini No points	
+300AD864 0000
+#Doriano Romboni Start with 200 points (Championship)	
+D00AD86A 0000
+300AD86A 00C8
+#Doriano Romboni No points	
+300AD86A 0000
+#Jiri Mrkyvka Start with 200 points (Championship)	
+D00AD870 0000
+300AD870 00C8
+#Jiri Mrkyvka No points	
+300AD870 0000
+#Vladimir Karban Start with 200 points (Championship)	
+D00AD876 0000
+300AD876 00C8
+#Vladimir Karban No points	
+300AD876 0000
+#Jean-Pierre Jeandat Start with 200 points (Championship)	
+D00AD87C 0000
+300AD87C 00C8
+#Jean-Pierre Jeandat No points	
+300AD87C 0000
+#Lance Isaacs Start with 200 points (Championship)	
+D00AD888 0000
+300AD888 00C8
+#Lance Isaacs No points	
+300AD888 0000
+#Guiliano Sartoni Start with 200 points (Championship)	
+D00AD88E 0000
+300AD88E 00C8
+#Guiliano Sartoni No points	
+300AD88E 0000
+#Alessandro Gramigini Start with 200 points (Championship)	
+D00AD894 0000
+300AD894 00C8
+#Alessandro Gramigini No points	
+300AD894 0000
+#Mauro Lucchiari Start with 200 points (Championship)	
+D00AD89A 0000
+300AD89A 00C8
+#Mauro Lucchiari No points	
+300AD89A 0000

@@ -1,0 +1,12 @@
+#Select Black Car
+8007C25A 000C
+#Have All Cars
+80173300 000D
+#Have All Courses
+801E90A8 0008
+#Infinite time
+8012CD20 0BB9
+#Speed MAX (AT)
+801D7F48 4FFF
+#Speed MAX (MT)
+801D7F40 0688

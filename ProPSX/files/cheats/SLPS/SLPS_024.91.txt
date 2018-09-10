@@ -1,0 +1,5 @@
+#Infinite HP Player 1 main character
+800BE254 0064
+#Player has 999999 points
+800C95AC 423F
+800C95AE 000F

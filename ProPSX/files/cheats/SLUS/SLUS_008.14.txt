@@ -1,0 +1,12 @@
+#Infinite Money
+80103FA8 270F
+#Inf Hp Partner
+80102844 03E7
+#Inf Hp Choco
+801026B8 03E7
+#Choco Max Level and All Spells
+50000302 0000
+8010401C 6262
+#Kill Dungeon 1 Boss
+D00B8718 000C
+801029D0 0000

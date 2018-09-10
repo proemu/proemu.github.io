@@ -1,0 +1,7 @@
+#Street Fighter Alpha 2 Gold Infinite Health P1
+80197614 0090
+#Street Fighter Alpha 2 Gold No Health P2	
+80197A10 0000
+#Play as Cammy In Versus Mode Cammy (Only in VS Mode)	
+8019765E 1E00
+

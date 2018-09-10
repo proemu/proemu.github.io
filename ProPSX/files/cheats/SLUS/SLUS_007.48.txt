@@ -1,0 +1,28 @@
+#Infinite ammo Hand Gun Leon
+800D4A3D 0063
+#Infinite ammo Shotgun Leon
+800D4A49 0063
+#Infinite Ink Ribbons Leon
+800D4A51 0063
+#The 4th Survivor Mode Main Menu
+800CFB74 0048
+#The Tofu Survivor Mode Main Menu
+800CFB74 0049
+#Play Bio Hazard 2 Mode
+D000E3A4 0000
+300CFB74 0000
+#Infinite Health Leon
+800CFD4E 00C8
+#Super Mega Rapid Fire (All Weapons)press R1 and 'X'
+D00CE2FC 0048
+800CFD44 000B
+#Stop Clock When Fighting Lass Boss Of The Game
+800D4832 012C
+#Extreme Battle Mode Main Menu
+D00CFB76 0000
+300CFB77 0001
+#All Characters & Levels (Extreme Battle Mode)
+800CFB98 0200
+
+
+

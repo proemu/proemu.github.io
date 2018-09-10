@@ -1,0 +1,35 @@
+#Unendlich Credits
+8004264A 0098
+#Max Teile MöGlich
+8004263C 0009
+#Max Anzahl Platz H1
+8004261A 0063
+#Max Anzahl Platz H2
+8004261E 0063
+#Max Anzahl Platz H3
+80042622 0063
+#Max Anzahl Platz H4
+80042626 0063
+#Max Anzahl Platz H5
+8004262A 0063
+#Max Anzahl Platz H6
+8004262E 0063
+#Max Anzahl Platz H7
+80042632 0063
+#Max Anzahl Platz H8
+80042636 0063
+#Max Anzahl Platz H9
+8004263A 0063
+#Max AbschüSse
+8004263E 0063
+80042640 0063
+80042642 0063
+#Unendlich Schilde
+D204D4A4 0D00
+1004D4A4 0200
+#Unendlich Rumpf
+D204D4A8 0A00
+1004D4A8 0200
+#Keine Panzer Und Durch Berge Fliegen (2. Mission)
+D00F4CE2 0C00
+800F4CE2 3C00

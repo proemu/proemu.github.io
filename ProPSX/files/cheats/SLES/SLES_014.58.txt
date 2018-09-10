@@ -1,0 +1,5 @@
+#Tore Team 1 Score Modifier (?00-FF)  
+800426F0 00?? 
+#Tore Team 2 Score Modifier (?00-FF)  
+800426B6 00?? 
+

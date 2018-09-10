@@ -1,0 +1,5 @@
+#Infinite Life
+800D6EDC 0064
+#Infinite Time
+8009F004 00B8
+800B5CE4 0060

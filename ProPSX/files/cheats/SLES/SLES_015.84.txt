@@ -1,0 +1,8 @@
+#Amount Of Goals P1 9 gOALS
+30034D40 0009
+#Amount Of Goals P2 0 goals
+30034D44 0000
+#Unlimited Transfers
+8009C61A 3C00
+#Infinite Match Time
+80123778 0000

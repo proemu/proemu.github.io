@@ -1,0 +1,13 @@
+#Infinite Lives
+800562C8 000A
+#Infinite Bottoles
+80055FC0 000A
+#Infinite Bombs
+80055FBC 000A
+#Infinite Coins
+80055FC8 000A
+#Score Modifier
+80056064 00??
+#Walk Through Enemies (Press L1 + L2)
+D00562D0 0005
+80056078 0001

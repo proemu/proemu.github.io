@@ -1,0 +1,4 @@
+#Infinite stars Player 1
+800511D0 03E7
+#Infinite hearts Player 1
+800511CE 03E7

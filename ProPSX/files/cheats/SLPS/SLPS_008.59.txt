@@ -1,0 +1,6 @@
+#Infinite HP in battle
+80101788 000F
+#The strength of the enemy 0
+80101814 0000
+#Degree of women of goodwill
+8007C91E 00FF

@@ -1,0 +1,7 @@
+#Infinite energy
+800D22F0 2A30
+#Infinite shield
+800D22F2 0258
+#Infinite Money
+80010298 FFFF
+8001029A FFFF

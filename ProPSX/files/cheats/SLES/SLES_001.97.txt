@@ -1,0 +1,8 @@
+#Infinite energy Player 1
+8017880D 00FF
+8019F723 00FF
+#Time = 0
+8018D5AD 0000
+
+
+

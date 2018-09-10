@@ -1,0 +1,6 @@
+#Miranda Invincible
+80099FB0 03E8
+#Infinite Ammo M560X & Thermo-Homing-Weapon
+80124422 03E8
+80124424 0001
+80124426 03E8

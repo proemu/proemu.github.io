@@ -1,0 +1,403 @@
+#Player Level V99
+80097BEE 0FFF
+#Infinite Mp
+80097BB0 00FF
+#Infinite Gold
+80097BF2 0FFF
+#Infinite Hearts
+80097BA8 00FF
+#Infinite Health
+80097BA0 270F
+80097BA4 270F
+#Max Attack
+800F4BF6 1400
+#Max Guard
+800F504E 1400
+#Max Str
+80097BB8 03E7
+#Max Con
+80097BBC 03E7
+#Max Int
+80097BC0 03E7
+#Max Lck
+80097BC4 03E7
+#Max Exp
+80097BEC 423F
+80097BEE 000F
+#All Special Item (Set One)
+80097982 8180
+80097984 8382
+80097986 8584
+80097988 8786
+80097964 0303
+80097966 0303
+80097968 0303
+8009796A 0303
+8009796C 0303
+8009796E 0303
+80097970 0303
+80097972 0303
+80097974 0303
+80097976 0303
+#All Special Items (Set Two)
+80097978 0303
+8009797A 0303
+8009797C 0303
+8009797E 0303
+80097980 0303
+#Have Knight Shield
+30097990 0010
+#Have Iron Shield
+30097991 0010
+#Have Axelord Shield
+30097992 0010
+#Have Dark Shield
+30097994 0010
+#Have Shaman Shield
+30097996 0010
+#Have Skull Shield
+30097998 0010
+#Have Alucard Shield
+3009799A 0010
+#Have Basilard
+3009799C 0010
+#Have Short Sword
+3009799D 0010
+#Have Combat Knife
+3009799E 0010
+#Have Nunchaku
+3009799F 0010
+#Have Were Bane
+300979A0 0010
+#Have Rapier
+300979A1 0010
+#Have Karma Coin
+300979A2 0010
+#Have Magic Missile
+300979A3 0010
+#Have Takemitsu
+300979A5 0010
+#Have Shotel
+300979A6 0010
+#Have Orange
+300979A7 0010
+#Have Banana
+300979A9 0010
+#Have Shiitake
+300979AF 0010
+#Have Parfait
+300979B3 0010
+#Have Spaghetti
+300979C1 0010
+#Have Meal Ticket
+300979D0 0010
+#Have Power Of Sire
+300979D2 0010
+#Have Pentagram
+300979D3 0010
+#Have Bat Pentagram
+300979D4 0010
+#Have Shuriken
+300979D5 0010
+#Have Cross Shuriken
+300979D6 0010
+#Have Buffalo Star
+300979D7 0010
+#Have Flame Star
+300979D8 0010
+#Have Tnt
+300979D9 0010
+#Have Bwaka Knife
+300979DA 0010
+#Have Boomerang
+300979DB 0010
+#Have Javelin
+300979DC 0010
+#Have Tyrfing
+300979DD 0010
+#Have Namakura
+300979DE 0010
+#Have Knuckle Duster
+300979DF 0010
+#Have Sword Of Hador
+300979F0 0010
+#Have Zwei Hander
+300979F1 0010
+#Have Luminus
+300979F3 0010
+#Have Harper
+300979F4 0010
+#Have Obsidian Sword
+300979F5 0010
+#Have Gram
+300979F6 0010
+#Have Jewel Sword
+300979F7 0010
+#Have Mormagil
+300979F8 0010
+#Have Fire Brand
+300979F9 0010
+#Have Thunderbrand
+300979FA 0010
+#Have Ice Brand
+300979FB 0010
+#Have Stone Sword
+300979FC 0010
+#Have Holy Sword
+300979FD 0010
+#Have Terminus Est
+300979FE 0010
+#Have Dark Blade
+30097A00 0010
+#Have Fist Of Tulkas
+30097A02 0010
+#Have Gurthang
+30097A03 0010
+#Have Mourneblade
+30097A04 0010
+#Have Alucard Sword
+30097A05 0010
+#Have Mablung Sword
+30097A06 0010
+#Have Badelaire
+30097A07 0010
+#Have Equipable Sword Familiar
+30097A08 0010
+#Have Great Sword
+30097A09 0010
+#Have Mace
+30097A0A 0010
+#Have Morning Star
+30097A0B 0010
+#Have Star Flail
+30097A0D 0010
+#Have Moon Rod
+30097A0E 0010
+#Have Chakram
+30097A0F 0010
+#Have Fire Boomerang
+30097A10 0010
+#Have Iron Ball
+30097A11 0010
+#Have Holbein Dagger
+30097A12 0010
+#Have Blue Knuckles
+30097A13 0010
+#Have Dynamite
+30097A14 0010
+#Have Osafune Katana
+30097A15 0010
+#Have Masasume
+30097A16 0010
+#Have Muramasa
+30097A17 0010
+#Have Heart Refresh
+30097A18 0010
+#Have Rune Sword
+30097A19 0010
+#Have Uncurse
+30097A1B 0010
+#Have Strength Potion
+30097A1E 0010
+#Have Luck Potion
+30097A1F 0010
+#Have Smart Potion
+30097A20 0010
+#Have Attack Potion
+30097A21 0010
+#Have Shield Potion
+30097A22 0010
+#Have Resist Fire
+30097A23 0010
+#Have Resist Thunder
+30097A24 0010
+#Have Resist Stone
+30097A26 0010
+#Have Resist Holy
+30097A27 0010
+#Have Resist Dark
+30097A28 0010
+#Have Elixir
+30097A2B 0010
+#Have Vorpal Blade
+30097A2D 0010
+#Have Yasutsuna
+30097A2F 0010
+#Have Library Card
+30097A30 0010
+#Have Alucard Shield
+30097A31 0010
+#Have Silver Plate
+30097A39 0010
+#Have Platinum Mail
+30097A3B 0010
+#Have Fire Mail
+30097A3D 0010
+#Have Ice Mail
+30097A3F 0010
+#Have Spike Breaker
+30097A41 0010
+#Have Dark Armor
+30097A43 0010
+#Have Holy Mail
+30097A45 0010
+#Have Brilliant Mail
+30097A47 0010
+#Have Fury Plate
+30097A49 0010
+#Have God's Garb
+30097A4B 0010
+#Have Ballroom Mask
+30097A4F 0010
+#Have Felt Hat
+30097A51 0010
+#Have Goggles
+30097A53 0010
+#Have Holy Glasses
+30097A55 0010
+#Have Stone Mask
+30097A57 0010
+#Have Gold Circlet
+30097A59 0010
+#Have Opal Circlet
+30097A5B 0010
+#Have Beryl Circlet
+30097A5D 0010
+#Have Coral Circlet
+30097A5F 0010
+#Have Slver Crown
+30097A61 0010
+#Have Reverse Cloak
+30097A65 0010
+#Have Elven Cloak
+30097A66 0010
+#Have Crystal Cloak
+30097A67 0010
+#Have Royal Cloak
+30097A68 0010
+#Have Blood Cloak
+30097A69 0010
+#Have Joseph's Cloak
+30097A6A 0010
+#Have Twilight Cloak
+30097A6B 0010
+#Have Moonstone
+30097A6D 0010
+#Have Sunstone
+30097A6E 0010
+#Have Bloodstone
+30097A6F 0010
+#Have Staurolite
+30097A70 0010
+#Have Ring Of Pales
+30097A71 0010
+#Have Zircon
+30097A72 0010
+#Have Aquamarine
+30097A73 0010
+#Have Turquoise Ring
+30097A74 0010
+#Have Onyx
+30097A75 0010
+#Have Garnet Ring
+30097A76 0010
+#Have Opal
+30097A77 0010
+#Have Diamond Ring
+30097A78 0010
+#Have Lapis Lazuli
+30097A79 0010
+#Have Ring Of Ares
+30097A7A 0010
+#Have Gold Ring
+30097A7B 0010
+#Have Silver Ring
+30097A7C 0010
+#Have Ring Of Varda
+30097A7D 0010
+#Have Ring Of Arcana
+30097A7E 0010
+#Have Mystic Pendant
+30097A7F 0010
+#Have Heart Broach
+30097A80 0010
+#Have Necklace Of J
+30097A81 0010
+#Have Gauntlet
+30097A82 0010
+#Have Ankh Of Life
+30097A83 0010
+#Have Ring Of Feanor
+30097A84 0010
+#Have Medal
+30097A85 0010
+#Have Talisman
+30097A86 0010
+#Have Duplicator
+30097A87 0010
+#Have King's Stone
+30097A88 0010
+#Have Covenant Stone
+30097A89 0010
+#Have Nauglamir
+30097A8A 0010
+#Have Secret Boots
+30097A8B 0010
+#Weapon Agunea
+80097BFC 0009
+#Have Over 200% Completion Value
+8003C760 0787
+#Super Jump
+80097448 0090
+#Sword Familiar Max Level
+80097C74 FFFF
+#Faerie 1 Familiar Max Level
+80097C5C C3FF
+#Bat Familiar Max Level
+80097C44 C3FF
+#Ghost Familiar Max Level
+80097C50 C3FF
+#Slow Motion
+8002D374 3275
+#Have Heaven Sword
+30097A01 0010
+#Have Crissaegrim
+30097A2E 0010
+#Have Wizard Hat
+30097A62 0010
+#Devil 2 Familiar Max Level
+80097C8C 03E7
+#Faerie 2 Familiar Max Level
+80097C80 03E7
+#Quick Level Up Bat Familer
+80097C48 FFFF
+#Quick Level Up Demon Familer
+80097C6C FFFF
+#Quick Level Up Fairie Familer
+80097C60 FFFF
+#Quick Level Up Ghost Familer
+80097C54 FFFF
+#Quick Level Up Sword Familer
+80097C78 FFFF
+#Money Bag You Collect Is 65535 Gold
+80097BF0 FFFF
+#Increase Kills By 65535
+80097BF4 FFFF
+#Every Room You Enter Increases Total 65535
+8003C760 FFFF
+#Game Time 00:00:00
+80097C38 0000
+#Hyper Hydrostorm (Richter Only)
+80074CFC FFFF
+.With this code, to use it, use the Holy Water Item Crash. After the FX are over, the Hydrostorm will keep doing damage! This little rain of death will continue until you go through a 'CD Load' hallway or cause disc access.
+#Character Alucard
+3003C9A0 0000
+#Character Richter
+3003C9A0 0001 
+#Demon Familiar Max Level
+80097C68 0063
+#Invincibility		
+80072F2E 1001
+#Save Almost Anywhere (Press And Hold Triangle)		
+D0097490 0010
+3003C708 0020

@@ -1,0 +1,66 @@
+#P1 Max Dance Score	
+8005E6F8 FFFF
+#P1 Infinite Specials	
+8005E742 0200
+#Start on Last Stage (press select in character select screen)	
+D005E870 0100
+8005E78C 0007	
+#P1 Extra Outfit 	
+800971F0 0001
+#Always Win Code	
+8005E6F8 9676
+8005E6FA 009
+#Enable Dance View Mode	
+80192018 0001		
+#Enable Robo-Z Gold
+3004E2F0 0001		
+#Enable Columbo	
+3004E2F1 0001	
+#Enable Sushi Boy	
+3004E2F2 0001		
+#Enable ChiChi + Sally	
+3004E2F3 0001		
+#Enable Michael Doi	
+3004E2F4 0001		
+#Enable McLoad	
+3004E2F5 0001		
+#Enable Hustle Kong	
+3004E2F6 0001		
+#Enable Pander	
+3004E2EF 0001		
+#Enable Heat In Dance View	
+3004E2F6 0001		
+#Enable Strike In Dance View	
+3004E2F8 0001		
+#Enable Comet In Dance View	
+3004E2F9 0001		
+#Enable Tsutomu In Dance View	
+3004E2FA 0001		
+#Enable Kelly In Dance View	
+3004E2FB 0001		
+#Enable Shorty In Dance View	
+3004E2FC 0001		
+#Enable Pander In Dance View	
+3004E2FD 0001		
+#Enable Kitty N In Dance View	
+3004E2FE 0001		
+#Enable Hiro In Dance View	
+3004E2FF 0001		
+#Enable Bi-O In Dance View	
+3004E300 0001		
+#Enable Capoeira In Dance View	
+3004E301 0001		
+#Enable Robo-Z Gold In Dance View	
+3004E302 0001		
+#Enable Columbo In Dance View	
+3004E303 0001		
+#Enable Sushi Boy In Dance View	
+3004E304 0001		
+#Enable ChiChi + Sally In Dance View	
+3004E305 0001		
+#Enable Michael Doi In Dance View	
+3004E306 0001		
+#Enable McLoad In Dance View	
+3004E307 0001		
+#Enable Hustle Kong In Dance View	
+3004E308 0001

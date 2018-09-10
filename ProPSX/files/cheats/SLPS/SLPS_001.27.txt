@@ -1,0 +1,10 @@
+#P1 Score 9 Goals	
+800DD74C 0009
+#P1 Score 0 Goals	
+800DD74C 0000	
+#CPU Score 9 Goals	
+800DD750 0009
+#CPU Score 0 Goals	
+800DD750 0000
+
+	

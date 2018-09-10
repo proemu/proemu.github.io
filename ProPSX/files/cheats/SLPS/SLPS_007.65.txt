@@ -1,0 +1,40 @@
+#Rolling Thunder Infinite Time 	
+8017B3B6 0999
+#Rolling Thunder Infinite Lives P1 	
+80171C5C 4003
+#Rolling Thunder Infinite Lives P2 	
+80171C7C 4003
+#Rolling Thunder Infinite Health 	
+8017B47A 0040
+#Rolling Thunder Infinite Credits 	
+8016E94C 0063
+#Motos Infinite Lives 	
+801A3D25 0003
+#Dragon Saber P1 Infinite Lives 	
+801412B8 0003
+#Dragon Saber P2 Infinite Lives 	
+801413BC 0003
+#Dragon Saber Infinite Credits 	
+801A3D06 9900
+#Sky Kid Infinite Credits 	
+800C76B4 0063
+#Sky Kid P1 Infinite Lives
+800C7054 0003
+#Sky Kid P2 Infinite Lives
+800C7058 0003
+#Rompers Infinite Lives
+800B E248 0003
+#Rompers Infinite Time To make this code work, you must skip the intro
+800B E12A 0558
+#Rompers Infinite Credits 	
+8012CD5E 0063
+#King & Balloon Infinite Credits 	
+8004D968 9900
+#King & Balloon Infinite Kings 	
+8004D65E 0404
+#Wonder Momo Infinite Credits 	
+8012459C 0063
+#Wonder Momo Infinite Vital 	
+80124404 007F
+#Wonder Momo Infinite Wonder
+801245F0 007F

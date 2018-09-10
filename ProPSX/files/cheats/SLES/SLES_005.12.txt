@@ -1,0 +1,9 @@
+#Heim-Mannschaft Hat 9 Punkte
+800475EC 0009
+#Heim-Mannschaft Hat 0 Punkte
+800475EC 0000
+#AuswäRtige Mannschaft Hat 9 Punkte
+800475B2 0009
+#AuswäRtige Mannschaft Hat 0 Punkte
+800475B2 0000
+

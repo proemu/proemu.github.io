@@ -1,0 +1,6 @@
+#Unlimited Hearts
+80091180 0005
+#99 Cheese
+800911F8 0063
+#Unlimited Lives
+8009110C 0004

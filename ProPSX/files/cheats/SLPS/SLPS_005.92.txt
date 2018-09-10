@@ -1,0 +1,2 @@
+#Time is Always = 0 In Story Mode Heat 0
+80A01AA3 0000

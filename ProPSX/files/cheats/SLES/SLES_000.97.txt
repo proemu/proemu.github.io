@@ -1,0 +1,59 @@
+#Infinite Life Energy
+800791BC 00C8
+#Infinite Lifes
+800830A2 00C8
+#No Problems With Air
+800830AC 0040
+#All Levels Selectables
+8007D1F0 1F11
+8007D1F2 1A16
+8007D1F4 171C
+8007D1F6 1415
+8007D1F8 1515
+8007D1FA 1A13
+8007D1FC 151C
+8007D1FE 1115
+8007D200 1219
+8007D202 1A1A
+8007D204 0018
+#Chains Of Power
+800830C2 0007
+#Gun Equipped
+800830C6 0040
+#Infinite Gun-Power
+800830C6 003C
+#M60 Equipped
+800830C8 0040
+#Infinite M60-Power
+800830C8 0032
+#Amun-Bombs Equipped
+800830CA 0040
+#Infinite Amun-Bomb-Power
+800830CA 0014
+#Flamethrower Equipped
+800830CC 0040
+#Infinite Flamethrower
+800830CC 003C
+#Cobra Staff
+800830CE 0032
+#Infinite Cobra Staff
+800830CE 0014
+#Ring Of Ra
+800830D0 0100
+#Energy For Chains Of Power
+800830D2 00FF
+#Manacle
+800830D2 013C
+#All Four Keys
+800830EA 000F
+#Have All Artifacts 
+300830E8 00FF
+#Have All Maps
+800830F4 0606
+#Have All Symbols
+300830EA 000F
+#Have All Transmiter Pieces
+300830EE 00FF
+#Have All Weapons & Infinite AMMMO
+50000702 0040
+800830C6 0000

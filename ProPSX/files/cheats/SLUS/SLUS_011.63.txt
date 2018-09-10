@@ -1,0 +1,23 @@
+#Infinite Boost
+800ABB28 012F
+800ABB38 0004
+300ABB3D 0001
+#Enable Boost Option
+800A8D58 0001
+#Enable Hien Mode
+800A8D5A 0001
+#Infinite Health
+800ABA32 0006
+800ABA34 0006
+#Infinite Time
+300D9E03 0063
+#Unlock All Levels
+300D9E03 0006
+#Unlock Stage "00"		
+300A8D59 0001
+#Press L2+R2 To Skip Current Sub-Level		
+D009FD4C 0003
+800D9DE0 0001
+#Invincibility		
+800AB838 0002
+800AB83E 2400

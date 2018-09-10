@@ -1,0 +1,38 @@
+#Infinite Lives
+800813C4 0003
+#Invincible
+80085718 00A5
+#Infinite Special Weapon Ammo
+80084832 000F
+80084834 000F
+#Score Multiplier Always At 40
+80081326 0028
+#Endymion Mk. Ii\Push Triangle Button To Get Weapon (1-D)
+D0083E2C 0010
+80085734 0D00
+#Astrea\Push Triangle Button To Get Weapon (1-D)
+D0083E2C 0010
+80085734 0C0D
+#Astrea\Infinite Top Pod Ammo
+80084982 000F
+#Astrea\Have Unknown Fighter Type i (For the unknown fighter codes, push the triangle button at the fighter select screen)
+D0083E2C 0010
+80081434 0003
+#Astrea\Have Unknown Fighter Type II (For the unknown fighter codes, push the triangle button at the fighter select screen)
+D0083E2C 0010
+80081434 0004
+#Other Codes\Press Triangle To Refill Ammo To 9999
+D0083E2C 0010
+80084832 9999
+80084834 9999
+#Other Codes\Enable Gallery With All Pictures
+801FEC9C FFFF
+801FEC9E FFFF
+#Debug Option Go to config, file or gallery menu first. Then press Select.
+D0083E2E 0100
+800ADA40 000
+#Enable Stage Select and also makes you play in Free Difficuly which was disabled from the US release	
+800ADAA6 0001
+80085960 FFFF
+8008593C 0000
+

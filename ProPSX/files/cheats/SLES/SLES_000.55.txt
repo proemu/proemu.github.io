@@ -1,0 +1,26 @@
+#Infinite Energy
+800D1816 0064
+#Infinite Shields
+800D181A 0064
+#All Keys & 4X Laser
+800D1810 06FF
+#Max. Laser-End-Value
+800D181E 0006
+#All Primary-Weapons Active
+800D1822 FFFF
+#Concussion-Missiles
+800D182E 000F
+#Homing-Missiles
+800D1830 000F
+#Proximity-Bombs
+800D1832 000F
+#Smart Missiles
+800D1834 000F
+#Mega Missiles
+800D1836 000F
+#Infinite Vulcano Ammo
+800D1826 9684
+
+
+
+

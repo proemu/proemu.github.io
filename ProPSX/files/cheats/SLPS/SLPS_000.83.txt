@@ -1,0 +1,14 @@
+#Infinite Energy P1
+80110764 00D0
+#Infinite Energy P2
+801114E8 00D0 
+80111544 00D0 
+#No energy P2
+801114E8 0000 
+80111544 0000 
+#Use all characters 
+800E7D62 00FF 
+#Pal-Mode
+800C44A4 0001
+#Unlimited Time
+800E85B0 06F5

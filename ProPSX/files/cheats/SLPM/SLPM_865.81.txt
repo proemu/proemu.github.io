@@ -1,0 +1,9 @@
+#Clear 1 Line to Win		
+80061E8A 0001
+#Max Level		
+80061E8E 0063
+#Max Lines Cleared		
+80061E88 03E7
+#Max Score		
+80061E84 E0FF
+80061E86 05F5

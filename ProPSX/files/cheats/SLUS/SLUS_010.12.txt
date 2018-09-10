@@ -1,0 +1,31 @@
+#Infinite time
+800C4BA0 8700
+#Infinite health
+800AA642 0800
+#Jump Distance Complete
+800AB80A 2F00
+#Start On 3rd Lap
+D00AB554 0001
+800AB554 0003
+D00AB554 0001
+800AB556 0003
+#Always Have Missiles In First Slot
+800ABAF8 0004
+800ABAF4 0003
+#1000 Pts Collected
+800AB81C 03E8
+#1000 Items Collected
+800AB83C 03E8
+#Enable Franklin Stein
+80091AB8 01FF
+#Enable Mastov Kartnov
+80091ABC FF01
+#Enable Sparks
+80091ABE 01FF
+#Enable Chase Rainbow
+80091AC2 FF01
+#Enable The Mummy
+80091AC4 01FF
+#Enable Buck Billionaire
+80091AC8 FF01
+

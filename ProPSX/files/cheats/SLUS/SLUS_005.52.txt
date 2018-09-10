@@ -1,0 +1,33 @@
+#Ghost In The Shell Mis 12 Inf Hp
+8012BD50 00C8
+#Ghost In The Shell Mis 11 Inf Hp
+80122F84 00C8
+#Ghost In The Shell Mis 10 Inf Hp
+80125084 00C8
+#Ghost In The Shell Mis 9 Freezer Timer
+801249C8 0DF7
+#Ghost In The Shell Mis 9 Inf Hp
+801249D4 00C8
+#Ghost In The Shell Mis 8 Inf Hp
+801204A8 00C8
+#Ghost In The Shell Mis 7 Inf Hp
+80125D04 00C8
+#Ghost In The Shell Mis 6 Freezer Timer
+801276D8 0DF7
+#Ghost In The Shell Mis 6 Inf Hp
+801276E4 00C8
+#Ghost In The Shell Mis 5 Inf Hp
+8011FD4C 00C8
+#Ghost In The Shell Mis 4 Freeze Timer
+80122798 0DF7
+#Ghost In The Shell Mis 4 Inf Hp
+801227A4 00C8
+#Ghost In The Shell Mis 3 Freeze Timer
+80120C24 0DF7
+#Ghost In The Shell Mis 3 Inf Hp
+80120C30 00C8
+#Ghost In The Shell Mis 2 Inf Hp
+8011F390 00C8
+#Ghost In The Shell Mis 1 Inf Hp
+80120258 00C8
+

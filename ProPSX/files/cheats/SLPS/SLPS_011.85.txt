@@ -1,0 +1,21 @@
+#Have 9999999 Cr in story mode
+8001000C 967F
+8001000E 0098
+#Jackpot picture 1
+80071552 0000 
+#Jackpot picture 2
+80071552 0001 
+#Jackpot picture 3
+80071552 0002 
+#Jackpot picture 4
+80071552 0003 
+#Jackpot picture 5
+80071552 0004 
+#Jackpot picture 6
+80071552 0005 
+#Jackpot picture 7
+80071552 0006 
+#Jackpot picture 8
+80071552 0007 
+#Jackpot picture 9
+80071552 0008

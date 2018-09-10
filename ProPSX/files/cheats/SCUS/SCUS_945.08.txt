@@ -1,0 +1,50 @@
+#1st Place After Race P1
+8007D4CC 0000
+#2 P1's Speed is Always Max
+8007D490 00FF
+#Race Time is 0.000 (.DON'T fall off of your skateboard!)
+80043E3C 0000
+#Character Creation Codes\Max Muscle
+80130004 00FF
+#Character Creation Codes\Max Endurance
+8012FE2C 00FF
+#Character Creation Codes\Max Speed
+8012FC54 00FF
+#Character Creation Codes\Max Reflexes
+8012FA7C 00FF
+#Character Creation Codes\Max Tricks
+8012F8A4 00FF
+#Character Creation Codes\Max Skateboarding
+8012F6CC 00FF
+#Character Creation Codes\Max Inlineskating
+8012F4F4 00FF
+#Character Creation Codes\Max Snowboarding
+8012F31C 00FF
+#Character Creation Codes\Max Mountainbiking
+8012F144 00FF
+#Character Creation Codes\Max Handling (Skate Board)
+8012EF6C 00FF
+#Character Creation Codes\Max Acceleration (Skate Board)
+8012ED94 00FF
+#Character Creation Codes\Max Top Speed (Skate Board)
+8012EBBC 00FF
+#Character Creation Codes\Max Handling (Inline Skates)
+8012E9E4 00FF
+#Character Creation Codes\Max Acceleration (Inline Skates)
+8012E80C 00FF
+#Character Creation Codes\Max Top Speed (Inline Skates)
+8012E634 00FF
+#Character Creation Codes\Max Handling (Snow Board)
+8012E45C 00FF
+#Character Creation Codes\Max Acceleration (Snow Board)
+8012E284 00FF
+#Character Creation Codes\Max Top Speed (Snow Board)
+8012E0AC 00FF
+#Character Creation Codes\Max Handling (Mountain Bike)
+8012DED4 00FF
+#Character Creation Codes\Max Acceleration (Mountain Bike)
+8012DCFC 00FF
+#Character Creation Codes\Max Top Speed (Mountain Bike)
+8012DB24 00FF
+#Can Max Out All Character Creation Attributes
+8002B4EE 2400

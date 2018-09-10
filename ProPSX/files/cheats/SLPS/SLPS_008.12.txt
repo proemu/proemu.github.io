@@ -1,0 +1,6 @@
+#Infinite Time
+800AF9A4 0000
+#Infinite Ammo
+801CF7E8 0009
+#Infinite Bombs
+801C0330 07D0

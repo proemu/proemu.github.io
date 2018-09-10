@@ -1,0 +1,21 @@
+#P1 Unendlich Lasergewehre
+800B01C0 000F
+#P1 Unendlich Blendgranaten
+800B01C4 000F
+#P1 Unendlich Titaniums‰Gen
+800B01C8 000F
+#P1 Anzahl Tore (?00-FF)
+800B0168 00FF
+#P2 Unendlich Lasergewehre
+800B01CC 000F
+#P2 Unendlich Blendgranaten
+800B01D0 000F
+#P2 Unendlich Titaniums‰Gen
+800B01D4 000F
+#P2 Anzahl Tore
+800B016C 00??
+?00-FF
+#Max Zeit
+800B0170 FFFF
+#Spielviertel-Modifizierer (?0-3)
+800B0174 0003

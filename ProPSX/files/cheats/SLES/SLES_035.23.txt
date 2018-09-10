@@ -1,0 +1,7 @@
+#Infinite energy
+800EFFCC 0064
+#Infinite ammo
+801F7C28 0050
+#Have All Levels
+D00A5B0C 0000
+800A5B0C 0002

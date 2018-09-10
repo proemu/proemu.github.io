@@ -1,0 +1,33 @@
+#Infinite and  max money
+8010CF80 967F
+8010CF82 0098
+#Infinite and Max HP for the three characters 
+8010CF86 03E7
+8010CF88 03E7
+#Infinite and Max MP for the three characters 
+8010CF8C 03E7
+8010CF8E 03E7
+#Max power
+8010CF92 03E7
+#Max technology
+8010CF96 03E7
+#Max Magic 
+8010CF9A 03E7
+#Max luck
+8010CF9E 03E7
+#NPC Character: Inf. HP / Max HP		
+8010B116 270F
+8010B118 270F
+#NPC Character: Max Level		
+8010B114 03E7
+#OK Status	
+3010CFC8 007F
+#Press L1+X for Float Ability		
+E0112110 0044
+3010CFCE 0080
+#Press R1+X for Wall-Breaking Ability		
+E0112110 0048
+3010CFCF 0001
+#Press L2+X for Invincibility
+E0112110 0041
+3010CFCD 0040

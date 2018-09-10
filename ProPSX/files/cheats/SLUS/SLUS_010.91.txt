@@ -1,0 +1,262 @@
+#Combat-Tutorial Codes\Infinite Health
+80198F04 00C8
+#Physical Training Codes\Infinite Time
+80197184 2F00
+#Physical Training Codes\Infinite Health
+80197E80 00C8
+#Driving Bronze Codes\Infinite Time
+801970DC 2F00
+#Driving Bronze Codes\Infinite Car Damage
+80197886 012C
+#Combat Silver Codes\Infinite Time
+801977B8 2F00
+#Combat Silver Codes\Infinite Health
+80198994 00C8
+#Rta Codes\Infinite Health
+80194F44 00C8
+#Rta Codes\Infinite Car Damage
+8019439E 012C
+#Rta Codes\Have Pistol
+30194F43 0001
+#Rta Codes\Infinite Ammo Pistol
+30194F42 0063
+#Driving Silver Codes\Infinite Time
+80196A5C 2F00
+#Driving Silver Codes\No Car Damage
+8019735E 012C
+#Combat Gold Codes\Infinite Health
+80198C18 00C8
+#Combat Gold Codes\Infinite Time
+80197814 2F00
+#The Jump Codes\Infinite Health
+80194F6C 00C8
+#Driving Gold Codes\Infinite Time
+80196F68 3682
+#Driving Gold Codes\No Car Damage
+8019771E 012C
+#Nitro Car Codes\Infinite Health
+80197AA4 00C8
+#Nitro Car Codes\Infinite Car Damage
+801970FE 012C
+#Nitro Car Codes\Infinite Ammo Pistol
+80197AA2 0163
+#Nitro Car Codes\Infinite Ammo Shotgun
+8019A260 0063
+#Gun Hunt Codes\Infinite Health
+80195618 00C8
+#Rat Catch Codes\Infinite Health
+80197820 00C8
+#Rat Catch Codes\Infinite Ammo Pistol
+3019781E 0063
+#Rat Catch Codes\Infinite Ammo Shotgun
+8019A13C 0063
+#Rat Catch Codes\Have Shotgun
+8019782C 003C
+#Trouble In The Park Codes\Infinite Health
+80194A34 00C8
+#Gatecrusher Codes\Infinite Health
+801914C4 00C8
+#Gatecrusher Codes\Infinite Ammo Pistol
+801914C2 0163
+#Gatecrusher Codes\Infinite Ammo Rifle
+80196834 0063
+#Arms Breaker Codes\Infinite Health
+80194C04 00C8
+#Arms Breaker Codes\Infinite Ammo Pistol
+80194C02 0163
+#Media Trouble Codes\Infinite Health
+801955AC 00C8
+#Media Trouble Codes\Infinite Ammo Pistol
+801955AE 0163
+#Media Trouble Codes\Infinite Ammo Rifle
+801990D4 0063
+#Urban Shakedown Codes\Infinite Health
+80195A20 00C8
+#Urban Shakedown Codes\Infinite Ammo Pistol
+80195A22 0163
+#Urban Shakedown Codes\Infinite Ammo Shotgun
+801987E4 0063
+#Urban Shakedown Codes\Infinite Time
+8019329C 2F00
+#Auto-Destruct Codes\Infinite Health
+80196824 00C8
+#Auto-Destruct Codes\Infinite Ammo Pistol
+80196826 0163
+#Auto-Destruct Codes\Infinite Time
+80192E24 2F00
+#Grim Gardens Codes\Infinite Health
+801954D4 00C8
+#Grim Gardens Codes\Infinite Ammo Pistol
+801954D6 0163
+#Semtex Codes\Infinite Health
+80194DD4 00C8
+#Semtex Codes\Infinite Ammo Pistol
+80194DD6 0163
+#Cop Rescue Codes\Infinite Health
+8019146C 00C8
+#Cop Rescue Codes\Infinite Ammo Pistol
+8019146E 0163
+#Cop Rescue Codes\Infinite Ammo Shotgun
+801954B4 0063
+#Southside Offensive Codes\Infinite Health
+8019495C 00C8
+#Southside Offensive Codes\Infinite Ammo Pistol
+8019495E 0163
+#Southside Offensive Codes\Infinite Grenades
+8019932C 0063
+#Southside Offensive Codes\Infinite Ammo Shotgun
+801990FC 0063
+#Psycho Park Codes\Infinite Health
+80194874 00C8
+#Psycho Park Codes\Infinite Ammo Pistol
+80194876 0163
+#Psycho Park Codes\Infinite Ammo Shotgun
+8019970C 0063
+#Psycho Park Codes\Infinite Ammo Rifle
+80199720 0063
+#The Fallen Codes\Infinite Health
+801955E4 00C8
+#The Fallen Codes\Infinite Ammo Pistol
+801955E6 0163
+#Stern Revenge Codes\Infinite Health
+8019283C 00C8
+#Stern Revenge Codes\Infinite Ammo Pistol
+8019283E 0163
+#Stern Revenge Codes\Infinite Ammo Shotgun
+80198358 0063
+#Stern Revenge Codes\Infinite Ammo Rifle
+801984AC 0063
+#Transmission Terminated Codes\Infinite Health
+801925F8 00C8
+#Transmission Terminated Codes\Infinite Ammo Pistol
+801925FA 0163
+#Transmission Terminated Codes\Infinite Ammo Shotgun
+80197068 0063
+#Estate Of Emergency Codes\Infinite Health
+80192314 00C8
+#Estate Of Emergency Codes\Infinite Ammo Pistol
+80192314 0163
+#Estate Of Emergency Codes\Infinite Ammo Rifle
+80197528 0063
+#Estate Of Emergency Codes\Infinite Ammo Shotgun
+8019735C 0063
+#Seek, Sneak & Seize Codes\Infinite Health
+80198544 00C8
+#Seek, Sneak & Seize Codes\Infinite Ammo Pistol
+80198546 0163
+#Seek, Sneak & Seize Codes\Infinite Ammo Rifle
+8019AC60 0063
+#Target Uc Codes\Infinite Health
+80196758 00C8
+#Target Uc Codes\Infinite Ammo Pistol
+8019675A 0163
+#Target Uc Codes\Infinite Ammo Shotgun
+80199C8C 0063
+#Target Uc Codes\Infinite Explosives
+80199C64 0063
+#Target Uc Codes\Infinite Time
+80194CE4 2F00
+#Headline Hostage Codes\Infinite Health
+8019550C 00C8
+#Headline Hostage Codes\Infinite Ammo Pistol
+8019550E 0163
+#Headline Hostage Codes\Infinite Ammo Shotgun
+801992DC 0063
+#Headline Hostage Codes\Infinite Grenades
+8019937C 0063
+#Headline Hostage Codes\Infinite Time
+8019237C 2F00
+#Insane Assault Codes\Infinite Health
+801919C0 00C8
+#Insane Assault Codes\Infinite Ammo Pistol
+801919C2 0163
+#Day Of Reckoning Codes\Infinite Health
+8018AB24 0190
+#Day Of Reckoning Codes\Infinite Ammo Pistol
+8018AB26 0163
+#Day Of Reckoning Codes\Infinite Ammo Shotgun
+8018D97C 0063
+#Day Of Reckoning Codes\Infinite Time
+80189390 2F00
+#Assassin Codes\Infinite Health
+80196C1C 00C8
+#Assassin Codes\Infinite Ammo Pistol
+80196C1E 0163
+#Assassin Codes\Infinite Ammo Shotgun
+80199DB8 0063
+#Have Levels Completed Codes\Combat: Tutorial
+300EB479 0001
+#Have Levels Completed Codes\Physical Training
+300EB47A 0001
+#Have Levels Completed Codes\Driving Bronze
+300EB47B 0001
+#Have Levels Completed Codes\Combat Silver
+300EB47C 0001
+#Have Levels Completed Codes\Rta
+300EB47D 0001
+#Have Levels Completed Codes\Driving Silver
+300EB47E 0001
+#Have Levels Completed Codes\Combat Gold
+300EB47F 0001
+#Have Levels Completed Codes\The Jump
+300EB480 0001
+#Have Levels Completed Codes\Driving Gold
+300EB481 0001
+#Have Levels Completed Codes\Nitro Car
+300EB482 0001
+#Have Levels Completed Codes\Gun Hunt
+300EB483 0001
+#Have Levels Completed Codes\Rat Catch
+300EB484 0001
+#Have Levels Completed Codes\Trouble In The Park
+300EB485 0001
+#Have Levels Completed Codes\Gatecrusher
+300EB486 0001
+#Have Levels Completed Codes\Arms Breaker
+300EB487 0001
+#Have Levels Completed Codes\Media Trouble
+300EB488 0001
+#Have Levels Completed Codes\Urban Shakedown
+300EB489 0001
+#Have Levels Completed Codes\Auto-Destruct
+300EB48A 0001
+#Have Levels Completed Codes\Grim Gardens
+300EB48B 0001
+#Have Levels Completed Codes\Semtex
+300EB48C 0001
+#Have Levels Completed Codes\Cop Rescue
+300EB48D 0001
+#Have Levels Completed Codes\Southside Offensive
+300EB48E 0001
+#Have Levels Completed Codes\Psycho Park
+300EB48F 0001
+#Have Levels Completed Codes\The Fallen
+300EB490 0001
+#Have Levels Completed Codes\Stern Revenge
+300EB491 0001
+#Have Levels Completed Codes\Transmission Terminated
+300EB492 0001
+#Have Levels Completed Codes\Estate Of Emergency
+300EB493 0001
+#Have Levels Completed Codes\Seek, Sneak & Seize
+300EB494 0001
+#Have Levels Completed Codes\Target Uc
+300EB495 0001
+#Have Levels Completed Codes\Headline Hostage
+300EB496 0001
+#Have Levels Completed Codes\Insane Assault
+300EB498 0001
+#Have Levels Completed Codes\Day Of Reckoning
+300EB499 0001
+#Have Levels Completed Codes\Assassin
+300EB49A 0001
+#Have Levels Completed Codes\All Levels
+50002101 0000
+300EB479 0001
+#Access El Cossa Isle Level		
+D0110F30 0013
+30110F40 001E
+D0110F30 0019
+301F3AF0 0001
+D0110F48 0000
+30110F48 0001

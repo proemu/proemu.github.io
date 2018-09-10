@@ -1,0 +1,145 @@
+#Start On Lap 3 	
+D00B9318 0000
+800B9318 0002 
+#One Stage To Race In Championship Mode
+D00BE36C 0000
+800BE36C 0003
+#One Stage To Race In Championship Mode Platinum Cup
+D00BE36C 0000
+800BE36C 0005	
+#Time is 0:00:00 	
+800B11B0 0000
+800B11B2 0000 		
+#Max Points in Championship Mode 	
+800BE37C 0063 		
+#Infinite Tries 	
+800BE370 0003 		
+#Time Trial - Time is 0:00:00 	
+8006AD32 2400 		
+#Add A Retry 	
+8002DA40 0001 		
+#Have Progress Table Complete + All Trophies Complete 	
+80111EFC FFFF
+80111F00 FFFF
+80111F04 FFFF
+80111F08 FFFF
+80111F0C FFFF
+80111F10 FFFF
+80111F14 FFFF
+80111F18 FFFF
+80111F1C FFFF
+80111F20 FFFF
+80111F24 FFFF
+80111F28 FFFF
+80111F2C FFFF 
+#Freeze Timer In Time Trial Mode
+800B931C 0000 
+#Start With Infinite Missiles
+800B9A0C FFFF
+#Infinite Retries
+800BE370 0003		
+#Have All Stunt Arena Stars + Enable Clockwork Carnage 	
+800BE644 0014 		
+#Unlock Dynamo San 	
+801EE49C 0100 		
+#Unlock Candy Pebbles 	
+801EE848 0100 		
+#Unlock Genghis Kar 	
+801EEBF4 0100 		
+#Unlock Aquasoni 	
+801EEFA0 0100 		
+#Unlock Mouse 	
+801EF34C 0100 		
+#Unlock Evil Weasel 	
+801EF6F8 0100 		
+#Unlock Panga TC 	
+801EFAA4 0100 		
+#Unlock R6 Turbo 	
+801EFE50 0100 		
+#Unlock NY54 	
+801F01FC 0100 		
+#Unlock Bertha Ballistics 	
+801F05A8 0100 		
+#Unlock Pest Control 	
+801F0954 0100 		
+#Unlock Adeon 	
+801F0D00 0100 		
+#Unlock Pole Poz 	
+801F10AC 0100 		
+#Unlock Zipper 	
+801F1458 0100 		
+#Unlock Rotar 	
+801F1804 0100 		
+#Unlock Cougar 	
+801F1BB0 0100 		
+#Unlock Humma 	
+801F1F5C 0100 		
+#Unlock Toyeca 	
+801F2308 0100 		
+#Unlock AMW 	
+801F26B4 0100 		
+#Unlock Panga 	
+801F2A60 0100 		
+#Unlock Trolley they do not save to memory card.	
+801F2E0C 0100 	
+#Unlock Clockwork 	
+801F31B8 0100 		
+#Unlock Clockwork 2 	
+801F3564 0100 		
+#Unlock Clockwork 3 	
+801F3910 0100 		
+#Unlock Clockwork 	
+801F3CBC 0100 		
+#Unlock Probe UFO 	
+801F4068 0100 		
+#Unlock RC 	
+801F4414 0100 		
+#Unlock LA54 	
+801F47C0 0100 		
+#Unlock MT XL 	
+801F4B6C 0100 		
+#Unlock Shocker 	
+801F4F18 0100 		
+#Unlock JG 2 
+801F52C4 0100 		
+#Unlock Groovster 	
+801F5670 0100 		
+#Unlock JG-7 	
+801F5A1C 0100 		
+#Unlock RG1 	
+801F5DC8 0100 		
+#Unlock RV Loco 	
+801F6174 0100 		
+#Unlock SNW 35 	
+801F6520 0100 		
+#Unlock Purp XL 	
+801F68CC 0100 		
+#Unlock Fulon X 	
+801F6C78 0100 		
+#Unlock Toys In The Hood 1 	
+8009DDEC 001F 		
+#Unlock Supermarket 2 	
+8009DE1C 001F 		
+#Unlock Museum 2 
+8009DE4C 001F 		
+#Unlock Botanical Gardens 	
+8009DE7C 001F 		
+#Unlock Toy World 1 	
+8009DEAC 001F 		
+#Unlock Ghost Town 1 	
+8009DEDC 001F 		
+#Unlock Toy World 2 With this code, it doesn't unlock this in 2 Player mode.	
+8009DF0C 001F 	
+#Unlock Toys In The Hood 2 	
+8009DF3C 001F 		
+#Unlock Toytanic 1 
+8009DF6C 001F 		
+#Unlock Museum 1 	
+8009DF9C 001F 		
+#Unlock Supermarket 1 	
+8009DFCC 001F 		
+#Unlock Ghost Town 2 	
+8009DFFC 001F 		
+#Unlock Toytanic 2 	
+8009E02C 001F
+

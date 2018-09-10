@@ -1,0 +1,7 @@
+#Infinite energy
+800F5006 03E7
+#Character rest of stats at 999
+800F5008 03E7
+800F500A 03E7
+800F500C 03E7
+800F500E 03E7

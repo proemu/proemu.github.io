@@ -1,0 +1,15 @@
+#Home Team Score 9
+800E7820 0009
+#Home Team Score 0
+800E7820 0000
+#Away Team Score 9
+800E77BC 0009
+#Away Team Score 0
+800E77BC 0000
+#Infinite Time
+800F6956 3B09
+#Infinite Powerplay Time (Home Team)
+800AAC1E 00FF
+#Infinite Powerplay Time (Away Team)
+800AAC12 00FF
+

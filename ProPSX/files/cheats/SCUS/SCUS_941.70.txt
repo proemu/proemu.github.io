@@ -1,0 +1,71 @@
+#Score Away Team 9
+300121F7 0009
+#Score Away Team 0
+300121F7 0000
+#Score Home Team 9
+300121B5 0009
+#Score Home Team 0
+300121B5 0000
+#Infinite Strikes
+800B34D2 0000
+#1 Strike And You Are Out
+D00B34D2 0000
+800B34D2 0002
+#2 Strikes And You Are Out
+D00B34D2 0000
+800B34D2 0001
+#Infinite Balls
+800B34D4 0000
+#1 Ball And You Walk
+D00B34D4 0000
+800B34D4 0003
+#2 Balls And You Walk
+D00B34D4 0000
+800B34D4 0002
+#3 Balls And You Walk
+D00B34D4 0000
+800B34D4 0001
+#Infinite Outs
+800B34D0 0000
+#1 Out And You Are Out
+D00B34D0 0000
+800B34D0 0002
+#2 Outs And You Are Out
+D00B34D0 0000
+800B34D0 0001
+#Fake Infinite Stamina Home Team Pitcher
+800B34AC 0064
+#Fake Infinite Stamina Away Team Pitcher
+800B34AE 0064
+#Inf Stamina Home Team Pitcher
+800B34C2 0064
+#Inf Stamina Away Team Pitcher
+800B34C6 0064
+#Player Creation Codes\Max Power
+301C89CA 0064
+#Player Creation Codes\Max Average
+301C89CB 0064
+#Player Creation Codes\Max Speed
+301C89CF 0064
+#Player Creation Codes\Max Arm
+301C89D0 0064
+#Player Creation Codes\Max Fielding
+301C89D1 0064
+#Player Creation Codes\Max Jumping
+301C89D2 0064
+#Player Creation Codes\Inf Points In Pool To Create
+8018F292 00C8
+#Pitcher Creation Codes\Max Speed
+301C9287 0064
+#Pitcher Creation Codes\Max Arm
+301C9288 0064
+#Pitcher Creation Codes\Max Accuracy
+301C9289 0064
+#Pitcher Creation Codes\Max Break
+301C928A 0064
+#Pitcher Creation Codes\Max Fielding
+301C928B 0064
+#Pitcher Creation Codes\Max Jumping
+301C928C 0064
+#Pitcher Creation Codes\Inf Points In Pool To Create
+8018F1C2 00C8

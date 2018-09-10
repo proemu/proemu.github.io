@@ -1,0 +1,13 @@
+#Infinite Nitros
+801EAE00 0300
+#One Billion Credits
+801176D2 3FFF
+@Airgrave@SLPS-00559
+#Invincible
+800B4F9C 0006
+#Shield Has A Comeback
+8002F692 8C23
+#Infinite Credit
+80027BC2 8022
+#Infinite Overdrive
+800B52E4 0100

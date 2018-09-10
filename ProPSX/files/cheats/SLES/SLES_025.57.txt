@@ -1,0 +1,18 @@
+#Infinite Energy P1
+800CDE68 03E8
+#All characters	
+8007559E FFFF
+#Start on last stage	
+D0075532 0000
+30075532 0007
+#Sudden Death P2	
+800CDE7A 0000 
+#Unlock All Album
+50001004 0000
+30074E4A 007F
+#Unlock All Player Colors
+50000802 0000
+300755A0 0303
+#Unlock All Skills in Psy-Expand Mode
+50004302 0000
+80075488 FFFF

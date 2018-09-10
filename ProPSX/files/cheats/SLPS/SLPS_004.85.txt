@@ -1,0 +1,9 @@
+#Infinite energy Player 1
+80097F48 007A
+#Inf. HP (P2)		
+80098148 007A
+#No HP (P2)	
+80098148 0000
+#Access All Characters
+80056C4C 1686
+80097F48 007A

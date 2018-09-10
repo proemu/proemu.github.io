@@ -1,0 +1,10 @@
+#Infinite time in Catch shell mini game
+800CC1E0 003C
+#Have 99 shells in Catch shell mini game
+800CC1CC 0063
+#Have 0 shells left (win the mini game)
+800CC1B4 0000
+#1 in TOTAL always P1
+80090F38 0001
+#Reward · SHOW TIME · Penguin House added to the OPTION · FREE GAME
+80053D50 0001

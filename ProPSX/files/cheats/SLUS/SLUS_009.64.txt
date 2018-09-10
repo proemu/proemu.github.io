@@ -1,0 +1,47 @@
+#Infinite Turbos
+30129840 0009
+#Add Turbos
+8003FD90 0001
+#Max Tournament Points
+801397C8 00FF
+#Max Points
+801295F0 FFFF
+801295F2 000F
+#Start On Lap 4
+D01295AC 0000
+301295AC 0003
+#P1 Unlock All Cars + Cups
+801397B8 FFFF
+801397BA FFFF
+801397BC FFFF
+#P2 Unlock All Car + Cups
+80139878 FFFF
+8013987A FFFF
+8013987C FFFF
+#Unlock All Tracks
+801397C0 FFFF
+#Time Is Always 0:00:00 Press Select right before you cross the line to go into next lap and it will reset timer to 0:00:00
+D011B38A FFFE
+800D0E34 0000
+D011B38A FFFE
+800D0E36 0000
+#Car Is Invisible
+801298F0 FFFF
+#Crazy Whack Driving
+801292DA FFFF
+80129292 FFFF
+8012931A FFFF
+801293A2 FFFF
+#Have Towjam Car
+801397BC 0129
+#Activate Cheat Big Cars
+801397E0 0002
+#Activate Cheat Tiny Cars
+801397E0 0004
+#Activate Cheat Big Wheels
+801397E0 0020
+#Activate Cheat Shadow Car
+801397E0 0080
+
+
+

@@ -1,0 +1,23 @@
+#Infinite Cash
+80079082 0090
+#Funds 9999999 
+80079080 967F 
+80079082 0098 
+#Hp Infinite In Training
+800192FE A083
+#Not Decrease Next Month When Funds
+8001AF52 0060
+80019034 0000
+#G? · G? · G? all content unlocked
+D0087318 38C8
+80087374 0001
+#It does not take a year breeding a Chocobo 
+8001B1B8 0000
+#do not get sick
+80019BCA 1000
+80019BE8 0000
+#Always best condition
+80019390 00A3
+80019392 3402
+#Many times trainable
+8001941E 2000

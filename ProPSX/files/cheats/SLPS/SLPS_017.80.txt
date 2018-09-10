@@ -1,0 +1,57 @@
+#Character Muza\Hp
+8005DD40 0064
+#Character Muza\Ep
+8005DD44 0064
+#Character Uina Infinite & Max Hp
+8005DDDC 03E7
+8005DD0E 03E7 
+#Character Uina Infinite & Max Ep
+8005DD10 03E7 
+8005DD12 03E7 
+#Character Uina\Ep
+8005DDE0 0064
+#MAX money
+8005DEA8 423F 
+8005DEAA 000F 
+#Level-up, the status MAX 
+8002A45C 0063 
+8002A45E 2410 
+8002A134 270F 
+8002A136 2410 
+8002A260 03E7 
+8002A262 2410 
+8002A53C 0063 
+8002A53E 2410 
+8002A5A4 0063 
+8002A5A6 2410 
+#No Random Battles 
+D00A35A2 0050 
+800A35A2 0040 
+D0078D66 0051 
+80078D66 0040 
+#Kiss old man appeared	
+3005E0CF 0001
+#Total of Kiss Max	
+8005EDB6 270F
+#Enemy does not come out in the dungeon	
+80096A58 FFFF 
+80096A5A 0000	
+#Enemy does not come out in the field	
+800A9EC0 FFFF 
+800A9EC2 FFFF
+#Infinite & Max HP in combat 1st Character 	
+800B7836 03E7
+800B7B56 03E7
+#Infinite & Max HP in combat 2nd Character
+800B7926 03E7
+800B7946 03E7
+#Infinite & Max HP in combat 3rd Character
+800B7A16 03E7
+800B7A36 03E7
+#Hall of Fame / issue number of knowledge	
+301F53CC 000A
+#Hall of Fame / number of correct answers of knowledge	
+301F53D0 000A
+#Hall of Fame / remaining time of knowledge	
+301F5678 00FF
+	

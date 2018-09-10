@@ -1,0 +1,12 @@
+#Infinite Lives All Levels
+D00EB518 0005
+800EB518 0006
+#Invincible Side Scroll Levels Only
+80118AD4 0055
+#Infinite Smart Bombs Side Scroll Levels Only
+8008F104 0009
+#Invincible  3D And Overhead Levels
+800B8100 0025
+#Infinite Smart Bombs On Pick-Up 3D And Overhead Levels
+D00EB51A 0001
+800EB51A 0002

@@ -1,0 +1,12 @@
+#Infinite Money 1st Place	
+801E7C4C 423F
+801E7C4E 000F
+#Infinite Money 2nd Place		
+801E7CA4 423F
+801E7C46 000F
+#Infinite Money 3rd Place		
+801E7CFC 423F
+801E7CFE 000F
+#Infinite Money 4th Place		
+801E7D54 423F
+801E7D56 000F

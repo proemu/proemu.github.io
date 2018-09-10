@@ -1,0 +1,4 @@
+#Infinite LP Player
+800EB28C 270F
+#Opponent has no energy
+800EB2AC 0000

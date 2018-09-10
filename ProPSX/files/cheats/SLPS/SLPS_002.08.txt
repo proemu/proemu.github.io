@@ -1,0 +1,12 @@
+#P1 Inf Live In Adventure
+800CB44E 00FF
+800CB450 00FF
+800CB452 00FF
+#P1 Infinite Life
+80022704 0000
+#Infinite Time
+800140A4 0000
+#Play as K-1 (P1)		
+801AD948 000A
+#Play as K-2 (P1)		
+801AD948 000B

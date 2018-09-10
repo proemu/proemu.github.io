@@ -1,0 +1,11 @@
+#Infinite Time
+800412A4  0019
+#Have always 6 points P1
+800416F0  0006
+#Press L2 White has 6 pts.
+E0040FC4 0001
+300416F0 0006
+#Have always 0 points P2
+800416F1  0000
+#Have always 0 points P3
+800416F2  0000

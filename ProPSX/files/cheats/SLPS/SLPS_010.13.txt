@@ -1,0 +1,12 @@
+#Infinite Hp Player 1
+800BD730 00C8
+#Infinite Hp Player 2
+800BD732 00C8
+#Infinite Special Bar P1
+800BD558 0064
+#Infinite Special Bar P2
+800BD55A 0064#
+Infinite Balls Player 1 	
+800B03DC 0098
+800BD1CC 0001
+

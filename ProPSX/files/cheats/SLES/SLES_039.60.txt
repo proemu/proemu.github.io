@@ -1,0 +1,6 @@
+#Race Mode - Infinite Time
+80053A64 0724
+#Trick Mode - Max Points 	
+80053A60 270F
+#Trick Mode - Point Limit Always 1
+80053A64 0001

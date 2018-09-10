@@ -1,0 +1,13 @@
+#Infinite Energy Player 1
+801DDDA0 00C0
+#Full Power Player 1
+801DDDA8 00C0
+#Infinite Energy Player 2
+801DE3E8 00C0
+#Full Power Player 2
+801DE3F0 00C0
+#All characters
+801FFF4C 000C
+#Secret character
+801FFF48 000C
+801FFF4C 000C

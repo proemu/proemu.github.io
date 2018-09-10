@@ -1,0 +1,14 @@
+#Infinite tank bucks 	
+800E278C 0063
+#Infinite health P1 (BattleLord, Hold-Em, Tank Wars & Campaign) 	
+800DD4B0 007D
+#Infinite health P1 (Deathmatch) 	
+800DCF18 007D
+#Infinite health P1 (Frenzy & Family) 	
+800DCF18 007D
+#Infinite ammo (normal weapons) 	
+D00433A0 FFFF
+800433A0 0000
+#Infinite ammo (all special weapons) 	
+D004345C FFFF
+8004345C 0000

@@ -1,0 +1,14 @@
+#Enable Debug Options	
+300227B8 0000
+#Enable DNA		
+3002280C 0000
+#Enable Exp		
+30022828 0000
+#Enable Reset All		
+30022844 0000
+#Enable Status	
+300227F0 0000
+#Enable Watches		
+300227D4 0000
+#Item Info		
+300F4D60 0001

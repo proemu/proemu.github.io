@@ -1,0 +1,9 @@
+#Infinite Lives Player 1
+80087884 0005
+#Infinite Lives Player 2
+80087910 0005
+#Infinite Bombs Player 1 (Deactivate after complete mission)
+800B7F1E 0003
+#Infinite Bombs Player 2 (Deactivate after complete mission)
+800B7F5E 0003
+

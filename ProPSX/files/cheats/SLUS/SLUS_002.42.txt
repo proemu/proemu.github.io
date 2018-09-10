@@ -1,0 +1,5 @@
+#Infinite Energy
+80087862 007F
+8008313A B712
+#Infinite Crow
+8007E810 0780

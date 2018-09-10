@@ -1,0 +1,7 @@
+#Infinite Credits
+8006A81C FFFF
+8006A81E 00FF
+#Checkpoint Timer
+300890F1 00FF
+#Huge amount of points in World tour mode
+800859D8 00DE

@@ -1,0 +1,18 @@
+#Infinite & Max HP		
+80074E60 00FF
+80074E62 00FF
+#Infinite & Max	MP		
+80074E64 00FF
+80074E66 00FF
+#Infinite BP		
+80074E54 423F
+80074E56 000F
+#Infinite Ammo 5.56		
+30073A69 0063
+#Infinite Ammo 	9mm P.B.		
+300739F9 0063
+#Infinite Ammo Buckshot		
+30073A51 0063
+#Have all PE skills at level 3 	
+50000602 0000
+80073C78 0303

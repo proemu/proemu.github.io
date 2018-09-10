@@ -1,0 +1,6 @@
+#Infinite Lives
+800845F8 0009
+#Only One Hit To Complet Level 1
+800747D8 0001
+#Only One Hit to Destroy Tank
+8003D4AC 0001

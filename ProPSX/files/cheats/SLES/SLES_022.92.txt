@@ -1,0 +1,37 @@
+#Have Over 1 Billion Cash\Barnet
+80110008 E3FF
+8011000A 540B
+#Have Over 1 Billion Cash\Chester
+80110FFA E3FF
+80110FFC 540B
+#Have Over 1 Billion Cash\Exeter
+801117F0 E3FF
+801117F2 540B
+#Have Over 1 Billion Cash\Halifax
+80111BEC E3FF
+80111BEE 540B
+#Have Over 1 Billion Cash\Hull
+801123E4 E3FF
+801123E6 540B
+#Have Over 1 Billion Cash\Lincoln
+80112BDC E3FF
+80112BDE 540B
+#Have Over 1 Billion Cash\Mansfield
+801133D4 E3FF
+801133D6 540B
+#Have Over 1 Billion Cash\Northampton
+801137D0 E3FF
+801137D2 540B
+#Have Over 1 Billion Cash\Rotherham
+801147C0 E3FF
+801147C2 540B
+#Have Over 1 Billion Cash\Southend
+801137D2 E3FF
+801137D4 540B
+#Have Over 1 Billion Cash\Torquay
+801157B0 E3FF
+801157B2 540B
+#Have Over 1 Billion Cash\York
+80115BAC E3FF
+80115BAE 540B
+

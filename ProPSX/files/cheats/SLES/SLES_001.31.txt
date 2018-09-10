@@ -1,0 +1,4 @@
+#Infinite Energy
+800B7EB4 017F
+#Infinite Grenades
+801F1BA8 0004

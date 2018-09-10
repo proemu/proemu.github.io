@@ -1,0 +1,8 @@
+#Unendlich Energie		
+8002E0A0 0000
+#Unendlich große Medipacks		
+8005A77C 0000
+#Unendlich kleine Medipacks		
+8005A7B0 0000
+#Unendlich Pistolen-Munition		
+8008619C 0000

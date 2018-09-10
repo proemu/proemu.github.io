@@ -1,0 +1,20 @@
+#Infinite Money 1st Place	
+800EEF84 423F
+800EEF86 000F
+#Infinite Money 2nd Place		
+800EEFDC 423F
+800EEFDE 000F
+#Infinite Money 3rd Place		
+800EF034 423F
+800EF036 000F
+#Infinite Money 4th Place		
+800EF08C 423F
+800EF08E 000F
+#No Money 1st Place	
+800EEF84 0000
+#No Money 2nd Place		
+800EEFDC 0000
+#No Money 3rd Place		
+800EF034 0000
+#No Money 4th Place		
+800EF08C 0000

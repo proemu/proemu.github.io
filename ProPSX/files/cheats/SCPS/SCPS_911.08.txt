@@ -1,0 +1,7 @@
+#Infinite HP in battle  
+801E9F3A 008C
+#Infinite gold  
+801AF018 869F
+801AF01A 0001
+ 
+ 

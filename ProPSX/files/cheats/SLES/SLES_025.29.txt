@@ -1,0 +1,116 @@
+#Infinite Health
+800CEA48 00C8
+#Always 1 First Aid Pack
+300D3EFD 0001
+#Machinegun 100% This code can crash the game while loading
+300D3EED 0064
+#Condition Fine
+300CEA4F 0004
+#Save Anywhere Press L1+Triangle
+D0082AD2 0014
+800D3AD0 169C
+D0082AD2 0014
+800D3AD2 8005
+@Resident Evil 3 Nemesis (Uk)@SLES-02529
+#Infinate Rocket Launcher
+800D3F58 990A
+800D3F5A 0001
+#Infinate Gatling Gun
+800D3F58 990B
+800D3F5A 0001
+#Infinate Western Custom
+800D3F58 9910
+800D3F5A 0001
+#Infinate Benelli M3S
+800D3F58 9913
+800D3F5A 0001
+#Infinate M97F Eagle
+800D3F58 9912
+800D3F5A 0001
+#Infinate Mine Thrower
+800D3F58 9914
+800D3F5A 0001
+#Infinate Eagle 6.0
+800D3F58 990D
+800D3F5A 0001
+#Infinate Magnum
+800D3F58 9914
+800D3F5A 0001
+#Infinate Merc's Handgun
+800D3F58 9902
+800D3F5A 0001
+#Infinate Hanggun
+800D3F58 9903
+800D3F5A 0001
+#Infinate Grenade Launcher (Explocive Rounds)
+800D3F58 9906
+800D3F5A 0001
+#Infinate Grenade Launcher (Acid Rounds)
+800D3F58 9909
+800D3F5A 0001
+#Infinate Grenade Launcher (Flame Rounds)
+800D3F58 9907
+800D3F5A 0001
+#Hyper Mode
+800D6304 0002
+#Quick Ending Press L1+L2+R1+R2
+D00CE5E8 000F
+800CEA10 C000
+D00CE5E8 000F
+800CEA12 0001
+#Rapid Fire Press R1+R2+X
+D00CE5E8 004A
+300CEA45 001E
+#Total Time 0:00
+800D3CE0 0000
+800D3CE2 0000
+.Get Grade S
+#Secret Mode With this code, it starts a new game with new weapons in chest and all weapons and infinite ink ribbons and a key to Boutique with all costumes!
+800D3CEA FFE0
+#Enhanced/Extra Ammo
+800D4018 01F4
+800D401A 01F4
+800D401E 01F4
+800D4020 01F4
+800D4022 01F4
+800D4024 01F4
+#Makes Game Think You Never Saved
+800D3CF8 0000
+#Character Modifier Carlos
+800D3D3E 0008
+#Character Modifier Mikhall
+800D3D3E 0009
+#Character Modifier Nichotai
+800D3D3E 000A
+#Character Modifier Tofu
+800D3D3E 000F
+#Sudden Death Enemies
+D004502C 0006
+8004502C 0001
+#Almost All Doors Open
+D0082AD2 0014
+800D3AD0 169C
+D0082AD2 0014
+800D3AD2 8005
+50000502 0000
+800D3E84 FFFF
+#Walk Thru Walls Activate with L1+R2, deactivate with L2+R2
+D0082AD2 0003
+80033CD6 1040
+D0082AD2 0003
+8004B576 12A0
+D0082AD2 0005
+80033CD6 1000
+D0082AD2 0005
+8004B576 1000
+#Mercenaries Always get Reward
+800CE60A FFFF
+#Mercenaries Infinite Money
+800D43A4 967F
+800D43A6 0098
+#Mercenaries Infinite Time 
+D00D3D50 0077
+300D3D50 0078
+
+
+

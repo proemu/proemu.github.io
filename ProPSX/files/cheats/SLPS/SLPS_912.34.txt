@@ -1,0 +1,5 @@
+#99999 Jockey Points  
+801FA288 869F
+801FA28A 0001 
+#Infinite Stamina in first race  
+800EA486 0019 

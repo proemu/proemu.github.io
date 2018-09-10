@@ -1,0 +1,139 @@
+#99999999 Credits
+80115DD0 E0FF
+80115DD2 05F5
+#Infinite Time In Pursuit Mode Change view to activate
+D011060C 0006
+8005E1EE 2400
+#Turbo Acceleration Mode
+801C1AD6 0001
+#Unlock Mercedes Clk-Gtr & Mclaren F1 Gtr
+8011576E 0101
+#Have Porsche 911 (Racer)
+30115770 0001
+301157A0 0001
+#Have Corvette (Racer)
+30115772 0001
+301157A2 0001
+#Have Corvette (Cop Car)
+80115778 0101
+801157A8 0101
+#Have Phantom Car
+30115773 0001
+301157A3 0001
+#Have Titan Car
+30115774 0001
+301157A4 0001
+#Have Porsche 911 Copcar
+3011577A 0001
+301157AA 0001
+#Lamborghini Diablo Copcar
+3011577B 0001
+301157AB 0001
+#Have Helicopter
+3011577C 0001
+301157AC 0001
+#Have Access To Kindiak Park Track Canada
+80115D4C 0001
+#Have Access To Celtic Ruins Track Great Britain
+80115D50 0001
+#Have Access To Dolphin Cove Track Usa
+80115D44 0001
+#Have Access To Snowy Ridgetrack Usa
+80115D3C 0001
+#Have Access To Raceway Track Italy
+80115D60 0001
+#Have Access To Raceway 2 Track Usa
+80115D5C 0001
+#Have Access To Raceway 3 Track Spain
+80115D64 0001
+#No Entrance-Stake Weekend Road Racing Classics
+80150E7C 0000
+#No Entrance-Stake Twilight Open Series
+80150ED0 0000
+#No Entrance-Stake International Open Road Tour
+80150F24 0000
+#No Entrance-Stake Knockout Challenge
+80150F78 0000
+#No Entrance-Stake Corvette Pro Cup
+80150FCC 0000
+#No Entrance-Stake Porsche Pro Cup
+80151020 0000
+#No Entrance-Stake Open Road Knockout Challenge
+80151074 0000
+#No Entrance-Stake Endurance Racing Competition
+801510C8 0000
+801510CA 0000
+#Racing Clockwise
+8017F340 0003
+#Racing Counter-Clockwise
+8017F340 0103
+#Mirrored Mode On
+8017F342 0001
+#Mirrored Mode Off
+8017F342 0000
+#1.000.000 Credits For Driving Safely
+8017FB58 4240
+8017FB5A 000F
+#1.000.000 Credits Reward
+80180A14 4240
+80180A16 000F
+#Solo, Tournament & Special Races\Player 1 Always Max Wins (High Stakes)
+3011592C 000F
+#Solo, Tournament & Special Races\Player 2 Always Max Wins (High Stakes)
+3011592D 000F
+#Solo, Tournament & Special Races\Get 100 Racing Points
+80115EE0 0064
+#Solo, Tournament & Special Races\Place 1st
+80110EB8 0001
+80113A68 0001
+80115EE2 0001
+#Solo, Tournament & Special Races\No Opponents
+8011489C 0001
+80115DCC 0001
+8011881C 0001
+8013DB1C 0001
+8013DB24 0001
+#Solo, Tournament & Special Races\No Repair Costs
+80180A18 0000
+#Trophy Room - Have Gold Trophies\Worldwide Roadster Classic
+30115FAD 0001
+#Trophy Room - Have Gold Trophies\Regional Club Circuit
+30115FAE 0001
+#Trophy Room - Have Gold Trophies\Super Sedan Challenge
+30115FAF 0001
+#Trophy Room - Have Gold Trophies\Grand Touring Competition
+30115FB0 0001
+#Trophy Room - Have Gold Trophies\International Supercar Series
+30115FB1 0001
+#Trophy Room - Have Gold Trophies\Gt Racing Championship
+30115FB2 0001
+#Trophy Room - Have Gold Trophies\Weekend Road Racing Classic
+30115FB3 0001
+#Trophy Room - Have Gold Trophies\Twilight Open Series
+30115FB4 0001
+#Trophy Room - Have Gold Trophies\International Open Road Tour
+30115FB5 0001
+#Trophy Room - Have Gold Trophies\Knockout Challenge
+30115FB6 0001
+#Trophy Room - Have Gold Trophies\Corvette Pro Cup
+30115FB7 0001
+#Trophy Room - Have Gold Trophies\Porsche Pro Cup
+30115FB8 0001
+#Trophy Room - Have Gold Trophies\Endurance Racing Competition
+30115FB9 0001
+#Trophy Room - Have Gold Trophies\Open Road Knockout Challenge
+30115FBB 0001
+#Trophy Room - Have Gold Trophies\Have All Gold Trophies (Replaces The Other Codes)
+50000D01 0000
+30115FAD 0001
+30115FBB 0001
+#Don't Drive Drunk-Mode
+8013E6D8 002F
+#Really, Don't Drive Drunk-Mode
+8013E6D8 001F
+#Dashboard View
+80114948 0001
+#Heavy Car
+801144B0 0002
+#Light Car
+801144B0 0004

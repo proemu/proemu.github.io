@@ -1,0 +1,8 @@
+#Original & Arranged mode Infinite Lives
+80087E38 0005
+#Original & Arranged mode Infinite Shield 	
+800BC814 26AC 	
+#Always 99'9% completed
+800A3A78 03E7
+800A3A7C 03E7
+

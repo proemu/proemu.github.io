@@ -1,0 +1,25 @@
+#Training & Free Bgm All Open Disc 1
+800B33B8 0000
+800B33BA 0000
+#Training & Free Bgm All Open Disc 2
+800B33BC 0000
+800B33BE 0000
+#Auto Play P1 (.Press Select+L2)
+D008FEA0 0101
+800C33A8 0001
+#Auto Play P2 (.Press Select+R2)
+D008FEA0 0102
+800C33A8 0002
+#Auto Play P1 & P2 (.Press Select+L2+R2)
+D008FEA0 0103
+800C33A8 0003
+#Recover Groove Lv Meter P1
+800C33F0 04A0
+#Recover Groove Lv Meter P2
+800C33F2 04A0
+#P1 Total Points 999999
+800C33D8 000F
+800C33DA 423F
+#P2 Total Points 999999
+800C33DC 000F
+800C33DE 423F

@@ -1,0 +1,4 @@
+#Infinite Energy / Time
+8009E34C 0999
+#Infinites bombs
+8009E300 0009

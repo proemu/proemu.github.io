@@ -1,0 +1,4 @@
+#Infinite Energy Player 1
+80091BFC 0080
+80091BFE 0080
+800923FC 0090

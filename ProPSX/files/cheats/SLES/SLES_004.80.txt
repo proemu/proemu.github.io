@@ -1,0 +1,10 @@
+#Infinite Time
+8008CADC 00FF
+#Infinite Health
+8008CAC8 0006
+#Infinite Lives
+8008CAC4 000F
+#Infinite Bombs
+8008CABC 000F
+#Infinite Dynamite
+8008CAB8 000F

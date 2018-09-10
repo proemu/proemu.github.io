@@ -1,0 +1,8 @@
+#Infinite Health
+800BD544 0064
+#Unlock All Levels
+8009AD3E 0012
+#Have All Chicks After Saving One
+8004F14C 0032
+#Have All Coins On Pick-Up
+800B53E6 0064

@@ -1,0 +1,13 @@
+#Infinite Hp
+800D375C 0352
+#Infinite Boost
+800D377E 0050
+#Infinite Sp
+800D3768 0065
+#Infinite Left At Gun
+800D3750 000F
+#Infinite Right At Gun
+800D3752 000F
+#Maximum Level
+800E65B8 FFFF
+

@@ -1,0 +1,8 @@
+#Infinite Health
+801FBD84 01F4
+#Infinite Brass Key
+8007EB44 0001
+#Infinite Iron Keys
+8007EB48 0001
+#Infinite Fools Gold
+8007EB4C 00FF

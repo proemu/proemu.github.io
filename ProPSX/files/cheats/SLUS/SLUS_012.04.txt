@@ -1,0 +1,29 @@
+#Infinite Health
+801AD3CC 0200
+#Infinite Magic
+801B5138 0200
+#Level Modifier EXODUS You need to have at least 1 save game on your memory card then choose load game
+800DC6A8 0005
+#Level Modifier CANYON You need to have at least 1 save game on your memory card then choose load game
+800DC6A8 000A
+#Level Modifier STRONGHOLD You need to have at least 1 save game on your memory card then choose load game
+800DC6A8 000F
+#Level Modifier ENROTHS You need to have at least 1 save game on your memory card then choose load game
+800DC6A8 0014
+#Level Modifier BURIED CITY You need to have at least 1 save game on your memory card then choose load game
+800DC6A8 0019
+#Level Modifier FORGOTTEN WAY You need to have at least 1 save game on your memory card then choose load game
+800DC6A8 001E
+#Level Modifier WESTERN DISTRICT You need to have at least 1 save game on your memory card then choose load game
+800DC6A8 0023
+#Level Modifier EASTERN DISTRICT You need to have at least 1 save game on your memory card then choose load game
+800DC6A8 0028
+#Level Modifier THE MONASTERY You need to have at least 1 save game on your memory card then choose load game
+800DC6A8 002D
+#Level Modifier DAGLATHOR You need to have at least 1 save game on your memory card then choose load game
+800DC6A8 0032
+#Level Modifier LAST FIGHT WITH THE BOSS You need to have at least 1 save game on your memory card then choose load game
+800DC6A8 0036
+
+
+

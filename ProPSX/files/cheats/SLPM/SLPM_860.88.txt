@@ -1,0 +1,17 @@
+#Infinite Money 
+80166F00 270F
+80166F02 270F
+#Power-Up Pete 
+30166F0A 0000
+#Power-Up Pete Early
+30166F0A 0000
+#Power-Up Second Pete 
+30166F0A 0001
+#Power-Up Third Pete 
+30166F0A 0002
+#Power-Up Pete Super 
+30166F0A 0003
+#Power-Up Pete Final
+30166F0A 0004
+#Go to the city Sombrero
+30166F0C 0003 

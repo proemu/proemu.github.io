@@ -1,0 +1,4 @@
+#Infinite money  
+800EFDB8 EA60 
+#Opponent money is always 0  
+800C41A0 0000 

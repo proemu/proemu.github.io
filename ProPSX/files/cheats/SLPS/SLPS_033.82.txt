@@ -1,0 +1,5 @@
+#Infinites lives Chou wakusei senki metafight
+800C2C3D 0003
+#Infinites energy Chou wakusei senki metafight
+800C2F6C FF00
+800C2F6D 00FF

@@ -1,0 +1,18 @@
+#1 goal counts 5 goals	
+300116A4 0005
+#Red player Needs one goal to win	
+D0090014 0000
+30090014 0004
+#Red player Never wins	
+D0090014 0001
+30090014 0000
+#Blue player Needs one goal to win	
+D0090060 0000
+30090060 0004
+#Blue player Never wins	
+D0090060 0001
+30090060 0000
+#World Unlocked	
+300915A0 0001
+#NHL Elite Unlocked	
+300915B0 0001

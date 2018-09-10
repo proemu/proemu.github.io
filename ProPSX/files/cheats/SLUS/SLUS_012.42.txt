@@ -1,0 +1,41 @@
+#Forest Edge Infinite lives	
+800A7F18 0009
+#Dangerous Cliffs Infinite lives	
+8009F5F4 0009
+#Hueys Track Infinite lives	
+800A01F8 0009
+#The Gorge Infinite lives	
+800A029C 0009
+#Bernadettes Peak Infinite lives	
+8009AC40 0009
+#First Avenue Infinite lives	
+800A4A24 0009
+#The Roofs Infinite lives	
+800A3610 0009
+#Deweys Rooftops Infinite lives	
+800A093C 0009
+#Urban High Rises Infinite lives	
+800A18B0 0009
+#Beagle Boys Tower Infinite lives	
+80099504 0009
+#Haunted Hall Infinite lives	
+800A2A38 0009
+#Earie Alley Infinite lives	
+800A179C 0009
+#Louies Creepy Corridor Infinite lives	
+800A3158 0009
+#Ghostly Path Infinite lives	
+800A3590 0009
+#Magicas Devilish Dome Infinite lives	
+80098DB0 0009
+#Temples Entrance Infinite lives	
+800A2FA8 0009
+#Artifact Way Infinite lives	
+800A2388 0009
+#The Nephews Murky Way Infinite lives	
+800A1C20 0009
+#Ancient Fate Infinite lives	
+800A3AC0 0009
+#Ceremonial Room Infinite lives	
+800A1168 0009
+

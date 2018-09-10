@@ -1,0 +1,34 @@
+#Infinite HP Leon Kennedy
+800D06BE 00C8 
+#Ending Game 
+800D04E6 4022 
+#Extreme Battle Mode / Unlock 3 Level and Chris & Ada charactere 
+D00D04E6 0000 
+800D04E6 0100 
+800D0508 0200 
+800D050A 0002 
+#One Hit To Kill Leon Kennedy
+80041D70 FFFF 
+80041D72 2402 
+#Total Time 00.00.00 Leon Kennedy
+800D5014 0000 
+800D5016 0000 
+#Final Stop Timer Leon Kennedy 
+800D51A2 0126 
+#Infinite time for escaping at the last boss Leon Kennedy
+8002D35C 0000 
+#10 item slots Bag Leon Kennedy
+300D5230 0001
+#Save Everywhere (L1 + R1) Leon Kennedy
+D00CEC6C 000C 
+800D4E0C 1F9C 
+D00CEC6C 000C 
+800D4E0E 8005 
+#LEON B 
+D00D054A 0000 
+800D054A 4000 
+#The 4 Survivor HUNK 
+300D04E4 0008 
+#The 4 Survivor TOFU 
+300D04E4 0009 
+

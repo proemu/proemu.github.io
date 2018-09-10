@@ -1,0 +1,13 @@
+#Infinite & Max HP Sword (Main character)
+800F1318 03E7
+800F13FC 03E7
+#Infinite Money
+800BE840 FFFF
+#Master Exp
+800F134A FFFF
+#Exp Player 1
+800F14FA FFFF
+#Exp Player 2
+800F16AA FFFF
+#Exp Player 3
+800F185A FFFF

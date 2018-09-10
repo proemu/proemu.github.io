@@ -1,0 +1,17 @@
+#Unendlich Gesundheit	
+800C7330 0600		
+#Maximale Stärke	
+800C391C 45E2		
+#Beginne mit viel Geld	
+D00C39A0 0000
+800C39A0 03E7		
+#Cheat Men freigeschaltet	
+800BB77A 7000
+#Habe alle Laserteile	
+300C390A 000F		
+#Habe alle Schlüsselkarten & Schlüssel	
+300C3910 00FF
+#Habe Serum gross	
+D00C38FE 0000
+300C38FE 0003
+

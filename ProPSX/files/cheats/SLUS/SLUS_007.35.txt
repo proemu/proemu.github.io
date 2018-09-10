@@ -1,0 +1,36 @@
+#Infinite Creation Points
+D00B8434 0013
+800B8434 E121
+D00B8436 0441
+800B8436 0802
+#Home Team Score 9
+80042656 0009
+#Home Team Score 0
+80042656 0000
+#Away Team Score 9
+80042690 0009
+#Away Team Score 0
+80042690 0000
+#Home Team Goals Scores 9
+80074930 0009
+#Home Team Goals Scores 0
+80074930 0000
+#Away Team Goals Scores 9
+8007496C 0009
+#Away Team Goals Scores 0
+8007496C 0000
+#No Fatigue
+D00B8DA4 001A
+800B8DA6 2400
+D00B8FCC 001A
+800B8FCE 2400
+#Activate Cheat Big Heads 
+30042650 0002
+#Activate Cheat Big Heads And Big Players
+30042650 0004
+#Activate Cheat Small Players
+30042650 0008
+#Activate Cheat Speedy
+30042650 0100
+
+

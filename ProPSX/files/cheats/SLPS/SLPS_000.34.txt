@@ -1,0 +1,7 @@
+#Infinite Shields
+800BB450 0062
+800BB894 0062
+#Inf Shield Alt
+800BB894 0064
+#Infinite Laser Gauge
+800BB9CC 012C

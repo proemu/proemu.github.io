@@ -1,0 +1,16 @@
+#Enable Next World	
+D0098DFA 0800
+80056274 000C
+#Have 65 Million Dollars Code Press Select at the main menu screen Use the money code alone
+D0098DFA 0100
+80099954 FFFF 
+#Infinite Nitro
+800845B8 0000
+800845BA 0000
+#Infinite Armor
+80065B30 0000
+80065B32 0000
+#Infinite Offensive Weapon Energy
+8005981A 6464
+#4000 Experience Points After Your First Race		
+80099956 0FFF

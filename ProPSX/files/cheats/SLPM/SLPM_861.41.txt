@@ -1,0 +1,38 @@
+#Infinite Time
+8005D984 001E
+8005D938 8D84
+#Mileage MAX
+8005D53C FFFF
+8005D53E FFFF
+#Movie fully open
+8005D524 FFFF
+8005D526 FFFF
+8005D528 FFFF
+8005D52A FFFF
+#All courses
+8005D52C FFFF
+8005D52E 000F
+#Final evaluation point 100 of driving if you stop one station
+80020D18 0000
+8002271A 1000
+8002F976 AC40
+#Bonus Game The I get 10 seconds and consolidated success
+D0069A10 0003
+80069A10 0000
+#Infinite time Bonus Game
+D00695D0 6821
+800695D2 01A0
+#Great! Bonus sure when the vehicle is stopped 
+8002F9D8 0028 
+8002F9DA 1000 
+#The Excellent bonus stop pass position 
+8003073A AC60 
+8003073C 1821 
+#Force stop at overrun 1m 
+80033A50 001A 
+80033AC8 0000 
+
+
+
+
+

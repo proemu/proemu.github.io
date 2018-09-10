@@ -1,0 +1,13 @@
+#Infinite Lives
+8006873C 0009
+#Maximum M&M
+80068742 0063
+#Max Minis Rescued 	
+80068742 03E7
+80068744 03E7 		
+#Max Worth 	
+8003FDDC 0063
+#All Levels Unlocked		
+30068748 001B
+#Cheat God Mode (Triangle: Reset M&M; L2: VRAM Viewer; R1: Add Life; R2: Skip Level)	
+80068820 0004

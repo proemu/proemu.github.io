@@ -1,0 +1,31 @@
+#Infinite energy Player 1
+80063AC6 0006
+#Infinite lives Player 1
+800468D2 0009
+#Infinite coins Player 1
+800468C6 03E7
+#Infinite energy Player 2
+80063B6E 0006
+#Infinite lives Player 2
+800530FA 0009
+#Infinite coins Player 2
+800530EE 03E7
+#Infinite time
+80045E58 0063
+#Infinite health robot
+800A9CAC 03E7
+#Infinite weapon robot
+800A9CAA 03E7
+#One-Hit Kill Bosses		
+800642A6 0000
+#Invincible (P1)		
+80063B18 0010
+#Invincible (P2)		
+80063BC0 0010
+#All Stages Open		
+50000C02 0000
+80045D88 FFFF
+#Have All Passes		
+50000501 0000
+30045D44 000B
+

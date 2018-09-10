@@ -1,0 +1,5 @@
+#Max Mana
+800FDCB4 270F
+#Max Flying Gauge
+D004C536 A622
+8004C536 2402

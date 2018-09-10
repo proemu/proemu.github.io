@@ -1,0 +1,22 @@
+#All Weapons & Items
+300D852D 00FF
+50000402 0000
+800D852E FFFF
+#Unlimited Medipaks
+300D8534 0002
+#Grenades	
+300D852D 0005		
+#Mortar	
+300D852E 0006		
+#Bazooka	
+300D852F 0007		
+#Flame thrower	
+300D8530 005A		
+#Automatic machinegun	
+300D8531 00F5		
+#Explosives	
+300D8532 0002		
+#Land mines	
+300D8533 0002		
+#Mine detectors	
+300D8535 0002

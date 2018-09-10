@@ -1,0 +1,11 @@
+#Unlimited Health	
+800A6634 0004
+800B0232 0004
+#Infinite Lives	
+800B022A 0009
+#Always spell FLIK	
+800A6642 000F
+#Always have 50 grains of corn	
+800A6640 3200
+
+

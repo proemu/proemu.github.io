@@ -1,0 +1,20 @@
+#Infinite Money	
+80141E24 FFFF
+#Ash Lambert Infinite & Max HP	
+80180984 03E7
+80180986 03E7
+#Ash Lambert Infinite & Max MP	
+80180990 0063
+80180992 0063
+#Diego Archer Infinite % Max HP	
+801809FC 03E7
+801809FE 03E7
+#Diego Archer Infinite & Max MP	
+80180A08 0063
+80180A0A 0063
+#Clint Picard Infinite & Max HP	
+80180A74 03E7	
+80180A76 03E7
+#Clint Picard Infinite & Max MP	
+80180A80 0063
+80180A82 0063

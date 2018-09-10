@@ -1,0 +1,8 @@
+#Infinite Energy
+800F1124 012C 
+#Unlock Cheat Menu (Enable All Levels,Invencibility)
+800D2D3C 0004
+
+
+
+

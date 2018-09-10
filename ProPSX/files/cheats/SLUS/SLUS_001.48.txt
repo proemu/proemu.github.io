@@ -1,0 +1,7 @@
+#One-Hundred Metres\Red Bar Always Full
+801B9EE0 364C
+#Four-Hundred Metres\Red Bar Always Full
+801B9EE0 364C
+#Four-Hundred Metres\Blue Bar Always Full
+801AF88C 364C
+

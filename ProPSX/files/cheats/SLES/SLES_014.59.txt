@@ -1,0 +1,12 @@
+#Unlock all levels 	
+800CD5CC FFFF
+#All gold medals (Training)  	
+50000502 0000
+800CD5A4 0303 		
+#Max score 	
+800CD5EC FFFF
+800CD5EE 4FFF 		
+#Infinite time 	
+D0186D18 969C
+80186D1A 240
+

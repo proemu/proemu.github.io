@@ -1,0 +1,53 @@
+#P1 Infinite Health
+80194310 0090
+#P1 One Hit Kill
+D0194310 0090
+80194310 0001
+#P2 Infinite Health
+80194758 0090
+#P2 One Hit Kill
+D0194758 0090
+80194758 0001
+#P2 No Health
+80194758 0000
+#Enable Everything
+8017E05E FFFF
+#Start On Last Stage
+80198C8C 0009
+#P1 Can Do Specials In Air
+301942E9 0000
+#P2 Can Do Specials In Air
+30194731 0000
+#P1 Cant Do Specials
+301942E9 0001
+#P2 Cant Do Specials
+30194731 0001
+#Only 2 Opponents To Fight In Survival Mode Per Match
+80198CE4 0005
+#Refill Your Drama Partners/ Single Opponents Energy With Pressing R2
+D0198862 0002
+80194758 00B8
+#Press L2 To Bring Survival And Drama Opponents To One Hit .Press Select to bring opponent down to one hit may kill if taunt hits opponent.
+D0198862 0001
+8019E990 0000
+D0198862 0001
+8019E548 0000
+#Infinite Taunts P1
+801943A2 0001
+#World Tour Mode\Max Exp For Character
+80194160 967F
+80194162 0098
+#World Tour Mode\Max Exp For Xism8
+80194164 967F
+80194166 0098
+#World Tour Mode\Max Exp For Aism
+80194168 967F
+8019416A 0098
+#World Tour Mode\Max Exp For Vism
+8019416C 967F
+8019416E 0098
+#Complete 1 Stage to See Ending (Both Players)		
+D0198CC0 0009
+30198CC0 0000
+#Rounds to Fight 1 (All Modes)		
+30198C80 0001

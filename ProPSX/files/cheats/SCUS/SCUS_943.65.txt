@@ -1,0 +1,11 @@
+#Infinite Lives 	
+300100A3 0005
+#Max Scare 	
+300974BD 0063
+#Infinite Health (Mike) 	
+300E00A0 0005
+#Infinite Health (Sulley) 	
+300F510C 0005
+#Have All Medals 	
+50000902 0000
+800100F2 FFFF

@@ -1,0 +1,10 @@
+#Infinite Health
+8006CE04 0003 
+#Score Gem  Max
+800697F0 FFFF 
+#Infinite Lives
+80069850 0004 
+#Bonus Screen Infinite time	
+8006C464 070A
+#And (rising gradually to jump) airborne	
+8006CC44 05FF

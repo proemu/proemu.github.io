@@ -1,0 +1,4 @@
+#Infinite HP
+800CCE0E 0063
+#Max HP
+800CCE0F 0063

@@ -1,0 +1,12 @@
+#Max Raptor-Riegel
+800C99F6 00FF
+#Max SchlüSsel
+800C99F0 00FF
+#Unendlich Zeit mit Select ein/mit Select+Hoch aus
+D00D106A FFFE
+80090392 0000
+D00D106A FFEE
+80090392 0062
+#Unendlich Batterien
+80090BF2 3C00
+

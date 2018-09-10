@@ -1,0 +1,17 @@
+#Infinite HP Character 1
+800E7A70 00FE
+#Infinite HP Character 2
+800E7A74 00DF
+#Infinite HP Character 3
+800E7A7C 00F4
+#Infinite HP Character 4
+800E7A78 00CE
+#Infinite HP Character 5
+800E7A80 00EB
+#Infinite Opm	
+800ADE38 03E8
+#Fatal Strike		
+800391FA 0063
+#Infinite Mp		
+800397E4 0000
+800397E6 0000

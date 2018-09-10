@@ -1,0 +1,11 @@
+#Infinite money 99999
+801570E4 869F
+801570E6 0001
+#Infinite HP Character 1
+800F638E 0063
+#Infinite HP Character 2
+800F63BD 0063
+#Infinite HP Character 3
+800F63EC 0063
+#Infinite HP Character 4
+800F641B 0063

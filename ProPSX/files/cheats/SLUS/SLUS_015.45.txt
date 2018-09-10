@@ -1,0 +1,14 @@
+#Time Always 0:00
+8007704C 0000
+#Infinite Health
+800C7AF4 0ED7
+#Infinite Grenades
+800C7B0C 03E7
+#Infinite Mini Gun
+800C7B10 03E7
+#Infinite Missiles
+800C7B14 03E7
+#Infinite Bombs
+800C7B18 03E7
+#Infinite Mines
+800C7B1C 03E7

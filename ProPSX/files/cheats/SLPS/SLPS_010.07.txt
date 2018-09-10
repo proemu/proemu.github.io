@@ -1,0 +1,8 @@
+#Infinite Time
+800BA70C 0000
+#No Lap Time
+800BA710 0000
+#Always Place First
+800BA772 0000
+#Max Speed
+800BAFC6 01F4

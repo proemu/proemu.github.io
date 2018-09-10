@@ -1,0 +1,155 @@
+#Infinite Health
+800F152C 012C
+#Max Infinite Gold
+800F15B4 270F
+#Chalice Of Souls Full
+800EFE88 0064
+#Infinite Potions
+300F1533 0010
+300F1536 0001
+#Enable Danhand Ability
+300F1694 0001
+#Always Have Chalice Of Souls
+300EFE90 0001
+#Enable Cheat Menu
+E00D36BD 0001
+300D36BD 0000
+#God Code (Invincible)		
+800F152C 012C
+800F3860 012C
+800F3864 012C
+800F3868 012C
+#Enable Big Head Dan
+E00EFF1E 0000
+300EFF1E 0004
+#Enable Matrixcam
+300EFF29 0002
+#Infinite Time
+D00795FC FFFF
+80079602 2400
+#Max Infinite Antidote
+800F1648 1004
+#Infinite Health-Danenstein
+801C9C9E 00C8
+#Have All 12 Lost Souls
+800F15F4 000C
+#Have Small Sword
+800F155C 0000
+#Have Broad Sword
+800F1560 1000
+#Have Magic Sword
+800F1564 0000
+#Have Cane Stick
+800F1568 0000
+#Have Pistol & Infinite Ammo
+800F156C 00C8
+#Have Hammer
+800F1570 0001
+#Have Crossbow & Infinite Ammo
+800F1574 00C8
+#Have Flaming Crossbow & Infinite Ammo
+800F1578 00C8
+#Have Axe
+800F157C 0001
+#Have Gatling Gun & Infinite Ammo
+800F1580 03E7
+#Have Infinite Lightning
+800F1588 1000
+#Have Blunderbuss & Infinite Ammo
+800F1590 00C8
+#Have Infinite Bombs
+800F1594 001E
+#Have Infinite Drumsticks
+800F1598 0064
+#Have Torch
+800F159C 0001
+#Have Cooper Shield
+800F15A0 0096
+#Have Silver Shield
+800F15A4 00FA
+#Have Gold Shield
+800F15A8 0190
+#The Museum-Unlocked & Completed
+800E1734 0019
+#Kensington-Unlocked & Completed
+800E1754 0019
+#The Freakshow-Unlocked & Completed
+800E1774 0019
+#Greenwich Observatory-Unlocked & Completed
+800E1784 0019
+#Kew Gardens-Unlocked & Completed
+800E17A4 0019
+#Dankenstein-Unlocked & Completed
+800E17B4 0019
+#Iron Slugger-Unlocked & Completed
+800E17C4 0021
+#Wulfrun Hall-Unlocked & Completed
+800E17D4 0019
+#The Count-Unlocked & Completed
+800E17E4 0021
+#Whitechapel-Unlocked & Completed
+800E17F4 0019
+#The Sewers-Unlocked & Completed
+800E1804 0019
+#The Time Machine-Unlocked & Completed
+800E1814 0019
+#Cathedral Spires-Unlocked & Completed
+800E1844 0021
+#The Demon-Unlocked & Completed
+800E1864 0021
+#Have Cannonball
+800F165C 0001
+#Have Museum Key
+800F166C 0001
+#Have Dinosaur Key
+800F1670 0001
+#Have Scroll Of Sekhmet
+800F1630 0001
+#Have Staff Of Anubis
+800F1634 0001
+#Have Tablet Of Horus
+800F1638 0001
+#Have Pocketwatch
+800F163C 0001
+#Have Town House Key
+800F1640 0001
+#Have Depot Key
+800F1668 0001
+#Have Snakeman Keys
+800F15D4 0064
+#Have Elephant Key 1
+800F1618 0001
+#Have Elephant Key 2
+800F161C 0001
+#Have Bellows
+800F15F0 0001
+#Have Pond Room Valve
+800F164C 0001
+#Have Hothouse Valve
+800F1650 0001
+#Have Water Tank Valve
+800F1654 0001
+#Have Potting Shed Key
+800F1660 0001
+#Have Front Door Key
+801F1664 0001
+#Have Poster
+800F15B0 0001
+#Have Time Machine Piece 1
+800F1620 0001
+#Have Time Machine Piece 2
+800F1624 0001
+#Have Time Machine Piece 3
+800F1628 0001
+#Have Time Stone
+800F1644 0001
+#Have Library Key
+800F1610 0001
+#Have Club Membership Card
+800F1614 0001
+#Have Griffin Shield
+800F1600 0001
+#Have Unicorn Shield
+800F1604 0001
+#Have Beard
+800F160C 0001

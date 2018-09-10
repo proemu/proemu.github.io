@@ -1,0 +1,14 @@
+#Infinite Lives
+800A06CD 0009
+#Inf Monkeys
+3009B250 0009
+#Have All 3 Green Swirls		
+3009B24E 0003
+#Have 3 Bonus Swirls	
+3009B246 0063
+#Have All 3 1970's		
+3009B24D 0003
+#Have 100 Clay Balls		
+3009B246 0064
+#Infinite Green Bullets		
+3009B247 0001

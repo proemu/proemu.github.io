@@ -1,0 +1,37 @@
+#Infinite Ammo
+80059A6C 0063
+80059A78 0063
+#Infinite Armor
+80019DDA 00C8
+#Infinite Energy
+80019DD8 0064
+#Have Red Key
+800519C8 0001
+#Have Green Key
+800519CA 0001
+#Have Blue Key
+800519CC 0001
+#Have Yellow Key
+800519CE 0001
+#Have Purple Key
+800519D0 0001
+#Have Light Blue Key
+800519D2 0001
+#Infinite Grenades
+80019DEE 0001
+#Have Double Shot
+80019DE2 0001
+#Have Rapid Fire
+80019DE4 0001
+#Have Burst Laser
+80019DEA 0001
+#Infinite Laser Power
+80059A70 0014
+#Have All Weapons Option (Pause Menu)
+800662CE 0001
+#Have Level Warp Option (Pause Menu)
+800662D0 0001
+#Inf Ammo		
+300662D2 0001
+#Inf HPS (Health)		
+300662D6 0001

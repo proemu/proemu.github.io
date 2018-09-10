@@ -1,0 +1,21 @@
+#Have 9999999 money  
+800BD6F0 967F
+800BD6F2 0098 
+#Infinite HP First character  
+800BD6FC 0063
+800BD6FE 0063 
+#Infinite HP Second character  
+800BD7A0 0063
+800BD7A2 0063 
+#Infinite HP Third character  
+800BD844 0063
+800BD846 0063 
+#Infinite HP Fourth character  
+800BD8E8 0063
+800BD8EA 0063 
+#Infinite HP Fifth character  
+800BD98C 0063
+800BD98E 0063 
+#Infinite HP Sixth character-  
+800BDA30 0063
+800BDA32 0063 

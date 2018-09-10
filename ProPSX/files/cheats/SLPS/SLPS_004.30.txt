@@ -1,0 +1,12 @@
+#Infinite Insects Tonzura
+80013004 0000 
+8001B3AC 0000 
+#Infinite Time 
+80011D00 0000 
+#Box to fly high
+80013C02 1000 
+#Stage select ?00-32 (Enabled last stage)
+800192FC 0032
+800192FE 3404
+80019308 0158 
+8001930A AF84 

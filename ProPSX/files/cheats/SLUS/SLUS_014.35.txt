@@ -1,0 +1,22 @@
+#Infinite Health-Character 1
+80072B64 CC9E
+80072B66 0801
+#Infinite Health-Character 2
+80072B80 CC9E
+80072B82 0801
+#Infinite Rifle	
+30110A4C 00C8		
+#Infinite Grenades	
+30110A4D 000A		
+#Infinite Mortar	
+30110A4E 000A		
+#Infinite Rockets	
+30110A4F 000A		
+#Infinite Ammo Assualt Rifle	
+30110A50 00C8		
+#Infinite FlameThrower	
+30110A51 00C8		
+#Infinite Dynamite	
+30110A52 0009		
+#Infinite Mines	
+30110A53 0009

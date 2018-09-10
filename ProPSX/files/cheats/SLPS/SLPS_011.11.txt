@@ -1,0 +1,9 @@
+#Always Come In First 	
+8013A93E 0000
+8013ABC2 0000
+8013AE46 0000
+8013B0CA 0000
+#Does not decrease LIFE
+800129DA 00FF
+#Unlimited items 1P
+80136EE4 00FF

@@ -1,0 +1,19 @@
+#Instant Clear 12000 points 
+801D3244 2EE0
+#Press R1, Instant Clear 12000 points
+D0089E24 0001 
+801D3244 2EE0
+#Press R1, Instant Clear 06000 points
+D0089E24 0001 
+801D3244 1770 
+#Inf. Time		
+50000658 0000
+801D339A 09C4
+#No Ojamas		
+50000658 0000
+801D3380 0006
+#Press L2 to Clear Stage		
+E0089E24 0001
+801D3244 1770
+#Unlock All Stages		
+80093AE8 01FF

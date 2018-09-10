@@ -1,0 +1,9 @@
+#Infinite Energy
+8006AD04 01C0
+#Infinite Laser-Energy
+8006ACD8 027E
+#Infinite Fuel
+8006E314 252B
+#Infinite missiles
+8006DF14 000F
+8006E318 000F

@@ -1,0 +1,18 @@
+#Inf Lives
+D00F8178 0000
+800F8178 012C
+#Start With Chalice At 100
+800EE97C 0064
+#Infinite health
+800F8174 012C
+#Press L2+R2 Health Restore
+D00F192C 0A00
+800F8174 012C
+#Extended Cheat Mode Pause the game to have access to View FMV, Sound Test, Camera, Cheats and Debug.
+300EEE3E 0003
+#Invulnerability		
+801C05D0 FFFF
+#Unlock All Levels	
+300F81C7 0001
+50001401 0000
+300F81DE 0001

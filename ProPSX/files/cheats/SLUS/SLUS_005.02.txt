@@ -1,0 +1,6 @@
+#Extra Health P1
+8009A038 6400
+#Infinite Shields P1
+8009A03C 6400
+#Shields Always Active P1
+8009A048 0022

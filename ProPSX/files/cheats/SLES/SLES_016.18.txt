@@ -1,0 +1,7 @@
+#Arcade Shanghai\Infinite Time To Choose
+800562E8 03B6
+80085E88 0130
+#Arcade Shanghai\Infinite Helps
+30067072 0003
+#Arcade Shanghai\Infinite Backs
+30067071 0003

@@ -1,0 +1,12 @@
+#Extra Points
+801FE850 FFFF
+#Unlock All Characters
+50000702 0000
+801FE6D0 0101
+#Infinite Health
+801FEDD8 0AF0
+801FEDDC 0AF0
+#Infinite Stamina
+801FEDE0 0AF0
+#Infinite Rush
+801FEDD0 0032

@@ -1,0 +1,45 @@
+#Max / infinite gella		
+800DE394 967F
+800DE396 0098
+#Rudy Infinite & Max HP	
+800DDFA8 270F
+800DDFAA 270F
+#Rudy Infinite & Max HP 
+800DDFAC 270F
+800DDFAE 270F
+#Jack Infinite & Max HP
+800DDFDC 270F
+800DDFDE 270F
+#Jack Infinite & Max MP	
+800DDFE0 270F
+800DDFE2 270F
+#Cecilia	
+800DE010 270F
+800DE012 270F
+#Cecilia Infinite & Max MP 
+800DE014 270F
+800DE016 270F
+#Inf Hp In Battle Rudy (Only use agains final enemies and deactivate after defeat the enemy or the game will crash)
+80165E8C 270F
+#Inf Hp In Battle Jack (Only use agains final enemies and deactivate after defeat the enemy or the game will crash)
+80166064 270F
+#Inf Hp In Battle Cecilia (Only use agains final enemies and deactivate after defeat the enemy or the game will crash)
+8016623C 270F
+#Infinite Mp In Battle All Characters (Only use agains final enemies and deactivate after defeat the enemy or the game will crash)
+8009CBDE 2400
+8006ED3E 2400
+80047162 2400
+#No random battles		
+80064678 0000
+8006467A 0000
+#Infinite items ( All slots)		
+D0046254 0274
+80046256 2400
+D0050350 0274
+80050352 2400
+#Map select debug menu		
+80056D9C 0001
+80056D9E 26B5
+#Infinite / Max Items All slots		
+50008002 0000
+800DE204 6363

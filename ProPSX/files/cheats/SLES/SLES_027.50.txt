@@ -1,0 +1,8 @@
+#Energia Infinita En Las Fases De 3ª Persona
+8010273C 01F4
+#Tiempo Infinito En Fases De Coche
+800FCB19 647C
+#Energia Infinita En Fases De Coche
+800FAD64 01F4
+#Energia Infinita En Las Fases De 1ª Persona
+800EE384 01F4

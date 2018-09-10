@@ -1,0 +1,4 @@
+#Infinite Prestige
+800F0ACC 03E7
+#Infinite Turns (Both Sides)
+8008C15C 090A

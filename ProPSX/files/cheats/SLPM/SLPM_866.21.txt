@@ -1,0 +1,12 @@
+#Player 1 has 9999999 money
+80082D80 967F
+80082D82 0098
+#Item (Pawaesa-bait · ß Kerochin)	
+80082D5C 0063 
+80082D5E 0063 
+80082D62 0063
+#Battle (number of holes) 1	
+800843CA 0001
+#Battle (number of holes) 10	
+800843CA 000A
+

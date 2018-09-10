@@ -1,0 +1,18 @@
+#Start At Last Part Of Stage 	
+3006D588 0303 	
+#Stage Select 1
+8006D648 00001	
+#Stage Select 2
+8006D648 00002
+#Stage Select 3	
+8006D648 00003
+#Stage Select 4	
+8006D648 00004
+#Stage Select 5	
+8006D648 00005
+#Stage Select 6	
+8006D648 00006
+#Stage Select 7	
+8006D648 00007
+#Stage Select 8	
+8006D648 00008

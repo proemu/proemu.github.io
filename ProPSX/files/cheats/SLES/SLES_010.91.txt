@@ -1,0 +1,16 @@
+#Unendlich Leben	
+3009B1E90009
+#Besitze 100 Clay Balls	
+3009B1EA 0064
+#Besitze alle 3 grünen Swirlies	
+3009B1F2 0003
+#Besitze unendlich Affen	
+3009B1F4 0009
+#Unendlich Green Bullets	
+3009B1EB 0001
+#Unendlich Homing Birds	
+3009B1EC 0009
+#Unendlich Klones	
+3009B1ED 0009
+#Unendlich Radiant Ball	
+3009B1EE 0009

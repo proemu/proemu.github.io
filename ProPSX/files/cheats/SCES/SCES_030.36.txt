@@ -1,0 +1,12 @@
+#Infinite energy / Air
+800E7854 0064
+#Have 50 coins
+800E786C 0032
+#Have 5 pearls
+800E7891 0005
+#Unlock All Levels & Movies
+800E82D4 270F
+#Unlock all minigames
+800E82E4 0003
+
+

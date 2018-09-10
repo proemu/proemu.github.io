@@ -1,0 +1,127 @@
+#Verrückt-Modus freigeschaltet	
+30057E12 0001
+#Story-Modus Der Dschungel ist kein Platz für einen Jungen Punkte	
+D008E454 0000
+8008E454 C350
+#Story-Modus Der Dschungel ist kein Platz für einen Jungen Unendlich Fallen	
+D008E4B0 0002
+3008E4B0 0004
+#Story-Modus Der Dschungel ist kein Platz für einen Jungen Längste Combo = 100
+D308E830 0001
+3008E830 0064
+#Story-Modus Der Dschungel ist kein Platz für einen Jungen Volltreffer > 500	
+D008E840 0001
+8008E840 01F4
+#Story-Modus Geh zum Militär ! Freigeschaltet	
+30056871 0002
+#Story-Modus Geh zum Militär Punkte	
+D008EE0C 0000
+8008EE0C C350
+#Story-Modus Geh zum Militär Unendlich Fallen	
+D008E468 0002
+3008E468 0004
+#Story-Modus Geh zum Militär Längste Combo = 100	
+D308F1E8 0001
+3008F1E8 0064
+#Story-Modus Geh zum Militär Volltreffer > 500	
+D008F1F8 0001
+8008F1F8 01F4
+#Story-Modus Probier's mal mit Gemütlichkeit Freigeschaltet	
+30056871 0003
+#Story-Modus Probier's mal mit Gemütlichkeit Punkte	
+D008E15C 0000
+8008E15C C350
+#Story-Modus Probier's mal mit Gemütlichkeit Unendlich Fallen	
+D008E1B8 0002
+3008E1B8 0004
+#Story-Modus Probier's mal mit Gemütlichkeit Längste Combo = 100	
+D308E538 0001
+3008E538 0064
+#Story-Modus Probier's mal mit Gemütlichkeit Volltreffer > 500	
+D008E548 0001
+8008E548 01F4
+#Story-Modus Bananen in der Kokospalme Freigeschaltet	
+30056871 0004
+#Story-Modus Bananen in der Kokospalme Punkte	
+D008E57C 0000
+8008E57C C350
+#Story-Modus Bananen in der Kokospalme Unendlich Fallen	
+D008E5D8 0002
+3008E5D8 0004
+#Story-Modus Bananen in der Kokospalme Längste Combo = 100	
+D308E958 0001
+3008E958 0064
+#Story-Modus Bananen in der Kokospalme Volltreffer > 500	
+D008E968 0001
+8008E968 01F4
+#Story-Modus Ich wär gern wie du Freigeschaltet	
+30056871 0005
+#Story-Modus Ich wär gern wie du Punkte	
+D008DFD8 0000
+8008DFD8 C350
+#Story-Modus Ich wär gern wie du Unendlich Fallen	
+D008E034 0002
+3008E034 0004
+#Story-Modus Ich wär gern wie du Längste Combo = 100	
+D308E3B4 0001
+3008E3B4 0064
+#Story-Modus Ich wär gern wie du Volltreffer > 500	
+D008E3C4 0001
+8008E3C4 01F4
+#Story-Modus Lust auf einen Imbiss Freigeschaltet	
+30056871 0006
+#Story-Modus Lust auf einen Imbiss Punkte	
+D008DD9C 0000
+8008DD9C C350
+#Story-Modus Lust auf einen Imbiss Unendlich Fallen	
+D008DDF8 0002
+3008DDF8 0004
+#Story-Modus Lust auf einen Imbiss Längste Combo = 100	
+D308E178 0001
+3008E178 0064
+#Story-Modus Lust auf einen Imbiss Volltreffer > 500	
+D008E188 0001
+8008E188 01F4
+#Story-Modus Wir sind die Geier Freigeschaltet	
+30056871 0007
+#Story-Modus Wir sind die Geier Punkte	
+D008DEC0 0000
+8008DEC0 C350
+#Story-Modus Wir sind die Geier Unendlich Fallen	
+D008DF1C 0002
+3008DF1C 0004
+#Story-Modus Wir sind die Geier Längste Combo = 100	
+D308E29C 0001
+3008E29C 0064
+#Story-Modus Wir sind die Geier	Volltreffer > 500	
+D008E2AC 0001
+8008E2AC 01F4
+#Story-Modus Lauf ! Freigeschaltet	
+30056871 0008
+#Story-Modus Lauf ! Punkte	
+D008E4EC 0000
+8008E4EC C350
+#Story-Modus Lauf ! Unendlich Fallen	
+D008E548 0002
+3008E548 0004
+#Story-Modus Lauf ! Längste Combo = 100	
+D308E8C8 0001
+3008E8C8 0064
+#Story-Modus Lauf ! Volltreffer > 500	
+D008E8D8 0001
+8008E8D8 01F4
+#Story-Modus Ein neuer Tag Freigeschaltet
+30056871 0009
+#Story-Modus Ein neuer Tag Punkte	
+D0092148 0000
+80092148 C350
+#Story-Modus Ein neuer Tag Unendlich Fallen	
+D00921A4 0002
+300921A4 0004
+#Story-Modus Ein neuer Tag Längste Combo = 100	
+D3092524 0001
+30092524 0064
+#Story-Modus Ein neuer Tag Volltreffer > 500	
+D0092534 0001
+80092534 01F4
+

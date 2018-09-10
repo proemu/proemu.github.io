@@ -1,0 +1,9 @@
+#Katsumi Infinite Hp In Battle
+801EBA9C 00B4
+801BF5E0 00B4
+#Kiddy Infinite Hp In Battle
+801EBBF4 00C8
+801BF738 00C8
+#Nami Infinite Hp In Battle
+801EBD4C 0096
+801BF890 0096

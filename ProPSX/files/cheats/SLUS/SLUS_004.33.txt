@@ -1,0 +1,23 @@
+#Lot Of Special Attacks
+D0093A16 FFFF
+80024F3C 0000
+80024F3E 0000
+#Infinite Health P1
+800B435A 017C
+#Infinite Health P2
+800B444E 017C
+#Infinite Credits
+80093D50 0009
+#Infinite Missile (Stage1)
+8009A56A 0009
+#1 Hit Death All Enemies
+800B4542 0001
+800B4636 0001
+800B472A 0001
+800B481E 0001
+800B4912 0001
+#Cheat Mode		
+80093D63 0002
+#Stage Skip and More X+L1 When In Game		
+D0093A10 4400 
+800B4318 CC6C

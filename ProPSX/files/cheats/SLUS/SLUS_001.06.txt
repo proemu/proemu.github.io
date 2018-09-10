@@ -1,0 +1,22 @@
+#Infinite Lives 	
+8002C446 0009 		
+#Get Out Of Jail Free Key 	
+8002C45E 0001 	
+#Infinite Armor 	
+8002C438 0063
+#Auto-Driving Enable	
+8002C448 05BD
+#Auto-Rapid Firing For All Weapons (Press O)	
+8001A0DB 0000
+#No Cops		
+80026D84 2000
+#Unlock Liberty City Part 2		
+80026D20 0001
+#Unlock San Andreas Part 1		
+80026D24 0001
+#Unlock San Andreas Part 2		
+80026D28 0001
+#Unlock Vice City Part 1		
+80026D2C 0001
+#Unlock Vice City Part 2		
+80026D30 0001

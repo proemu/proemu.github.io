@@ -1,0 +1,103 @@
+#English Codes Infinite Money The Iron Seed
+8015C6D6 7FFF
+#English Codes Infinite Money Handle On The Breadbasket
+8018144A 7FFF
+#English Codes Infinite Money Bridging A Nation
+80181082 7FFF
+#English Codes Infinite Money Silver Boons & The Market Busts
+8017CE32 7FFF
+#English Codes Infinite Money Crossing The Great Divide
+801952C2 7FFF
+#English Codes Infinite Money Birth On The Iron Horse
+80181472 7FFF
+#English Codes Infinite Money Excess On The Orient Express
+8018FA3A 7FFF
+#English Codes Infinite Money Knitting With Iron
+801872CA 7FFF
+#English Codes Infinite Money Next Stop The 20th Century
+80196B3E 7FFF
+#English Codes Infinite Money The Brenner Pass
+801718E2 7FFF
+#English Codes Infinite Money When Walls Come Down
+80199E32 7FFF
+#English Codes Infinite Money Croissants or Crumpets
+801979EA 7FFF
+#English Codes Infinite Money The Samurai Rides An Iron Horse
+8016B2F6 7FFF
+#English Codes Infinite Money Which Way To The Coast?
+8018566E 7FFF
+#English Codes Infinite Money The People's Train
+80189446 7FFF
+#English Codes Infinite Money Dilemma Down Under
+801791EA 7FFF
+#English Codes Infinite Money Cape To Cairo
+8019306A 7FFF
+#Deutsche Codes Unendlich Geld Die St‰Hlerne Faust
+8015DAB2 7FFF
+#Deutsche Codes Unendlich Geld Ein St¸Cke Vom Kuchen
+80182826 7FFF
+#Deutsche Codes Unendlich Geld Eine Nation W‰Chst Zusammen
+8018245E 7FFF
+#Deutsche Codes Unendlich Geld Silberboom Und Marktzusammenbruch
+8017E20E 7FFF
+#Deutsche Codes Unendlich Geld Stippvisiten Und Versprechungen
+8019669E 7FFF
+#Deutsche Codes Unendlich Geld Eine Kluft Wird Geschlossen
+8018284E 7FFF
+#Deutsche Codes Unendlich Geld Exzess Im Orient Express
+80190E16 7FFF
+#Deutsche Codes Unendlich Geld Netz Aus Eisen
+801886A6 7FFF
+#Deutsche Codes Unendlich Geld Auf Dem Weg Ins 20. Jahrhundert
+80197F1A 7FFF
+#Deutsche Codes Unendlich Geld Der Brenner-Pass
+80172CBE 7FFF
+#Deutsche Codes Unendlich Geld Wenn Mauern Fallen
+8019B20E 7FFF
+#Deutsche Codes Unendlich Geld Baguette Oder Porridge
+80198DC6 7FFF
+#Deutsche Codes Unendlich Geld Samurai's Reiten Hoch Zu Dampfross
+8016C6D2 7FFF
+#Deutsche Codes Unendlich Geld Welchen Weg Zur K¸Ste?
+80186A4A 7FFF
+#Deutsche Codes Unendlich Geld Die Volkseisenbahn
+8018A822 7FFF
+#Deutsche Codes Unendlich Geld Dilemma In Australien
+8017A5C6 7FFF
+#Deutsche Codes Unendlich Geld Von Kapstadt Nach Cairo
+80194446 7FFF
+#French Codes Infinite Money La Graine De Fer
+8015D8DE 7FFF
+#French Codes Infinite Money ContrÙLe Sur Le Grenier
+80182652 7FFF
+#French Codes Infinite Money La TraversÈE D'Une Nation
+8018228A 7FFF
+#French Codes Infinite Money ApogÈEs Et Debacles
+8017E03A 7FFF
+#French Codes Infinite Money TraversÈE Du Grand Fosse
+801964CA 7FFF
+#French Codes Infinite Money Naissance Du Cheval D'Acier
+8018267A 7FFF
+#French Codes Infinite Money DÈSorientation Sur L'Orient Express
+80190C42 7FFF
+#French Codes Infinite Money Nailles De Fer
+801884D2 7FFF
+#French Codes Infinite Money Prochaine ArrÍT! Le 20E Siecle
+80197D46 7FFF
+#French Codes Infinite Money Le Col Du Brenner
+80172AEA 7FFF
+#French Codes Infinite Money Franchissement De Obstacles
+8019B03A 7FFF
+#French Codes Infinite Money CrÍPes Au Croissants?
+80198BF2 7FFF
+#French Codes Infinite Money L' Histoire De Japon
+8016C4FE 7FFF
+#French Codes Infinite Money La Mer S' Il Vous Plait? - La Quelle?
+80186876 7FFF
+#French Codes Infinite Money Le Train Du Peuple
+8018A64E 7FFF
+#French Codes Infinite Money Dilemme Ici Bas
+8017A3F2 7FFF
+#French Codes Infinite Money Du Cape Au Caire
+80194272 7FFF
+

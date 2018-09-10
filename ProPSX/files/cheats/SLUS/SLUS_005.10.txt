@@ -1,0 +1,25 @@
+#Unlock Everything
+80065950 1F1F
+80065952 1F1F
+80065954 1F1F
+80065956 1F1F
+80065958 1F1F
+8006595A 1F1F
+#Basic Weapons\Infinite Landmine Ammo
+300356DC 0000
+#Basic Weapons\Infinite Heat Seeker Ammo
+30032FF4 0000
+#Basic Weapons\Infinite Tube Cannon Ammo
+300349B0 0000
+#Basic Weapons\Infinite Cannon Ammo
+300336BC 0000
+#Basic Weapons\Infinite Missile Ammo
+30032010 0000
+#Special Weapons\Infinite Lightning Ammo
+3003893C 0000
+#Special Weapons\Infinite Grid Lock Ammo
+3003B7D4 0000
+#Special Weapons\Infinite Dual Cannon Ammo
+3003AFC0 0000
+#Special Weapons\Invincible, Big Wheel, & Deadly Missle Mode
+80065908 0F0F

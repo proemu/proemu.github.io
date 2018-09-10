@@ -1,0 +1,6 @@
+#Have All Letters
+800719C8 000C
+#Infinite Strikes
+800719CC 0000
+#Have No Letters
+800719C8 0000

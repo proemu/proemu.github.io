@@ -1,0 +1,16 @@
+#Arcade Mode Infinite HP P1		
+800AD88A 07D0
+800AD88E 07D0
+#Arcade Mode Infinite HP P2		
+800AD942 07D0		
+800AD946 07D0
+#RPG Mode Refill HP (Press X & Circle)		
+D00883DC 0A00
+800AD88E 1000
+#RPG Mode (Original) Max HP When Level up		
+D00CD76C 0002
+800AD88A 1000
+#Infinite Health
+800A7116 270F
+#Infinite Magic
+800A7126 0030

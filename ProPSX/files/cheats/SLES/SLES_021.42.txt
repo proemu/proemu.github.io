@@ -1,0 +1,18 @@
+#Home Team Has 9 Goals
+30030BD8 0009
+#Home Team Can't Score Any Goals
+30030BD8 0000
+#Away Team Has 9 Goals
+30030BDC 0009
+#Away Team Can't Score Any Goals
+30030BDC 0000
+#Home Teams Goalies Are Slow
+8011BD5A 0001
+#Away Team Goalies Are Slow
+8011D7A6 0001
+#Have 999 Stars In Season Play
+801B85E2 03E7
+#Floating Football, Harder To Save
+8004130C 0020
+8011A118 0020
+8019DADA 0020

@@ -1,0 +1,10 @@
+#Infinite Energy p1 	
+30076CE8 00BC
+#Only one fight to win round P1	
+D0076F62 0000
+30076F62 0002
+#Infinite Enrgy P2	
+30076FB8 00BC	
+#SuddenDeath P2	
+D0076FB8 00BC
+30076FB8 0001

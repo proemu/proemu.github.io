@@ -1,0 +1,4 @@
+#Infinite Lives
+80047808 0005
+#Infinite bombs
+800478B8 0005

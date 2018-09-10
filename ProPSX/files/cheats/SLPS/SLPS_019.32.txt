@@ -1,0 +1,25 @@
+#Infinite Power Bar
+80096868 0032
+#Does not decrease blood flow during blood-sucking
+800243FA 2402
+#Nosferatu of blood-sucking in the once
+8002405C 0063
+8002405E 240F
+800240EA A64F
+#Infinite power transformation
+8002EF3C 0000
+#Infinite summoning power
+D00D2140 005C
+800D2142 1400
+#All Status 	
+50000802 0000
+30096868 0063
+#All Status Alternate	
+50000802 0063
+80096868 0000
+#Christopher Max (critical physical fitness, blood volume)	
+800BCE90 00FF 
+80096870 00FF
+#Duran Max (critical physical fitness, blood volume)	
+800BCE90 00FF 
+800967D0 00FF

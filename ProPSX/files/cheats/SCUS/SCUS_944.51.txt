@@ -1,0 +1,330 @@
+#Infinite Armor
+D0089E68 0006
+80089E6A 2400
+#Have All Weapons & Items
+8012A5B0 FFFF
+8012A5B2 FFFF
+#Unlock All Missions
+8014AF3C 0015
+#Countdown Timer Manipulator Press (L2+R2) To Start & Press (L1+R1) To Stop
+D0122FF0 0003
+8005C9FC 0C48
+D0122FF0 0003
+8005C9FE AE02
+D0122FF0 000C
+8005C9FE 2400
+#Colorado Mountains Codes\Infinite Armor
+D011EC70 0004
+801ACA7A 0258
+D011EC70 0003
+801AC556 0258
+#Colorado Mountains Codes\Infinite Health
+D011EC70 0004
+801ACA7C 0096
+D011EC70 0003
+801AC558 0096
+#Mckenzie Airbase Interior Codes\Infinite Armor
+D011EC70 0004
+801B08A6 0258
+D011EC70 0003
+801B0536 0258
+#Mckenzie Airbase Interior Codes\Infinite Health
+D011EC70 0004
+801B08A8 0096
+D011EC70 0003
+801B0538 0096
+#Colorado Interstate 70 Codes\Infinite Armor
+D011EC70 0004
+801A938E 0258
+D011EC70 0003
+801A91EE 0258
+#Colorado Interstate 70 Codes\Infinite Health
+D011EC70 0004
+801A9390 0096
+D011EC70 0003
+801A91F0 0096
+#1-70 Mountain Bridge Codes\Infinite Armor
+D011EC70 0004
+801ADB12 0258
+D011EC70 0003
+801AD7EE 0258
+#1-70 Mountain Bridge Codes\Infinite Health
+D011EC70 0004
+801ADB14 0096
+D011EC70 0003
+801AD7F0 0096
+#Mckenzie Airbase Exterior Codes\Infinite Armor
+D011EC70 0004
+801B9E16 0258
+D011EC70 0003
+801B9A32 0258
+#Mckenzie Airbase Exterior Codes\Infinite Health
+D011EC70 0004
+801B9E18 0096
+D011EC70 0003
+801B9A34 0096
+#Colorado Train Ride Codes\Infinite Armor
+D011EC70 0004
+801AC48A 0258
+D011EC70 0003
+801ABD06 0258
+#Colorado Train Ride Codes\Infinite Health
+D011EC70 0004
+801AC48C 0096
+D011EC70 0003
+801ABD08 0096
+#Colorado Train Race Codes\Infinite Armor
+D011EC70 0004
+801ABA4E 0258
+D011EC70 0003
+801AB6DA 0258
+#Colorado Train Race Codes\Infinite Health
+D011EC70 0004
+801ABA50 0096
+D011EC70 0003
+801AB6DC 0096
+#C-130 Wreck Site Codes\Infinite Armor
+D011EC70 0004
+801B0DF2 0258
+D011EC70 0003
+801B085E 0258
+#C-130 Wreck Site Codes\Infinite Health
+D011EC70 0004
+801B0DF4 0096
+D011EC70 0003
+801B0D60 0096
+#Pharcon Expo Center Codes\Infinite Armor
+D011EC70 0004
+801B6222 0258
+D011EC70 0003
+801B5FEA 0258
+#Pharcon Expo Center Codes\Infinite Health
+D011EC70 0004
+801B6224 0096
+D011EC70 0003
+801B5FEC 0096
+#Morgan Codes\Infinite Armor
+D011EC70 0004
+801B6292 0258
+D011EC70 0003
+801B6166 0258
+#Morgan Codes\Infinite Health
+D011EC70 0004
+801B6294 0096
+D011EC70 0003
+801B6168 0096
+#Moscow Club 32 Codes\Infinite Armor
+D011EC70 0004
+801B62F2 0258
+D011EC70 0003
+801B60CA 0258
+#Moscow Club 32 Codes\Infinite Health
+D011EC70 0004
+801B62F4 0096
+D011EC70 0003
+801B60CC 0096
+#Moscow Streets Codes\Infinite Armor
+D011EC70 0004
+801ACC16 0258
+D011EC70 0003
+801AC632 0258
+#Moscow Streets Codes\Infinite Health
+D011EC70 0004
+801ACC18 0096
+D011EC70 0003
+801AC634 0096
+#Volkov Park Codes\Infinite Armor
+D011EC70 0004
+801A77A6 0258
+D011EC70 0003
+801A731E 0258
+#Volkov Park Codes\Infinite Health
+D011EC70 0004
+801A77A8 0096
+D011EC70 0003
+801A7320 0096
+#Gregorov Codes\Infinite Armor
+D011EC70 0004
+801C8B02 0258
+D011EC70 0003
+801C8942 0258
+#Gregorov Codes\Infinite Health
+D011EC70 0004
+801C8B04 0096
+D011EC70 0003
+801C8944 0096
+#Aljir Prison Break-In Codes\Infinite Armor
+D011EC70 0004
+801AFB16 0258
+D011EC70 0003
+801AF48A 0258
+#Aljir Prison Break-In Codes\Infinite Health
+D011EC70 0004
+801AFB18 0096
+D011EC70 0003
+801AF48C 0096
+#Aljir Prison Escape Codes\Infinite Armor
+D011EC70 0004
+801AD48E 0258
+D011EC70 0003
+801ACFB2 0258
+#Aljir Prison Escape Codes\Infinite Health
+D011EC70 0004
+801AD490 0096
+D011EC70 0003
+801ACFB4 0096
+#Agency Bio-Lab Codes\Infinite Armor
+D011EC70 0004
+801BE96E 0258
+D011EC70 0003
+801BE74A 0258
+#Agency Bio-Lab Codes\Infinite Health
+D011EC70 0004
+801BE970 0096
+D011EC70 0003
+801BE74C 0096
+#Agency Bio-Lab Escape Codes\Infinite Armor
+D011EC70 0004
+801AC2A6 0258
+D011EC70 0003
+801AC092 0258
+#Agency Bio-Lab Escape Codes\Infinite Health
+D011EC70 0004
+801AC2A8 0096
+D011EC70 0003
+801AC094 0096
+#New York Slums Codes\Infinite Armor
+D011EC70 0004
+801AD98A 0258
+D011EC70 0003
+801AD1AE 0258
+#New York Slums Codes\Infinite Health
+D011EC70 0004
+801AD98C 0096
+D011EC70 0003
+801AD1B0 0096
+#New York Sewer Codes\Infinite Armor
+D011EC70 0004
+801B20F6 0258
+D011EC70 0003
+801B1E06 0258
+#New York Sewer Codes\Infinite Health
+D011EC70 0004
+801B20F8 0096
+D011EC70 0003
+801B1E08 0096
+#Finale Codes\Infinite Armor
+D011EC70 0004
+801B37EA 0258
+D011EC70 0003
+801B3756 0258
+#Finale Codes\Infinite Health
+D011EC70 0004
+801B37EC 0096
+D011EC70 0003
+801B3758 0096
+#Finale Codes\Unlock All Cheats & Multi-Player Stuff
+8011F6A4 FFFF
+8011F6A6 FFFF
+#Finale Codes\Infinite Ammo (All Weapons)
+50001104 0000
+3012A5BE 0063
+3012A60E 0063
+50000304 0000
+3012A612 0063
+3012A62A 0063
+#Max Ammo-Silenced 9Mm
+3012A5BC 0063
+#Max Ammo-9Mm
+3012A5C0 0063
+#Max Ammo-.45
+3012A5C4 0063
+#Max Ammo-M-16
+3012A5C8 0063
+#Max Ammo-Silenced Hk-5
+3012A5CC 0063
+#Max Ammo-Hk-5
+3012A5D0 0063
+#Max Ammo-Pk-102
+3012A5D4 0063
+#Max Ammo-Shotgun
+3012A5D8 0063
+#Max Ammo-Uas-12
+3012A5DC 0063
+#Max Ammo-G-18
+3012A5E0 0063
+#Max Ammo-Biz-2
+3012A5E4 0063
+#Max Ammo-K3G4
+3012A5E8 0063
+#Max Ammo-H11
+3012A5EC 0063
+#Max Ammo-Silent Sniper Rifle
+3012A5F0 0063
+#Max Ammo-Sniper Rifle
+3012A5F4 0063
+#Max Ammo-Nightvision Rifle
+3012A5F8 0063
+#Max Ammo-Incendiary Grenade
+3012A610 0063
+#Max Ammo-Nerve Gas Grenade
+3012A614 0063
+#Max Ammo-M-79
+3012A60C 0063
+#Max Ammo-Tear Gas Launcher
+3012A628 0063
+#Max Ammo-Crossbow
+3012A5FC 0063
+#Max Ammo-C4
+3012A618 0063
+#Infinite Ammo-Silenced 9Mm
+3012A5BE 0063
+#Infinite Ammo-9Mm
+3012A5C2 0063
+#Infinite Ammo-.45
+3012A5C6 0063
+#Infinite Ammo-M-16
+3012A5CA 0063
+#Infinite Ammo-Silenced Hk-5
+3012A5CE 0063
+#Infinite Ammo-Hk-5
+3012A5D2 0063
+#Infinite Ammo-Pk-102
+3012A5D6 0063
+#Infinite Ammo-Shotgun
+3012A5DA 0063
+#Infinite Ammo-Uas-12
+3012A5DE 0063
+#Infinite Ammo-G-18
+3012A5E2 0063
+#Infinite Ammo-Biz-2
+3012A5E6 0063
+#Infinite Ammo-K3G4
+3012A5EA 0063
+#Infinite Ammo-H11
+3012A5EE 0063
+#Infinite Ammo-Silent Sniper Rifle
+3012A5F2 0063
+#Infinite Ammo-Sniper Rifle
+3012A5F6 0063
+#Infinite Ammo-Nightvision Rifle
+3012A5FA 0063
+#Infinite Ammo-Incendiary Grenade
+3012A612 0063
+#Infinite Ammo-Nerve Gas Grenade
+3012A616 0063
+#Infinite Ammo-M-79
+3012A60E 0063
+#Infinite Ammo-Tear Gas Launcher
+3012A62A 0063
+#Infinite Ammo-Crossbow
+3012A5FE 0063
+#Infinite Ammo-C4
+3012A61A 0063
+#Invincibility 
+8011FC80 FFFF
+#Invisibility Code  If you press and hold the L1 button, you can turn invisibility off to turn it on again, just release the L1 button
+8011F860 FFFF
+
+
+

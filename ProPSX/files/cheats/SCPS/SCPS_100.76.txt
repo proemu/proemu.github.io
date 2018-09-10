@@ -1,0 +1,13 @@
+#Infinite money 999999
+80010814 423F
+80010816 000F
+#Unlock Code
+8001F7B4 576D
+8001F7B6 106F
+#All Games
+50003302 0000
+8001083A 0101
+#Moon Jump Push L2; only works in the Amusement Park!
+D00C5FD8 0001
+800C5F4E FED3
+

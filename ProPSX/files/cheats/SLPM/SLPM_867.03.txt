@@ -1,0 +1,9 @@
+#Infinite Energy in battle character 1  
+801BDFD0 03E7
+801BE020 03E7
+801BE126 03E7
+801D375C 03E7
+801D37AC 03E7 
+#Max Energy character 1  
+801390BE 03E7
+801390BC 03E7 

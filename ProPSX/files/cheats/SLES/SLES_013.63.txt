@@ -1,0 +1,37 @@
+#Always First Place
+801B99F8 0001
+#Arcade Mode All countries and levels unlocked
+50000A02 0003
+80025526 0000
+#Arcade Mode Codes\All Stages Selectable: Africa
+80025538 0003
+#Arcade Mode Codes\All Stages Selectable: Monaco
+80025528 0003
+#Arcade Mode Codes\All Stages Selectable: Roma
+80025526 0003
+#Arcade Mode Codes\All Stages Selectable: Norway
+8002552A 0003
+#Arcade Mode Codes\All Stages Selectable: Great Britain
+8002552C 0003
+#Arcade Mode Codes\All Stages Selectable: China
+80025530 0003
+#Arcade Mode Codes\All Stages Selectable: Usa
+80025532 0003
+#Arcade Mode Codes\All Stages Selectable: Indonesia
+80025534 0003
+#Arcade Mode Codes\All Stages Selectable: Brasilia
+80025536 0003
+#Arcade Mode Codes\All Stages Selectable: Peru
+8002552E 0003
+#Arcade Mode Codes\All Stages Selectable (Use this or the specified codes)
+50000A02 0000
+80025526 0003
+#Arcade Mode Codes\All Cars
+8002595C 00FF
+8002595E 00FF
+#Championship Mode Codes\Access All Seasons
+80025950 0300
+#Championship Mode Codes\Have All Cars (Gti)
+80025964 FFFF
+#Championship Mode Codes\Have All Cars (High Performance)
+80025966 FFFF

@@ -1,0 +1,333 @@
+#Infinite Lifes (Press Select to restore)
+D0065D54 0100
+800AD3DC 6300
+D0065D54 0100
+800AD42C 6300
+D0065D54 0100
+800AD0A4 6300
+D0065D54 0100
+800BCD48 6300
+#Enable All Powers
+80069328 003F
+#Have All Gems
+80069160 FFFF
+80069162 FFFF
+80069164 FFFF
+80069166 FF00
+#Have All Sapphires
+80069364 FFFF
+80069366 FFFF
+80069368 FFFF
+#Have All Crystals
+800692DC FFFF
+800692DE FFFF
+800692E0 FFFF
+#Modifies Time Trials Timer Push Select
+E0065D55 0001
+8006909C BBBB
+#Zone 1\Toad Village\Infinite Lives
+300AD3DD 0004
+#Zone 1\Toad Village\99 Fruits
+300AD3D9 0063
+#Zone 1\Toad Village\42 Crates Opened
+300AD401 0029
+#Zone 1\Toad Village\Infinite Masks (On Pickup)(.When using the Infinite Masks Code, be sure to have picked up one before, then activate the code. After having died you must de-activate the code, pick up a mask, activate the code and so on...)
+3009FFED 0002
+#Zone 1\Under Pressure\Infinite Lives
+800AD1D0 0400
+#Zone 1\Under Pressure\99 Fruits
+800AD1CC 6300
+#Zone 1\Under Pressure\92 Crates Opened
+800AD1F4 5B00
+#Zone 1\Under Pressure\Infinite Masks (On Pickup)(.When using the Infinite Masks Code, be sure to have picked up one before, then activate the code. After having died you must de-activate the code, pick up a mask, activate the code and so on...)
+800A0494 0200
+#Zone 1\Orient Express\Infinite Lives
+800AD42C 0400
+#Zone 1\Orient Express\99 Fruits
+800AD428 6300
+#Zone 1\Orient Express\51 Crates Opened
+800AD450 3200
+#Zone 1\Bone Yard\Infinite Lives
+800AD658 0400
+#Zone 1\Bone Yard\99 Fruits
+800AD654 6300
+#Zone 1\Bone Yard\66 Crates Opened
+800AD67C 4100
+#Zone 1\Bone Yard\Infinite Masks (On Pickup)(.When using the Infinite Masks Code, be sure to have picked up one before, then activate the code. After having died you must de-activate the code, pick up a mask, activate the code and so on...)
+800A1448 0200
+#Zone 1\Makin' Waves\Infinite Lives
+800AD0A4 0400
+#Zone 1\Makin' Waves\99 Fruits
+800AD0A0 6300
+#Zone 1\Makin' Waves\37 Crates Opened
+800AD0C8 2400
+#Zone 1\Tiny Tiger\Infinite Lives
+800BCD48 0400
+#Zone 1\Ski Crazed (Bonuslevel 26)\Infinite Lives
+800ACFBC 0400
+#Zone 1\Ski Crazed (Bonuslevel 26)\99 Fruits
+800ACFB8 6300
+#Zone 1\Ski Crazed (Bonuslevel 26)\100 Crates Opened
+800ACFE0 6300
+#Zone 1\Ski Crazed (Bonuslevel 26)\Infinite Masks (On Pickup)(.When using the Infinite Masks Code, be sure to have picked up one before, then activate the code. After having died you must de-activate the code, pick up a mask, activate the code and so on...)
+800A0DAC 0200
+#Zone 2\Gee Wiz\Infinite Lives
+800AD5CC 0400
+#Zone 2\Gee Wiz\99 Fruits
+800AD5C8 6300
+#Zone 2\Gee Wiz\100 Crates Opened
+800AD5F0 6300
+#Zone 2\Gee Wiz\Infinite Masks (On Pickup)(.When using the Infinite Masks Code, be sure to have picked up one before, then activate the code. After having died you must de-activate the code, pick up a mask, activate the code and so on...)
+800A1CAC 0200
+#Zone 2\Gee Wiz\Time Trial
+800A1EE8 0200
+#Zone 2\Hang 'Em High\Infinite Lives
+800AD4B0 0400
+#Zone 2\Hang 'Em High\99 Fruits
+800AD4AC 6300
+#Zone 2\Hang 'Em High\96 Crates Opened
+800AD4D4 5F00
+#Zone 2\Hang 'Em High\Infinite Masks (On Pickup)(.When using the Infinite Masks Code, be sure to have picked up one before, then activate the code. After having died you must de-activate the code, pick up a mask, activate the code and so on...)
+800A2B34 0200
+#Zone 2\Hog Ride\Infinite Lives
+800AD724 0400
+#Zone 2\Hog Ride\99 Fruits
+800AD720 6300
+#Zone 2\Hog Ride\13 Crates Opened
+800AD748 0C00
+#Zone 2\Hog Ride\Infinite Masks (On Pickup)(.When using the Infinite Masks Code, be sure to have picked up one before, then activate the code. After having died you must de-activate the code, pick up a mask, activate the code and so on...)
+800A2B34 0200
+#Zone 2\Hog Ride\Place 1st
+800A2F88 0001
+800A43E8 0001
+800A43FC 0001
+#Zone 2\Tomb Time\Infinite Lives
+800AD5D8 0400
+#Zone 2\Tomb Time\99 Fruits
+800AD5D4 6300
+#Zone 2\Tomb Time\95 Crates Openend
+800AD5FC 5E00
+#Zone 2\Tomb Time\Infinite Masks (On Pickup)(.When using the Infinite Masks Code, be sure to have picked up one before, then activate the code. After having died you must de-activate the code, pick up a mask, activate the code and so on...)
+800A1840 0200
+#Zone 2\Midnight Run\Infinite Lives
+800AD45C 0400
+#Zone 2\Midnight Run\99 Fruits
+800AD458 6300
+#Zone 2\Midnight Run\35 Crates Opened
+800AD480 2200
+#Zone 2\Midnight Run\Infinite Masks (On Pickup)(.When using the Infinite Masks Code, be sure to have picked up one before, then activate the code. After having died you must de-activate the code, pick up a mask, activate the code and so on...)
+800A1900 0200
+#Zone 2\Dingodile\Infinite Lives
+800BD0A4 0400
+#Zone 2\Dingodile\Infinite Masks (On Pickup)(.When using the Infinite Masks Code, be sure to have picked up one before, then activate the code. After having died you must de-activate the code, pick up a mask, activate the code and so on...)
+800B0E94 0200
+#Zone 2\Hang 'Em High Revisited (Bonuslevel 27)\Infinite Lives
+800AD4B0 0400
+#Zone 2\Hang 'Em High Revisited (Bonuslevel 27)\99 Fruits
+800AD4AC 6300
+#Zone 2\Hang 'Em High Revisited (Bonuslevel 27)\96 Crates Opened
+800AD4D4 5F00
+#Zone 2\Hang 'Em High Revisited (Bonuslevel 27)\Infinite Masks (On Pickup)(.When using the Infinite Masks Code, be sure to have picked up one before, then activate the code. After having died you must de-activate the code, pick up a mask, activate the code and so on...)
+800A1954 0200
+#Zone 3\Dino Might !\Infinite Lives
+800AD798 0400
+#Zone 3\Dino Might !\99 Fruits
+800AD794 6300
+#Zone 3\Dino Might !\112 Crates Opened
+800AD7BC 6F00
+#Zone 3\Dino Might !\Infinite Masks (On Pickup)(.When using the Infinite Masks Code, be sure to have picked up one before, then activate the code. After having died you must de-activate the code, pick up a mask, activate the code and so on...)
+800A3FFC 0200
+#Zone 3\Deep Trouble\Infinite Lives
+800AD370 0400
+#Zone 3\Deep Trouble\99 Fruits
+800AD36C 6300
+#Zone 3\Deep Trouble\83 Crates Opened
+800AD394 5200
+#Zone 3\Deep Trouble\Infinite Masks (On Pickup)(.When using the Infinite Masks Code, be sure to have picked up one before, then activate the code. After having died you must de-activate the code, pick up a mask, activate the code and so on...)
+800A0CE8 0200
+#Zone 3\High Time\Infinite Lives
+800AD454 0400
+#Zone 3\High Time\99 Fruits
+800AD450 6300
+#Zone 3\High Time\85 Crates Opened
+800AD478 5400
+#Zone 3\High Time\Infinite Masks (On Pickup)(.When using the Infinite Masks Code, be sure to have picked up one before, then activate the code. After having died you must de-activate the code, pick up a mask, activate the code and so on...)
+800A3CB8 0200
+#Zone 3\Road Crash\Infinite Lives
+800AD900 0400
+#Zone 3\Road Crash\99 Fruits
+800AD8FC 6300
+#Zone 3\Road Crash\25 Crates Opened
+800AD924 1800
+#Zone 3\Road Crash\Place 1st
+800A092C 0001
+800A3CD4 0001
+800A3CE8 0001
+#Zone 3\Double Header\Infinite Lives
+800AD470 0400
+#Zone 3\Double Header\99 Fruits
+800AD46C 6300
+#Zone 3\Double Header\91 Crates Opened
+800AD494 5A00
+#Zone 3\Double Header\Infinite Masks (On Pickup)(.When using the Infinite Masks Code, be sure to have picked up one before, then activate the code. After having died you must de-activate the code, pick up a mask, activate the code and so on...)
+800A4800 0200
+#Zone 3\N.Tropy\Infinite Lives
+800AD024 0400
+#Zone 3\N.Tropy\99 Fruits
+800AD020 6300
+#Zone 3\N.Tropy\Infinite Masks (On Pickup)(.When using the Infinite Masks Code, be sure to have picked up one before, then activate the code. After having died you must de-activate the code, pick up a mask, activate the code and so on...)
+800A1B7C 0200
+#Zone 3\Area 51? (Bonuslevel 28)\Infinite Lives
+800ADAC4 0400
+#Zone 3\Area 51? (Bonuslevel 28)\99 Fruits
+800ADAC0 6300
+#Zone 3\Area 51? (Bonuslevel 28)\24 Crates Opened
+800ADAE8 1700
+#Zone 3\Area 51? (Bonuslevel 28)\Place 1st
+800A1A94 0001
+800A2EF4 0001
+800A2F08 0001
+#Zone 4\Sphynxinator\Infinite Lives
+800AD900 0400
+#Zone 4\Sphynxinator\Fruits
+800AD8FC 6300
+#Zone 4\Sphynxinator\105 Crates Opened
+800AD924 6800
+#Zone 4\Sphynxinator\Infinite Masks (On Pickup)(.When using the Infinite Masks Code, be sure to have picked up one before, then activate the code. After having died you must de-activate the code, pick up a mask, activate the code and so on...)
+800A1B68 0200
+#Zone 4\Bye Bye Blimps\Infinite Lives
+800BCD24 0400
+#Zone 4\Bye Bye Blimps\99 Fruits
+800BCD20 6300
+#Zone 4\Bye Bye Blimps\11 Crates Opened
+800BCD48 0A00
+#Zone 4\Bye Bye Blimps\Bulletproof Plane
+800BCCC4 6400
+#Zone 4\Tell No Tales\Infinite Lives
+800AD0F0 0400
+#Zone 4\Tell No Tales\99 Fruits
+800AD0EC 6300
+#Zone 4\Tell No Tales\61 Crates Opened
+800AD114 3C00
+#Zone 4\Tell No Tales\Infinite Masks (On Pickup)(.When using the Infinite Masks Code, be sure to have picked up one before, then activate the code. After having died you must de-activate the code, pick up a mask, activate the code and so on...)
+800A2538 0200
+#Zone 4\Tell No Tales\Time Trial
+800A17D0 0200
+#Zone 4\Future Frenzy\Infinite Lives
+800AD5E4 0400
+#Zone 4\Future Frenzy\99 Fruits
+800AD5E0 6300
+#Zone 4\Future Frenzy\133 Crates Opened
+800AD608 8400
+#Zone 4\Future Frenzy\Infinite Masks (On Pickup)(.When using the Infinite Masks Code, be sure to have picked up one before, then activate the code. After having died you must de-activate the code, pick up a mask, activate the code and so on...)
+800A184C 0200
+#Zone 4\Tomb Wader\Infinite Lives
+800AD7B0 0400
+#Zone 4\Tomb Wader\99 Fruits
+800AD7AC 6300
+#Zone 4\Tomb Wader\88 Crates Opened
+800AD7D4 5700
+#Zone 4\Tomb Wader\Infinite Masks (On Pickup)(.When using the Infinite Masks Code, be sure to have picked up one before, then activate the code. After having died you must de-activate the code, pick up a mask, activate the code and so on...)
+800A20CC 0200
+#Zone 4\N. Gin\Infinite Lives
+800BCFD4 0400
+#Zone 4\N. Gin\Indestructible Spacecraft
+800BCF74 6400
+#Zone 4\Future Frenzy Revisited (Bonuslevel 29)\Infinite Lives
+800AD5E4 0400
+#Zone 4\Future Frenzy Revisited (Bonuslevel 29)\99 Fruits
+800AD5E0 6300
+#Zone 4\Future Frenzy Revisited (Bonuslevel 29)\133 Crates Opened
+800AD608 8400
+#Zone 4\Future Frenzy Revisited (Bonuslevel 29)\Infinite Masks (On Pickup)(.When using the Infinite Masks Code, be sure to have picked up one before, then activate the code. After having died you must de-activate the code, pick up a mask, activate the code and so on...)
+800A42C0 0200
+#Zone 5\Gone Tomorrow\Infinite Lives
+800AD554 0400
+#Zone 5\Gone Tomorrow\99 Fruits
+800AD550 6300
+#Zone 5\Gone Tomorrow\87 Crates Opened
+800AD578 5600
+#Zone 5\Gone Tomorrow\Infinite Masks (On Pickup)(.When using the Infinite Masks Code, be sure to have picked up one before, then activate the code. After having died you must de-activate the code, pick up a mask, activate the code and so on...)
+800A2760 0200
+#Zone 5\Gone Tomorrow\Time Trial
+800A299C 0200
+#Zone 5\Orange Asphalt\Infinite Lives
+800ADC38 0400
+#Zone 5\Orange Asphalt\99 Fruits
+800ADC34 6300
+#Zone 5\Orange Asphalt\20 Crates Opened
+800ADC5C 1300
+#Zone 5\Orange Asphalt\Place 1st
+800A3260 0001
+800A46C0 0001
+800A46D4 0001
+#Zone 5\Flaming Passion\Infinite Lives
+800AD51C 0400
+#Zone 5\Flaming Passion\99 Fruits
+800AD518 6300
+#Zone 5\Flaming Passion\75 Crates Opened
+800AD540 4A00
+#Zone 5\Flaming Passion\Infinite Masks (On Pickup)(.When using the Infinite Masks Code, be sure to have picked up one before, then activate the code. After having died you must de-activate the code, pick up a mask, activate the code and so on...)
+800A2DDC 0200
+#Zone 5\Mad Bombers\Infinite Lives
+800BCDAC 0400
+#Zone 5\Mad Bombers\11 Crates Opened
+800BCDD0 0A00
+#Zone 5\Mad Bombers\Bulletproof Plane
+800BCD4C 6400
+#Zone 5\Bug Lite\Infinite Lives
+800AD744 0400
+#Zone 5\Bug Lite\99 Fruits
+800AD740 6300
+#Zone 5\Bug Lite\120 Crates Opened
+800AD768 7700
+#Zone 5\Bug Lite\Infinite Masks (On Pickup)(.When using the Infinite Masks Code, be sure to have picked up one before, then activate the code. After having died you must de-activate the code, pick up a mask, activate the code and so on...)
+800A24D8 0200
+#Zone 5\N.Cortex\Infinite Lives
+800AD034 0400
+#Zone 5\Rings Of Power (Bonuslevel 30)\Infinite Lives
+800BCDF8 0400
+#Zone 5\Rings Of Power (Bonuslevel 30)\99 Fruits
+800BCDF4 6300
+#Zone 5\Rings Of Power (Bonuslevel 30)\33 Crates Opened
+800BCE1C 2000
+#Zone 5\Rings Of Power (Bonuslevel 30)\Place 1st
+D00B45E4 0001
+800B45E4 001E
+D00B45E4 001E
+800B2430 1000
+#Zone 5\Hot Coco (Bonuslevel 31)\Infinite Lives
+800ACFD4 0400
+#Zone 5\Hot Coco (Bonuslevel 31)\99 Fruits
+800ACFD0 6300
+#Zone 5\Hot Coco (Bonuslevel 31)\70 Crates Opened
+800ACFF8 4500
+#Always have Aku Aku mask	
+8006910C 0200
+80038EE4 1D80
+80038EE6 0800
+80007600 8007
+80007602 3C08
+80007604 90E8
+80007606 8D08
+80007608 0007
+8000760A 1510
+8000760C 0300
+8000760E 3409
+80007610 019C
+80007612 8508
+80007614 0004
+80007616 1109
+80007618 8007
+8000761A 3C08
+8000761C 90E8
+8000761E 8D08
+80007620 0200
+80007622 3409
+80007624 019C
+80007626 A509
+80007628 0008
+8000762A 03E0
+#Always have the gray gem		
+300691A1 0000
+300692F9 0000

@@ -1,0 +1,14 @@
+#Always perfect bar P1
+800D3E3A 03E8
+#All Lessons Clear
+50000C02 0000
+800EEBD8 0202
+#Max Purchase Points		
+800EEC38 270F
+#Unlock All Extras Unlocks all information, card collection, and allows selecting Why? The Zona's Song from the beginning.
+300E016F 0001
+50000A04 0000
+800EE1F8 FFFF
+800EE278 1FFF
+50004002 0000
+800EEC48 270F

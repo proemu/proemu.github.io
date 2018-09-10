@@ -1,0 +1,21 @@
+#P1 Max Dance Points
+80068740 FFFF
+#P1 Infinite Attacks
+80068766 0002
+#P1 Max Enthusiasm
+80068738 FFFF
+#Enable Capoeira
+30051AC0 0001
+#Enable Robo-Z
+30051AC1 0001
+#Enable Burger Dog
+30051AC3 0001
+#Enable Columbo
+30051AC2 0001
+#Press Select To End Game (With this code, when you start your match press select. DO NOT do it before then or the game might lock up. After you win your match it will show you your ending)	
+D0068790 0100
+8006870A 0C01
+#Start On Stage 12	
+8006870A 0B01
+#Play Against Whomever You Wish For All 12 Stages	
+8006871C 0004	

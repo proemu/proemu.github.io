@@ -1,0 +1,52 @@
+#Time is 0:00:00 	
+800B5588 0000
+800B558A 0000
+#Infinite Health 	
+800C13C4 2710
+800C13C6 0000
+#Infinite Air 	
+800C13C8 2710
+800C13CA 0000 
+#Max Shadow Level
+800C13CC 2710
+800C13CE 0000
+#Max Shadow Power 	
+800C13D0 2710
+800C13D2 0000
+#Infinite Voodoo 	
+800C13D4 2710
+800C13D6 0000
+#Enable Asylum - Cageways		
+300BC0B7 0001
+#Enable Asylum - Cathedral of Pain		
+300BC0B4 0001
+#Enable Asylum - Engine Block		
+300BC0B5 0001
+#Enable Asylum - Gateway		
+300BC0B3 0001
+#Enable Asylum - Lavaducts		
+300BC0BA 0001
+#Enable Asylum - Playrooms		
+300BC0B8 0001
+#Enable Asylum - Undercity		
+300BC0BC 0001
+#Enable Boyou Paradis, Louisiana		
+300BC0AC 0001
+#Enable Deadside - Marrow Gates		
+300BC0B0 0001
+#Enable Down Street Station, London		
+300BC0AF 0001
+#Enable Gordelle County Jail, Texas		
+300BC0AE 0001
+#Enable Mordant Street, Queens, NY		
+300BC0AD 0001
+#Enable Paths of Shadow Prophecy Chamber		
+300BC0B1 0001
+#Enable Temple of Blood (Nager)		
+300BC0BB 0001
+#Enable Temple of Fire (Toucher)		
+300BC0B6 0001
+#Enable Temple of Prophecy (Marcher)		
+300BC0B9 0001
+#Enable Wasteland - Temple of Life		
+300BC0B2 0001

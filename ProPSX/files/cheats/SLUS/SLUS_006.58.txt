@@ -1,0 +1,20 @@
+#Infinite Guns
+800AF990 00FF
+#Infinite Bombs
+800AF994 00FF
+#Infinite Chainsaws
+800AF998 00FF
+#Tussle Mode (Have All Teams)
+8001952C 0003
+#Team 1 Score 99
+800AF998 0063
+#Team 1 Score 0
+800AF998 0000
+#Team 2 Score 99
+800AF99C 0063
+#Team 2 Score 0
+800AF99C 0000
+
+
+
+

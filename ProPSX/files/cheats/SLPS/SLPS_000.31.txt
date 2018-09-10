@@ -1,0 +1,7 @@
+#Infinite Mp
+800397E4 0000
+800397E6 0000
+#Infinite Opm
+800ADE38 03E8
+#Fatal Strike
+800391FA 0063

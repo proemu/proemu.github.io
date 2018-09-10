@@ -1,0 +1,7 @@
+#All Cheats
+8009DDEC FFFF
+#Infinite Checkpoint Time
+800330EC 0000
+800330EE 0000
+#Always First
+80023086 0040

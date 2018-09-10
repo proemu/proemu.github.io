@@ -1,0 +1,64 @@
+#P1 Score Modifier 	
+801AE550 FFFF
+#P1 Drops 99 Blocks on P2 	
+801AE72A 0064
+#P2 Never Wins 	
+801AE81C 0000
+#P1 Needs 1 Win to Win		
+D01AE570 0000
+801AE570 0100
+#P1 Character Morrigan	
+801D4F10 0000
+#P1 Character Chun-Li	
+801D4F10 0001
+#P1 Character Ryu	
+801D4F10 0002
+#P1 Character Ken	
+801D4F10 0003
+#P1 Character Asien-Ko	
+801D4F10 0004
+#P1 Character Donovan	
+801D4F10 0005
+#P1 Character Felicia	
+801D4F10 0006
+#P1 Character Sakura	
+801D4F10 0007
+#P1 Character Devilot	
+801D4F10 0008
+#P1 Character Akuma	
+801D4F10 0009 
+#Super puzzle mode P1 Character Morrigan	
+301BAAC5 0000
+#Super puzzle mode P1 Character Chun-Li	
+301BAAC5 0001
+#Super puzzle mode P1 Character Ryu	
+301BAAC5 0002
+#Super puzzle mode P1 Character Ken	
+301BAAC5 0003
+#Super puzzle mode P1 Character Asien-Ko	
+301BAAC5 0004
+#Super puzzle mode P1 Character Donovan 	
+301BAAC5 0005
+#Super puzzle mode P1 Character Felicia	
+301BAAC5 0006
+#Super puzzle mode P1 Character Sakura 	
+301BAAC5 0007
+#Super puzzle mode P1 Character Devilot 	
+301BAAC5 0008
+#Super puzzle mode P1 Character Akuma 	
+301BAAC5 0009
+#Super puzzle mode P1 Character Dan	
+301BAAC5 000A
+#Super puzzle mode Open All Prizes 	
+8016CAE4 FFFF
+8016CAE8 FFFF
+8016CAEC FFFF
+8016CAF0 FFFF
+8016CAF4 FFFF
+8016CAF8 FFFF
+8016CAFA FFFF
+8016CAFC FFFF
+8016CAFE FFFF 		
+#Super puzzle mode Press Square To Get A Diamond 	
+D01BF09A 0080
+301AE5F0 0005

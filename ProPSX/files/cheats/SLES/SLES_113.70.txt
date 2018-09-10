@@ -1,0 +1,132 @@
+#Infinite Health 	
+842EA5EF D3A3
+#Infinite Oxygen
+842F3054 6498
+#Infinite Medicine 	
+842EA5BF E5D1
+#Infinite Health
+800B5E06 00FF
+#Infinite Oxygen
+800ACA8C 0400
+#Unlimited Rations
+800B5E54 0002
+#Unlimited Medicine
+800B5E56 0002
+#Unlimited Diazepam
+800B5E58 0001
+#Socom Pistol + Infinite Ammo
+800B5E12 00FF
+#Famas Rifle + Infinite Ammo
+800B5E14 00FF
+#Psg1 Rifle + Infinite Ammo
+800B5E24 00FF
+#Nikita + Infinite Ammo
+800B5E18 00FF
+#Stinger + Infinite Ammo
+800B5E1A 00FF
+#Unlimited Stun Grenades
+800B5E20 00FF
+#Unlimited Chaff Grenades
+800B5E22 00FF
+#Unlimited Grenades
+800B5E16 00FF
+#Unlimited Claymores
+800B5E1C 00FF
+#Unlimited C4 Explosive
+800B5E1E 00FF
+#Cardboard Box A - Heliport
+800B5E3E 0001
+#Cardboard Box B - Nuke Store
+800B5E40 0001
+#Cardboard Box c - Snow Field
+800B5E42 0001
+#Night-Vision Goggles
+800B5E44 0001
+#Thermal Goggles
+800B5E46 0001
+#Gasmask
+800B5E48 0001
+#Body Armour
+800B5E4A 0001
+#Ketchup
+800B5E4C 0001
+#Stealth
+800B5E4E 0001
+#Bandanna
+800B5E50 0001
+#Camera
+800B5E52 0001
+#Pal Keys
+800B5E5A 0001
+#Mine Detector
+800B5E60 0001
+#Mo Disk
+800B5E62 0001
+#Rope
+800B5E64 0001
+#Handkerchief
+800B5E66 0001
+#Have Level 100 Key Card
+800B5E5C 0064
+#All Modes In Vr-Training
+300B500B 0020
+#Max Ammo Socom
+800B5E26 0063
+#Max Ammo Fa-Mas
+800B5E28 0063
+#Max Ammo Grenades
+800B5E2A 0063
+#Max Ammo Nikita
+800B5E2C 0063
+#Max Ammo Stinger
+800B5E2E 0063
+#Max Ammo Claymore
+800B5E30 0063
+#Max Ammo C4
+800B5E32 0063
+#Max Ammo Stun Grenade
+800B5E34 0063
+#Max Ammo Chaff Grenades
+800B5E36 0063
+#Max Ammo Psg1 Sniper Rifle
+800B5E38 0063
+#Have Cigs
+800B5E3A 0001
+#Have Scope
+800B5E3C 0001
+#Have Time Bomb
+800B5E5E 0001
+#Never Have Time Bomb
+800B5E5E 0000
+#Have Supressor
+800B5E68 0001
+#Have Supressor Active
+800B5E68 0000
+#Have All Weapons
+50000A02 0000
+800B5E12 0063
+#Have All Items
+50001902 0000
+800B5E3A 0001
+#Start With Extended Life Bar
+800B5E08 0600
+#Max Life
+800B76FE 05EA
+#Radar Not Jammed When Spotted
+800ACA58 0000
+#Quick Vr Training This code gives you the end triangular thing that you need to touch to pass the level
+800E2188 0000
+#Ocelot Has 0 Bullets
+80167CD8 0000
+80167B98 0000
+#Invincible (Must Get Hit First)
+800ACAAA 0010
+#Automatic Socom
+800B161C FFFF
+#Easy Fight With Liquid 
+8017997C 0001
+#Play In 1st Person Perspective just press Triangle 
+800AC4AC 0020
+#Ghost Mode
+800ACA68 0000
+800ACA6A 0000

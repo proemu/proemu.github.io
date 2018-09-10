@@ -1,0 +1,105 @@
+#Infinite Health Level Mediacal Center Part 3
+801E61F4 0100
+#Infinite Medikits
+801E7630 0009
+#Language Select Enabled		
+301070FE 0005 
+#Level Modifier Mediacal Center Part 2
+801F6BC8 0006
+#Level Modifier Mediacal Center Part 3
+801F6BC8 0007
+#Level Modifier Mediacal Center Part End Sequence
+801F6BC8 0008
+#Level Modifier Monastery Part 1
+801F6BC8 0009
+#Level Modifier Monastery Part 2
+801F6BC8 000A
+#Level Modifier Monastery Part 3
+801F6BC8 000B
+#Level Modifier Monastery Part 4
+801F6BC8 000C
+#Level Modifier Monastery End Sequence
+801F6BC8 000D
+#Level Modifier Mines Part 1
+801F6BC8 000E
+#Level Modifier Mines Part 2
+801F6BC8 000F
+#Level Modifier Mines Part 3
+801F6BC8 0010
+#Level Modifier Mines End Sequence
+801F6BC8 0011
+#Level Modifier Entering Ruined City 
+801F6BC8 0012
+#Level Modifier Ruined City 2
+801F6BC8 0013
+#Level Modifier Ruined City 3
+801F6BC8 0014
+#Level Modifier Ruined City End Seququenxe
+801F6BC8 0015
+#Level Modifier Human Village Part 1
+801F6BC8 0016
+#Level Modifier Human Village Part 2
+801F6BC8 0017
+#Level Modifier Human Village Part 3
+801F6BC8 0018
+#Level Modifier The Canyon Sequence
+801F6BC8 0019
+#Level Modifier Human Village End Sequence
+801F6BC8 001A
+#Level Modifier University Part 1
+801F6BC8 001B
+#Level Modifier University Part 2
+801F6BC8 001C
+#Level Modifier Meeting Mathias 1 Sequence
+801F6BC8 001D
+#Level Modifier Entering Prison Sequence
+801F6BC8 001E
+#Level Modifier Prison 4
+801F6BC8 001F
+#Level Modifier Prison End Sequence
+801F6BC8 0020
+#Level Modifier Military Base
+801F6BC8 0021
+#Level Modifier Meeting Mathias 2 Sequence
+801F6BC8 0022
+#Level Modifier Factory Underground
+801F6BC8 0023
+#Level Modifier Factory Underground End Cutscene
+801F6BC8 0024
+#Level Modifier Archives Part 1 
+801F6BC8 0025
+#Level Modifier Archives Part 2
+801F6BC8 0026
+#Level Modifier Archives Part 3
+801F6BC8 0027
+#Level Modifier Archives End Sequence
+801F6BC8 0028
+#Level Modifier Meeting Mathias 3 Sequence
+801F6BC8 0029
+#Level Modifier The Statue 
+801F6BC8 002A
+#Level Modifier The Statue Sequence 2
+801F6BC8 002B
+#Level Modifier The Statue or Pentagon 1
+801F6BC8 002C
+#Level Modifier Pentagon Part 2
+801F6BC8 002D
+#Level Modifier Pentagon Part 3
+801F6BC8 002E
+#Level Modifier The Encounter Sequence
+801F6BC8 002F
+#Level Modifier Monastery 5 Sequence
+801F6BC8 0030
+#Level Modifier Ape Palace Sequence
+801F6BC8 0031
+#Level Modifier Ape Palace 
+801F6BC8 0032
+#Level Modifier Ape Palace End Sequence
+801F6BC8 0033
+
+
+
+
+
+
+

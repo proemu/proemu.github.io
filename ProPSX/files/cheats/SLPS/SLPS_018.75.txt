@@ -1,0 +1,19 @@
+#Infinite energy colosseum mode
+800C2CAA 028A
+#Infinite magic colosseum mode
+800C2CAC 0190
+#Infinite Money 999999
+8008EC20 423F
+8008EC22 000F
+#HP currently	
+800C2CAA 03E7
+#MP now	
+800C2CAC 03E7
+#Maximum HP	
+800C2CAE 03E7
+#Maximum MP	
+800C2CB0 03E7
+#All Gallery	
+300A084F 00FF	
+#Damage caused during combat Max	
+800A2FCA 03E7

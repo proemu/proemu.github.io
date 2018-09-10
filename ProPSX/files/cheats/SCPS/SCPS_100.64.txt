@@ -1,0 +1,7 @@
+#Bonus Stage (Press Start At Config Mode)	
+80093FF8 0002
+#Max Score	
+80093E88 FFFF
+80093E8A FF00
+#Timer Without Restrictive Time	
+800932BC 1B00

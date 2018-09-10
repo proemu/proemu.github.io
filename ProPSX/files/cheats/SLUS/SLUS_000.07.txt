@@ -1,0 +1,40 @@
+#Infinite Energy
+8009A040 03E7
+#Infinite Armor
+8009A042 03E7
+#Infinite Charge Grenades
+8009A058 03E7
+#Infinite Handgun Bullets
+8009A046 03E7
+#Infinite Shotgun Bullets
+8009A04A 03E7
+#Infinite Flame Thrower Rounds
+8009A052 03E7
+#Infinite Pulse Riffle Rounds
+8009A04C 03E7
+#Infinite Pulse Rifle Grenades
+8009A050 03E7
+#Infinite Smart Gun Rounds
+8009A054 03E7
+#Infinite Batteries
+8009A05A 03E7
+#Infinite Boots
+8009A044 03E7
+#Have Shotgun
+8008F33E 0029
+#Have Flame Thrower
+8008F34A 0029
+#Have Pulse Rifle
+8008F342 0029
+#Have Smart Gun
+8008F346 0029
+#Have Auto Mapper
+8009A03C 03E7
+#Rapid Firer
+8009A024 0001
+#Infinite Shoulder Lights
+8009A05C 0014
+#Infinite Night Vision
+8009A060 0014
+#Have Cheat Option (Main Menu)
+8008CDA8 0380

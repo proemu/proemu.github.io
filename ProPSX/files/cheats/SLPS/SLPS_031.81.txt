@@ -1,0 +1,4 @@
+#Infinites lives Route 16 turbo  
+8008291B 0002 
+#Infinites lives Atantis no nazo  
+8009A784 0007 

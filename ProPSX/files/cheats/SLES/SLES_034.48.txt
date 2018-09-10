@@ -1,0 +1,8 @@
+#Have 99999 points
+8004EC18 869F
+8004EC20 0001
+#Obstacle Courses Mode All courses unlocked
+30001632 001F
+#Start on lap 3
+D0001614 0000
+30001614 0002

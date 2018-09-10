@@ -1,0 +1,90 @@
+#Inf Vida
+800B5F3E 00FA
+#Maxima vida
+800B5F40 0600 
+#Infinite ammo SOCOM
+800B5F4A 0063
+#Infinite C4 ammo
+800B5F56 0063
+#Infinite stun grenades
+800B5F58 0063
+#Infinite chaff grenades
+800B5F5A 0063
+#Infinite assault rifle ammo
+800B5F4C 0064
+#Inf Aire
+800ACBC4 03E7
+#Sin Acatarrarse
+800B5F42 0000
+#Todos Los Modos Vr Training
+800B5143 0020
+#Sin Recargar Nunca
+800ACB7C 000D
+#No salta el radr
+800ACB90 0000 
+#Nunca terner frio
+800B731A 0000 
+#Pistola Socom 
+800B5F4A 03E7 
+800B5F5E 03E7 
+#Rifle Famas
+800B5F4C 03E7 
+800B5F60 03E7 
+#Nikita
+800B5F50 03E7 
+800B5F64 03E7 
+#Stinger 
+800B5F52 03E7 
+800B5F66 03E7 
+#Rifle Psg1
+800B5F5C 03E7 
+800B5F70 03E7 
+#Granadas
+800B5F4E 03E7 
+800B5F62 03E7 
+#Minas Claymore
+800B5F54 03E7 
+800B5F68 03E7 
+#255 DIAZEPAMS 
+800B5F90 03E7 
+800B5FA6 03E7 
+#Llave Pal
+800B5F92 0001 
+#Tarjeta llave nivel 100 
+800B5F94 0064 
+#No tener nunca la bomba de relojeria 
+800B5F96 0000 
+#Detector de minas 
+800B5F98 0001 
+#Disco MO 
+800B5F9A 0001 
+#Cuerda
+800B5F9C 0001 
+#Pañuelo de Sniper Worf 
+800B5F9E 0001 
+#Activar Silenciador
+800B5FA0 0000 
+#Prismaticos 
+800B5F74 0001 
+#Caja de carton A 
+800B5F76 0001 
+#Caja de carton B
+800B5F78 0001 
+#Caja de carton C
+800B5F7A 0001 
+#Lentes de vision nocturna
+800B5F7C 0001 
+#Lentes Termicas 
+800B5F7E 0001 
+#Mascara Anti-Gas
+800B5F80 0001 
+#Body Armor
+800B5F82 0001 
+#Kepchup
+800B5F84 0001 
+#Stealth Camuflaje Optico
+800B5F86 0001 
+#Bandana
+800B5F88 0001 
+#Cmara
+800B5F8A 0001 

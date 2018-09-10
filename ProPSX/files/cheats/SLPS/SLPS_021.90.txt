@@ -1,0 +1,20 @@
+#Can't Be Hit (Invincible) (With this code, Only The Poison Could Hurt You!)	
+D0089A34 FFFF
+80089A34 0000
+D0089BF4 FFFF
+80089BF4 0000 	
+#Infinite & Max HP Main Character 	
+80089A6E 03E7
+80089A70 03E7
+#Infinite & Max MP Main Character 
+80089A72 03E7 
+80089A74 03E7 
+#mAX STR 
+800857E4 03E7 
+80089A76 03E7 
+#Max DEF 
+800857E6 03E7 
+80089A78 03E7 
+#Invincibility not to POISON 
+80089A34 7FFF 
+

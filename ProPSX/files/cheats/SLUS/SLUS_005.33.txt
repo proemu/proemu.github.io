@@ -1,0 +1,11 @@
+#No Damage 	
+8009AE64 0000
+#Infinite Time 	
+800B707E 012C
+#Infinite Fuel 	
+800B52A2 0019
+#Infinite Money 	
+8009AE08 FFFF
+8009AE0A 00FF
+#Access All Cars & Tracks
+8009A6D4 0001

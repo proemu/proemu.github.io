@@ -1,0 +1,15 @@
+#All Members Infinite Money
+801CBEE4 423F
+801CBEE6 000F
+#Main Character Infinite Hp
+801EB334 03E7
+801EB336 03E7
+#Main Character Infinite Mp
+801EB338 03E7
+801EB33A 03E7
+#Second Character Infinite Hp
+801EB3B0 03E7
+801EB3B2 03E7
+#Second Character Infinite Mp
+801EB3B4 03E7
+801EB3B6 03E7

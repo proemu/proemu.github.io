@@ -1,0 +1,2 @@
+#Enemy score is always 0  
+8008B28C 0000 

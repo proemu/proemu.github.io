@@ -1,0 +1,6 @@
+#Collection fully open
+30082065 00FF
+80082066 FFFF
+80082068 FFFF
+#All characters
+8008203C 0007

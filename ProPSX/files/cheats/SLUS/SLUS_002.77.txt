@@ -1,0 +1,70 @@
+#Have All Shamen Spells 	
+801DC2C2 FFFF
+801DC2C4 FFFF
+801DC2C6 FFFF
+801DC2C8 FFFF
+801DC2CA FFFF
+801DC2CC FFFF
+801DC2CE FFFF
+801DC2D0 FFFF
+801DC2D2 FFFF 		
+#Max Spell Charge Rate 	
+801DC2AC 0000 		
+#Have All Build Options 	
+801DC2B0 FFFF
+#Infinite Time		
+801E5F70 0384
+#Level Select The Journey Begins	
+800D8BA4 0000
+#Level Select Night Falls	
+800D8BA4 0001
+#Level Select Crisis of Faith	
+800D8BA4 0002
+#Level Select Combined Forces	
+800D8BA4 0003
+#Level Select Death From Above	
+800D8BA4 0004
+#Level Select Building Bridges	
+800D8BA4 0005
+#Level Select Unseen Enemy	
+800D8BA4 0006
+#Level Select Continental Divide	
+800D8BA4 0007
+#Level Select Fire In The Mists	
+800D8BA4 0008
+#Level Select From The Depth's	
+800D8BA4 0009
+#Level Select Treachrous Souls	
+800D8BA4 000A
+#Level Select An Easy Target	
+800D8BA4 000B
+#Level Select Aerial Bombardment	
+800D8BA4 000C
+#Level Select Attacked On All Sides	
+800D8BA4 000D
+#Level Select Incarcerated	
+800D8BA4 000E
+#Level Select Bloodlust	
+800D8BA4 000F
+#Level Select Middle Ground	
+800D8BA4 0010
+#Level Select Head Hunter	
+800D8BA4 0011
+#Level Select Unlikely Allies	
+800D8BA4 0012
+#Level Select Archipelago	
+800D8BA4 0013
+#Level Select Fractured Earth	
+800D8BA4 0014
+#Level Select Solo	
+800D8BA4 0015
+#Level Select Inferno	
+800D8BA4 0016
+#Level Select Journey's End	
+800D8BA4 0017
+#Level Select Journey's End 2	
+800D8BA4 0018
+#All levels selectable	
+800D8BA4 0019 
+
+

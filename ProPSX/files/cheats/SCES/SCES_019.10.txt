@@ -1,0 +1,48 @@
+#All levels unlocked
+80146E16 0B14
+#Max Health Base Bunker		
+801B3BDA 0258
+#Max Health Base Escape		
+801AE0E6 0258
+#Max Health Base Tower		
+801C5A52 0258
+#Max Health Catacombs		
+801AD046 0258
+#Max Health Destroyed Subway		
+801A2EE2 0258
+#Max Health Expo Centre Binorama		
+801A9FCA 0258
+#Max Health Expo Centre Reception		
+801AC26E 0258
+#Max Health Freedom Memorial		
+801C048E 0258
+#Max Health Geargia		
+801A8A52 0258
+#Max Health Main Subway Line		
+801C7342 0258
+#Max Health Missile Silo		
+801AD686 0258
+#Max Health Pharcom Elite Guards		
+801A3E1A 0258
+#Max Health Pharcom Warehouse		
+801AADA6 0258
+#Max Health Rhoemers Base		
+E01A98E7 0002
+801A98E7 0258
+801A93DE 0258
+#Max Health Rhoemers Stronghold		
+801AD4D2 0258
+#Max Health Silo Access Tunnels		
+801A23BA 0258
+#Max Health Stronghold Lower Level		
+801AB1B2 0258
+801AAA16 0258
+#Max Health Tunnel Blackout		
+801B0B16 0258
+#Max Health Warehouse 76		
+E21B744F 0002
+801B744E 0258
+#Max Health Washington Park	
+801AA4AE 0258
+#Stop Clock Countdown Missile Silo	
+80117290 0258

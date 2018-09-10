@@ -1,0 +1,7 @@
+#Infinite Hp
+8007866C 0200
+#Infinite Laser
+800784B8 0100
+#Have 999999 points
+800783AC 423F
+800783AE 000F

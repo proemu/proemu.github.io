@@ -1,0 +1,4 @@
+#Infinite Energy Player 1
+800B1F3C 03E8
+#Infinite Energy Player 2
+800B1F40 03E8

@@ -1,0 +1,42 @@
+#Infinite Credits P1 & P2
+801E222E 0A00
+#Infinite Health P1
+800DFFFE 03E8
+#Infinite Lawgiver Ammo P1
+300E000D 0008
+#Infinite Lives P1
+300E000C 0005
+#Start With Max Points P1
+D00DFFE0 0000
+800DFFE0 FFFF
+#Infinite High Explosive Weapon P1
+800E000E 0900
+#Infinite Armour Piercing Ammo P1
+D10DFFF4 0000
+800DFFF4 00B8
+#Infinite Scatter P1
+D10DFFFA 0000
+800DFFFA 0123
+#Rapid Fire Automatic Gun P1
+D10DFFF8 0000
+800DFFF8 0064
+#Infinite Health P2
+800E0046 03E8
+#Infinite Lawgiver Ammo P2
+300E0055 0008
+#Infinite Lives P2
+300E0054 0005
+#Start With Max Points P2
+D00E0028 0000
+800E0028 FFFF
+#Infinite High Explosive Weapon P2
+800E0056 0900
+#Infinite Armour Piercing Ammo P2
+D10E003C 0000
+800E003C 00B8
+#Infinite Scatter P2
+D10E0042 0000
+800E0042 0123
+#Rapid Fire Automatic Gun P2
+D10E0040 0000
+800E0040 0064

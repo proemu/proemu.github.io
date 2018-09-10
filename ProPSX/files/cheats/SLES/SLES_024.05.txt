@@ -1,0 +1,10 @@
+#Infinite lives		
+800B2612 0004
+#Invincible		
+800B260E 0010
+#Have 99 coins		
+800B2616 0063
+#Infinite disk launcher ammo		
+800A19B4 0008
+
+	

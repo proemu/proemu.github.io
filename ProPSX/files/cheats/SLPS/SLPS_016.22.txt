@@ -1,0 +1,10 @@
+#Freeze Timer At 72.00
+8007153A FFFF
+#Timer 00.00 And More
+8007153A 10AE
+#Maximum Points Earned
+8007153C FFFF
+#Slow-Motion Mode Press L1 to activate it
+D00715E8 0004
+800B61B4 62FF
+

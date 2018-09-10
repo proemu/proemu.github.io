@@ -1,0 +1,2 @@
+#Player has always 30 pairs in pair game
+8006FE6C 001E

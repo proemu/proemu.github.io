@@ -1,0 +1,7 @@
+#Have 999 Honey Pots
+800C774C 03E7
+#Infinite Energy
+800C7748 0003
+#All levels unlocked	
+800C74A0 0040
+800C74A2 0108

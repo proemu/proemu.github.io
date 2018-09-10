@@ -1,0 +1,37 @@
+#Infinite & Max Hp Pietoro
+800E40A0 03E7
+800F42DE 03E7
+#Infinite & Max Mp Pietoro
+800F42E4 03E7
+800F42E2 03E7
+#Infinite & Max HP Don		
+8004588 03E7
+8004586 03E7
+#Infinite & Max MP Don	
+800458C 03E7
+800458A 03E7
+#Infinite & Max HP Gon		
+800F4500 03E7
+800F44FE 03E7
+#Infinite & Max MP Gon	
+800F4504 03E7
+800F4502 03E7
+#Level Up All Characters
+800E4DEC FFFF
+#Maximum Experience Takes effect after you kill any enemy
+80045220 0000
+#Maximum Gold
+800F2A64 E0FF
+800F2A66 05F5
+#Maximum Magic Experience Takes effect after you kill any enemy
+800453D4 0000
+#Enemy death blow 
+D00E908C 0800 
+8006A8E6 0005 
+D00E908C 0100 
+8006A8E6 0045 
+#No Random Battles
+300F2C9C 0001 
+#Monster Encyclopedia + 5h 
+300DE504 00FF 
+300DE7EC 00FF 

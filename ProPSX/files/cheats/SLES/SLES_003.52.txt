@@ -1,0 +1,14 @@
+#Infinite lives
+801BAD35 0009
+#Infinite Surefire
+801ED638 0063
+#Infinite U328
+801ED63A 0063
+#Infinite Mirv
+801ED63C 0063
+#Infinite Nukes
+801ED644 0063
+#Infinite Rockets
+801ED646 0063
+#Infinite Agm
+801ED648 0063

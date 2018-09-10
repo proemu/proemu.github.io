@@ -1,0 +1,8 @@
+#Always best condition
+801A4628 0005 
+#Infinite Money
+800A0788 03E7
+#Map appearance	
+301A462E 0001
+#Note emergence	
+301A462F 0001

@@ -1,0 +1,67 @@
+#Infinite HP in Battle
+800775B2 270F
+80077782 270F
+80077952 270F
+#After One Battle, GF Max		
+D002276C 000C
+8002276E AE30
+#After One Battle, Memorize All Enemy Skill		
+800229A0 0001
+#Infinite Money		
+80076BA4 0FFF
+80066BA6 5F5E
+#Play Time	
+80076D68 FFFF
+#Save Anywhere		
+8006F372 0100
+#Super Chocobo		
+8009D4B4 0000
+8009D4B6 0401
+#The 100 possession of all items 
+D01E8968 0006 
+801E897E A068 
+D01E8968 0006 
+801E896A 2408 
+D01E8968 0006 
+801E8968 0064 
+#Magic you are in possession of up to 100 pieces all Conditions: from the menu, I select the "magic". 
+D01F2320 000C 
+801F2324 FFFE 
+D01F2320 000C 
+801F2326 A0A2 
+D01F2320 000C 
+801F2322 2402 
+D01F2320 000C 
+801F2320 0064 
+#The possession of all the cards 
+80023B10 4021 
+80023B14 00E4 
+80023B16 2403 
+80023B2E A103 
+800773E6 FFFF 
+800773E8 FFFF 
+800773EA 0001 
+80023B6C 00F0 
+80023B6E 2408 
+80023B72 A048 
+80023B76 3902 
+#G.F all species use Allowed 
+80036E44 0061 
+80036E46 A086 
+#Actionable & enemies incapacitated always in combat 
+D00A7500 1021 
+800A7530 0003 
+D00A7500 1021 
+800A7532 2E22 
+#Enemies HP zero 
+801D70DE 2000 
+801D70E0 0000 
+#Boss character attack power zero 
+801D7102 2000 
+801D7104 0000
+
+#Debug Room World map other than, I simultaneously press L1 + L2 + R1 + R2 
+D006F308 000F 
+8006F1C8 0001 
+D006F308 000F 
+8006F1CA 0049 

@@ -1,0 +1,45 @@
+#P1 Infinite Health
+801EFA02 00C8
+#Unlock Characters, Modes & Extras
+801F65D0 FFFF
+801F65D4 FFFF
+801F65D8 FFFF
+801F65DA FFFF
+801F65DC FFFF
+801F65DE FFFF
+#Unlock All
+50000802 0000
+801F65D0 FFFF
+#Always Get Good Ending
+801F64C0 0007
+#1 Hit Kill P2	
+801EFE02 0000
+#Lesson Mode Always Get an A	
+801F1F22 011E
+#Lesson ModeOnly Do 1 Move to Complete Lesson	
+801F1F14 0A00
+#Lesson Mode 100 Energy	
+801F1F1C 0064
+#Lesson Mode 100 Accuracy	
+801F1F1E 0064
+#Lesson Mode 100 Agility	
+801F1F20 0064
+#Lesson Mode S Total	
+801F1F22 012F
+#Target Mode 9999 Hi Score	
+801F1F66 270F
+#Home Run Mode 999 Hi Score	
+801F1F3C 03E7
+#Home Run ModeInfinite Balls	
+801F1F0C 0000
+#Home Run Mode Always Hit Homerun	
+801F1F0E 00C8
+#Service Mode 99999 Hi Score	
+801F 1F1C 869F
+801F 1F1E 0001
+#Service Mode Infinite Volley Balls	
+801F 1F0C 0000
+#Robert's Soccer Mode Codes Infinite Balls	
+801F1F64 0006
+#Other Codes 1 Hit to pass Hayatos Challenge	
+801F1F4C 1D00

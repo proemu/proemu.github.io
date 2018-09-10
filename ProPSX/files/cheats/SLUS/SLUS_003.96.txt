@@ -1,0 +1,14 @@
+#Have Stockcar
+300B4A88 0001
+#Have Hotrod
+300B4A8A 0001
+#Have Monster Truck
+300B4A8B 0001
+#Have 4X4 Buggy
+300B4A8C 0001
+#Enable Stock Car 2		
+300B4A8D 0001
+#Enable Blue VW Bug		
+300B4A89 0001
+#Open All Tracks
+800B1978 000C

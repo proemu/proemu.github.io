@@ -1,0 +1,82 @@
+#Infinite Health
+800CCC90 00C8
+#Condition Fine
+300CCC97 0004
+#Save Anywhere Press L1+Triangle
+D00CC830 0014
+800D1D18 13CC
+D00CC830 0014
+800D1D1A 8005
+#Have 10 Slots
+800D225E 000A
+#Have All Maps
+300D2127 00FE
+300D212B 00FE
+#Have All Files
+800D212C FFFF
+800D212E FFFF
+#Access Item Box Anytime Press L1+Square
+D00CC830 0084
+800D1F2C 0200
+D00CC830 0084
+800E01C4 0002
+#Infinite Item Usage (All Slots)
+8006D0CA 2400
+#Almost All Doors Open
+50000502 0000
+800D20CC FFFF
+#Character Modifier Carlos
+800D1F86 0008
+#Character Modifier Mikhall
+800D1F86 0009
+#Character Modifier Nichotai
+800D1F86 000A
+#Character Modifier Tofu
+800D1F86 000F
+#Have All Pics In Epilogue
+800D1F3E 0008
+#Unlimited Time
+800C79BA 0000
+#Total Time (Get Grade S)
+800D1F28 0000
+800D1F2A 0000
+#Quick Ending Press L1+L2+R1+R2
+D00CC830 000F
+800CC858 C000
+D00CC830 000F
+800CC85A 0001
+#Rapid Fire Press R1+R2+X
+D00CC830 004A
+800CCC8C 1E02
+#Enhanced Extra Ammo
+800D2260 01F4
+800D2262 01F4
+800D2266 01F4
+800D2268 01F4
+800D226A 01F4
+800D226C 01F4
+#Chest True Infinite Item Codes
+50004004 0000
+800D215E 0017
+#Makes Game Think You Never Saved
+800D1F40 0000
+#One-Hit Death
+D0044E18 0006
+80044E18 0001
+#Hyper Mode
+800D454C 0002
+#Secret Mode With this code, it starts a new game with new weapons in chest and ALL weapons and infinite ink ribbons and a key to Boutique with all costumes!
+800D1F32 FFE0
+#Walk Thru Walls
+800339FE 1000
+8004B2A2 1000
+#More Blood
+800BD8DE FFFF
+#Mercenaries Mode Codes Get Reward
+800CC852 FFFF
+#Mercenaries Mode Codes Max Reward Total
+800D25EC 967F
+800D25EE 0098
+#Mercenaries Mode Codes Infinite Time
+800D1F98 0078
+

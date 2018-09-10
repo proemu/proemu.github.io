@@ -1,0 +1,11 @@
+#Invincible Gex
+800A3B1C 001D
+#Have All Collectables
+80098A98 0063
+80098A9C 0062
+80098AA0 0062
+#Infinite Lives
+80098A90 0009
+#Infinite Health
+80098A94 0005
+

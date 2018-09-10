@@ -1,0 +1,9 @@
+#P1 Invincibility 	
+300CF6B6 008B
+#Infinite Energy Player 1		
+800CF6B6 006E
+#No Energy Player 2		
+800D08BE 0000
+#Enable all characters
+800A2A18 FFFF 
+800A2A1A 007F 

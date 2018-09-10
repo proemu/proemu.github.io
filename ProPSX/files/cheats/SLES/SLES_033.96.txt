@@ -1,0 +1,6 @@
+#Have 200 Soldiers / All Levels Unlocked
+300D747C 00C8
+#All Characters Unlocked
+50000C08 0000
+300D741C 0001
+

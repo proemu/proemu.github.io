@@ -1,0 +1,15 @@
+#Infinite Energy Player 1
+800C2748 0067
+800C2762 0067
+#Power always invoked in (1P) 
+800C2706 3E60 
+#Infinite Time
+800C35AA 5900
+#Secret Ending Demo
+8009DA24 0102
+#Infinite Energy P2		
+800C2910 0067
+800C292A 0067
+#No Energy P2		
+800C2910 0000
+800C292A 0000

@@ -1,0 +1,8 @@
+#Infinite & Maximum Hp In Game
+801200D4 03E7
+801235E4 03E7
+#Infinite & Maximum Mp
+80120314 0009
+8012B604 0009
+#Bonus Point
+301CCCA0 0063

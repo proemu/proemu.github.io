@@ -1,0 +1,77 @@
+#1 Fight For Level Up
+50000AE4 0000
+3011856D 0001
+#Infinite Money
+800DC380 FFFF
+#Hero Codes\Level
+3011856C 000A
+#Hero Codes\Max Exp
+8011856E FFFF
+#Hero Codes\Status
+30118570 00FF
+30118574 0063
+#Hero Codes\At
+3011862D 0063
+#Hero Codes\Df
+30118630 0063
+#Hero Codes\A+
+30118571 0063
+#Hero Codes\D+
+30118572 0063
+#Hero Codes\Mp
+30118575 0063
+30118576 0063
+#Hero Codes\M+
+30118573 0063
+#Hero Codes\Move
+30118633 0063
+30118634 0063
+#Hero Codes\Attack Status
+80118598 6363
+8011859A 6363
+8011859C 6363
+8011859E 6363
+#Hero Codes\Unit Hero Invincible
+80118610 0A0A
+80118612 0A0A
+80118614 0A0A
+30118616 000A
+#Secondary Codes\Level
+30118650 000A
+#Secondary Codes\Max Exp
+80118652 FFFF
+#Secondary Codes\Status
+30118654 00FF
+30118658 0063
+#Secondary Codes\At
+30118711 0063
+#Secondary Codes\Df
+30118714 0063
+#Secondary Codes\A+
+30118655 0063
+#Secondary Codes\D+
+30118656 0063
+#Secondary Codes\Mp
+30118659 0063
+3011865A 0063
+#Secondary Codes\M+
+30118657 0063
+#Secondary Codes\Move
+30118717 0063
+30118718 0063
+#Secondary Codes\Attack Status
+8011867C 6363
+8011867E 6363
+80118680 6363
+80118682 6363
+#Secondary Codes\Unit Hero Invincible
+801186F4 0A0A
+801186F6 0A0A
+801186F8 0A0A
+301186FA 000A
+#Secondary Codes\Item
+50006002 0001
+80114698 FF01
+#Added bonus It is (does not affect the save data) and press L2 + R2 button on the menu screen from the title screen, From the voice actor is added to the configuration in the house
+D00DC328 0003 
+800DC1C0 0100

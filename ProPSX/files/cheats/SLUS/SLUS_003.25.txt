@@ -1,0 +1,5 @@
+#Unlimited Lives
+800CAC7C 0003
+#Unlimited Energy/Shield
+800CAC80 1000
+

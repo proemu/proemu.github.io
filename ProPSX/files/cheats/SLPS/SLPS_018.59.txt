@@ -1,0 +1,7 @@
+#Have 999999 money in the story mode
+801D923C 423F
+801D923E 000F
+#Infinite energy in story mode
+801933A9 0100
+#Infinite Bombs in story mode
+801933C8 0005

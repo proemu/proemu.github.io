@@ -1,0 +1,14 @@
+#Infinite Checkpoint & Lap Time
+800C52E8 0F0F
+#Unlock All Cars
+800C6A1C FFFF
+#Unlock All Tracks & Modes
+800C6A1E FFFF
+#Infinite Credits
+D00C5314 2F18
+30017C7F 0003
+#Max Points (Championship Mode)
+300C6910 00FF
+#Infinite Repair Time
+D00B8540 7EF4
+8001077A 2400

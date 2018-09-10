@@ -1,0 +1,38 @@
+#Infinite Energy Zero .Use only in battle when finnish deactivate and activate again in the next fight
+80110764 00D0
+#P1 Unbeatable
+80110B3C 00D0
+#P2 Unbeatable
+801118C0 00D0
+#Time Stays At 59 Seconds
+800E8968 0700
+800B0566 015C
+#P1 No Health
+80110B3C 0000
+#P2 No Health
+801118C0 0000
+#When Timer Reaches 0 - Reset
+800E896A 0700
+#Auto-Switch View Enabled
+800E8960 0004
+#One Of Xtal's Claws Twitches Violently
+80110C52 023A
+#Overall Playing Time is .01 Seconds
+800E811C 0020
+#Overall Playing Time is .00 Seconds
+800E811A 0021
+#X-Tal is Selectable
+800E811A 0021
+#Start On Level 1, Room A
+D00EEC24 0000
+800EEC24 0000
+#Start On Level 1, Room B
+D00EEC24 0000
+800EEC24 0100
+#Start On Level 1, Room c
+D00EEC24 0000
+800EEC24 0200
+#Tiny Phalanx Infinite Lives .Tiny Phalanx is an entire hidden game within Zero Divide. To access it, turn the PlayStation on, and hold Select and Start on controller 2 until you see the Tiny Phalanx title screen.
+800ACD34 0063
+#Tiny Phalanx Infinite Bombs
+800ACA54 0063

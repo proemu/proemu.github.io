@@ -1,0 +1,14 @@
+#Commando Infinite Lives
+800B8B78 0003
+#Commando Infinite Granades
+800B8B80 0006
+#Mercs Infinite Energy Player 1
+801EB427 0024
+#Mercs Infinite Energy Player 2
+801E84DF 0024
+#Mercs Infinite Bombs Player 1
+801E842E 0003
+#Mercs Infinite Bombs Player 2
+801E84E6 0003
+#Gunsmoke Infinite Lives
+800C5420 0003

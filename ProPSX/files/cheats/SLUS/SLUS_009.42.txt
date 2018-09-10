@@ -1,0 +1,11 @@
+#Infinite Jockey Points
+801FA288 FFFF
+#Inf Stamina 1S Position
+800EAD76 00FF
+#Jockey Points Never Decrise
+D0134EB2 AC43
+80134EB2 2400
+#Inf Stamina All Positions
+D00B5AE2 ACC4
+800B5AE2 2400
+

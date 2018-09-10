@@ -1,0 +1,31 @@
+#Infinite Health Player 1
+8018710C 0090
+#No Energy P2		
+801873D4 0000
+#P1 Character Ryu		
+80187162 0000
+#P1 Character Ken		
+80187162 0001
+#P1 Character Akuma		
+80187162 0002
+#P1 Character Charlie		
+80187162 0003
+#P1 Character Chun Li		
+80187162 0004
+#P1 Character Adon		
+80187162 0005
+#P1 Character Sodom		
+80187162 0006
+#P1 Character Guy		
+80187162 0007
+#P1 Character Birdie		
+80187162 0008
+#P1 Character Rose		
+80187162 0009
+#P1 Character M.Bison		
+80187162 000A
+#P1 Character Sagat		
+80187162 000B
+#P1 Character Dan		
+80187162 000C
+ 

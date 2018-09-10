@@ -1,0 +1,5 @@
+#Always Correct		
+8005E6DC 0063
+#Infinite Time		
+8005E754 0384
+8005E756 0010

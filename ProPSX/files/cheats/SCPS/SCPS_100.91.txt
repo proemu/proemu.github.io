@@ -1,0 +1,37 @@
+#Main Character\Infinite Hp
+800EC268 0005
+#Main Character\Infinite Lifes
+300F442C 0005
+#Main Character\Get 1Up From Each Coin
+300F4456 0063
+#Main Character\Infinite Oxygen
+800F4D68 0258
+#Main Character\Super Jump (.Press R2 to activate , L2 for normal jump)
+D00E5418 0002
+300EC1DE 0008
+#Main Character\All Items
+D00F5164 0003
+300F5164 00FF
+#Stage appearance 1 00 = Not Clear 01 = Clear 02 = Clear full 	
+300DF801 0000	
+#Stage appearance 2 00 = Not Clear 01 = Clear 02 = Clear full 	
+300DF802 0000
+#Stage appearance 3 00 = Not Clear 01 = Clear 02 = Clear full 	
+300DF803 0000
+#Stage appearance 4 00 = Not Clear 01 = Clear 02 = Clear full 	
+300DF804 0000
+#Stage appearance 5 00 = Not Clear 01 = Clear 02 = Clear full 	
+300DF805 0000	
+#Stage appearance 6 00 = Not Clear 01 = Clear 02 = Clear full 	
+300DF806 0000	
+#Stage appearance 7 00 = Not Clear 01 = Clear 02 = Clear full 	
+300DF807 0000	
+#Stage appearance 23 00 = Not Clear 01 = Clear 02 = Clear full 	
+300DF817 0000	
+#Specter Coin / Hiroki Attack Part 1	
+300DFA40 0019	
+#Specter Coin / Hiroki Attack Part 2	
+300DFA41 0019	
+#It does not hit the enemy attacks	
+300F4A3E 00FF
+			

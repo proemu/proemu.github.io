@@ -1,0 +1,16 @@
+#Infinite energy main space ship
+800AC420 270F
+#Infinite energy second space ship
+800AC5F8 270F
+#Infinite energy third space ship
+800AC50C 270F
+#Undeal Master Ship
+800E6A92 270F
+#Undeal Other Ship
+800E6AA6 270F
+800E6ABA 270F
+800E6ACE 270F
+800E6AE2 270F
+800E6AF6 270F
+800E6B0A 270F
+

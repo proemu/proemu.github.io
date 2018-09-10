@@ -1,0 +1,9 @@
+#Exterminate Game Codes\Bug Stress
+800BFF50 0BA9
+800C84DA 0038
+#Exterminate Game Codes\Bugs Killed
+800C0408 0060
+#Time Trial Game Codes\Rings (After activating this code turn it off. When you get to the race turn it on and off in the game otherwise you'll lose a life)
+800C03E2 0049
+#Campaign Codes\Quick Win (After activating this code turn it off. When you get to the race turn it on and off in the game otherwise you'll lose a life)
+800C03C4 0003

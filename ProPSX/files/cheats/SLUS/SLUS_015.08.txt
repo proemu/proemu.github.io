@@ -1,0 +1,10 @@
+#Quick Point Gain
+801F9D50 FFFF
+#Max Points
+801F9D50 E0FF
+801F9D52 05F5
+#Max Dance Bar
+801F9D64 0089
+#Unlock All Extras Unlocks all dance moves & stages.		
+3007148C 000D
+80071492 03ED

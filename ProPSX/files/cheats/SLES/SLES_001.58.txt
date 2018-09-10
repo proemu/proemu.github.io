@@ -1,0 +1,6 @@
+#Infinite Money
+800DAD40 FFFF
+#Max. Cash
+800DCE04 FFFF
+800DCE06 7FFF
+

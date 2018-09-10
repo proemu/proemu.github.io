@@ -1,0 +1,5 @@
+#Lots Of Money P1
+800C6704 FFFF
+800C670A 0FFF
+#P1 Infinite Free Spins		
+800C6700 0001

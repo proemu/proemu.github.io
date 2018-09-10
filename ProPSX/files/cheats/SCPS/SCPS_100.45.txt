@@ -1,0 +1,21 @@
+#Gran Turismo mode/Have Infinite Money 	
+8008DD06 00FF
+#Gran Turismo mode/Have B License 	
+80090854 0303
+80090856 0303
+80090858 0303
+8009085A 0303
+#Gran Turismo mode/Have A License 	
+8009085C 0303
+8009085E 0303
+80090860 0303
+80090862 0303
+#Gran Turismo mode/Have A International License 	
+80090864 0303
+80090866 0303
+80090868 0303
+8009086A 0303
+#High Racing Points	
+8008DD04 E100
+8008DD06 05F5
+

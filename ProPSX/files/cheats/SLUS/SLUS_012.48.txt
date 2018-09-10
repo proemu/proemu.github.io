@@ -1,0 +1,40 @@
+#Stop/Start Timer (Press Select+R1/Select+R2
+D00677E0 0108
+80093AF2 2400
+D00677E0 0102
+80093AF2 AC43
+#Press Select+L2 To Have A Fish On The Hook
+D00677E0 0101
+800C9198 0003
+D00677E0 0101
+800C9D00 9D14
+D00677E0 0101
+800C9D02 8015
+#Open All Areas And The Extra Option
+3006F463 0001
+#Infinite Time
+800CFDE0 2955
+#Lure Action Always At Lowest
+800C9190 0000
+#Line Tension Always At Lowest
+800C9200 0000
+#Max Weight Total
+800CFDF8 FFFF
+800CFDFA 0FFF
+#Debug Menu (press Select)		
+D009564C 0100
+80088130 0100
+D009564C 0100
+30088144 0000
+#Enable Aquarium		
+3006F454 0001
+#Unlock Buzz Bait Lure	
+3006F45F 0001
+#Unlock Crank Bait Lure		
+3006F45E 0001
+#Unlock Lucky Usachan Lure		
+3006F462 0001
+#Unlock Noisy Lure		
+3006F461 0001
+#Unlock Rubber Jig Lure		
+3006F460 0001

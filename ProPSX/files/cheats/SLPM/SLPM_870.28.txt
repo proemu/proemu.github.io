@@ -1,0 +1,48 @@
+#Player always won 5 games .Deactivate after send it, win one game will win the match
+80119FE8 0005
+#Player 1 always 40-0
+80119FE8 2800
+#Point-and-game number of opponent 0
+80119FFC 0000
+#No time limit is to hit the ball 
+800557BC 0000 
+#No physical strength decreases when struck Saab shot 
+8003BDD4 0028 
+8003BDD6 8FA6 
+8003BDE0 0004 
+8003BDE2 11C0 
+#No physical strength decreases when moving 
+8003047C 0000 
+#All Courts
+80119F8A 001F
+#Graphic Aligned Album
+80119F78 FFFF
+80119F7A FFFF
+80119F7C FFFF
+80119F7E FFFF
+80119F80 FFFF
+80119F82 FFFF
+80119F84 FFFF
+80119F86 FFFF
+30119F88 00FF
+#All Members Aligned Free Matchup
+80119F8C FFFF
+80119F8E FFFF
+#Members Unable To Play Against The Free Choice Of Selectable Characters .all members aligned and combined with all available.
+8006376C 0021
+80063770 F6F0
+80063780 0001
+800637AA 1651
+#Player status fully open
+30119F8D 00FF
+80119F8E FFFF
+30119F90 0001
+#Event album fully open
+30119F88 00FF
+50000802 0000
+80119F78 FFFF
+#Listen to the ending theme in the opening screen 
+D0119EC8 186D
+80119EC8 189D
+D0119EC8 18D4
+80119EC8 189D

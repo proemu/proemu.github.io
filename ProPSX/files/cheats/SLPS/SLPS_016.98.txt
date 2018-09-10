@@ -1,0 +1,18 @@
+#Total trick point MAX
+8009AFDC 423F 
+8009AFDE 000F
+#Elapsed time 0:00:00 (0:00:03 displayed)
+8009C8D4 0000
+#Penalty 0:00:00
+3009B0F2 0000
+#All course selection possible
+30069228 0005
+#All Characters Available 
+300BDAF8 0015
+#All board can be selected by pressing the SELECT button on the board when selecting 
+D006AA30 0100 
+300BE10C 000A 
+D006AA30 0100 
+300BE224 000A 
+D006AA30 0100 
+300BE33C 0003

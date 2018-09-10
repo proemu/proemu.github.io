@@ -1,0 +1,73 @@
+#Evil Village\Infinite Life
+301D0060 0009
+#Evil Village\Infinite Shield
+301D00AC 0000
+#Evil Village\Infinite Time
+301D00AB 005A
+#Evil Village\Invincible
+301D00AD 00FF
+#Evil Village\Get Gun (.Press R2)
+D003982A FEFF
+301D0073 0001
+D003982A FDFF
+301D0073 0003
+#Evil Village\Get + (.Press L1)
+D003982A FBFF
+301D0073 0003
+#Evil Village\Get Sword (.Press R1)
+D003982A F7FF
+301D0073 0004
+#Big Evil Village\Infinite Life
+301C07AD 0009
+#Big Evil Village\Infinite Time
+801C06D2 0230
+#Big Evil Village\Invincible
+301C0931 00FF
+#Big Evil Village\Get Special Weapons
+801C07AA 0201
+301C07AC 0003
+301C095E 0001
+#Big Evil Village\Stay In Air (.Press X)
+D003639A BFFF
+801C07B0 0200
+#Super Evil Village\Infinite Life
+301902A4 0009
+#Super Evil Village\Invincible
+80190276 0002
+D003639A FFFE
+80190276 0000
+#Super Evil Village\Infinite Time
+301902A7 0005
+801902A8 0001
+#Makaimura Does not decrease the number of remaining players 
+D0048B80 0060 
+80048B90 0000 
+#Makaimura Does not decrease time 
+D0072010 0670 
+800720C0 0000 
+#Makaimura Invincibility 
+D0072010 0670 
+801D00AC FF00 
+#Large Makaimura Does not decrease the number of remaining players 
+D0063074 0160 
+80063080 0000 
+#Large Makaimura Does not decrease time 
+D0058108 6666 
+80058116 00A0 
+#Large Makaimura Invincibility 
+D005A000 013C 
+801C0930 FF00 
+#Large Makaimura Equipped with a golden armor 
+D005A000 013C 
+801C07AC 0303 
+D005A000 013C 
+801C080C 0303 
+#Ultra Makaimura Does not decrease the number of remaining players 
+D0062F00 0005 
+80062F4C 0000 
+#Ultra Makaimura Does not decrease time 
+D0065600 0004 
+80065F0C 0000 
+#Ultra Makaimura Invincibility 
+D0074E00 0010 
+80074EE8 0001 

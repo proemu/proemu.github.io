@@ -1,0 +1,47 @@
+#P1 Infinite Hp
+801E2150 0090
+#P1 Max Special Attack
+801E2272 0065
+#P2 Infinite Hp
+801E2438 0090
+#P2 Max Special Attack
+801E255A 0065
+#Computer Knock Down by One Attack
+801E2438 0000
+#Computer Lose Diamond press L1
+D01E08A8 0001
+801E23EE 0101
+#P1 All Gems Full After Getting Just One
+801E2288 0060
+801E228A 0060
+801E228C 0060
+#P2 All Gems Full After Getting Just One
+801E2570 0060
+801E2572 0060
+801E2524 0060
+#2P strength 0 
+801E2438 0000 
+#Make the fighter character select when press L2 button Dan selectable
+D01E08A8 0001 
+301FE524 000A 
+#Make the fighter character select when press L2 button Akuma selectable
+D01E08A8 0002 
+301FE524 000B 
+#All The Fighter aligned card made 
+801FE55A 0101 
+801FE55C 0101 
+801FE55E 0101 
+801FE560 0101 
+801FE562 0101 
+801FE564 0101 
+801FE566 0101 
+801FE568 0101 
+801FE56A 0101 
+801FE56C 0101 
+801FE56E 0101 
+801FE570 0101 
+801FE572 0101 
+801FE574 0101 
+801FE576 0101 
+801FE578 0101
+

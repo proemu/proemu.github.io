@@ -1,0 +1,5 @@
+#Infinite energy  
+800D3B19 0100 
+ACTION REPLAY CODES:
+#Gun doesn't overheat  
+800E0ABC 0009 

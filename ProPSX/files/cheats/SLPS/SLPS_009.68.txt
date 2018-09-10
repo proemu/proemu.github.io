@@ -1,0 +1,4 @@
+#Infinite Money P1
+8004F862 270F
+#Infinite Money P2
+8004F8C0 240F

@@ -1,0 +1,11 @@
+#Infinite spiritual energy
+800FFA7F 012C
+#Max Spiritual Energy
+800FFA7E 2710
+#Do not reduce exorcism mark timer 
+300FFC3A 0059
+#0 endurance of the spirit
+800FFA90 0000
+#Lap four clear count - Unlocked ghost photo mode,Portrait woven scarlet mode  & secret photo album woven Scarlet Mode 
+3009FE2A 0003
+ 

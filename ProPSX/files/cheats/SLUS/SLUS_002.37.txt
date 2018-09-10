@@ -1,0 +1,14 @@
+#Infinite Balls
+3001E7D0 0000 		
+#Infinite Strikes
+3001E7D1 0000 		
+#Infinite Outs
+3001E7D2 0000
+#Away Team Score 9 	
+3001E56C  0009
+#Away Team Score 0 	
+3001E56C  0000
+#Home Team Score 9 	
+3001E560 0009
+#Home Team score 0 	
+3001E561 0000

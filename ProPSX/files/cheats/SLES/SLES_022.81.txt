@@ -1,0 +1,11 @@
+#Get dark souls anywhere (if they are not closed)		
+80056C2E 2400
+#Mike\Shadow Man is invulnerable		
+80040B64 0008
+80040B66 03E0
+80040B68 2400
+#Shadow level and Voodoo level at MAX from start		
+800C1C20 2710
+800C1C28 2710
+#Start the game with life at max		
+80041932 238D

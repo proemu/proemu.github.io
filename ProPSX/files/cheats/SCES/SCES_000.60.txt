@@ -1,0 +1,10 @@
+#P1 Infinite Health
+801CBE6C 00A6
+#P1 Infinite Combo Energy
+801EEE60 0030
+#P2 No Health
+801CBEC4 0000
+#P2 Infinite Health
+801CBEC4 00A6
+#Two Dragon Symbols
+801FB79C 0002

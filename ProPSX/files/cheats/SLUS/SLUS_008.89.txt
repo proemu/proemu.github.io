@@ -1,0 +1,80 @@
+#P1 All Power Ups 
+50000E02 0001
+301F5020 0001
+#Unlock Zone 2
+801F1CD0 0100
+#Unlock Zone 3
+801F1D10 0100
+#Unlock Zone 4
+801F1D50 0100
+#Unlock Zone 5
+801F1D90 0100
+#Unlock Zone 6
+801F1DD0 0100
+#Unlock Zone 7
+801F1E10 0100
+#Unlock Zone 8/Old School Pong
+801F1E50 0100
+#Golden Atari Sign
+801F1E90 0015
+801F1E94 0015
+801F1E98 0015
+#Have All The Gold Bars you need this code on when using the 'All Levels Unlocked' codes
+801F1C84 0063
+#All Penguin Pong Levels Unlocked
+801F1C94 0105
+801F1C96 0101
+#All Soccer Stars Levels Unlocked
+801F1CA0 0105
+801F1CA2 0101
+#All Log Jam Level Unlocked
+801F1CAC 0105
+801F1CAE 0101
+#All Clown Around Levels Unlocked
+801F1CB8 0105
+801F1CBA 0101
+#All Beach Party Levels Unlocked
+801F1CD4 0105
+801F1CD6 0101
+#All Rock N Roll Levels Unlocked
+801F1CE0 0105
+801F1CE2 0101
+#All Seal Jungle Levels Unlocked
+801F1CEC 0101
+801F1CEE 0101
+#All In A Spin Levels Unlocked
+801F1D14 0105
+801F1D16 0101
+#All Puck Pong Levels Unlocked
+801F1D20 0105
+801F1D22 0101
+#All Fishing Frenzy Levels Unlocked
+801F1D2C 0101
+801F1D2E 0101
+#All Jungle Japes Levels Unlocked
+801F1D54 0105
+801F1D56 0101
+#All Balloon Circus Levels Unlocked
+801F1D60 0101
+801F1D62 0101
+#All Flock Fiasco Levels Unlocked
+801F1D6C 0101
+801F1D6E 0101
+#All Dervish Danger Levels Unlocked
+801F1D94 0501
+801F1D96 0101
+#All Pongball Wizard Levels Unlocked
+801F1DA0 0101
+801F1DA2 0101
+#All Frog Follies Levels Unlocked
+801F1DAC 0101
+801F1DAE 0101
+#All Henhouse Surprise Levels Unlocked
+801F1DD4 0501
+801F1DD6 0101
+#All Polar Pivot Levels Unlocked
+801F1DE0 0101
+801F1DE2 0101
+#All Zone 7 Levels Unlocked
+801F1E14 0101
+801F1E16 0101

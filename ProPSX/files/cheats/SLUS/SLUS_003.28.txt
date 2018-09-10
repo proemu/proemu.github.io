@@ -1,0 +1,4 @@
+#Infinite Health P1 Level 1
+801C8FA0 1000
+#No Health P2		
+801CB9A0 0000

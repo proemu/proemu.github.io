@@ -1,0 +1,14 @@
+#Infinite Health		
+8010DAE0 0007
+#Infinite Lives		
+3010DADA 0063
+#Flying Code		
+30075DE8 0064
+3006E5E0 0000
+#Invincible
+800BE584 00FF
+#Number six people who helped the dream of the inhabitants
+8010DADE 0006
+#I can many times jump in the air
+8006E49C 0000
+8006E49E 0000

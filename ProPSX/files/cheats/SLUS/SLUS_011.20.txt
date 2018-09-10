@@ -1,0 +1,15 @@
+#Time Always Under A Second
+80034E20 0000
+#Start On Lap 4
+E0034E2D 0000
+30034E2D 0004
+#Always On Lap 4
+30034E2D 0004
+#Always On Lap 8
+30034E2D 0008
+#Always On Lap 16
+30034E2D 0010
+#Difficulty Modifier Expert
+8014657C 0003
+#Damage Off
+80146578 0000

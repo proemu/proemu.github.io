@@ -1,0 +1,16 @@
+#Infinite Energy
+800CB498 0064
+#Infinite Chaingun
+800CB564 00C8
+#Infinite Sniper 2
+800CB568 0063
+#Infinite Sniper Grenades
+800CB56C 0063
+#Infinite Sniper 4
+800CB570 0063
+#Infinite Motar-Shots
+800CB574 0063
+#Infinite Sniper 6
+800CB578 0063
+#Level select	
+800BACA4 0005

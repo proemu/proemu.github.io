@@ -1,0 +1,10 @@
+#Infinite Hp P1 don't enable it until you're in battle
+8017B554 6000
+#Infinite Time
+80186F18 0063
+80186F1C 003C
+#Infinite Ammo P1
+8017B566 01F4
+#Everything Unlocked
+50001C02 0000
+800DF37E 0101

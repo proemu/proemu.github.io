@@ -1,0 +1,8 @@
+#Unendlich Energie	
+800B7FD0 0190
+#Unendlich Plasma-Burst	
+80084314 0096
+#Unendlich Photon-Geschosse	
+80084312 0003
+#Unendlich Laserkanone	
+80084316 0096

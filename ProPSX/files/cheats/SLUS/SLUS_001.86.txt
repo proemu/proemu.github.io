@@ -1,0 +1,12 @@
+#P1 Infinite Health
+8007D3C6 0078
+#P1 No Health
+8007D3C6 0000
+#P2 Infinite Health
+8007D462 0078
+#P2 No Health
+8007D462 0000
+#Infinite Time
+800672EC 0D00
+
+

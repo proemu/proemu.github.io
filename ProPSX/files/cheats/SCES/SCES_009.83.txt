@@ -1,0 +1,47 @@
+#Enable course 2
+801045F4 0002
+#Enable course 3
+801045F4 0003
+#Enable course 4
+801045F4 0004
+#Enable course 5
+801045F4 0005
+#Always hole in two hole 1
+80104668 0002
+#Always hole in two hole 2
+8010466A 0002
+#Always hole in two hole 3
+8010466C 0002
+#Always hole in two hole 4
+8010466E 0002
+#Always hole in two hole 5
+80104670 0002
+#Always hole in two hole 6
+80104672 0002
+#Always hole in two hole 7
+80104674 0002
+#Always hole in two hole 8
+80104676 0002
+#Always hole in two hole 9
+80104678 0002
+#Always hole in two hole 10
+8010467A 0002
+#Always hole in two hole 11
+8010467C 0002
+#Always hole in two hole 12
+8010467E 0002
+#Always hole in two hole 13
+80104680 0002
+#Always hole in two hole 14
+80104682 0002
+#Always hole in two hole 15
+80104684 0002
+#Always hole in two hole 16
+80104686 0002
+#Always hole in two hole 17
+80104688 0002
+#Always hole in two hole 18
+8010468A 0002
+#Have Extra Characters
+D0104784 0000
+80104784 0009

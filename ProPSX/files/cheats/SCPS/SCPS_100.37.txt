@@ -1,0 +1,35 @@
+#Infinite & Max Hp Blonde Girl
+800F4774 03E7
+800F4776 03E7
+#Infinite & Max Hp Pink Hair Girl
+800F4834 03E7
+800F4836 03E7
+#Infinite & Max Hp Blue Hair Girl
+800F47A4 03E7
+800F47A6 03E7
+#Infinite & Max Hp Animal Character
+800F47D4 03E7
+800F47D6 03E7
+#Infinite En Blonde Girl
+800F4778 03E7
+800F477A 03E7
+#Infinite En Animal Character
+800F47D8 03E7
+800F47DA 03E7
+#Infinite En Blue Hair Girl
+800F47A8 03E7
+800F47AA 03E7
+#Infinite En Pink Hair Girl
+800F4738 03E7
+800F473A 03E7
+#Infinite Money
+800F5900 967F
+800F5902 0098
+#Infinite Level Up Apple
+300F59E5 0063
+#Infinite countdown time
+800B6C30 003B
+#ROUTE / Stage Clear	
+300EFE6F 00FF	
+#ROUTE / SHERIFF STAR	
+300EFE7F 00FF

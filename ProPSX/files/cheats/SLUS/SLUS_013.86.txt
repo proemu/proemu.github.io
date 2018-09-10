@@ -1,0 +1,42 @@
+#Always Win Carnival Games
+3017CAFC 00FF
+3017CCFE 00FF
+3017CB08 00FF
+#Hit Select For Instant Win (Mb)
+D009A8FA FFFE
+800C1B78 0000
+#Infinite Exposures (Journalism)
+300C179C 000C
+#Infinite Time (Journalism & Marine Biology)
+30091F01 00D0
+#Max Stars (Beach Tryouts)
+30151AD6 0080
+#Max Stars (Field Tryout)
+301972C2 0080
+#Always 1 Stroke Codesall Holes 
+50000602 0000
+8009357C 0101
+#Atom Smasher
+3009357F 0001
+#Fun Factory
+30093581 0001
+#Get Connected!
+3009357D 0001
+#Great Pyramids
+30093582 0001
+#Great Wall
+30093584 0001
+#Mayan Temple
+30093585 0001
+#Pinball
+3009357E 0001
+#Refrigerator
+30093580 0001
+#Stone Henge
+30093583 0001
+#The Capitol
+30093587 0001
+#The New World
+30093586 0001
+#Time Lapse
+3009357C 0001

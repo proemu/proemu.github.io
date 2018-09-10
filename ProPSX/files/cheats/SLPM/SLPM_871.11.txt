@@ -1,0 +1,38 @@
+#Infinite Money (60000)
+800938A8 EA60
+#Infinite Energy Boy
+801A8724 03E7
+#Infinite Energy Blue Hair Girl
+801A8770 03E7
+#Infinite Energy Red Hair Girl
+801A874A 03E7
+#Infinite Mo Boy
+801A872E 03E7
+#Infinite Mo Red Hair Girl
+801A8754 03E7
+#Infinite Mo Blue Hair Girl
+801A877A 03E7
+#Infinite Mp Boy
+801A8726 03E7
+#Infinite Mp Red Hair Girl
+801A874C 03E7
+#Infinite Mp Blue Hair Girl
+801A8772 03E7#Infinite Soldiers For The 1st Ruler You Make!
+8011F5AE FFFF
+#Infinite Soldiers For The 2nd Ruler You Make!
+8011F5CA FFFF
+#Infinite Soldiers For The 3rd Ruler You Make!
+8011F5E6 FFFF
+#Infinite Soldiers For The 4th Ruler You Make!
+8011F602 FFFF
+#Infinite Soldiers For The 5th Ruler You Make!
+8011F61C FFFF
+#Infinite Soldiers For The 1st General You Make!
+8011F68E FFFF
+#Infinite Soldiers For The 2nd General You Make!
+8011F6AA FFFF
+#Max Training & Spirit For The 1st General You Make!
+8011F690 FFFF
+#Max Training & Spirit For The 2nd General You Make!
+8011F6AC FFFF
+

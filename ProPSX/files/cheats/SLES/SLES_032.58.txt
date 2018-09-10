@@ -1,0 +1,24 @@
+#One honey pot == 999 honey pots
+80070CD4 03E7
+80070CD6 3442	
+#All levels unlocked	
+800C74A0 0040
+800C74A2 0108
+#Always have 3 Ro's figures per level	
+800C773C 0003
+#Always have objects to search and give to friends	
+80082D8C 0000
+30082D8F 0000	
+#Infinite jumps (Hold X)	
+D00B33DE BFFF
+80085E98 0000
+D00B33DE BFFF
+80085E9A 0000
+D00B33DE FFFF
+80085E98 56CE
+D00B33DE FFFF
+80085E9A 0C02	
+#Level select at map Mettere al posto  un numero da 1 a 8 per scegliere da che livello iniziare	
+800C74A6 0008
+#Tigger walks through enemies (GodMode)	
+800722E2 1000

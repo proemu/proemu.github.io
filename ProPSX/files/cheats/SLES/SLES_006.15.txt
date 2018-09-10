@@ -1,0 +1,26 @@
+#Infinite Ammo
+80059A64 0063
+#Infinite Armour
+80019DD2 00C8
+#Infinite Energy
+80019DD0 0064
+#Heartbeat High
+80019DD4 00FF
+#Heartbeat Low
+80019DD4 0001
+#Have Red Key
+800519C0 0001
+#Have Green Key
+800519C2 0001
+#Have Blue Key
+800519C4 0001
+#Have Yellow Key
+800519C6 0001
+#Have Purple Key
+800519C8 0001
+#Have Light Blue Key
+800519CA 0001
+#All weapons	
+800662C6 0001
+#All levels	
+800662C8 0001

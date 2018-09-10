@@ -1,0 +1,7 @@
+#Alle Klassen wählbar	
+300A1718 0004
+#Bank 800.000.000$	
+800A171C 0800
+800A171E 2FAF
+#Immer 3 Versuche	
+300A1719 0003

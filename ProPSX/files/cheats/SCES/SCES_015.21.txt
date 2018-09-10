@@ -1,0 +1,28 @@
+#Unendlich Leben
+800A91B0 0005
+#Unendlich Energie
+800A91A4 0004
+#50 Samen
+300A91B1 0032
+#Flik
+800A91B2 000F
+#Alle Level AnwäHlbar
+80082914 000F
+#Unverwundbar
+800A91A2 0021
+#Unendlich Springen
+D0082974 2000
+300A9141 00F9
+.Kreis-Taste
+#Starte Mit Blauer Beere (Immer nur einen Beerencode aktivieren)
+800A6596 0100
+#Starte Mit GrüNer Beere (Immer nur einen Beerencode aktivieren)
+800A6596 0200
+#Starte Mit Goldener Beere (Immer nur einen Beerencode aktivieren)
+800A6596 0300
+#Alle Widersacher Erledigt
+800A658E 0000
+#22 Filmclips
+80084E94 000F
+50000C02 0000
+8009E488 0707

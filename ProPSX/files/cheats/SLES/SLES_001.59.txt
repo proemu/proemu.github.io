@@ -1,0 +1,6 @@
+#Player 1 Invulnerable
+80110D64 00D0
+#Player 2 Invulnerable
+80111AE8 00D0
+#Timer Frozen At 59Sec
+800E8B90 0700

@@ -1,0 +1,5 @@
+#P1 Rush Mode-On
+80082D7C 0012
+#P2 Rush Mode-On
+80083300 001A
+

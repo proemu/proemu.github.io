@@ -1,0 +1,25 @@
+#Infinite Health
+8010E5D0 0006
+#Infinite Lives
+8010E5CA 0009
+#Invincible
+800BF074 000F
+#Fly High the longer you hold down the X button the higher you will fly. Pushing X will also stop falls.
+D00BEE22 4000
+800BF07E 000F
+D00BEE22 4000
+800BF072 0000
+D00BEE22 4080
+800BF07E 000F
+D00BEE22 4080
+800BF072 0000
+D00BEE22 4020
+800BF07E 000F
+D00BEE22 4020
+800BF072 0000
+#Infinite Keys
+800BE328 0001
+#Hold Jump To Fly
+800BF072 0000
+#Have All 6 Blocks
+8010E5CE 0006

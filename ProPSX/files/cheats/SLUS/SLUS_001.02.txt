@@ -1,0 +1,25 @@
+#Infinite Energy
+80084BBA 00C8
+#Have Hand Gun & Infinite Ammo
+80084BDE 003A
+#Have Chain Gun & Infinite Ammo
+80084BE0 003A
+#Have Gold Grenades & Infinite Ammo
+80084BE2 003A
+#Have Flame Gun & Infinite Ammo
+80084BE4 003A
+#Have Green Myst Gun & Infinite Ammo
+80084BE6 003A
+#Have Demon Stars & Infinite Ammo
+80084BE8 003A
+#Have Mystical Balls & Infinite Ammo
+80084BEA 003A
+#Have All Keys
+80084C02 FFFF
+#Have All Artifacts
+80084C00 FFFF
+#Have Transmitter
+80084C06 FFFF
+#Have Map
+80084C0C FFFF
+

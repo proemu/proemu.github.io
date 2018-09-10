@@ -1,0 +1,171 @@
+#Infinite Health
+800B9574 04B0
+#Have All Maps
+800C15D0 FFFF
+800C15D2 FFFF
+800C15D4 FFFF
+800C15D6 FFFF
+800C15D8 FFFF
+800C15DA FFFF
+#All Weapons (Regina)
+800C15A8 FFFF
+#Have All Items (Regina)
+800C15A4 FFFF
+800C15A6 FFFF
+800C15AC FFFF
+800C15AE FFFF
+800C15B0 FFFF
+800C15B2 FFFF
+800C15B4 FFFF
+800C15B6 FFFF
+800C15B8 FFFF
+800C15BA FFFF
+800C15BC FFFF
+#Max Supplies Codes (Regina)\Slot 1
+300C18CD 00FF
+#Max Supplies Codes (Regina)\Slot 2
+300C18D1 00FF
+#Max Supplies Codes (Regina)\Slot 3
+300C18D5 00FF
+#Max Supplies Codes (Regina)\Slot 4
+300C18D9 00FF
+#Max Supplies Codes (Regina)\Slot 5
+300C18DD 00FF
+#Max Supplies Codes (Regina)\Slot 6
+300C18E1 00FF
+#Max Supplies Codes (Regina)\Slot 7
+300C18E5 00FF
+#Max Supplies Codes (Regina)\Slot 8
+300C18E9 00FF
+#Max Supplies Codes (Regina)\Slot 9
+300C18ED 00FF
+#Max Supplies Codes (Regina)\Slot 10
+300C18F1 00FF
+#View First Ending (Press Select With these codes, do not press button to see ending during a FMV scene)
+D00B1418 0100
+800B7A48 000A
+D00B1418 0100
+300B7A5B 0000
+#View Second Ending (Press Select With these codes, do not press button to see ending during a FMV scene)
+D00B1418 0100
+800B7A48 000A
+D00B1418 0100
+300B7A5B 0001
+#View Third Ending (Press Select With these codes, do not press button to see ending during a FMV scene)
+D00B1418 0100
+800B7A48 000A
+D00B1418 0100
+300B7A5B 0002
+#Turbo Boost (Press X)
+D00B1418 0040
+800B94A0 0100
+#Save Anywhere (.Press L1 & L2)
+D00B1418 0005
+800B7A48 0007
+#Mini Me (Regina)
+800B9500 0500
+800B9504 0500
+800B9508 0600
+#Giant (Regina)
+800B9500 1F00
+800B9504 1F00
+800B9508 1F00
+#Infinite Ammo & Items
+8006AC06 2400
+#Enable Costume Change
+D00C1CF4 0001
+800C1CF4 000F
+D00C7C42 0003
+800C7C42 0503
+#Enable Extra Missions 
+800C7C42 0403
+#Enable Extra Missions (Press R1+R2 At Main Menu)
+D00B1418 000A
+800C7C42 0403
+#Infinite Time-Wipeout Missions
+800480CA 2400
+#Clear Time Is 0:00:00
+800C14C4 0000
+800C14C6 0000
+#Used 0 Continues
+300C14CA 0005
+#Haven't Saved
+300C14C3 0000
+#Have A Lot Of Plugs On Pickup
+800C1B00 00FF
+#Max Item Box Codes\Slot 1
+300C1745 00FF
+#Max Item Box Codes\Slot 2
+300C1749 00FF
+#Max Item Box Codes\Slot 3
+300C174D 00FF
+#Max Item Box Codes\Slot 4
+300C1751 00FF
+#Max Item Box Codes\Slot 5
+300C1755 00FF
+#Max Item Box Codes\Slot 6
+300C1759 00FF
+#Max Item Box Codes\Slot 7
+300C175D 00FF
+#Max Item Box Codes\Slot 8
+300C1761 00FF
+#Max Item Box Codes\Slot 9
+300C1765 00FF
+#Max Item Box Codes\Slot 10
+300C1769 00FF
+#Invisible Regina
+800B9472 FFFF
+#Turbo Shooting & No Reload
+D00B949A 0102
+800B949A 0101
+300B96A0 0063
+300B96A2 0063
+300B96A4 0063
+#Change Size Regina Anywhere (Press L1 For Smaller & R2 For Bigger)
+D00B1418 0001
+D30B9500 0500
+110B9500 0010
+D00B1418 0002
+D20B9500 1F00
+100B9500 0010
+D00B1418 0001
+D30B9504 0500
+110B9504 0010
+D00B1418 0002
+D20B9504 1F00
+100B9504 0010
+D00B1418 0001
+D30B9508 0500
+110B9508 0010
+D00B1418 0002
+D20B9508 1F00
+100B9508 0010
+#Infinite Time-Wipeout Missions
+800C1D04 1EC8
+800C1D08 184F
+800C1D0C 10D1
+#Walk Thru Walls
+80080916 2400
+8008093A 2400
+#Slow Motion
+800ABF28 A803
+#Transform Size Of Dinosaur's Anytime (Press L2 For Smaller & L1 For Bigger)
+D00B1418 0001
+D30B7D40 0200
+110B7D40 0010
+D00B1418 0001
+D30B7D44 0200
+110B7D44 0010
+D00B1418 0001
+D30B7D48 0200
+110B7D48 0010
+D00B1418 0004
+D20B7D48 3500
+100B7D48 0010
+D00B1418 0004
+D20B7D44 3500
+100B7D44 0010
+D00B1418 0004
+D20B7D40 3500
+100B7D40 0010
+

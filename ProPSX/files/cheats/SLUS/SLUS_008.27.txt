@@ -1,0 +1,52 @@
+#Away Team Score 9
+30058111 0009
+#Away Team Score 0
+30058111 0000
+#Home Team Score 9
+3005810D 0009
+#Home Team Score 0
+3005810D 0000
+#Always Hits A Homerun .With this code, press select before you hit the ball. Do this everytime a batter comes up to the plate that you want to hit a home run. If you hit 'select' while computer is batting then they will also hit a homerun
+D0058262 0100
+80058234 0003
+#Infinite Strikes
+300583E1 0000
+#1 Strike And You Are Out
+D00583E0 0000
+300583E1 0002
+#2 Strikes And You Are Out
+D00583E0 0000
+300583E1 0001
+#Infinite Balls
+300583E2 0000
+#1 Ball And You Walk
+D00583E2 0000
+300583E2 0003
+#2 Balls And You Walk
+D00583E2 0000
+300583E2 0002
+#3 Balls And You Walk
+D00583E2 0000
+300583E2 0001
+#Infinite Outs
+300583E3 0000
+#1 Out And You Are Out
+D00583E2 0000
+300583E3 0002
+#2 Outs And You Are Out
+D00583E2 0000
+300583E3 0002
+#0 Outs, 0 Strikes & 3 Balls .Press L1 + L2
+D0052F7E 1200
+300583E3 0000
+D0052F7E 1200
+300583E1 0000
+D0052F7E 1200
+300583E2 0003
+#2 Outs, 2 Strikes & 0 Balls .Press R1 + R2
+D0052F7E 2400
+300583E3 0002
+D0052F7E 2400
+300583E1 0002
+D0052F7E 2400
+300583E2 0000

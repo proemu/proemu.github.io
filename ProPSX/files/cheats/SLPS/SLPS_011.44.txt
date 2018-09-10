@@ -1,0 +1,10 @@
+#Infinite Hp
+800A7C10 0004
+#Infinite Ap
+8009E514 FFFF
+#Invinicible
+800A7C48 00FE
+#Infinite Lives
+8009E528 0103
+#Can jump Continuous
+300A7BE1 0001 

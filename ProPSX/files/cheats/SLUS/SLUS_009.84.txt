@@ -1,0 +1,9 @@
+#Unlock All Characters & Extra Cheats
+800A338C FFFF
+800A338E FFFF
+#Unlock All Races
+800A3390 FFFF
+#Unlock All Tracks
+800A3394 FFFF
+#Infinite Credits
+8009C33C 0005

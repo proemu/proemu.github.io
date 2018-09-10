@@ -1,0 +1,24 @@
+#Claire Energia infinita 	
+800C6EF2 00C8 		
+#Claire Salvataggi infiniti 	
+800CBBE8 071E
+#Tutte Le Armi Hanno Munizioni Infinite\Balestra
+800CBBE0 FF0C
+#Tutte Le Armi Hanno Munizioni Infinite\Colt S.A.A.
+800CBBE0 FF0D
+#Tutte Le Armi Hanno Munizioni Infinite\Lanciagranate (Esplosive)
+800CBBE0 FF09
+#Tutte Le Armi Hanno Munizioni Infinite\Lanciagranate (Incendiarie)
+800CBBE0 FF0A
+#Tutte Le Armi Hanno Munizioni Infinite\Lanciagranate (Acide)
+800CBBE0 FF0B
+#Tutte Le Armi Hanno Munizioni Infinite\Taser
+800CBBE0 FF0E
+#Tutte Le Armi Hanno Munizioni Infinite\Mitra
+800CBBE0 FF0F
+#Tutte Le Armi Hanno Munizioni Infinite\Lanciarazzi
+800CBBE0 FF11
+#Tutte Le Armi Hanno Munizioni Infinite\Rotellone
+800CBBE0 FF12
+
+

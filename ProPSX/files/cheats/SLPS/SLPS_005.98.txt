@@ -1,0 +1,12 @@
+#Infinite Missiles
+800A159A 0008
+#Infinite Gun
+800A1598 03E8
+#Infinite Money
+80096014 FFF0
+80096016 0F00
+#All aircraft available 
+80048BF2 1000
+80048C8A 1000 
+#No damage
+800A15A4 0000

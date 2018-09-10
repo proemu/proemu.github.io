@@ -1,0 +1,10 @@
+#Inf Hp 999 Tilk
+8017B067 03E7
+#Inf Hp 999 Boy With Glasses
+8017B233 03E7
+#Inf Hp 999 Dark Hair Girl
+8017B17B 03E7
+#Inf Hp 999 Brown Girl
+8017B205 03E7
+#Inf Hp 999 Brown Boy
+8017B0C3 03E7

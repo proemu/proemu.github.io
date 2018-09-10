@@ -1,0 +1,10 @@
+#Infinite health player 1
+801F1568 2710
+#Unlock all characters
+80193260 FFFF
+80193262 FFFF 
+#999 points
+80193274 03E7 
+#Unlock all gallery
+B0200002 0000    
+80193220 03E7 

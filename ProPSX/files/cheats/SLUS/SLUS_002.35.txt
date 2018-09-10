@@ -1,0 +1,23 @@
+#Iron Man Can't Float
+80092076 0100
+#Iron Man Infinite Armor
+800920A8 001E
+#Iron Man Infinite Boost
+8001D66C 0000
+8001D66E 0000
+#Iron Man Infinite Lives (Both Players)
+8001D990 0000
+8001D992 0000
+#Iron Man Once Hit Become Invincible (Flashes)
+8001D770 0000
+8001D772 0000
+#X-O Manowar Codes Can't Float
+800922F2 0100
+#X-O Manowar Infinite Armor
+80092324 0023
+#X-O Manowar Infinite Boost
+8002583C 0000
+8002583E 0000
+#X-O Manowar Once Hit Become Invincible (Flashes)
+8002593C 0000
+8002593E 0000

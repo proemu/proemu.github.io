@@ -1,0 +1,19 @@
+#Disc One Codes\Always Have Vidbook
+801EDA24 0001
+#Disc One Codes\Always Have Kitchen Knife
+801EEE24 0001
+#Disc One Codes\Always Have Taco
+801EE564 0001
+#Disc One Codes\Always Have Cia Card
+801EF004 0001
+#Disc One Codes\Always Have Knife
+801EF1E4 0001
+#Disc One Codes\Always Have Bullet
+801EEC44 0001
+#Disc One Codes\Always Have Skis
+801EC544 0001
+#Disc One Codes\Always Have Feather
+801EE294 0001
+#Disc One Codes\Always Have Medal
+801EEB54 0001
+

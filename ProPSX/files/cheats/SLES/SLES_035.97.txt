@@ -1,0 +1,4 @@
+#Unlock All Arcade Mode
+8007664A 0008
+#Unlock All Mission Mode
+80076648 0008

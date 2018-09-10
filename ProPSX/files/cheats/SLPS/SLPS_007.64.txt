@@ -1,0 +1,7 @@
+#Maximum Speed
+8013A4A2 0200
+#Infinite Time
+800B63D6 012C
+#No Lap
+8016635E 0004
+

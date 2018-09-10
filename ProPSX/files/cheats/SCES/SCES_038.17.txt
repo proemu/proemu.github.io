@@ -1,0 +1,26 @@
+#Infinite Lives
+80108F7C 0063
+#Max Diamonds
+80108F88 0063
+#Unlock All Stages
+800B4880 000A
+#Only 1 Balloon Needed To Clear Stage
+80108F80 0001
+#Have All Watering Cans
+50000A04 0000
+800B484C 0001
+#Press Circle for Max Diamonds		
+E00BFD8D 0020
+80108F88 0063
+#Press L2/L1 To Turn Star Blocks On/Off
+E00BFD8D 0001
+80108FF0 0001
+E00BFD8D 0004
+80108FF0 0000
+#Press R2/R1 to Turn Diamond Blocks ON/OFF		
+E00BFD8D 0002
+80108FF4 0001
+E00BFD8D 0008
+80108FF4 0000
+#Invincibility
+8003CD72 1460

@@ -1,0 +1,18 @@
+#Invulnerable
+80045C48 0001 
+80045C54 05AC 
+80045C56 AEC2
+#Infinite Web 
+D00506F4 1823 
+800506F6 0060 
+#Unlock All Special options of LEVEL is complete 
+B0050002 0000 
+800B33E4 FFFF 
+#Unlock All Gallery 
+B0130001 0000 
+300B33FC 00FF 
+#Unlock All Costumes
+800B33F8 FFFF 
+300B33FA 00FF 
+
+

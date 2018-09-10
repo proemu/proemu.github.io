@@ -1,0 +1,8 @@
+#Infinite HP 1st character (Gundam)  
+8019B236 0BB8 
+#Infinite HP 2nd character  
+8019B254 0BB8 
+#Infinite HP Mazinger Z  
+8019AE76 12C0 
+#Infinite HP Aphrodite A  
+8019AE94 0F3C 

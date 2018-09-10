@@ -1,0 +1,39 @@
+#Infinite Ammo P1
+8006D034 0008
+#Always Healthy P1
+8006D058 000A
+#Infinite Lives P1
+8006D060 0005
+#Infinite Grenades P1
+8006D038 0001
+#Infinite Credits P1
+80069124 0009
+#Always Have Auto Shot Gun P1
+8006D044 0003
+#Always Have Auto Shot Gun P2
+8006D0F0 0003
+#Infinite Ammo P2
+8006D0E0 0008
+#Always Healthy P2
+8006D104 000A
+#Infinite Lives P2
+8006D10C 0005
+#Infinite Grenades P2
+8006D0E4 0001
+#Infinite Credits P2
+80069126 0009
+#P1  9 Lives 
+8006CF62 0009
+#P1  9 Credits 
+8006CFC6 0009
+#P2  9 Lives 
+8006CF64 0009
+#P2  9 Credits 
+8006CFC8 0009
+#Game Looping is On
+3006CFCA 0001
+#Gore is On
+8006CFCC 0101
+#Secret Rooms Are On
+3006CFCB 0000
+

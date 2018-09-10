@@ -1,0 +1,48 @@
+#Vie infinie Angkor Vat	
+801BB5E6 03E8
+#Vie infinie Le Défi de L'Iris	
+801C63A2 03E8
+#Vie infinie Le Tombeau de Seith	
+801C9A82 03E8
+#Vie infinie Les Chambres Sepulturales	
+801C31FA 03E8
+#Vie infinie La Vallée des Rois	
+801B5264 03E8
+#Vie infinie KV5	
+801C25FE 03E8
+#Vie infinie Le Temple de Karnac	
+801D24B6 03E8
+#Vie infinie La Monumentale Salle Hypostyle	
+801CF066 03E8
+#Vie infinie Le Lac Sacré	
+801B3742 03E
+#Run infini	
+800A7D18 0078
+#Oxygène infini	
+800AB2CE 0708
+#Flares infinis	
+800AB400 000F
+#Flares infinis (alternate)	
+D00AA120 1400
+800AB2C0 0007
+#Small Medikit infinis	
+800AB3FC FFFF
+#Big Medikit infinis	
+800AB3FE FFFF
+#Munitions infinies	
+800AB400 FFFF
+800AB402 FFFF
+800AB404 FFFF
+800AB406 FFFF
+800AB408 FFFF
+800AB40a FFFF
+800AB40c FFFF
+800AB40e FFFF
+800AB410 FFFF
+800AB412 FFFF
+800AB414 FFFF
+800AB416 FFFF
+#Tous les secrets	
+800B23D6 0046
+#Avoir les flingues avec Lara jeune	
+800AB2BE 0001

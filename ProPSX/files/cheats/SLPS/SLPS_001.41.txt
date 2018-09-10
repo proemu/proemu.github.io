@@ -1,0 +1,5 @@
+#Infinite Health Level 1
+8010E098 0032
+#Infinite Ammos
+80028764 0000
+80028766 0000

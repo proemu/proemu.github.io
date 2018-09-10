@@ -1,0 +1,10 @@
+#Max Player Tricks
+801D8FE2 0FFF
+#Quick Chip Gain
+801D8C24 FFFF
+#Max Chips Total
+801D8C24 E0FF
+801D8C26 05F5
+#Unlock All Stages		
+50000802 0000
+801BF200 2222

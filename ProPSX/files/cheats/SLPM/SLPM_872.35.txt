@@ -1,0 +1,13 @@
+#Infinite Energy
+800C2D1A 00FF
+#Infinite Coins
+800C2D18 270F
+#Infinite balloons hearts
+800C2E19 0003
+#2P Life 0  Presss (L2 + R2) 
+D00CCBB2 FCFF 
+300C2E7A 0000 
+#SUPER 
+300C2D1C 0064 
+#Time 99 
+800C5590 0063

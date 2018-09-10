@@ -1,0 +1,16 @@
+#Away Team Score 9	
+8004F7BC 0009
+#Away Team Score 0	
+8004F7BC 0000
+#Home Team Score 9	
+8004F7B8 0009
+#Home Team Score 0	
+8004F7B8 0000
+#Infinite Creation Points		
+800B1940 0000
+800B1942 0000
+#P1 Can't Lose (Press Select)	
+D012DD22 0001
+8004F7B8 0063
+D012DD22 0001
+8004F7BC 0000

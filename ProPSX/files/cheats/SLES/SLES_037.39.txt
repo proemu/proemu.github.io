@@ -1,0 +1,4 @@
+#Infinite HP Player 1
+800AA118 0190
+#Infinite power
+800AA11A 0200

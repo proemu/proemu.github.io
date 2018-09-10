@@ -1,0 +1,29 @@
+#Nivel 1 Montañas de Colorado Inf Armor
+801AC38E 0258
+801ABE6A 0258
+#Nivel 1 Montañas de Colorado Inf Munición Pistola
+8012A556 000F
+#Nivel 1 Montañas de Colorado Inf Minición M-16
+8012A55E 000F
+#Unlock All Levels Deactivate After send It
+8012AFC0 0014
+#Todos los Trucos Pausa el juego ve a opcione y en el menu de trucos activa los que quieras
+8011F4D0 FFFF
+8011F4D2 FFFF
+#Mision Never Fails
+80025D6E 2A00
+#All weapons after one pick-up		
+80063170 FFFF
+#Invincibility 
+8011F594 FFFF
+
+
+
+
+
+
+
+
+
+
+6EC

@@ -1,0 +1,77 @@
+#Infinite Lives "Boulder Dash " Stage	
+8009E808 6300
+#Infinite Lives "Boulders" Stage	
+8009E584 6300
+#Infinite Lives "Castle Machinery" Stage	
+8009E88C 6300
+#Infinite Lives "Cortex Power" Stage	
+8009E77C 6300
+#Infinite Lives "Dr. Neo Cortex" Stage	
+8009E0F8 6300
+#Infinite Lives "Fumbling In The Dark" Stage	
+8009E5AC 6300
+#Infinite Lives "Generator Room" Stage	
+8009E54C 6300
+#Infinite Lives "Heavy Machinery" Stage	
+8009E828 6300
+#Infinite Lives "Hog Wild" Stage	
+8009E64C 6300	
+#Infinite Lives "Jaws Of Darkness" Stage	
+8009E778 6300
+#Infinite Lives "Jungle Rollers" Stage	
+8009E59C 6300
+#Infinite Lives "Koala Kong" Stage	
+8009E198 6300
+#Infinite Lives "Lights Out" Stage	
+8009E508 6300
+#Infinite Lives "N. Sanity Beach" Stage	
+8009E538 6300
+#Infinite Lives "Native Fortress" Stage	
+8009E7D0 6300
+#Infinite Lives "Nitrus Brio" Stage	
+8009E1A0 6300
+#Infinite Lives "Papu Papu" Stage	
+8009E0D0 6300
+#Infinite Lives "Pinstripe" Stage	
+8009E190 6300
+#Infinite Lives "Ripp Roo" Stage	
+8009E0E0 6300
+#Infinite Lives "Road To Nowhere" Stage	
+8009E620 6300
+#Infinite Lives "Rolling Stones" Stage	
+8009E610 6300
+#Infinite Lives "Slippery Climb" Stage	
+8009E5F0 6300
+#Infinite Lives "Sunset Vista" Stage	
+8009E818 6300
+#Infinite Lives "The Great Gate" Stage	
+8009E750 6300
+#Infinite Lives "The Great Hall" Stage	
+8009E368 6300
+#Infinite Lives "The High Road" Stage	
+8009E5C0 6300
+#Infinite Lives "The Lab" Stage	
+8009E52C 6300
+#Infinite Lives "The Lost City" Stage	
+8009E6A4 6300
+#Infinite Lives "Toxic Waste" Stage	
+8009E4CC 6300
+#Infinite Lives "Up The Creek" Stage	
+8009E6A0 6300
+#Infinite Lives "Upstream" Stage	
+8009E5DC 6300
+#Infinite Witch Doctors Mask (On Pickup) "Jungle Rollers" Stage	
+80091AD4 0200
+#Infinite Witch Doctors Mask (On Pickup) "N. Sanity Beach" Stage	
+80092898 0200
+#Infinite Witch Doctors Mask (On Pickup) "The Great Gate" Stage	
+80092AB0 0200
+#Instant Save Menu	
+800A264C 0004
+#L2: for Invincible Enabled, R2: for Invincible Disabled	
+D005E72C 0001
+80024352 2400
+D005E72C 0002
+80024352 0C00
+#Level Select 
+30061948 0040

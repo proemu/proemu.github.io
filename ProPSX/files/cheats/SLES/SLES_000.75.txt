@@ -1,0 +1,8 @@
+#Infinite blood	
+801CAB44 0190
+801CAB46 0190		
+#Infinite magic	
+801CAB4A 0190
+801CAB4C 0190
+#nfinite Item Usage	
+8004316E 3C00

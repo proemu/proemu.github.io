@@ -1,0 +1,20 @@
+#Infinite Lives Player 1
+80126418 0002
+#Infinite Bombs Player 1
+8012643C 0502
+#Infinite Lives Player 2
+80126484 0002
+#Infinite Bombs Player 2
+801264A8 0502
+#Infinite Credits
+800E6254 0009
+#All fighters  
+80121174 FFFF 
+80121176 05FF 
+#Invincibility 
+80045F44 0001 
+80045F80 0000 
+#maximum shot level 
+80046698 0000 
+#Infinite Special Weapon 
+30046894 0000 

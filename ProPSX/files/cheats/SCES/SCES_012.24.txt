@@ -1,0 +1,7 @@
+#Infinite Lives
+801F145E 0005
+#Infinite Energy
+801EFFC8 1770
+
+
+50C

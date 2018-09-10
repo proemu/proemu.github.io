@@ -1,0 +1,21 @@
+#Inf Health
+301DB7F6 0064
+#Infinite Web Cartriges 
+301DBD40 0007
+#All Training Complete 
+800B322C FFFF
+#Infinite Health (Level 1) 
+301DEB4E 0064
+#Infinite Web Cartriges (Level 1) 
+301DF098 0007
+#All Costumes Unlocked 
+800B31F8 FFFF
+800B31FA FFFF
+#All Levels Unlocked 
+300C1FD8 0001
+#All Powers in Create A Spider 
+800b3210 FFFF
+#All Gallery Items 
+50000a02 0000
+800B31FC FFFF
+ 

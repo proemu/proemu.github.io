@@ -1,0 +1,7 @@
+#Infinite Hp
+8007F296 03E7
+8007F29A 03E7
+#Infinite Sp
+8007F29C 03E7
+#Infinites Lives
+8012F0CE 0009

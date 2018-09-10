@@ -1,0 +1,8 @@
+#Home team always score 0
+8006F3C0 0000
+#Home team always score 10
+8006F3C0 000A
+#Away team always score 0
+800714A0 0000
+#Away team always score 10
+800714A0 000A

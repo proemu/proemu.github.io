@@ -1,0 +1,23 @@
+#Training Complete/Unlock Lvls
+800B2AEC 0100
+#1st Place Beach
+300B2AEF 0001
+#1st Place Meadow
+300B2AEE 0001
+#1st Place Forest
+300B2AF0 0001
+#1st Place Secret Ranch
+300B2AF1 0001
+#Unlock Beach At Night
+300B2ADF 0001
+#Unlock Meadows At Night
+300B2AE0 0001
+#Unlock Forest At Night
+300B2AE1 0001
+#Unlock Mountains At Night
+300B2AE2 0001
+#Unlock Secret Ranch/All Stars
+50000401 0000
+300B2ADB 0001
+#Infinite Time
+800132F6 2400

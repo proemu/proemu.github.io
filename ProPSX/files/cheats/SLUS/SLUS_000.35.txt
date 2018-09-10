@@ -1,0 +1,34 @@
+#Infinite Nitro's 	
+800837EC 000A 		
+#Infinite Bike Energy 	
+801DD048 0080 		
+#Infinite Energy For Yourself 	
+800831C0 0BB0 		
+#All Tracks Qualified 	
+800DAD3C 001F 		
+#Invulnerable 	
+80023180 0000
+80023182 0000
+800231C4 0000
+800231C6 0000
+800231C8 0000
+800231CA 0000
+#Infinite Money 
+800DAD40 967F
+800DAD42 0098
+#Start On Level 1 	
+D00DAD3A 0000
+800DAD3A 0000 		
+#Start On Level 2 	
+D00DAD3A 0000
+800DAD3A 0100 		
+#Start On Level 3 	
+D00DAD3A 0000
+800DAD3A 0200 		
+#Start On Level 4 	
+D00DAD3A 0000
+800DAD3A 0300 		
+#Start On Level 5 
+D00DAD3A 0000
+800DAD3A 0400
+

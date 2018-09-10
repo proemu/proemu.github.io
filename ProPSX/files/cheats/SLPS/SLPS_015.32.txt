@@ -1,0 +1,16 @@
+#Player 1 have 99999 points in mahjong game
+800C487C 869F
+800C487E 0001
+#Opponent 1 has always 0 points
+800C4878 0000
+#Opponent 2 has always 0 points
+800C4874 0000
+#Opponent 3 has always 0 points
+800C4870 0000
+#Have 9999999 money in story mode
+800B2F2C 967F
+800B2F2E 0098
+#Player has 99 points in hanafuda game
+800C8088 0063
+#Opponent has 0 points in hanafuda game
+800C8110 0000

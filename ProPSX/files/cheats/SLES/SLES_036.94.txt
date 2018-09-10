@@ -1,0 +1,4 @@
+#Leben gehen nie aus
+3008FC32 000F
+#Beginne jeden Abschnitt mit vielen Edelsteinen	
+3008EDE8 0064

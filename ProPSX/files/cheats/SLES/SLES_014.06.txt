@@ -1,0 +1,38 @@
+#Unendlich Schilde
+8004647C 0064
+#As Laser ÜBerhitzt Nicht
+8012F31C 0000
+#Laser ÜBerhitzt Nicht
+8012F374 0000
+#Seismische Lanze ÜBerhitzt Nicht
+8012F3CC 0000
+8012F424 0000
+#Unendlich As Raketen
+8012F430 0005
+#Unendlich Plasma Raketen
+8012F488 0005
+#Unendlich Verteidigungskapseln
+8012F4E0 0005
+#Unendlich As Torpedos
+8012F538 0005
+#Unendlich Angriffskapseln
+8012F590 0005
+#Unendlich Zyx-Einheiten
+D00C57CC 0000
+800C57CC 0001
+#Unendlich Zeit
+8011EDA8 FFFF
+#Feuere Laser Schneller
+8012F378 0001
+#Feuere As Laser Schneller
+8012F320 0001
+#Alle Schiffe VerfüGbar
+300343C0 0001
+#Alle Waffen VerfüGbar
+300343BF 0001
+#Unendlich Nachbrenner
+300343BD 0001
+#Unendlich SekundäRe Waffen
+300343B8 0001
+#Missionen/Filme AnwäHlbar
+300343B9 0001

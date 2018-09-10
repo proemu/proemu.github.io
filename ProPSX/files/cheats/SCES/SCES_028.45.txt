@@ -1,0 +1,16 @@
+#Infinite checkpoint time		
+801934E8 5000
+#P1 Max Points in tournament
+8018AD90 00FF
+#Always first P1 Race Finish After Activate
+801931FC 0101
+#Infinite energy turbo P1 		
+801EA7BD 0000	
+#Laptime 0:00:00		
+D010DF36 AC83
+3010DF36 0000
+#Prototype-mode (Vector) unlocked		
+3018A85A 0001
+#SINGLE RACES & TIME RACES & ELIMINATOR MODE Phantom-class unlocked	
+3018A8C9 0001
+

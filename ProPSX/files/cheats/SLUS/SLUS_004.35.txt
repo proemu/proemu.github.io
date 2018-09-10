@@ -1,0 +1,27 @@
+#Infinite Lives
+8006D030 0009
+#Infinite Magic
+8006D0A0 0009
+#Max Score
+8006D014 967F
+8006D016 0098
+#Max Magic
+8006D018 0004
+#Have Silver Key
+8006D01C 0001
+#Have Gold Key
+8006D034 0001
+#Infinite Gold
+8006D044 967F
+8006D046 0098
+#Full Screen View
+8006D058 0032
+#Infinite Smoke Bombs
+8006D07C 0009
+#Level Select	
+3006BA9C 0001
+#Infinite Health		
+8006D05E 0050
+8006D09E 0050
+#No Boss Energy		
+8006C28A 0000

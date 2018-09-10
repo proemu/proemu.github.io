@@ -1,0 +1,10 @@
+#Have All Cars
+801DD380 0001
+801DD920 0001
+801DD9B4 0001
+8019513C 0001
+#Miniature Cars
+801DE490 0028
+801E6508 0028
+#During the race other cars stop
+801DE470 0028 

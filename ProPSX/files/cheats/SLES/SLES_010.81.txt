@@ -1,0 +1,16 @@
+#Infinite health P1	
+800C4D4A 0090
+800C E23C 00C0
+#Infinite health P2	
+800C4D60 0090
+800C F5D8 00C0
+#All characters available	
+80010588 FFFF
+8001058A 003F
+#Enable extra mode	
+80010090 0007
+#Infinite health P1 alt	
+800485D8 0004
+800485DA 1040
+#P1 1 round to win	
+3001020C 0002

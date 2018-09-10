@@ -1,0 +1,12 @@
+#Infinite Lifes P1
+800933F8 0005
+#Score Max P1
+800933F4 FFFF
+#Infinite Lifes P2
+80094204 0005
+#Score Max P2
+80094200 FFFF
+#Infinite Lifes P1
+800264A4 0000
+800264A6 0000
+

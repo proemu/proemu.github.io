@@ -1,0 +1,63 @@
+#Infinite HP - Aerith Gainsborough	
+800F850C 7000
+#Infinite HP - Barett Wallace		
+800F850C 7000
+#Infinite HP - Cloud	
+800F84A4 7000
+#Infinite HP - Tifa	
+800F8574 7000
+#Infinite Money		
+8009B9F8 FFFF
+#No Ramdom Battles		
+800706F4 0000
+#Save Everywhere		
+8009BA3E 0000
+#The 99 possession of all items 
+D01D0800 2403 
+801D0890 C600 
+D01D0800 2403 
+801D0892 2408 
+D01D0800 2403 
+801D0898 2025 
+D01D0800 2403 
+801D089A 0112 
+D01D0800 2403 
+801D089E A444 
+#Master all materia you have possession Conditions: Open the materia list, scroll to the bottom. 
+D01D4700 0821 
+801D4754 FF00 
+D01D4700 0821 
+801D4756 2408 
+D01D4700 0821 
+801D4758 2025 
+D01D4700 0821 
+801D475A 0088 
+D01D4700 0821 
+801D475E AC44 
+#Auto Battle Mode Will continue to strike until annihilate the enemy, during which the enemy will be incapacitated. 
+D00A2994 001E 
+800A2994 0001 
+#HP recovery ally character is attacked 
+D00AD734 0001 
+800AD72C 0208 
+D00AD734 0001 
+800AD72E 8C88 
+D00AD734 0001 
+800AD736 2D12 
+D00AD734 0001 
+800AD734 0003 
+#(Only damage the enemy side suffer) damage value 9999 
+D00AC638 0214 
+800AC638 0208 
+D00AC640 102A 
+800AC646 1440 
+D00AC640 102A 
+800AC642 2C42 
+D00AC640 102A 
+800AC640 0003 
+
+#Debug Room World map other than, I simultaneously press L1 + L2 + R1 + R2
+D00993F4 000F 
+3009938D 0001 
+D00993F4 000F 
+8009938E 0041 

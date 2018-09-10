@@ -1,0 +1,4 @@
+#Have 500 Points
+80115BD8 01F4
+#Have 0 Cards In Story Mode
+80119328 0000

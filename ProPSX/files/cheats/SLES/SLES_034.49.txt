@@ -1,0 +1,9 @@
+#Player 1 has 5 games
+800964A0 0005
+#Player 1 Always  40-0
+80096480 0028
+#Player 2 has 5 games
+8009649C 0005
+#Player 2 Can't score 	
+80096484 0000
+

@@ -1,0 +1,8 @@
+#CPU Never Wins (Arcade Mode)
+D01329E4 0001
+801329E4 0000
+#Only 1 Finish To Stage Clear Player 1
+D01329E0 0000
+801329E0 0001
+#Secret Mode
+801F5306 0008

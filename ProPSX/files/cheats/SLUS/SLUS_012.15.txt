@@ -1,0 +1,14 @@
+#Inf Hp
+800C7328 0600
+#Infinite Money
+800C3998 03E7
+#Infinite Coagulant
+300C38FE 0064
+#Have All Keys & Keycards
+300C3908 00FF
+#Enable Cheat Menu
+800BB772 7000
+#Have All Files
+800B7010 FFFF
+800B7012 FFFF
+300B7014 00FF

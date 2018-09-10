@@ -1,0 +1,8 @@
+#Inf Hp
+80061B40 2400
+#Have All Cheats	
+800E8B04 0FFF
+
+
+
+

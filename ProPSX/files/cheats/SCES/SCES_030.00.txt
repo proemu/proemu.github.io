@@ -1,0 +1,6 @@
+#999 Tokens
+8007D9D0 03E8
+#Infinite Health
+80085A32 0008
+#Infinite Lives
+80085A2C 9000

@@ -1,0 +1,15 @@
+#Unlimited energy Pete  
+800ADDCC 000C 
+#Unlimited time  
+800ADDA2 003B 
+#Unlimited lives Pete  
+800ADDD4 0002 
+#Unlimited bombs Pete  
+800ADDD6 0002 
+#Unlimited energy Danny  
+800ADE28 000C 
+#Unlimited lives Danny  
+800ADE30 0002 
+#Unlimited bombs Danny  
+800ADE32 0002 
+ 

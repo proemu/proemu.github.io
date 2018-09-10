@@ -1,0 +1,43 @@
+#Home Team Score 0
+800EB230 0000
+#Home Team Score 100
+800EB230 0064
+#Away Team Score 0
+800EB234 0000
+#Away Team Score 100
+800EB234 0064
+#Max Agility
+80168810 0063
+#Max Speed
+80168814 0063
+#Max Shooting
+8016881C 0063
+#Max Endurance
+80168820 0063
+#Max Rebounding
+80168824 0063
+#Max Jumping
+80168828 0063
+#Max Blocking
+8016882C 0063
+#Max Stealing
+80168830 0063
+#Max Free Throws
+80168834 0063
+#Max 3 Points
+80168838 0063
+#Max Ball Handling
+8016883C 0063
+#Max Passing
+80168840 0063
+#Max Driving
+80168844 0063
+#Max Aggresiveness
+80168848 0063
+#Max Dunking
+8016884C 0063
+#Max Strength
+80168818 0063
+#Infinite Player Builder Points
+8016880C 01C2
+

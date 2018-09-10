@@ -1,0 +1,18 @@
+#Unendlich Energie
+D0070CCC 0044
+8011642C 03FC
+#Unendlich Geld
+D0070CCC 0044
+800CCE2A 003C
+#Unendlich Continues
+D0070CCC 0044
+800CCE24 000A
+#Habe Alle Karten
+800CD46C 0101
+800CD46E 0101
+#Wut Sinkt Nicht
+80070D72 3C00
+#Unendlich Munition
+80073A0A 3C00
+#Developer Cheat Menu
+300CB078 0002

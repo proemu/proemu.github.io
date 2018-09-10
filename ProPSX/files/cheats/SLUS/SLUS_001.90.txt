@@ -1,0 +1,48 @@
+#Have 99 Escapes
+80082170 0063
+#Zero Casualties
+8008216E 0000
+#Instant Takeover
+8008213C FFFF
+#Bullet Proof Abe This code allows you to take over a guards body the instant you start chanting, no delay. Also with this code turn the game shark off when you come to a bird portal. After you send you escapees through the portal turn the shark back on.
+D0028868 00F4
+80028868 0000
+#Invincibility
+80082186 0001
+#Have 99 Escapes version 1.1
+80082240 0063
+#Zero Casualties version 1.1
+8008223E 0000
+#Instant Takeover version 1.1
+8008220C FFFF
+#Invincibility version 1.1
+80082256 0001
+#Press L1+Triangle to Save Mudokons On The Spot		
+8004DED8 1D80
+8004DEDA 0C00
+80007600 0000
+80007602 80A2
+80007604 004B
+80007606 3403
+80007608 0007
+8000760A 1443
+8000760C 00F4
+8000760E 80A2
+80007610 0004
+80007612 3403
+80007614 0004
+80007616 1443
+80007618 0001
+8000761A 3403
+8000761C 00AC
+8000761E ACA3
+80007620 002C
+80007622 3403
+80007624 00F4
+80007626 A0A3
+80007628 000C
+8000762A 8CA2
+8000762C 0014
+8000762E 8C42
+80007630 0008
+80007632 03E0

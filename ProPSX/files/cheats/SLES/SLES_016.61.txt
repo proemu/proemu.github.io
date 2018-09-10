@@ -1,0 +1,13 @@
+#Infinites lives player 1 Deactivate after complete level
+801F7E20 0009
+#Infinites bombs player 1 Deactivate after complete level 1
+801F7EC4 0009
+#Infinites lives player 2 Deactivate after complete level 1
+801F7FD4 0009
+#Infinites bombs player 2 Deactivate after complete level 1
+801F8078 0009
+#Infinites lives player 1 - Rest of the Levels
+801EAB0C 0063
+#Infinites lives player 2 - Rest of the Levels
+801EACC0 0063
+

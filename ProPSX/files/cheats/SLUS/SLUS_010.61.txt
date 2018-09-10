@@ -1,0 +1,13 @@
+#Infinite Assault Rifle Ammo
+800A83C4 03E7
+#Infinite Grenades
+800A83BC 001F
+#Infinite Rockets
+800A83B4 0019
+#Infinite Rail Gun Ammo
+800A83B8 0032
+#Full Shields
+800A830C 270F
+#Unlock and Complete All Missions		
+80033204 FFFF
+80033206 FFFF

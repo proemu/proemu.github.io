@@ -1,0 +1,6 @@
+#Max Accuracy
+80132A54 0006
+#Max Power
+80132A68 0006
+#Max Spin
+80132A7C 0006

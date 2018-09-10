@@ -1,0 +1,18 @@
+#Invincibility P1
+D013EAF8 0001
+8013EAF8 0000
+#Access All Endings
+800A30B8 FFFF
+#Invincibility P2
+D013E7E0 0001
+8013E7E0 0000
+#Have Gun Guy In Vs Mode or Woman With Tiger Shin Pants In 1P Mode
+8011FCAC 0006
+#Battle mode Katze available
+8011FCAC 0006 
+#1P not die also slashed
+8013EB0A 0000  
+#2P you do not die also slashed
+8013E7F2 0000 
+#I advance 10 people at time mode 
+800A3090 0009 

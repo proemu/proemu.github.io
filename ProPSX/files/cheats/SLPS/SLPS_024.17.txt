@@ -1,0 +1,9 @@
+#Infinite Hp Character 1
+801B3D08 03E7
+801B8638 03E7
+#Infinite Hp Character 2
+801B3D48 03E7
+801B8E7C 03E7
+#Infinite Hp Character 3
+801B3D88 03E7
+801B96C0 03E7

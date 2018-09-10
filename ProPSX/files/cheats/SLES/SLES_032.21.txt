@@ -1,0 +1,38 @@
+#Infinite health	
+D00224A6 8642
+800224A6 8645
+D00224BA 8643
+800224BA A645
+#Infinite ammo all weapons
+D00524CC 0C60
+800524CE 2400
+#Rapid fire	
+D00488C8 0006
+800488CA 2400
+#Have all key items	
+800AEEE8 FFFF
+800AEEEA 03FF
+#Have all files	
+800AEEF0 FFFF
+800AEEF2 FFF3
+#Infinite EXP-points	
+800AEE20 967F
+800AEE22 0098
+#Most doors open 	
+800C1A48 FFFF
+#No laser bars(Press L2)	
+D00ABAB2 FFB9
+50000C02 FEFF
+800C1500 0000
+#Shop and save anywhere
+(Press Triangle & R2)	
+D00ABAB2 EDFF
+800AE74E 0002
+#View ending FMV (select new game)	
+D00AECBC 0101
+800AECBC 0504
+#Extra crisis mode Unlocked From the main menu, go into options, exit again and a new menu will appear.	800AECB8 0100
+800AECBA 0101
+800AECBC 0101
+#Extra crisis mode All characters unlocked	
+800AECBE 0FFF

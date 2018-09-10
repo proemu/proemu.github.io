@@ -1,0 +1,20 @@
+#Infinite Lives 	
+800D7D48 0009 		
+#Max EXP Modifier 	
+800AD200 270F		
+#EXP Modifier 	
+800D7DC4 270F		
+#Have All Spells 	
+800AD200 0F00
+800D7DC4 0F00 		
+#Infinite Energy With Infinite Energy & Infinite MP codes, they only work from boot up, once you die, they won't work anymore!		
+800F9FBC 00A6 	
+#Infinite MP 	
+800F9FBE 00A6 		
+#Infinite MP (All Levels & After Dying) 	
+80073764 0000
+80073766 0000
+80073784 0000
+80073786 0000 		
+#Infinite Credits 	
+800D784C 0009

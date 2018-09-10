@@ -1,0 +1,21 @@
+#Story Mode Infinite 1P Hp
+8015A0AC 0080
+#Story Mode Max 1P Power
+8015A0A8 0080
+8015A0AA 0080
+#Story Mode Fast Kill Computer
+8015A1AC 0000
+#Story Mode Computer No Power
+8015A1A8 0000
+#Vs Mode Max 1P Power
+80131088 0080
+#Vs Mode Infinite 1P Hp
+8013108C 0080
+#Vs Mode Max 2P Power
+80131188 0080
+#Vs Mode Infinite 2P Hp
+8013118C 0080
+#All Characters
+800AAD9C FFFF
+800AAD9E FFFF
+800AADA0 FFFF

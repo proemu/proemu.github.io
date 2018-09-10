@@ -1,0 +1,14 @@
+#Away Team Score 9	
+800F5C50 0009
+#Away Team Score 0	
+800F5C50 00000
+#Home Team Score 9	
+800F58F8 0009
+#Home Team Score 0	
+800F58F8 0000
+#Infinite Balls		
+300F6027 0000
+#Infinite Outs		
+300F6029 0000
+#Infinite Strikes		
+300F6028 0000

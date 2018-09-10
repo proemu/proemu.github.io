@@ -1,0 +1,9 @@
+#Infinite HP main character in RPG dungeon
+80089923 0063
+#Gold 999999
+8008996C 869F
+8008996E 0001
+#Level 99 / HP 50 / Exp 999999
+80089922 3263
+#Summons point 99
+80089920 0063

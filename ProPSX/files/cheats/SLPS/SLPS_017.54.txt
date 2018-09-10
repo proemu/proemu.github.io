@@ -1,0 +1,16 @@
+#Infinite Energy
+800C39E0 0064
+#Infinite Magic
+800C39F4 0064
+#Invincibility 
+300C3A5E 00FF 
+#It is not a lack of sleep 
+800C3B3C 0000 
+800C3B3E 0000 
+#Rank Clear purpose and title also changes 
+300F66B9 000A 
+#Infinite Money 
+800F7068 4240 
+800F706A 000F
+#Success rate 
+300F7070 0009 

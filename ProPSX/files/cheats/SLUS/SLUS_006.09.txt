@@ -1,0 +1,53 @@
+#High Player Credits
+8006A7CC FFFF
+8006A7CE 0FFF
+#Infinite Time
+800890A0 4800
+#Car Modifier Hummer	
+80064294 0000
+#Car Modifier Ram	
+80064294 0001
+#Car Modifier Wrangler	
+80064294 0002
+#Car Modifier Defender 90	
+80064294 0003
+#Car Modifier Explorer	
+80064294 0004
+#Car Modifier Chenowth Dr2	
+80064294 0005
+#Car Modifier F-150	
+80064294 0006
+#Car Modifier Cherokee	
+80064294 0007
+#Car Modifier Hummer Turbo Diesel	
+80064294 0008
+#Car Modifier Ram V 10	
+80064294 0009
+#Car Modifier Wrangler Sportr	
+80064294 000A
+#Car Modifier Defender 90 Upgrade	
+80064294 000B
+#Car Modifier Explorer V8	
+80064294 000C
+#Car Modifier Chenowth Dr2 Upgrade	
+80064294 000D
+#Car Modifier F-150 V8	
+80064294 000E
+#Car Modifier Grand Cherokee	
+80064294 000F
+#Car Modifier Military Hummer	
+80064294 0010
+#Car Modifier T-Rex	
+80064294 0011
+#Car Modifier Saleen Explorer	
+80064294 0012
+#Car Modifier Fast Attack Vehicle	
+80064294 0013
+#Car Modifier Range Rover	
+80064294 0014
+#Car Modifier School Bus (Hidden Vehicle)	
+80064294 0015
+#Car Modifier Black And Red Grand Cherokee (Hidden Vehicle)	
+80064294 0016
+#Car Modifier Ice.Cream Truck (Hidden Vehicle)
+80064294 0017

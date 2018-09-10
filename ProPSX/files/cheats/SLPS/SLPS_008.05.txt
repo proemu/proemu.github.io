@@ -1,0 +1,68 @@
+#Max Force
+300D8CEF 0008
+#Inf Force
+300D8CF0 0008
+#Mental Max
+300D8CEB 0063
+#Max Sensibility
+300D8CEC 0063
+#Max Grade
+300D8CED 0063
+#Max Stability
+300D8CEE 0063
+#Intimacy MAX Rachel
+300D8B65 00FF
+#Intimacy MAX Julius
+300D8B66 00FF
+#Intimacy MAX Kravis
+300D8B67 00FF
+#Intimacy MAX Randy
+300D8B68 00FF
+#Intimacy MAX Lumiere
+300D8B69 00FF
+#Intimacy MAX Oscar
+300D8B6A 00FF
+#Intimacy MAX Marcel
+300D8B6B 00FF
+#Intimacy MAX Seferu
+300D8B6C 00FF
+#Intimacy MAX Olivier
+300D8B6D 00FF
+#Intimacy MAX Levallois
+300D8B6E 00FF
+#Intimacy MAX Victor
+300D8B6F 00FF
+#Intimacy MAX Ceylan
+300D8B70 00FF
+#Intimacy MAX Timuka
+300D8B71 00FF
+#Intimacy MAX Holy Beast
+300D8B75 00FF 
+#Affinity MAX Rachel
+300D8B77 00FF
+#Affinity MAX Julius
+300D8B8A 00FF
+#Affinity MAX Kravis
+300D8B9D 00FF
+#Affinity MAX Randy
+300D8BB0 00FF
+#Affinity MAX Lumiere
+300D8BC3 00FF
+#Affinity MAX Oscar
+300D8BD6 00FF
+#Affinity MAX Marcel
+300D8BE9 00FF
+#Affinity MAX Seferu
+300D8BFC 00FF
+#Affinity MAX Olivier
+300D8C0F 00FF
+#Affinity MAX Levallois
+300D8C22 00FF
+#Affinity MAX Victor
+300D8C35 00FF
+#Affinity MAX Ceylan
+300D8C48 00FF
+#Affinity MAX Timuka
+300D8C5B 00FF
+#Affinity MAX Holy Beast
+300D8CA7 00FF

@@ -1,0 +1,6 @@
+#Infinite Time
+800F73D0 0180
+#Infinite Health P1
+801FEBD0 0AF0
+#No Health P2		
+801FEC10 0000

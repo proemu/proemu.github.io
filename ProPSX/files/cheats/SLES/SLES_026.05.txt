@@ -1,0 +1,31 @@
+#99 Laps Selectable
+D10A39BE 0091
+300A39BE 0063
+#All Unlocked
+8004D9D4 FFFF
+#Rally-Mode\Infinite Setup- & Repair-Time
+D006765E AC85
+8006765C 0000
+D006765E AC85
+8006765E 0000
+#Rally-Mode\Timer Stopped / Always 1st
+D006F768 0004
+8006F768 0000
+D006F768 0004
+8006F76A 0000
+#Rally-Mode\Always 1st (Display)
+D006F142 A222
+3006F142 0020
+D00E89B2 A043
+300E89B2 0040
+#Rally-Mode\Timer Stopped (Alternate)
+D006F764 D0A3
+50000402 0000
+8006F764 0000
+#Rally-Mode\Have 136 Points (Championship Won)
+3005068E 0088
+#Arcade-Mode\Have 20 Points (Championship Won)
+30050712 0014
+#Arcade-Mode\Cpu-Cars Make No Points
+50000504 0000
+80050716 0000

@@ -1,0 +1,24 @@
+#Button Command
+D00AC54A 0000
+#Unlimited Lives
+80162914 0005
+#Unlimited Lives (Sniper Mode Stages)
+801628DE 0009
+#Saved Hostages Modilfier (Sniper Mode Stages)
+801628DC ????
+#Energy (Men And Heli)
+800AC66C 0064
+#Energy (Tank)
+80163EC0 0064
+80162D2C 0064
+#Upgrade Heli To 2 Shoots (Push Select) (.Note: If codes freeze game than use button command from #Upgrade Heli to 2 shoots#: D00AC54A FFFE for every code - working with SELECT button.)
+D00AC54A FFFE
+80178F1E 0001
+#Ammo (Granades Included)
+800AC674 0063
+800AC678 0063
+800AC67E 0063
+#Unlimited Time (C4 Stage)
+801628FC 0005
+#Have All C4's (C4 Stage)
+801628F4 0004

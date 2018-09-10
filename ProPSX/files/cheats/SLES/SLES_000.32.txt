@@ -1,0 +1,37 @@
+#Infinite Weapons, Ammo, 99 Lives & Coordinates
+80025F90 00FF
+#Open All Cities
+80025F2C 0001
+80025F30 0001
+80025F34 0001
+80025F38 0001
+80025F3C 0001
+#Maximum Armour This code gives you maximum armour but you must pick up the armour first
+800A92F0 7FFF
+#No Police Activity
+8002B488 0000
+#Infinite Lives
+8002B5F2 0063
+#Infinite Pistol And Ammo
+8002B5FC FF00
+#Infinite Machine Gun And Missile Launcher
+8002B5FE FFFF
+#Infinite Flamethrower
+8002B600 00FF
+#Get Out Of Jail Free Key
+8002B606 1000
+#Auto Walk And Drive
+8002B5F4 0300
+#Points Multiplier x 20
+8002B5EE 0014
+#9 Million Points
+8002B49E 0090
+#Music : Off
+30153F1C 0000
+#Slow Motion\On Press Select & Up
+D0047942 FFEE
+3011E3E0 0000
+#Slow Motion\Off Press Select & Down
+D0047942 FFBE
+3011E3E0 0001
+

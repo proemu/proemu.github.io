@@ -1,0 +1,9 @@
+#Infinite Energy
+8009788E 00C0
+#Infinite Blue Chips
+300A42C8 0063
+#Max energy (= batteries)
+800978AC 0006	
+#No virus corruption	
+D002E716 3C01
+8002E718 0000

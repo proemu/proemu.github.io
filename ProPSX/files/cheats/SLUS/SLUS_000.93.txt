@@ -1,0 +1,40 @@
+#Infinite Energy 	
+8009A07C 03E8 			
+#Infinite Money 	
+8003A0C0 270F 		
+#Infinite Weapon 	
+80124576 03E7	
+#Infinite Machine Gun Ammo 	
+80124576 00C8 		
+#Infinite Heatseeker Ammo 	
+8012457A 00C8 		
+#Infinite Peterson Ammo 	
+8012457E 00C8 		
+#Infinite Plasma Ammo 	
+80124582 00C8 		
+#Infinite Rocket Launcher Ammo 	
+80124586 00C8 		
+#Infinite Grenade Launcher Ammo 	
+8012458A 00C8 		
+#Infinite Flare Gun Ammo 	
+8012458E 00C8 		
+#Infinite Shockwave Pulse Grenade Ammo 	
+80124592 00C8 		
+#Infinite Icarus Ammo 	
+80124596 00C8 		
+#Have Heatseeker 	
+80124578 0001 		
+#Have Peterson Rifle 	
+8012457C 0101 		
+#Have Plasma Rifle 	
+80124580 0201 		
+#Have Rocket Launcher 	
+80124584 0401 		
+#Have Gx-10 Grenade Launcher 	
+80124588 0501 		
+#Have Flare Gun 	
+8012458C 0601 		
+#Have Shockwave Pulse Grenade 	
+80124590 0701 		
+#Have Icarus Beam 	
+80124594 0801 

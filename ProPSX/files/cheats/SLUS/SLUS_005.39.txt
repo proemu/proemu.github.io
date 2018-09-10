@@ -1,0 +1,27 @@
+#Have Office Key
+80095900 0100
+#Enable All Hints
+800959EA 0100
+800959EC 0101
+800959EE 0101
+800959F0 0101
+800959F2 0101
+800959F4 0101
+#Enable All Endings Jennifer
+800959F4 0101
+800959F6 0101
+800959F8 0101
+#Enable All Endings Helen
+800959FA 0101
+800959FC 0101
+800959FE 0101
+#Rio \Office Door Open
+80095900 0200
+#Rio \Ladder Door Open
+80095854 0001
+# Scenerios Excep\Invincible
+8009580E 0000
+#Jennifer Scenario 1 Ladder Door Open	
+80095854 0001
+#Jennifer Scenario 1 Office Door Open	
+80095900 0200

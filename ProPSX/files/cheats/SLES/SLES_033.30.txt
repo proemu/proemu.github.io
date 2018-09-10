@@ -1,0 +1,30 @@
+#Infinite energy
+801ADAA8 0032
+#Infinite mana
+801B5814 0019
+#Have 99 gems
+801B5878 0063
+#Have 99 keys
+801B5870 0063
+#Level Modifier EXODUS You need to have at least 1 save game on your memory card then choose load game
+800DCD84 0005
+#Level Modifier CANYON You need to have at least 1 save game on your memory card then choose load game
+800DCD84 000A
+#Level Modifier STRONGHOLD You need to have at least 1 save game on your memory card then choose load game
+800DCD84 000F
+#Level Modifier ENROTHS You need to have at least 1 save game on your memory card then choose load game
+800DCD84 0014
+#Level Modifier BURIED CITY You need to have at least 1 save game on your memory card then choose load game
+800DCD84 0019
+#Level Modifier FORGOTTEN WAY You need to have at least 1 save game on your memory card then choose load game
+800DCD84 001E
+#Level Modifier WESTERN DISTRICT You need to have at least 1 save game on your memory card then choose load game
+800DCD84 0023
+#Level Modifier EASTERN DISTRICT You need to have at least 1 save game on your memory card then choose load game
+800DCD84 0028
+#Level Modifier THE MONASTERY You need to have at least 1 save game on your memory card then choose load game
+800DCD84 002D
+#Level Modifier DAGLATHOR You need to have at least 1 save game on your memory card then choose load game
+800DCD84 0032
+#Level Modifier LAST FIGHT WITH THE BOSS You need to have at least 1 save game on your memory card then choose load game
+800DCD84 0036

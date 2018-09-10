@@ -1,0 +1,9 @@
+#Infinite Hp P1
+301CC1C0 00A6
+#P1 Unlimited Run 
+801EF1B8 C350
+#P2 One Hit Death 
+D01CC218 00A6
+801CC218 0001
+#P2 Can't Run 
+801EF1BC 0000

@@ -1,0 +1,35 @@
+#Always Place 1st
+800A8C58 0001
+#Always Low Time
+80079ED8 0000
+#Always On LaP 2
+800A8C5C 0002
+#Always On Lap 3
+800A8C5C 0003
+#Always On Lap 4
+800A8C5C 0004
+#Always On Lap 5
+800A8C5C 0005
+#Always Place 1st
+800A8C58 0001
+#Max Money (Profile)
+800AD584 E0FF
+800AD586 05F5
+#Max Stunt Points (In-Game)
+800A8BF4 E0FF
+800A8BF6 05F5
+#Max Stunt Points (Profile)
+800AD580 E0FF
+800AD582 05F5
+#Play Any Track (Motocross & Supercross Modes)
+D005F8E8 0030
+8005F8EA 1000
+#Rider Modifier (00-0F)
+800746BC 00??
+#Use Any Bike/Rider
+D0052E88 0024
+80052E8C 000F
+D0052E88 0024
+80052E8E 2403
+#Game Speed Max
+80079C74 000F

@@ -1,0 +1,5 @@
+#Unendlich Schild/Energie
+800BDEBC 1000
+800BDEC0 1000
+#Unendlich Leben
+800E3240 0009

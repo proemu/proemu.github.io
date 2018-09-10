@@ -1,0 +1,12 @@
+#Infinite HP Player 1 Super Street Fighter II
+80175118 0090
+#No Health P2 Super Street Fighter II	
+80175484 0000
+#Infinite HP Player 1 Super Street Fighter II Turbo		
+80175118 0090
+#No Health P2 Super Street Fighter II Turbo	
+80175484 0000
+#Play as Akuma Super Street Fighter II Turbo
+D01753CE 0100
+801753FC 0100
+

@@ -1,0 +1,13 @@
+#P1 Beginne mit letzter Frage		
+D006FED4 0000
+3006FED4 000F
+#P1 Unendlich Joker alle Spieler 50 : 50		
+D001E3C2 03E0
+8001E3C4 0000
+#P1 Unendlich Joker alle Spiele	Publikumsbefragung		
+D001E3D2 03E0
+8001E3D4 0000
+#P1 Unendlich Joker alle Spiele	Telefonate		
+D001E3E2 03E0
+8001E3E4 0000
+

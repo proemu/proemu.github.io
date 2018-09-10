@@ -1,0 +1,57 @@
+#Infinite Health
+D00E524E 012C
+800E5250 012C
+D00E524E 015E
+800E5250 015E
+#Inf. HP
+800E524E 012C
+#Infinite Ammo - Rick
+800E5278 0032
+#Have in inventory Data disk	
+300E5296 0001
+#Have in inventory Resistance sample	
+300E529B 0001
+#Have in inventory Repair kit	
+300E529D 0001
+#Have in inventory Electromagnetic key (canteen)	
+300E529F 0001
+#Have in inventory Writing paper	
+300E52A3 0001
+#Have in inventory System disk	
+300E52A7 0001
+#Have in inventory Mayers notebook	
+300E52A9 0001
+#Have in inventory Code chart	
+300E52AA 0001
+#Have in inventory Lifeform sample	
+300E52AB 0001
+#Have in inventory Photograph	
+300E52AC 0001
+#Have in inventory Electromagnetic key (constant temp room)	
+300E52AD 0001
+#Have in inventory Electromagnetic key (research lab)	
+300E52AE 0001
+#Have in inventory Electromagnetic key (breeding room)	
+300E52AF 0001
+#Inf. Ammo
+800E5274 9F00
+800E5276 0007
+800E5278 01F0
+50000602 0000
+800E527A 0CC3
+#All Weapons
+50000601 0001
+300E5289 0003
+#All Items
+50000302 0000
+800E5292 6363
+300E5299 0063
+800E529A 6363
+300E529D 0063
+300E529F 0063
+800E52A2 6363
+300E52A4 0063
+50000502 0000
+800E52A6 6363
+.the game won't display all the items, but they are there.
+

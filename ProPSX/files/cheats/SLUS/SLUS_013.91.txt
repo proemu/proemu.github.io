@@ -1,0 +1,17 @@
+#Infinite Money
+8013A83C 869F
+8013A83E 0001
+#Never Reload
+8006985A 0005
+#Infinite Health
+800E2F2C 0024
+#Infinite Health (Alternate)
+300FBF54 0024
+#Max Money
+80146158 423F
+8014615A 000F
+#Ride Your Vehicle And Use Your Weapons And Items (It makes the game think you're walking)
+800A2708 BEF4
+#All Levels Unlocked		
+50000F02 0000
+8007EE3C 0101

@@ -1,0 +1,22 @@
+#Infinite HP P1  
+800321FA 00A6 
+#1P Always Has Full Aggressor
+800321FC 0030 
+#1P death blow 
+D00321FA 00A6 
+800321FA 0001 
+#Infinite HP P2
+80032372 00A6
+#(Press SELECT button) 2P life 0 
+D00B964C 0100 
+80032372 0000 
+#2P Always Has Full Aggressor 
+80032374 0030 
+#2P death blow 
+D0032372 00A6 
+80032372 0001 
+#? in Options is Available 
+800326EC 0001
+#Unlock All Extras		
+800326EC 0001
+8003CA30 0001 

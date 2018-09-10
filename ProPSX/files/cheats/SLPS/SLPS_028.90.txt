@@ -1,0 +1,14 @@
+#Have 999999 money
+80090BFC 423F
+80090BFE 000F
+#Without tension Press Select + Square
+D008A02C 0180
+800F2A92 0000
+#Without tension
+800F2A92 0000
+#Have All Lures
+50006E02 0000
+80090C00 FFFF
+#Quiz limit release
+D0016100 0001
+80016100 0000

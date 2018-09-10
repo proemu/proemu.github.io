@@ -1,0 +1,11 @@
+#Infinite Lives
+800908EC 0063
+#Unlock All Levels
+8008384C 0009
+#Press L2 To All Coins
+D00A16E6 FEFF
+800908EA 0019
+#Press L1 For Quick Level Win
+D00A16E6 FBFF
+8007C530 0005
+

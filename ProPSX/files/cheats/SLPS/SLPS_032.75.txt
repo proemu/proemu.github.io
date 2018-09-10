@@ -1,0 +1,7 @@
+#Infinite energy female character  
+80153B98 270F
+80153B9A 270F 
+#Infinite water female character  
+800FD6E8 0064
+800FD6EA 0064 
+ 

@@ -1,0 +1,17 @@
+#Stop timer in street tour mode
+8005D46A 6300 
+#All skills at max level in street tour mode
+8008DE90 0C0C
+8008DE92 0C0C
+80086BB8 0000 
+#Mirrored tracks, time of day select in free skate mode
+8007629E 0401 
+#Unlock secret characters
+800762A0 FF00 
+#Have all Skate Boards
+800762A4 FFFF
+800762A6 3FFF 
+#Have all levels	
+80076398 3F3F
+#Infinite Checkpoint Time
+8005D468 270F

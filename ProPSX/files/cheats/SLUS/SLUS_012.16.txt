@@ -1,0 +1,37 @@
+#Max Points
+800B1BCC FFFF
+#Infinite Waves
+D00B1B58 0001
+800B1B58 0000
+#Heat 1 Max Rating
+D00B1B88 0000
+800B1B88 270F
+#Heat 2 Max Rating
+D00B1B8C 0000
+800B1B8C 270F
+#Heat 3 Max Rating
+D00B1B90 0000
+800B1B90 270F
+#Max Score
+D00B1B5C 0000
+800B1B5C FFFF
+#Unlock Gnarly Point
+8009733C 0001
+#Unlock Rock Piles
+800973E4 0001
+#Unlock Boiling Point
+8009748C 0001
+#Unlock Snapper Break
+80097534 0001
+#Unlock Fiddle Sticks
+800975DC 0001
+#Unlock Sharp's Reef
+80097684 0001
+#Unlock Fool's Gold
+8009772C 0001
+#Unlock Dead Man's
+800977D4 0001
+#Unlock Time Attack
+800A72D8 0001
+#Unlock Bonus Level
+800A72DC 0001

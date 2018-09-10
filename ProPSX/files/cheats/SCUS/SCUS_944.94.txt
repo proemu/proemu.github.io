@@ -1,0 +1,3 @@
+#Unlock all characters  
+50000902 0000
+800AE958 0101 

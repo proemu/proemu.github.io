@@ -1,0 +1,12 @@
+#Unendlich Spice
+800E090E 0098
+#Geb‰Ude Bauen Kostet Nichts
+800E0622 5A00
+#Sofortiges Bauen Von Geb‰Uden
+800E061C FFFF
+#Einheiten Bauen Kostet Nichts
+800E062C FFFF
+#Sofortiges Bauen Von Einheiten
+800E0632 5A00
+#Sofortiges Aufr¸Sten
+800E06D2 59FF

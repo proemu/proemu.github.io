@@ -1,0 +1,23 @@
+﻿#Unzerstörbar P1	
+300D424E 0000
+#Unendlich Geld P1 (Einzelspieler)	
+D0076E40 2710
+80076E40 D02C
+D0076E42 0000
+80076E42 0160
+D007847C 2710
+8007847C D02C
+D007847E 0000
+8007847E 0160
+#L2+R2 schaltet alle Autos 	
+E00BBE6D 0003
+50000F02 0000
+80078480 0101
+#Nur noch ein Zombie übrig (Drücke L1+L2)	
+D00BBE6C 0500
+8006C0BC 0001
+#Unendlich kostenlose Bergung	
+30076E4B 0005
+#Streckenanwahl	 Desert Storm (Mission 6)
+D0078448 0000
+80078448 0505

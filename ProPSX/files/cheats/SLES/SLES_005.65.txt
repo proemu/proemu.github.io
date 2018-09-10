@@ -1,0 +1,32 @@
+#Unsichtbar
+80077BA8 00C8
+#Unendlich Psionic
+80077BB0 00C8
+#Hifreq Munition Phase Guns
+80056F70 0032
+#Munition Lock On Gun
+80056F78 000A
+#Besitze Zodiac
+80077660 007D
+#Besitze Plasma Lance
+8007765C 0001
+#Unendlich Ammo 18Mm Gun
+80056F68 0014
+#Unendlich Ammo Phase Guns
+80056F74 0014
+#Unendlich Ammo Am Blaster Guns
+80056F7C 0014
+#Besitze 18Mm Automatic
+80077644 0001
+#Besitze Phase Rifle
+80077648 0001
+#Besitze Phase Repeator
+80017650 0001
+#Besitze Lock On Gun
+8001764E 0001
+#Besitze Am Blaster
+80077654 0001
+#Besitze Am Cyclone
+80077658 0001
+#Schnellfeuer
+80077BCC 0000

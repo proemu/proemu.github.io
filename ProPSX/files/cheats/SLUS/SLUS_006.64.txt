@@ -1,0 +1,156 @@
+#In Battle Codes Infinite Health All Character & Gears
+D0085762 A420
+80085762 2400
+D00858AA AC22
+800858AA 2400
+#In Battle Codes Infinite Ep All Character & Geats
+D008B416 A422
+8008B416 2400
+#In Battle Codes Infinite Fuel All Gears
+D0083F56 A425
+80083F56 2400
+D00859FA A422
+800859FA 2400
+D008CF56 A422
+8008CF56 2400
+#In Battle Codes\Battling Arena Codes\Infinite Health
+800987E0 012C
+#In Battle Codes\Battling Arena Codes\Never Overheat
+800987E2 0000
+#Infinite Items All Slots
+D01DBC32 A2E2
+801DBC32 2400
+#Infinite Gold
+8006EF58 967F
+8006EF5A 0098
+#Time Always 000:00:00
+80059488 0000
+8005948A 0000
+#Save Anywhere
+80059170 0100
+#Bart Codes\Max Hp
+8006DAD8 03E7
+8006DADA 03E7
+#Bart Codes\Max Ep
+8006DADC 03E7
+8006DADE 03E7
+#Billy Codes\Max Hp
+8006DB7C 03E7
+8006DB7E 03E7
+#Billy Codes\Max Ep
+8006DB80 03E7
+8006DB82 03E7
+#Chu-Chu Codes\Max Hp
+8006DD68 03E7
+8006DD6A 03E7
+#Chu-Chu Codes\Max Ep
+8006DD6C 03E7
+8006DD6E 03E7
+#Citan Codes\Infinite Hp
+8006DA34 03E7
+8006DA36 03E7
+#Citan Codes\Infinite Ep
+8006DA38 03E7
+8006DA3A 03E7
+#Elly Codes\Infinite Hp
+8006D990 03E7
+8006D992 03E7
+#Elly Codes\Infinite Ep
+8006D994 03E7
+8006D996 03E7
+#Fei Codes\Infinite Hp
+8006D8EC 03E7
+8006D8EE 03E7
+#Fei Codes\Infinite Ep
+8006D8F0 03E7
+8006D8F2 03E7
+#Maria Codes\Max Hp
+8006DE0C 03E7
+8006DE0E 03E7
+#Maria Codes\Max Ep
+8006DE10 03E7
+8006DE12 03E7
+#Rico Codes\Max Hp
+8006DC20 03E7
+8006DC22 03E7
+#Rico Codes\Max Ep
+8006DC24 03E7
+8006DC26 03E7
+#Vierge Codes\Max Hp
+8006E154 967F
+8006E156 0098
+8006E158 967F
+8006E15A 0098
+#Vierge Codes\Max Fuel
+8006E12C 270F
+8006E12E 270F
+#Weltall Codes\Max Hp
+8006E00C 967F
+8006E00E 0098
+8006E010 967F
+8006E012 0098
+#Weltall Codes\Max Fuel
+8006DFE4 270F
+8006DFE6 270F
+#Weltall-2 Codes\Max Hp
+8006E0B0 967F
+8006E0B2 0098
+8006E0B4 967F
+8006E0B6 0098
+#Weltall-2 Codes\Max Fuel
+8006E088 270F
+8006E08A 270F
+#In Battle Codes\Character 1 Codes\Infinite Health
+800CCD34 03E7
+.These codes are Human Only! Don't use when you are a gear!
+#In Battle Codes\Character 1 Codes\Infinite Ep
+800CCD38 0063
+.These codes are Human Only! Don't use when you are a gear!
+#In Battle Codes\Character 1 Codes\Infinite Ap
+800D32A0 0020
+.These codes are Human Only! Don't use when you are a gear!
+#In Battle Codes\Character 2 Codes\Infinite Health
+800CCEA4 03E7
+.These codes are Human Only! Don't use when you are a gear!
+#In Battle Codes\Character 2 Codes\Infinite Ep
+800CCEA8 0063
+.These codes are Human Only! Don't use when you are a gear!
+#In Battle Codes\Character 2 Codes\Infinite Ap
+800D32A8 0020
+.These codes are Human Only! Don't use when you are a gear!
+#In Battle Codes\Character 3 Codes\Infinite Health
+800CD014 03E7
+.These codes are Human Only! Don't use when you are a gear!
+#In Battle Codes\Character 3 Codes\Infinite Ep
+800CD018 0063
+.These codes are Human Only! Don't use when you are a gear!
+#In Battle Codes\Character 3 Codes\Infinite Ap
+800D32B0 0020
+.These codes are Human Only! Don't use when you are a gear!
+#In Battle Codes\Gear 1 Codes\Infinite Health
+800CCDEC FFFF
+.These codes Gear Only! Don't use when you are a human!
+#In Battle Codes\Gear 1 Codes\Infinite Fuel
+800CCDC4 FFFF
+.These codes Gear Only! Don't use when you are a human!
+#In Battle Codes\Gear 1 Codes\Max Attack Level
+800CCE30 0204
+.These codes Gear Only! Don't use when you are a human!
+#In Battle Codes\Gear 2 Codes\Infinite Health
+800CCF5C FFFF
+.These codes Gear Only! Don't use when you are a human!
+#In Battle Codes\Gear 2 Codes\Infinite Fuel
+800CCF34 FFFF
+.These codes Gear Only! Don't use when you are a human!
+#In Battle Codes\Gear 2 Codes\Max Attack Level
+800CCFA0 0204
+.These codes Gear Only! Don't use when you are a human!
+#In Battle Codes\Gear 3 Codes\Infinite Health
+800CD0CC FFFF
+.These codes Gear Only! Don't use when you are a human!
+#In Battle Codes\Gear 3 Codes\Infinite Fuel
+800CD0A4 FFFF
+.These codes Gear Only! Don't use when you are a human!
+#In Battle Codes\Gear 3 Codes\Max Attack Level
+800CD110 0204
+.These codes Gear Only! Don't use when you are a human!

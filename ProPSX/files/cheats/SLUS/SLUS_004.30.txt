@@ -1,0 +1,53 @@
+#Infinite Money
+800406C0 FFFF
+800406C2 7FFF
+#Infinite Nets
+8004094C 0014
+#Infinite Torpedos
+8004094E 0014
+#Infinite Mines
+80040950 000E
+#Infinite Smart Missiles
+80040952 000B
+#Infinite Seeker Mines
+80040954 000A
+#Infinite Sonic Torpedos
+80040956 000D
+#Infinite Plasma Bombs
+80040958 0002
+#Infinite Medical Kits
+80040962 0005
+#Infinite Pony Tanks
+80040964 0002
+#Infinite Damage
+800B97D0 EA60
+#Infinite Energy
+800B9700 EA60
+#Infinite Oxygen
+80116BEC 0164
+#Unlock Mission Codes Atlantis		
+300324B3 0001
+#Unlock Mission Codes Bermuda Triangle		
+300324AE 0001
+#Unlock Mission Codes Bottom of the Earth		
+300324AC 0001
+#Unlock Mission Codes Deep Freeze		
+300324B1 0001
+#Unlock Mission Codes Diver Straits		
+300324A9 0001
+#Unlock Mission Codes Great Barrier Reef		
+300324AB 0001
+#Unlock Mission Codes Hitler's Lost Gold		
+300324B2 0001
+#Unlock Mission Codes Maru Rescue		
+300324AF 0001
+#Unlock Mission Codes Montezuma's Revenge		
+300324AD 0001
+#Unlock Mission Codes Safe Passage		
+300324B0 0001
+#Unlock Mission Codes Shark Attack		
+300324B4 0001
+#Unlock Mission Codes Sub-Traficante		
+300324AA 0001
+#Have All Subs		
+8004400C 00FF

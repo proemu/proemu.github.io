@@ -1,0 +1,5 @@
+#Invincibility
+80030BA0 0064
+#Infinite Water
+80030C24 0820
+

@@ -1,0 +1,8 @@
+#Infinite health in story mode  
+800CB44E 00FF
+800CB450 00FF
+800CB452 00FF 
+#Infinite health normal & vs modes  
+80022704 0000 
+#Infinite time  
+800140A4 0000 

@@ -1,0 +1,21 @@
+#Infinite health P1	
+80178CB6 3221
+80178CB4 0100
+80178CCE 1020
+80178CCC 000D
+#Infinite Health P1 And P2
+80178CF2 3C00
+#Start With Full Beastmeters P1+P2
+80175964 3A00
+#Have All Movies
+801C1228 FFFF
+#Have All Pictures
+50000502 0000
+801C1254 FFFF
+#Have All Characters
+801C124C FFFF
+#Have All Custom
+801C1242 FFFF
+801C1244 FFFF
+#Infinite Time To Chose Character
+801FFE1C 1760

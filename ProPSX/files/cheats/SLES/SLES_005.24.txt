@@ -1,0 +1,529 @@
+#Infinite Money
+80097C00 423F
+80097C02 000F
+#Level Up Booster
+80097BFC 423F
+80097BFE 000F
+#Max Attack
+800F4C06 1400
+#Max Guard
+800F505E 1400
+#Max Strength
+80097BC8 03E7
+#Max Condition
+80097BCC 03E7
+#Max Intelligence
+80097BD0 03E7
+#Max Luck
+80097BD4 03E7
+#All Relics
+50000E02 0000
+80097974 0303
+#Infinite Hp For Richter
+80087BB0 003C
+80136C14 003C
+#Quick Level Gain
+80097BEC FFFF
+#Infinite Hp
+80097BA0 03E7
+#Infinite Mp
+80097BB0 03E7
+#Infinite Hearts
+80097BA8 0063
+#999 Attack
+800F4BF6 1400
+#All Familiars At Level 99
+80097C54 0063
+80097C60 0063
+80097C6C 0063
+80097C78 0063
+80097C84 0063
+#Sudden Death Dracula i (.Press L1+L2)
+E0072EF0 0005
+80076EDE 0000
+#Sudden Death Dracula II (.Press R1+R2)
+E0072EF0 000A
+8007728A 0000
+#Amount Of Visited Rooms
+3003C768 00FF
+#Amount Of Killed Enemies
+30097C04 0FFF
+#Have Superjump
+30097458 0090
+#Playing Time 00:00:00
+80097C48 0000
+#All Have Exp 99
+5000050C 0000
+30097C58 0063
+#Japanese Demon-Level 99
+30097C9C 0063
+#Japanese Demon-Exp 99
+30097CA0 0063
+#Menu At Maximum
+800F505E 03E7
+800F4C06 03E7
+50000404 0000
+80097BC8 03E7
+#X-Code i
+50000504 0000
+30097BB0 00FF
+#X-Code II
+50000204 0000
+80097BFC 2710
+#Have All Spells
+50000402 0202
+80097992 8081
+#Inventory\Have Knight Shield
+300979A0 00FF
+#Inventory\Have Iron Shield
+300979A1 00FF
+#Inventory\Have Axelord
+300979A2 00FF
+#Inventory\Have Herald Shield
+300979A3 00FF
+#Inventory\Have Dark Shield
+300979A4 00FF
+#Inventory\Have Goddess Shield
+300979A5 00FF
+#Inventory\Have Shaman Shield
+300979A6 00FF
+#Inventory\Have Medusa Shield
+300979A7 00FF
+#Inventory\Have Skull Shield
+300979A8 00FF
+#Inventory\Have Fire Shield
+300979A9 00FF
+#Inventory\Have Alucard Shield
+300979AA 00FF
+#Inventory\Have Sword Of Dawn
+300979AB 00FF
+#Inventory\Have Basilard
+300979AC 00FF
+#Inventory\Have Short Sword
+300979AD 00FF
+#Inventory\Have Combat Knife
+300979AE 00FF
+#Inventory\Have Nunchaku
+300979AF 00FF
+#Inventory\Have Were Bane
+300979B0 00FF
+#Inventory\Have Rapier
+300979B1 00FF
+#Inventory\Have Karma Coin
+300979B2 00FF
+#Inventory\Have Magic Missile
+300979B3 00FF
+#Inventory\Have Red Dust
+300979B4 00FF
+#Inventory\Have Takemitsu
+300979B5 00FF
+#Inventory\Have Shotel
+300979B6 00FF
+#Inventory\Have Orange
+300979B7 00FF
+#Inventory\Have Apple
+300979B8 00FF
+#Inventory\Have Banana
+300979B9 00FF
+#Inventory\Have Grapes
+300979BA 00FF
+#Inventory\Have Strawberry
+300979BB 00FF
+#Inventory\Have Pineapple
+300979BC 00FF
+#Inventory\Have Peanuts
+300979BD 00FF
+#Inventory\Have Toadstool
+300979BE 00FF
+#Inventory\Have Shiltake
+300979BF 00FF
+#Inventory\Have Cheese Cake
+300979C0 00FF
+#Inventory\Have Short Cake
+300979C1 00FF
+#Inventory\Have Tart
+300979C2 00FF
+#Inventory\Have Parfait
+300979C3 00FF
+#Inventory\Have Pudding
+300979C4 00FF
+#Inventory\Have Ice Ceam
+300979C5 00FF
+#Inventory\Have Frankfurter
+300979C6 00FF
+#Inventory\Have Hamburger
+300979C7 00FF
+#Inventory\Have Pizza
+300979C8 00FF
+#Inventory\Have Cheese
+300979C9 00FF
+#Inventory\Have Ham And Eggs
+300979CA 00FF
+#Inventory\Have Omelette
+300979CB 00FF
+#Inventory\Have Morning Set
+300979CC 00FF
+#Inventory\Have Lunch A
+300979CD 00FF
+#Inventory\Have Lunch B
+300979CE 00FF
+#Inventory\Have Curry Rice
+300979CF 00FF
+#Inventory\Have Gyros Plate
+300979D0 00FF
+#Inventory\Have Spaghetti
+300979D1 00FF
+#Inventory\Have Grape Juice
+300979D2 00FF
+#Inventory\Have Barley Tea
+300979D3 00FF
+#Inventory\Have Green Tea
+300979D4 00FF
+#Inventory\Have Natou
+300979D5 00FF
+#Inventory\Have Ramen
+300979D6 00FF
+#Inventory\Have Miso Soup
+300979D7 00FF
+#Inventory\Have Sushi
+300979D8 00FF
+#Inventory\Have Pork Bun
+300979D9 00FF
+#Inventory\Have Red Bean Bun
+300979DA 00FF
+#Inventory\Have Chinese Bun
+300979DB 00FF
+#Inventory\Have Dim Sum Set
+300979DC 00FF
+#Inventory\Have Pot Roast
+300979DD 00FF
+#Inventory\Have Sirloin
+300979DE 00FF
+#Inventory\Have Turkey
+300979DF 00FF
+#Inventory\Have Meal Ticket
+300979E0 00FF
+#Inventory\Have Neutron Bomb
+300979E1 00FF
+#Inventory\Have Power Of Sire
+300979E2 00FF
+#Inventory\Have Pentagram
+300979E3 00FF
+#Inventory\Have Bat Pentagram
+300979E4 00FF
+#Inventory\Have Shuriken
+300979E5 00FF
+#Inventory\Have Cross Shuriken
+300979E6 00FF
+#Inventory\Have Buffalo Star
+300979E7 00FF
+#Inventory\Have Flame Star
+300979E8 00FF
+#Inventory\Have Tnt
+300979E9 00FF
+#Inventory\Have Bwaka Knife
+300979EA 00FF
+#Inventory\Have Boomerang
+300979EB 00FF
+#Inventory\Have Javelin
+300979EC 00FF
+#Inventory\Have Tyrfing
+300979ED 00FF
+#Inventory\Have Namakura
+300979EE 00FF
+#Inventory\Have Knuckle Buster
+300979EF 00FF
+#Inventory\Have Gladius
+300979F0 00FF
+#Inventory\Have Scimitar
+300979F1 00FF
+#Inventory\Have Cutlass
+300979F2 00FF
+#Inventory\Have Saber
+300979F3 00FF
+#Inventory\Have Palomion
+300979F4 00FF
+#Inventory\Have Broadsword
+300979F5 00FF
+#Inventory\Have Bekatowa
+300979F6 00FF
+#Inventory\Have Damascus Sword
+300979F7 00FF
+#Inventory\Have Hunter Sword
+300979F8 00FF
+#Inventory\Have Estoc
+300979F9 00FF
+#Inventory\Have Bastard Sword
+300979FA 00FF
+#Inventory\Have Jewel Knuckles
+300979FB 00FF
+#Inventory\Have Claymore
+300979FC 00FF
+#Inventory\Have Talwar
+300979FD 00FF
+#Inventory\Have Katana
+300979FE 00FF
+#Inventory\Have Flamberge
+300979FF 00FF
+#Inventory\Have Iron Fistke
+30097A00 00FF
+#Inventory\Have Zweihander
+30097A01 00FF
+#Inventory\Have Sword Of Hador
+30097A02 00FF
+#Inventory\Have Luminus
+30097A03 00FF
+#Inventory\Have Harper
+30097A04 00FF
+#Inventory\Have Obsidian Sword
+30097A05 00FF
+#Inventory\Have Gram
+30097A06 00FF
+#Inventory\Have Jewel Sword
+30097A07 00FF
+#Inventory\Have Mormegil
+30097A08 00FF
+#Inventory\Have Firebrand
+30097A09 00FF
+#Inventory\Have Thunderbrand
+30097A0A 00FF
+#Inventory\Have Kebrand
+30097A0B 00FF
+#Inventory\Have Stone Sword
+30097A0C 00FF
+#Inventory\Have Holy Sword
+30097A0D 00FF
+#Inventory\Have Terminus Est
+30097A0E 00FF
+#Inventory\Have Marsil
+30097A0F 00FF
+#Inventory\Have Dark Blade
+30097A10 00FF
+#Inventory\Have Heaven Sword
+30097A11 00FF
+#Inventory\Have Fist Of Tulkas
+30097A12 00FF
+#Inventory\Have Gurthang
+30097A13 00FF
+#Inventory\Have Mourne Blade
+30097A14 00FF
+#Inventory\Have Alucard Sword
+30097A15 00FF
+#Inventory\Have Mablune Sword
+30097A16 00FF
+#Inventory\Have Badelaire
+30097A17 00FF
+#Inventory\Have Sword Familiar
+30097A18 00FF
+#Inventory\Have Great Sword
+30097A19 00FF
+#Inventory\Have Mace
+30097A1A 00FF
+#Inventory\Have Morning Star
+30097A1B 00FF
+#Inventory\Have Holy Rod
+30097A1C 00FF
+#Inventory\Have Star Flail
+30097A1D 00FF
+#Inventory\Have Moon Rod
+30097A1E 00FF
+#Inventory\Have Chakram
+30097A1F 00FF
+#Inventory\Have Fire Boomerang
+30097A20 00FF
+#Inventory\Have Iron Ball
+30097A21 00FF
+#Inventory\Have Holbein Dagger
+30097A22 00FF
+#Inventory\Have Blinfinite Knuckles
+30097A23 00FF
+#Inventory\Have Dynamite
+30097A24 00FF
+#Inventory\Have Osafune Katana
+30097A25 00FF
+#Inventory\Have Masamune
+30097A26 00FF
+#Inventory\Have Muramasa
+30097A27 00FF
+#Inventory\Have Heart Refresh
+30097A28 00FF
+#Inventory\Have Rune Sword
+30097A29 00FF
+#Inventory\Have Antivenom
+30097A2A 00FF
+#Inventory\Have Uncurse
+30097A2B 00FF
+#Inventory\Have Life Apple
+30097A2C 00FF
+#Inventory\Have Hammer
+30097A2D 00FF
+#Inventory\Have Strength.Potion
+30097A2E 00FF
+#Inventory\Have Luck Potion
+30097A2F 00FF
+#Inventory\Have Smart Potion
+30097A30 00FF
+#Inventory\Have Attack Potion
+30097A31 00FF
+#Inventory\Have Shield Potion
+30097A32 00FF
+#Inventory\Have Resist Fire
+30097A33 00FF
+#Inventory\Have Resist Thunder
+30097A34 00FF
+#Inventory\Have Resist Ice
+30097A35 00FF
+#Inventory\Have Resist Stone
+30097A36 00FF
+#Inventory\Have Resist Holy
+30097A37 00FF
+#Inventory\Have Resist Dark
+30097A38 00FF
+#Inventory\Have High Potion
+30097A3A 00FF
+#Inventory\Have Elixir
+30097A3B 00FF
+#Inventory\Have Manna Prism
+30097A3C 00FF
+#Inventory\Have Vorpal Blade
+30097A3D 00FF
+#Inventory\Have Crissaegrim
+30097A3E 00FF
+#Inventory\Have Yasutsuna
+30097A3F 00FF
+#Inventory\Have Library Card
+30097A40 00FF
+#Inventory\Have Alucard Shield
+30097A41 00FF
+#Inventory\Have Alucard Sword
+30097A42 00FF
+#Inventory\Have Cloth Cape
+30097A74 00FF
+#Inventory\Have Reverse Cloak
+30097A75 00FF
+#Inventory\Have Elven Cloak
+30097A76 00FF
+#Inventory\Have Crystal Cloak
+30097A77 00FF
+#Inventory\Have Royal Cloak
+30097A78 00FF
+#Inventory\Have Blood Cloak
+30097A79 00FF
+#Inventory\Have Joseph's Cloak
+30097A7A 00FF
+#Inventory\Have Twilight Cloak
+30097A7B 00FF
+#Inventory\Have Moonstone
+30097A7D 00FF
+#Inventory\Have Sunstone
+30097A7E 00FF
+#Inventory\Have Bloodstone
+30097A7F 00FF
+#Inventory\Have Staurolite
+30097A80 00FF
+#Inventory\Have Ring Of Pales
+30097A81 00FF
+#Inventory\Have Zircon
+30097A82 00FF
+#Inventory\Have Aquamarine
+30097A83 00FF
+#Inventory\Have Turquoise
+30097A84 00FF
+#Inventory\Have Onyx
+30097A85 00FF
+#Inventory\Have Garnet
+30097A86 00FF
+#Inventory\Have Opal
+30097A87 00FF
+#Inventory\Have Diamond
+30097A88 00FF
+#Inventory\Have Lapislazuli
+30097A89 00FF
+#Inventory\Have Ring Of Ares
+30097A8A 00FF
+#Inventory\Have Gold Ring
+30097A8B 00FF
+#Inventory\Have Silver Ring
+30097A8C 00FF
+#Inventory\Have Ring Of Varda
+30097A8D 00FF
+#Inventory\Have Ring Of Arcana
+30097A8E 00FF
+#Inventory\Have Mystic Pendant
+30097A8F 00FF
+#Inventory\Have Heart Broach
+30097A90 00FF
+#Inventory\Have Necklace Of J
+30097A91 00FF
+#Inventory\Have Gauntlet
+30097A92 00FF
+#Inventory\Have Ankh Of Life
+30097A93 00FF
+#Inventory\Have Ring Of Feanor
+30097A94 00FF
+#Inventory\Have Medal
+30097A95 00FF
+#Inventory\Have Talisman
+30097A96 00FF
+#Inventory\Have Duplicator
+30097A97 00FF
+#Inventory\Have King's Stone
+30097A98 00FF
+#Inventory\Have Convenant Stone
+30097A99 00FF
+#Inventory\Have Nauglamir
+30097A9A 00FF
+#Inventory\Have Secret Boots
+30097A9B 00FF
+#Inventory\Have Alucart Mail
+30097A9C 00FF
+#Inventory\Have Ballroom Mask
+30097A5F 00FF
+#Inventory\Have Bandana
+30097A60 00FF
+#Inventory\Have Felt Hat
+30097A61 00FF
+#Inventory\Have Velvet Hat
+30097A62 00FF
+#Inventory\Have Goggles
+30097A63 00FF
+#Inventory\Have Leather Hat
+30097A64 00FF
+#Inventory\Have Holy Glasses
+30097A65 00FF
+#Inventory\Have Steel Helmet
+30097A66 00FF
+#Inventory\Have Stone Mask
+30097A67 00FF
+#Inventory\Have Fire Mail
+30097A4D 00FF
+#Inventory\Have Lightning Mail
+30097A4E 00FF
+#Inventory\Have Ice Mail
+30097A4F 00FF
+#Inventory\Have Mirror Cuirass
+30097A50 00FF
+#Inventory\Have Spikebreaker
+30097A51 00FF
+#Inventory\Have Alucard Mail
+30097A52 00FF
+#Inventory\Have Dark Armor
+30097A53 00FF
+#Inventory\Have Healing Mail
+30097A54 00FF
+#Inventory\Have Holy Mail
+30097A55 00FF
+#Inventory\Have Walk Armor
+30097A56 00FF
+#Inventory\Have Brilliant Mail
+30097A57 00FF
+#Inventory\Have Moso Mail
+30097A58 00FF
+#Inventory\Have Fury Plate
+30097A59 00FF
+#Inventory\Have Dracula Tunic
+30097A5A 00FF
+#Inventory\Have God's Garb
+30097A5B 00FF
+#Inventory\Have Axelord Armor
+30097A5C 00FF

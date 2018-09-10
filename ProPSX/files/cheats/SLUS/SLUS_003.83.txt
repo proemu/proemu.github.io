@@ -1,0 +1,16 @@
+#Infinite Missiles
+800C2178 0064
+#Infinite Energy
+800BF660 00FD
+#Infinite Flame Thrower
+800C2174 00FA
+#Infinite Grenades
+800C2184 000A
+#Infinite Disruptor
+800C2188 0064
+#Infinite Homing Missiles
+800C217C 0064
+#Infinite Io-Storm
+800C218C 0064
+#Infinite Photons
+800C2180 0064

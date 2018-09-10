@@ -1,0 +1,37 @@
+#Curtis - Infinite Health 	
+801F6A56 0044 		
+#Curtis - Infinite Special 	
+801F6A5A 0044 		
+#Boris - Infinite Health 	
+801F6BDA 0044 		
+#Boris - Infinite Special 	
+801F6BDE 0044 		
+#Ruby - Infinite Health 	
+801F6D5E 0044 		
+#Ruby - Infinite Special 	
+801F6D62 0044 		
+#George - Infinite Health 	
+801F6EE2 0044 		
+#George - Infinite Special 	
+801F6EE6 0044 		
+#Lizzie - Infinite Health 	
+801F7066 0044 		
+#Lizzie - Infinite Special 	
+801F706A 0044 		
+#Ralph - Infinite Health 	
+801F71EA 0044 		
+#Ralph - Infinite Special 	
+801F71EE 0044 		
+#Myukus - Infinite Health 	
+801F736E 0044 		
+#Myukus - Infinite Special 	
+801F7372 0044
+#Harley - Infinite Health 	
+801F74F2 0044 		
+#Harley - Infinite Special 	
+801F74F6 0044 		
+#P1 Have All 9 Stars 	
+801F8268 0009
+#Round Test Unlocked (Start Game menu)		
+3009F7D4 0004
+

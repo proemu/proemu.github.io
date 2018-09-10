@@ -1,0 +1,13 @@
+#Infinite Energy
+800EF16A 0060
+#Infinite Fuel
+800EDA7E 0064
+#Infinite Shields
+800EF168 00C8
+#Infinite Infinite Secondary Weapon Ammo
+800EF172 03E8
+#Max Credits
+800AB724 967F
+800AB726 0098
+#Activate  All Cheat 
+300AB4C0 001F

@@ -1,0 +1,26 @@
+#Have 99 Lives
+80064587 0063
+#Infinite energy
+80064590 00C8
+#Have 999 bubbles
+80064562 03E7
+#Invinicble
+80064598 0000
+#All Teaching Mastered
+80064560 FFFF
+#Level 1 The Savannah
+800644EC 0001
+#Level 2 The Marshlands
+800644EC 0002
+#Level 3 The Forest
+800644EC 0003
+#Level 4 The Large Embankment
+800644EC 0004
+#Level 5 The Cave
+800644EC 0005
+#Level 6 The Rocky Plateau
+800644EC 0006
+#Level 7 Karaba's Cabin
+800644EC 0007
+#Level 8 Bonus
+800644EC 0008

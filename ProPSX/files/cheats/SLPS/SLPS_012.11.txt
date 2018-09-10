@@ -1,0 +1,12 @@
+#Infinite Continues
+8008EB34 000A
+#P1 Infinite Hp
+80106C5E 0004
+#P1 Infinite Special Attack
+80106BE6 0096
+80106BE8 0096
+#P2 Infinite Hp
+80106D2A 0004
+#P2 Infinite Special Attack
+80106CB2 0096
+80106CB4 0096

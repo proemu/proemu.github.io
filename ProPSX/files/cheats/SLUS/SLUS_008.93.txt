@@ -1,0 +1,40 @@
+#Infinite Health
+800B221E 000F
+#Infinite Lives	
+800B2222 0009
+#Have 99 Coins		
+800B2226 0063
+#Invincible		
+800B21C8 0009
+800B221C 002A
+#Infinite Comic Shield	
+800B2220 0287
+#Slinky Challenges - All Levels - Infinite Time		
+800A1360 0096
+800A1370 01C8
+#Slinky Challenges - All Objects - All Levels		
+800A1104 0005
+#All 5 Things- Every Level		
+800A11F8 0005
+#All Pizza Planet Tokens Start a new game get back to menu and continue game All Levels Completed and unlocked		
+800C1618 1F1F 
+800C161A 1F1F 
+800C161C 1F1F 
+800C161E 1F1F 
+800C1620 1F1F 
+800C1622 1F1F 
+800C1624 1F1F
+#Bombs Away - Boss - No Health		
+800C2F14 E72F 
+800C3F1A 0001
+#Final Shodown - Bosses - No Health		
+800C2FB2 0001 
+800C2EAE 0000
+#Toy Barn Encounter - Boss - No Health		
+800C2F1A 0001
+800C32A4 0000
+#The Evil Emperor Zurg - Boss - No Health		
+800C251A 0000
+800CE5BC 0000
+#Infinite Disk Launcher Ammo		
+800A15C4 0008

@@ -1,0 +1,10 @@
+#Infinite Health
+80092E4C 0064
+#Start With 100 Lives
+D0092E50 0003
+80092E50 0064
+#Have  99 bones 
+80093318 0063
+#Have rescued 99 puppies (0-99)
+80093320 0063
+

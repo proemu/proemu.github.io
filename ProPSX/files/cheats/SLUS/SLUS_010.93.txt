@@ -1,0 +1,11 @@
+#Max Cash
+801FB776 00FF
+#Max Championship Points
+301FB770 00FF
+#Start On Last Lap/Place 1st 
+E012DCFA 0000
+3012DCFA 0002
+E012DCFA 0000
+3012DCFB 0000
+#Unlock Everything
+301FB1FC 0007

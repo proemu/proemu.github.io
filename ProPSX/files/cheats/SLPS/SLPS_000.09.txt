@@ -1,0 +1,4 @@
+#Always 90 seconds course out
+801B3D0C 0708
+#Time is always 0
+801B3D8C 0000

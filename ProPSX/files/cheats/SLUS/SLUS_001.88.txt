@@ -1,0 +1,27 @@
+#Infinite Lives
+80046158 0000
+#Infinite Shield
+800C4040 0320
+#Infinite Missiles
+800C4094 0404
+800C4088 6363
+#Infinite Neon Lasers
+800C4096 0004
+800C408A 0063
+#Infinite Mines & Flares
+800C408C 6363
+800C4098 0101
+#Infinite Smart Bombs
+800C408E 6363
+800C409A 0101
+#Have Triple Machine Gun
+800C4092 0300
+#Infinite Super Thrusters
+800C4044 0003
+#Stop Timer
+800C40B6 0039
+#Stop Enemy Repair Clocks
+800B08E2 001F
+800B08E4 001F
+800B08E6 001F
+800B08E8 001F

@@ -1,0 +1,11 @@
+#Infinite Time
+8007D14E 003B
+8007D14A 003B
+#Infinite Health (All Levels)
+8009840A 2400
+#Never Reload (All Levels)
+800982D6 2400
+#Infinite Bullets (Target Take Down)
+80184CD4 0063
+#Infinite Bullets (Rolling Rampage)
+80184914 0063

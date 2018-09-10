@@ -1,0 +1,4 @@
+#Infinite energy	
+800EC3A8 0005		
+#Infinite lives	
+800F4574 0002

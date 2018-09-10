@@ -1,0 +1,11 @@
+#Infinite check point time  
+80130C5C 270F 
+#Always Come In 1st Place  
+80080260 0001 
+#Have All Cars  
+801D6DFC 0001
+801DB008 0001 
+#Have All Cars (alternate)  
+80176AD8 000D 
+#Have All Tracks  
+80176C00 00FF 

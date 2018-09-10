@@ -1,0 +1,16 @@
+#Max score Mat Hoffman		
+801EF288 FFFF
+#Max Score Mike Escamilla		
+801EF200 FFFF
+#max special	
+80010E78 0FFF
+80010E7A 2442
+8001FD5A 2400
+80010F52 2400
+#Each trick is worth 50.000 points	
+8006631A 2442
+80066318 C350
+#Time frozen	
+8003B016 AF80
+#No timer / Free skate mode	
+800D667C 0002

@@ -1,0 +1,14 @@
+#P1 Inf HP		
+8008CFD8 0000
+#P1 Inf HP (Tiny 3D mode only)		
+8008B4C8 0000
+#P1 Inf POW		
+8008CFE0 6800
+#P1 Inf POW (Tiny 3D mode only)		
+8008B4D0 6800
+#P2 No HP		
+8008CFDA 6800
+#P2 No HP (Tiny 3D mode only)		
+8008B4CA 6800
+
+

@@ -1,0 +1,84 @@
+#Infinite Energy Caves
+80176736 03E8
+#Infinite Energy City of Vicabama
+80181306 03E8
+#Infinite Energy Lost Valley
+801947AA 03E8
+#Infinite Energy Tomb of Qualopec
+801765DE 03E8
+#Infinite Energy St. Francis' Folly
+8018830A 03E8
+#Infinite Energy Colosseum
+8018EB3A 03E8
+#Infinite Energy Palace Midas
+8019D32A 03E8
+#Infinite Energy The Cistern
+801AB7A6 03E8
+#Infinite Energy Tomb of Tihocan
+801A0282 03E8
+#Infinite Energy City of Khamoon
+80181E6E 03E8
+#Infinite Energy Obelisk of Khamoon
+80189526 03E8
+#Infinite Energy Sanctuary of The Scion
+8018EFDE 03E8
+#Infinite Energy Natla Mines
+8019ED7E 03E8
+#Infinite Energy Atlantis
+8019C38A 03E8
+#Infinite Energy The Great Pyramid
+801A2FCE 03E8
+#Level Modifier City of Vicabama
+D01FFF90 0001
+801FFF90 0002
+#Level Modifier Lost Valley
+D01FFF90 0001
+801FFF90 0003
+#Level Modifier Tomb of Qualopec
+D01FFF90 0001
+801FFF90 0004
+#Level Modifier St. Francis' Folly
+D01FFF90 0001
+801FFF90 0005
+#Level Modifier Colosseum
+D01FFF90 0001
+801FFF90 0006
+#Level Modifier Palace Midas
+D01FFF90 0001
+801FFF90 0007
+#Level Modifier The Cistern
+D01FFF90 0001
+801FFF90 0008
+#Level Modifier Tomb of Tihocan
+D01FFF90 0001
+801FFF90 0009
+#Level Modifier City of Khamoon
+D01FFF90 0001
+801FFF90 000A
+#Level Modifier Obelisk of Khamoon
+D01FFF90 0001
+801FFF90 000B
+#Level Modifier Sanctuary of The Scion
+D01FFF90 0001
+801FFF90 000C
+#Level Modifier Natla Mines
+D01FFF90 0001
+801FFF90 000D
+#Level Modifier Atlantis
+D01FFF90 0001
+801FFF90 000E
+#Level Modifier The Great Pyramid
+D01FFF90 0001
+801FFF90 000F
+#Infinite Oxygen Under Water
+801DDF02 0708
+#Always Have All Items
+80088644 0008
+#Always Have All Guns
+80088644 0005
+#Infinite Oxygen Under Water V.1.1.
+801DE002 0708
+#Always Have All Items V.1.1.
+8008872C 0008
+#Always Have All Guns V.1.1
+8008872C 0005

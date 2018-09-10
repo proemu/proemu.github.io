@@ -1,0 +1,57 @@
+#Infinite energy P1
+8008FDA5 0069
+8009844E 0075
+#1P stamina 
+8008FDA4 6900 
+#2P stamina 
+8008FEF0 6900 
+#Gallery Mode Fully Open
+800CB8F2 0001
+800CB8F6 0001
+800CB8FA 0001
+800CB8FE 0001
+800CB902 0001
+800CB904 0001
+800CB906 0001
+800CB908 0001
+800CB90A 0001
+800CB90C 0001
+800CB90E 0001
+800CB910 0001
+800CB912 0001
+#All Unlock (Final story mode, gallery and character)
+8008D848 FFFF
+50001304 0000
+800CB8EE 0001
+#1P character change Ken
+30097B08 0000
+#1P character change Swan Jun 
+30097B08 0001
+#1P character change Berukukatsutse
+30097B08 0002
+#1P character change Casshern
+30097B08 0003
+#1P character change Luna Kozuki 
+30097B08 0004
+#1P character change Buraikingubosu
+30097B08 0005
+#1P character change Polymer
+30097B08 0006
+#1P character change Motel 
+30097B08 0007
+#1P character change Asutorarukamereon
+30097B08 0008
+#1P character change Tekkaman
+30097B08 0009
+#1P character change Umeta
+30097B08 000A
+#1P character change Doburai
+30097B08 000B
+#1P character change Wolter 0C
+30097B08 000C
+#1P character change Neon 0D
+30097B08 000D
+#1P character change Karochi
+30097B08 000E
+#1P character change Rosuraisen
+30097B08 000F

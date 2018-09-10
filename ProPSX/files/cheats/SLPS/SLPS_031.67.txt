@@ -1,0 +1,6 @@
+#Unlimited Time In Vs Mode 1st Game Mode
+800A0C7D 0032
+#Infinite Dead Time In 2nd Game Mode
+800CE994 1C84
+#Infinite Time In 2nd Game Mode
+800CE9BC 0514

@@ -1,0 +1,4 @@
+#Have 9999 money Player 1  
+800E002A 270F 
+#Have always 9 items of 2 dices  
+800E0040 0009 

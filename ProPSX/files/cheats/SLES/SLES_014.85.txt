@@ -1,0 +1,20 @@
+#Infinite Zenny	
+800C1B94 423F
+800C1B96 000F
+#Infinite Life	
+800B5286 00C4
+#Time 00:00	
+800C1B84 0000
+800C1B86 0000
+#Have all Normal Items	
+800BE488 FFFF
+800BE48A FFFF
+800BE48C FFFF
+800BE48E FFFF
+#Have all Special Items 	
+800BE484 FFFF
+800B E486 FFFF
+#Have all Special Weapons	
+800BE478 FFFF
+#Invincible MegaMan	
+300B5328 0001

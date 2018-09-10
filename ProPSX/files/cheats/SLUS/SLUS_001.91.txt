@@ -1,0 +1,20 @@
+#Invincible
+80074D04 00DF
+#Infinite Agm 214 Firestorm Homing Missiles
+80074E7C 000C
+#Infinite Ffar Rocket Pod
+80074E7E 0014
+#Infinite Rcs 233 Runray Cratering System
+80074E7A 0010
+#Infinite 30 Mm Chain Gun
+800CF9BE 9DA7
+#Infinite Big Boy Mk-85 500-Lb Bombs
+80074E7C 0004
+#Infinite Mac 874A Cluster Bombs
+80074E7A 000A
+#Infinite Mk-3 Penguin Anti-Shipping Missiles
+80074E7A 0008
+#Receive No Demerits
+80074B00 0000
+#Rapid Fire
+80073414 0000

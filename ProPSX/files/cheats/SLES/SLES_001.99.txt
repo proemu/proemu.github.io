@@ -1,0 +1,29 @@
+#Normal Codes\Infinite Time
+8019638C 6300
+#Normal Codes\Player 1 Infinite Energy
+80189204 0090
+#Normal Codes\Player 1 Infinite Autoblocks
+80189348 3F00
+#Normal Codes\Player 1 Infinite Supercombos
+80189276 00FF
+#Normal Codes\Player 2 Infinite Energy
+801894CC 0090
+#Normal Codes\Player 2 Infinite Autoblocks
+80189610 3F00
+#Normal Codes\Player 2 Infinite Supercombos
+8018953E 00FF
+#Low Value Codes\Infinite Time (Low)
+8019638C 0100
+#Low Value Codes\Player 1 Infinite Energy
+80189204 0001
+#Low Value Codes\Player 1 Infinite Autoblocks
+80189348 0100
+#Low Value Codes\Player 1 Infinite Supercombos
+80189276 0001
+#Low Value Codes\Player 2 Infinite Energy
+801894CC 0001
+#Low Value Codes\Player 2 Infinite Autoblocks
+80189610 0100
+#Low Value Codes\Player 2 Infinite Supercombos
+8018953E 0001
+

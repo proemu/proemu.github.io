@@ -1,0 +1,12 @@
+#Infinite Ships
+8011426C 0009
+#Infinite Bombs
+80114264 0003
+#Unlock All Stages In Score Attack Mode
+80095074 0006
+#Max Firepower
+80114260 0003
+#Max (100) Triangles On Left Bar
+8010C412 0064
+#Always Have Super Gun
+8010D50A 0008

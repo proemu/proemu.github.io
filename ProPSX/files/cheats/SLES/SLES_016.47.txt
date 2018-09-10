@@ -1,0 +1,8 @@
+#Turn Aiming Line On
+8015FE1C 0001
+#Turn Aiming Line Off
+8015FE1C 0000
+#Turn Sight Line On
+8015FFEA 0001
+#Turn Sight Line Off
+8015FFEA 0000

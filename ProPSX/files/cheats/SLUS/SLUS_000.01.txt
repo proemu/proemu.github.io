@@ -1,0 +1,17 @@
+#Infinite Money
+8001013C FFFF
+#Max Money
+8001013C 967F
+8001013E 0098
+#Infinite Ammo
+800EEB0C 0040
+#Infinite Guns
+300EEB10 0027
+#Infinite Fuel
+800EEB00 8FFF
+#Unlimited Missiles
+800EEB0C 0040
+#Invincible
+800EEA2C 00C8
+#Invincible Alternate
+800EEA2C 0190

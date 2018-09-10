@@ -1,0 +1,51 @@
+#Max Money
+80027D96 967F
+80027D98 0098
+#Main Character (Chrono)\Hp
+30020603 00E7
+80020604 E703
+30020606 0003
+#Main Character (Chrono)\Mp
+30020607 0063
+30020609 0063
+#Main Character (Chrono)\1 Fight For 65535 Exp.
+D002928E 0000
+8002928C FFFF
+#Max Gold
+80020C52 7F00
+80020C54 9896
+#Unlock All Extra Modes
+800DD70A FFFF
+#All bonus
+800DF51A FFFF
+#Enable New Game+
+800AC99C FFD0
+#Have All Tech
+50002002 0000
+80020836 FFFF
+#Character one in battle Infinite HP
+80023E30 03E7
+#Character one in battle Infinite MP
+80023E34 0063
+#Character two  in battle Infinite HP
+80023EB0 03E7
+#Character two in battle Infinite MP
+80023EB4 0063
+#Character three  in battle Infinite HP
+80023F30 03E7
+#Character three in battle Infinite MP
+80023F34 0063
+#Experience Gained 
+8002062A 0100 
+8002062C 0000 
+8002928C FFFF 
+#Save ON 
+800101CE 8001 
+#Bonus 
+800DF51A FFFF 
+#All characters Save and disconnect the code
+80020980 0100 
+80020982 0302 
+80020984 0504 
+80020986 8106 
+80020988 0082 

@@ -1,0 +1,22 @@
+#P1 Max Score
+D00EF6CC 0000
+800EF6CC FFFF
+#P1 Infinite Lives
+800EF6C8 FF63
+#P1 Invisibility
+800EF6C0 004A
+#P2 Max Score
+D00EF798 0000
+800EF798 FFFF
+#P2 Infinite Lives
+800EF794 FF63
+#P2 Invisibility
+800EF78C 004A
+#Add A Life (Both Players)
+8005DB30 0001
+#Infinite Lives (Both Players)
+8005DB3A 2400
+#Infinite Continue Time
+8003DF36 2400
+#Enable Classic Mode
+800A3A96 0100

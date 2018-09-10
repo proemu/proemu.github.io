@@ -1,0 +1,4 @@
+#Infinite lives classic mode with background artwork
+801311C8 0005
+#Infinite lives Space Invaders 3D
+801FFF84 0006

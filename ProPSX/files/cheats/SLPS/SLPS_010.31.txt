@@ -1,0 +1,25 @@
+#Infinite Hearts
+80111990 FE90
+80111992 0621
+#Infinite Money
+801119A4 7530
+#All Monster helped	
+301118C8 00FF
+301118C9 00FF
+301118CA 00FF
+301118CB 00FF
+301118CC 00FF
+301118CD 00FF
+301118CE 00FF
+#All Map of the world	
+3011193F 00FF
+#Clock	
+80111980 013F
+#Love level Max	
+3011198C 001E
+#Action limit	
+80111992 08FF
+#All Moon DiskS	
+30111B9F 00FF
+#Debug Room use the code before the Love-de-lic logo vanishes at the beginning and you'll end up in a mini-debug room. Perhaps the most interesting thing is that there's an earlier version of the player's sprite at the top of the room. Talking to anyone in the room will give you the option of starting the game at different areas, although it barely covers the full game and is only some select areas. 
+80111610 0065

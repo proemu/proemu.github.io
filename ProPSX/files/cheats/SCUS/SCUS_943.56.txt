@@ -1,0 +1,35 @@
+#Track Advanced
+801E35E8 0001
+#Track Advanced
+801E35E8 0001
+#Track Expert
+801E35E8 0002
+#Track Extra
+801E35E8 0003
+#Infinite Check Point Time & Stop Total Timer
+8018B44C 67A4
+801FFEE0 044B
+#Extra Boards
+801EF82E 0007
+#Extra Tracks
+801EF82A 0005
+#High Stability
+801827A4 0000
+#Always Be Snowman Boarder
+801EF82E 0017
+#High Scoring
+80016210 0000
+80016212 0000
+#Have Score Sheet
+8005D0C6 FFFF
+8005D1D2 FFFF
+#Tiny Boarder
+8018EF28 0F00
+#All Awards
+801EF97C 000F
+801EFAB8 000F
+801EFBF4 000F
+801EFD30 000F
+801EFE6C 000F
+#Camera Angle 1
+8018EF30 01A0

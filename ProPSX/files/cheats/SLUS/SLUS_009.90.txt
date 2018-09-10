@@ -1,0 +1,30 @@
+#All Characters Qualified 	
+50000714 0000
+80082904 FFFF
+#Anna Qualified 
+80082904 FFFF 
+#Mitch Qualified 
+80082918 FFFF 
+#Karl Qualified 
+8008292C FFFF 
+#Sakura Qualified 
+80082940 FFFF 
+#Calvin Qualified 
+80082954 FFFF 
+#Hendy Qualified 
+80082968 FFFF 
+#Tsering Qualified 
+8008297C FFFF 
+#Have 99999 points in qualify
+8007F760 869F
+8007F762 0001
+#Unlocks Tsering
+8007E444 0000
+#Unlocks Alaska Mountain
+8007E440 0001
+#Max Overall Challenge Points
+8007E3A0 FFFF
+#Start Countdown With -10
+30011974 00F5
+#Start Immediately
+800121AA 3C00

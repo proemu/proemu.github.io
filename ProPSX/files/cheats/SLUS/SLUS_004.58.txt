@@ -1,0 +1,78 @@
+#Have Cheat Menu		
+800CCA3C 011F
+#Infinite Pulsar
+8008628C 8000
+#Infinite Mug
+800862D6 0507
+#Infinite Mfrl And Graviton
+800862DC 2A01
+#Infinite Purge
+800862DE 0009
+#Infinite Solaris Missiles
+800862D8 0009
+#Infinite Shields
+80086284 1000
+#Infinite Hull
+80086286 1000
+#Infinite Titan & Scatter Missiles
+800862DA 0507
+#Infinite Quantum & Pine Mines
+800862E0 0507
+#Infinite Suss Gun Energy
+80086290 8000
+#Infinite Transpulsar, Beam Laser & Trojax Energy
+8008628C 8000
+#Infinite Pyrolite Rifle Energy
+8008628E 8000
+#Infinite Lives
+800CCA40 0005
+#Have Max Power Pods
+800862B0 0003
+#Have Choas Shield
+800862A0 05B1
+#Have Infinite Nitro
+80086294 0800
+#Have Golden Powerpod
+800862B8 04AB
+#Have Stealth Mantle
+80086288 0696
+#Primary Weapon Suss Gun
+800862A4 0500
+#Start On Stage 1 Volcano
+300CCA3E 0000
+#Start On Stage 2 Abandoned Subway
+300CCA3E 0001
+#Start On Stage 3 Nuclear Power Facility
+300CCA3E 0002
+#Start On Stage 4 Thermal Power Station
+300CCA3E 0003
+#Start On Stage 5 Federal Bank Vault
+300CCA3E 0004
+#Start On Stage 6 Prison Ship
+300CCA3E 0005
+#Start On Stage 7 Asteroid Base
+300CCA3E 0006
+#Start On Stage 8 Biosphere
+300CCA3E 0007
+#Start On Stage 9 Sub Terran Decontamination Unit
+300CCA3E 0008
+#Start On Stage 10 Capsized Ship
+300CCA3E 0009
+#Start On Stage 11 Orbital Space Station
+300CCA3E 000A
+#Start On Stage 12 Military Research Base
+300CCA3E 000B
+#Start On Stage 13 Temple of Tloloc
+300CCA3E 000C
+#Start On Stage 14 Ancient Temple
+300CCA3E 000D
+#Start On Stage 15 Death Match - Pandora's Box
+300CCA3E 000E
+#Start On Stage 16 Death Match - Ship
+300CCA3E 000F
+#Start On Stage 17 Death Match - Alpha
+300CCA3E 0010
+#Start On Stage 18  Death Match - Arena
+300CCA3E 0011
+#Start On Stage 19 Death Match - Nuke
+300CCA3E 0012

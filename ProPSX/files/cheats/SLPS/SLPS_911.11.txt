@@ -1,0 +1,5 @@
+#Infinite HP in Battle  
+801EB050 03E7 
+#Infinite TP  
+801EB056 03E7 
+ 

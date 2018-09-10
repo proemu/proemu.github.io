@@ -1,0 +1,29 @@
+#Speed Boost Code .Press Select
+D00585B8 0100
+80193F52 0120
+#Always finish first
+80193B48 0001
+80193E68 0000
+#Infinite Time
+80193E6C 0000
+#Opponent Car Damage Press circle-button
+D00585B8 0020
+80193C0A FFDE
+#Infinite Points
+8008544C 0000
+#Free-run mode all cars available
+80010AEC FFFF
+80010AEE FFFF
+80010AF0 FFFF
+80010AF2 FFFF
+80010AF4 FFFF
+80010AF6 FFFF
+80010AF8 FFFF
+80010AFA FFFF
+80010AFC FFFF
+#"Free-run mode all courses can be selected
+80010B2C FFFF
+80010B2E FFFF
+80010B30 FFFF
+#Enemy vehicles get stuck
+80193C32 0000

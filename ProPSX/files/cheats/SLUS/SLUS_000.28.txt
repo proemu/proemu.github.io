@@ -1,0 +1,10 @@
+#Infinite Laser
+8006EBDC 2C2B
+#Infinite Missiles
+8006E7DC 000F
+8006EBE0 000F
+#Infinite Fuel
+8006B550 017B
+8006B554 002B
+#Infinite Health
+8006B5A8 0168

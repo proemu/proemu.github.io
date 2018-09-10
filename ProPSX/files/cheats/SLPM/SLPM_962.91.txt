@@ -1,0 +1,8 @@
+#Game Fast Speed
+8007BFC2 0150
+#Can Select All Secreat Teams
+80073ADE FFFF
+80073AE0 FFFF
+#All Trophys Cabinet
+D0073ADE FFFF
+80073ADC FFFF

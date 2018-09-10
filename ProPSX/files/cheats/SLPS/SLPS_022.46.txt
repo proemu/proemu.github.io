@@ -1,0 +1,49 @@
+#Infinite Hp In Battle Main Character
+801AB36C 03E7
+801AB36E 03E7
+#Infinite Hp In Battle Second Character
+801AB714 03E7
+801AB716 03E7
+#Infinite Hp In Battle Third Character
+801ABABC 03E7
+801ABABE 03E7
+#Not decrease the number of gates used technique 	
+D0028FCC 0008 
+80029048 0000 
+D002F808 0008 
+8002F9A2 0060 
+#Unlock all album pictures
+D008B470 0010 
+8008B4E0 0001 
+D008B470 0010 
+8008B4E2 2402 
+D008B470 0010 
+8008B54C 0001 
+D008B470 0010 
+8008B54E 2402 
+#All Movies
+D008B470 0010 
+8008B2DC 0001 
+D008B470 0010 
+8008B2DE 2403 
+#All Songs Unlocked 	
+D008B470 0010 
+8008B3C0 0001 
+D008B470 0010 
+8008B3C2 2402 
+#kusawa Ruriko favorability rating Max
+801F1F4E 03E7
+Konoe Kaoru favorability rating Max
+801F1F52 03E7 
+Sakimori Misao favorability rating Max
+801F1F56 03E7
+Asagiri Reiko favorability rating Max
+801F1F5A 03E7 
+Jun Sanders favorability rating Max
+801F1F5E 03E7 
+Feng Feirin favorability rating Max
+801F1F62 03E7 
+Hojo Yukino favorability rating Max
+801F1F66 03E7 
+Francine Aryu Maju favorability rating Max
+801F1F6A 03E7 

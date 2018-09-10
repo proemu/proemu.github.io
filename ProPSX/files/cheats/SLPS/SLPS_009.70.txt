@@ -1,0 +1,14 @@
+#Infinite Hearts Player 1
+800818D2 0003
+#Infinite Hearts Player 2
+800818EE 0003
+##Infinite Money Bar Player 1
+8007810A 0140
+#Child support MAX
+80081B38 C9FE
+80081B3A 3B9A
+#Quota remaining one question 
+3008193C 0001
+3008193E 0001
+#Wedding suddenly 
+80081B2E 0001

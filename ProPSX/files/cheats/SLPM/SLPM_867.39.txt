@@ -1,0 +1,35 @@
+#Infinite Health  
+800706B8 0064 
+800706BA 3402 
+800706C0 00DE 
+800706C2 A682 
+#Infinite web gauge 
+8005101E 1400 
+#Infinite web cartridge 
+80051054 2400
+#Infinite TIME 
+8006E64A 1400 
+#Unabated spider silk 
+D0051018 1023 
+3005101A 0060 
+#Small enemy one hit kill 
+80046234 1820 
+80046236 0000 
+#Enable (LEVEL SELECT) special options
+B0210001 0000 
+300ADEA2 0001 
+#All bonus ,All images,costumes, animation of all, GALLRY option, all modes 
+300ADEA1 0001 
+800ADECC FFFF 
+800ADED0 FFFF 
+800ADED2 FFFF 
+800ADED4 FFFF 
+800ADED6 FFFF 
+800ADED8 FFFF 
+800ADEDA FFFF 
+300ADEDC 00FF 
+#Physical strength is reduced 
+D00535CC 1023 
+300535CC 0023 
+#Infinite Time
+8006E64A 1400 

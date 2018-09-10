@@ -1,0 +1,26 @@
+#Leon-Codes\Energia Infinita
+800C6F4A 00C8
+#Leon-Codes\Salvataggi Infiniti
+800CBC40 051E
+#Tutte Le Armi Hanno Munizioni Infinite\Magnum
+800CBC38 0505
+%NOTE
+#Tutte Le Armi Hanno Munizioni Infinite\Magnum Modificata
+800CBC38 0506
+%NOTE
+#Tutte Le Armi Hanno Munizioni Infinite\Fucile
+800CBC38 0507
+%NOTE
+#Tutte Le Armi Hanno Munizioni Infinite\Fucile Modificato
+800CBC38 0508
+%NOTE
+#Tutte Le Armi Hanno Munizioni Infinite\Lanciafiamme
+800CBC38 6410
+%NOTE
+#Tutte Le Armi Hanno Munizioni Infinite\Lanciarazzi
+800CBC38 0511
+%NOTE
+#Tutte Le Armi Hanno Munizioni Infinite\Rotellone
+800CBC38 0512
+%NOTE
+

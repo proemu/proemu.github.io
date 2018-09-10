@@ -1,0 +1,9 @@
+#Inf Gold
+80084574 FFFF
+#Inf Hp
+800EEDF8 03E7
+800846AA 03E7
+#Infinite Special Attacks		
+800EE5BC 0009
+#Max Attack Strength		
+800846D0 0063

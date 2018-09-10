@@ -1,0 +1,37 @@
+#Infinite steps in puzzle mode
+8017C678 0009
+#Infinite energy Player 1 - War Mode
+8017C580 0063
+#Have Gallery Picture 1		
+801357E8 0001
+#Have Gallery Picture 2		
+801357EC 0001
+#Have Gallery Picture 3		
+801357F0 0001
+#Have Gallery Picture 4		
+801357F4 0001
+#Have Gallery Picture 5		
+801357F8 0001
+#Have Gallery Picture 6		
+801357FC 0001
+#Have Gallery Picture 7		
+80135800 0001
+#Have Gallery Picture 8		
+80135804 0001
+#Have Gallery Picture 9		
+80135808 0001
+#Have Gallery Picture 10		
+8013580C 0001
+#Have Gallery Picture 11		
+80135810 0001
+#Have Gallery Picture 12		
+80135814 0001
+#Have Gallery Picture 13		
+80135818 0001
+#Have Gallery Picture 14		
+8013581C 0001
+#Have Gallery Picture 15		
+80135820 0001
+
+
+

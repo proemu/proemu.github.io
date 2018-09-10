@@ -1,0 +1,15 @@
+#Open Ex Menu In Main Menu (Press Select)
+D004414C 0100
+80042948 0107
+#Infinite Energy P1
+800433FC 0090
+#Max Power Bar P1
+80043400 0203
+#Play As Apocalypse P1
+8004322C 0010
+#P2 Infinite Energy	
+80043744 0090
+#P2 No Energy	
+80043744 0000
+#P2 Play as Apocalypse	
+80043574 0010

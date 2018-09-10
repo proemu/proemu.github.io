@@ -1,0 +1,14 @@
+#Infinite Hero abilities  
+801CD3FC 270F
+801CD400 270F
+801CD402 270F
+801CD404 270F
+#Infinite Hp ship  
+8007C53C 0000
+8007C53E 0000
+#Not decrease the value of food  
+800525BC 0000
+800525BE 0000
+#Infinite assistant points (HBP)  
+D006E23E 0062
+8006E23E 0060

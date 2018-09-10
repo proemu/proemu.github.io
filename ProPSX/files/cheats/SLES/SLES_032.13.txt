@@ -1,0 +1,11 @@
+#Infinite Health	
+800C7490 05DC
+#Infinite Money	
+800C3B00 03E7
+#All keys & keycards	
+800CEA70 FFFF		
+#All glyph	
+800B7174 FFFF		
+#All items	
+800C3A6A 0F0F
+800B7176 F000

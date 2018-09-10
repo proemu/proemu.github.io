@@ -1,0 +1,4 @@
+#Always 5 steps in quiz mode
+800B8D60 0005
+#Infinite time in time Limit mode
+800B8D94 0032

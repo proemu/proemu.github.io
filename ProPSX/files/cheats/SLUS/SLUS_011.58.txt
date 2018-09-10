@@ -1,0 +1,73 @@
+#Infinite Money		
+800833A8 FFFF
+#Baofu Infinite Hp
+800846A0 03E7
+#Baofu Max Hp
+800846A2 03E7
+#Baofu Infinite Sp
+800846A4 03E7
+#Baofu Max Sp
+800846A6 03E7
+#Ellen Infinite Hp
+80084748 03E7
+#Ellen Max Hp
+8008474A 03E7
+#Ellen Infinite Sp
+8008474C 03E7
+#Ellen Max Sp
+8008474E 03E7
+#Katsuya Infinite Hp
+8008464C 03E7
+#Katsuya Max Hp
+8008464E 03E7
+#Katsuya Infinite Sp
+80084650 03E7
+#Katsuya Max Sp
+80084652 03E7
+#Maya Infinite Hp
+800845A4 03E7
+#Maya Max Hp
+800845A6 03E7
+#Maya Infinite Sp
+800845A8 03E7
+#Maya	Max Sp
+800845AA 03E7
+#Nanjo Infinite Hp
+800846F4 03E7
+#Nanjo Max Hp
+800846F6 03E7
+#Nanjo Infinite Sp
+800846F8 03E7
+#Nanjo Max Sp
+800846FA 03E7
+#Tatsuya Infinite Hp
+8008479C 03E7
+#Tatsuya Max Hp
+8008479E 03E7
+#Tatsuya Infinite Sp
+800847A0 03E7
+#Tatsuya Max Sp
+800847A2 03E7
+#Urara Infinite Hp
+800845F8 03E7
+#Urara Max Hp
+800845FA 03E7
+#Urara Infinite Sp
+800845FC 03E7
+#Urara Max Sp
+800845FE 03E7
+#Have All Persona Arcanums		
+8008392C FFFF
+8008392E FFFF
+80083930 FFFF
+80083932 FFFF
+80083934 FFFF
+80083936 FFFF
+80083938 FFFF
+8008393A FFFF
+8008393C FFFF
+8008393E FFFF
+80083940 FFFF
+#Have All Tarot Cards
+50001602 0000
+800835E6 03E7

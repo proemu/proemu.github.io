@@ -1,0 +1,21 @@
+#Unendlich Gesundheit	
+D105DEF6 0000
+8005DEF6 0000
+#Unendlich Munition 	
+D00C1CA6 0004
+300C1CA6 0000
+#Unendlich Schild 
+D00C1C3E AC82
+300C1C3C 0000
+#Unendlich Laser	
+D005E9C4 0077
+3005E9C4 0078
+#Alle Missionen und Videos freigeschaltet
+50000B01 0000
+3003DA8F 0001
+#Starte mit hoher Punktzahl	
+D005E224 0000
+8005 E224 8760
+D005 E226 0000
+3005 E226 0003
+

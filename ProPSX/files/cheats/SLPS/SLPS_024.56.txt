@@ -1,0 +1,8 @@
+#Infinite money 999999 P1
+800C02B8 270F
+#Money 0 2P	 
+800C0474 0000
+#Money 0 3P	 
+800C0630 0000
+#Money 0 4P	 
+800C07EC 0000

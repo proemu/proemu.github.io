@@ -1,0 +1,32 @@
+#Mega Points
+8009AEE4 FFFF
+#No Time Penalties For Missed Gates
+8009AFFA 0000
+#Stop Timer For First Place
+8009C7DC 0000
+#Open All Courses
+8006903C 0005
+#Select Extra Character\Eddie
+800690B0 010D
+#Select Extra Character\Mars
+800690B0 010E
+#Select Extra Character\Kimber
+800690B0 010F
+#Select Extra Character\Irving
+800690B0 0110
+#Select Extra Character\Bob
+800690B0 0111
+#Select Extra Character\Joshua
+800690B0 0112
+#Select Extra Character\Cool
+800690B0 0113
+#Select Extra Character\Burg
+800690B0 0114
+#Have Extra Characters
+800BDB9C 0015
+#Have Extra Free Ride Boards
+800BE1B0 000A
+#Have Extra Free Style Boards
+800BE2C8 000A
+#Have Extra Alpine Boards
+800BE3E0 0003

@@ -1,0 +1,13 @@
+#Unendlich Geld
+800B71E2 0098
+#Biker Durability
+300C2218 0080
+#Unendlich Gesundheit
+300C2214 007D
+#Platz 9 Modify
+3010F123 0000
+#Zeit Vorspulen
+800C2528 3DE6
+#1st Place
+800C21F4 0001
+

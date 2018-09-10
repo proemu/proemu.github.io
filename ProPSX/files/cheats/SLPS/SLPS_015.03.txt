@@ -1,0 +1,9 @@
+#Invincible Disc One Games
+D012BD16 2462
+8012BD14 0000
+#Infinites Lives Disc One Games
+D0129E4A 2442
+80129E48 0000
+#Bomb MAX Disc One Games
+D0129E4A 2442
+8016EF12 6363 

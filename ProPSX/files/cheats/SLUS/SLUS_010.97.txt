@@ -1,0 +1,10 @@
+#P1 Infinite Money
+8006A210 C350
+#P2 Infinite Money
+8006A288 C350
+#P1 After Race Mph Modifier
+800E72BC FFFF
+#P1 Damage 0
+800EB524 0000
+#P2 Damage 0
+800EB59C 0000

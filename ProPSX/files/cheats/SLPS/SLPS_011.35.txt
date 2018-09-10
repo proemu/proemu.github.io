@@ -1,0 +1,6 @@
+#Infinite Heart P1
+800F0C3A 0003
+#Infinite Heart P2
+800F0D82 0003
+#Infinite Time
+800EFFDC 06F7

@@ -1,0 +1,6 @@
+#Have 20000 VP
+800B443E 4E20
+#Infinite Hp main unit
+8012E054 0348
+#Infinite Fuel main unit
+8012E095 0070

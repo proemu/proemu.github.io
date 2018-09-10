@@ -1,0 +1,22 @@
+#Infinite Health
+800B57DE 0190
+#Max Gold Triangles
+800B57E6 03E7
+#Infinite Fuel
+800AA4E0 0900
+#Have All Green People
+800A9ED4 0005
+800A9F38 0005
+#All Levels & Missions Unlocked		
+50000D01 0000
+300D48A2 007F
+#Infinite Ammo-All Weapons		
+50000802 0000
+800B8A14 0640
+#Infinite Fuel	
+800AA4E0 0900
+#Press L2 To Start Timer & Press R2 To Stop Timer		
+D00A9FBC 0100
+80086E06 AF82
+D00A9FBC 0200
+80086E06 2400

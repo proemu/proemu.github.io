@@ -1,0 +1,18 @@
+#Infinite Lives P1	
+800FC02C 0003 	
+#Infinite Bombs P1	
+800FC032 0003 		
+#Infinite Ammo P1	
+300FC03D 0006 		
+#Weapon Automatic P1 	
+800FC030 0004		
+#Infinite Lives P2 	
+800FC088 0005 		
+#Infinite Smart Bombs P2 	
+800FC08E 0009 		
+#Weapon Automatic P2 	
+800FC08C 00?04		
+#Infinite Ammo P2 	
+300F C099 0006 		
+#Infinite Credits 	
+80022646 0601

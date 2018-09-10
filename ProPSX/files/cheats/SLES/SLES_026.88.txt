@@ -1,0 +1,6 @@
+#Infinite Money
+801D56B8 A120
+#Number Of Visitors Max
+801D69C4 0FFF
+#Have 5 Golden Tickets
+80103984 0005

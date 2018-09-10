@@ -1,0 +1,20 @@
+#Infinite Armor (All Levels)
+80083680 05DC
+#Infinite Attempts (All Levels)
+30074E60 0005
+#Level Select 1
+30074E61 0000
+#Level Select 2
+30074E61 0001
+#Level Select 3
+30074E61 0002
+#Level Select 4
+30074E61 0003
+#Level Select 5
+30074E61 0004
+#Enemies Won't Attack You
+80083776 0006
+#Infinite Fuel
+8002D83E 3C00
+#Infinite Ammo
+8004C1F2 3C00

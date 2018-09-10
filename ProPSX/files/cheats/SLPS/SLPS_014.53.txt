@@ -1,0 +1,9 @@
+#Have 999999 money in the story mode
+800534E0 423F
+800534E2 000F
+#Have always 999 steps in story mode
+800534A0 03E7
+800534A2 03E7
+#Have always 999 hearts in story mode
+800534A4 03E7
+800534A6 03E7

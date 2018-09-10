@@ -1,0 +1,255 @@
+#Max Points To Win Championships
+D00BD000 000C
+300BD002 0040
+D10BD000 000C
+300BD002 0000
+#Quick Finish/Best Lap Time The race will be over as soon as you cross the line, but you will not be first. So use the max points codes to win the championships. In time-trials cross the line, then quit to have best time.
+D00194DC 0001
+300194DC 0004
+#Unlocked\Silver Cup
+D01A0190 0060
+301A0190 0000
+#Unlocked\Gold Cup
+D01A0130 0060
+301A0130 0000
+#Unlocked\Platinum Cup
+D01A00D8 0060
+301A00D8 0000
+#Unlocked\Bronze Reverse Cup
+D01A0074 0060
+301A0074 0000
+#Unlocked\Silver Reverse Cup
+D019FFF4 0060
+3019FFF4 0000
+#Unlocked\Gold Reverse Cup
+D019FF74 0060
+3019FF74 0000
+#Unlocked\Platinum Reverse Cup
+D019FEF8 0060
+3019FEF8 0000
+#Unlocked\Jungle Ranger
+300BD634 0001
+#Unlocked\Sarge
+300BD6C4 0001
+#Unlocked\Yella
+300BD70C 0001
+#Unlocked\Skull Duggery
+300BD6E8 0001
+#Unlocked\Ufo
+300BD730 0001
+#Unlocked\Concept 3000
+300BD5A4 0001
+#Unlocked\Bronze Won, Silver Unlocked
+300BD950 0001
+#Unlocked\Silver Won, Gold & Jungle Ranger Unlocked
+300BD950 0002
+#Unlocked\Gold Won, Platin Unlocked
+300BD950 0003
+#Unlocked\Platin Won, Bronze (R) & Yella Unlocked
+300BD950 0004
+#Unlocked\Bronze (R) Won, Silver (R) Unlocked
+300BD950 0005
+#Unlocked\Silver (R) Won, Gold (R) & Sarge Unlocked
+300BD950 0006
+#Unlocked\Gold (R) Won, Platin (R) Unlocked
+300BD950 0007
+#Track Codes\All Tracks Unlocked
+50001501 0000
+300BDFFF 000F
+#Horror World\Trials From The Crypt\Reverse Mode
+300BDFFF 0003
+#Horror World\Trials From The Crypt\Mirror Mode
+300BDFFF 0007
+#Horror World\I Know What You Drove Last Summer\Unlocked
+300BE004 0001
+#Horror World\I Know What You Drove Last Summer\Reverse Mode
+300BE004 0003
+#Horror World\I Know What You Drove Last Summer\Mirror Mode
+300BE004 0007
+#Horror World\Trials From The Crypt - The Director's Cut\Unlocked
+300BE009 0001
+#Horror World\Trials From The Crypt - The Director's Cut\Reverse Mode
+300BE009 0003
+#Horror World\Trials From The Crypt - The Director's Cut\Mirror Mode
+300BE009 0007
+#Horror World\I Still Know What You Drove Last Summer\Unlocked
+300BE00E 0001
+#Horror World\I Still Know What You Drove Last Summer\Reverse Mode
+300BE00E 0003
+#Horror World\I Still Know What You Drove Last Summer\Mirror Mode
+300BE00E 0007
+#Planet Adventure\Cars Attacks!\Reverse Mode
+300BE000 0003
+#Planet Adventure\Cars Attacks!\Mirror Mode
+300BE000 0007
+#Planet Adventure\20:01 A Space Odd Rc\Unlocked
+300BE005 0001
+#Planet Adventure\20:01 A Space Odd Rc\Reverse Mode
+300BE005 0003
+#Planet Adventure\20:01 A Space Odd Rc\Mirror Mode
+300BE005 0007
+#Planet Adventure\Cars Attacks! Again!\Unlocked
+300BE00A 0001
+#Planet Adventure\Cars Attacks! Again!\Reverse Mode
+300BE00A 0003
+#Planet Adventure\Cars Attacks! Again!\Mirror Mode
+300BE00A 0007
+#Planet Adventure\20:01 A Space Odd Rc - Digitally Remastered\Unlocked
+300BE00F 0001
+#Planet Adventure\20:01 A Space Odd Rc - Digitally Remastered\Reverse Mode
+300BE00F 0003
+#Planet Adventure\20:01 A Space Odd Rc - Digitally Remastered\Mirror Mode
+300BE00F 0007
+#Jungle World\Tempel Of Vroom\Reverse Mode
+300BE001 0003
+#Jungle World\Tempel Of Vroom\Mirror Mode
+300BE001 0007
+#Jungle World\Racers Of The Lost Park\Unlocked
+300BE006 0001
+#Jungle World\Racers Of The Lost Park\Reverse Mode
+300BE006 0003
+#Jungle World\Racers Of The Lost Park\Mirror Mode
+300BE006 0007
+#Jungle World\Tempel Of Vroom - The Awakening\Unlocked
+300BE00B 0001
+#Jungle World\Tempel Of Vroom - The Awakening\Reverse Mode
+300BE00B 0003
+#Jungle World\Tempel Of Vroom - The Awakening\Mirror Mode
+300BE00B 0007
+#Jungle World\Racers Of The Lost Park - Collector's Edition\Unlocked
+300BE010 0001
+#Jungle World\Racers Of The Lost Park - Collector's Edition\Reverse Mode
+300BE010 0003
+#Jungle World\Racers Of The Lost Park - Collector's Edition\Mirror Mode
+300BE010 0007
+#Aklm Studios\Hilltop Hairpins\Reverse Mode
+300BE002 0003
+#Aklm Studios\Hilltop Hairpins\Mirror Mode
+300BE002 0007
+#Aklm Studios\Calamity Canyon\Unlocked
+300BE007 0001
+#Aklm Studios\Calamity Canyon\Reverse Mode
+300BE007 0003
+#Aklm Studios\Calamity Canyon\Mirror Mode
+300BE007 0007
+#Aklm Studios\Hilltop Hairpins - The Special Edition\Unlocked
+300BE00A 0001
+#Aklm Studios\Hilltop Hairpins - The Special Edition\Reverse Mode
+300BE00C 0003
+#Aklm Studios\Hilltop Hairpins - The Special Edition\Mirror Mode
+300BE00C 0007
+#Aklm Studios\Calamity Canyon - Live And Dangerous\Unlocked
+300BE011 0001
+#Aklm Studios\Calamity Canyon - Live And Dangerous\Reverse Mode
+300BE011 0003
+#Aklm Studios\Calamity Canyon - Live And Dangerous\Mirror Mode
+300BE011 0007
+#Monster World\It Came To Have A Race\Reverse Mode
+300BE003 0003
+#Monster World\It Came To Have A Race\Mirror Mode
+300BE003 0007
+#Monster World\Attack Of The Killer Toy Motors\Unlocked
+300BE008 0001
+#Monster World\Attack Of The Killer Toy Motors\Reverse Mode
+300BE008 0003
+#Monster World\Attack Of The Killer Toy Motors\Mirror Mode
+300BE008 0007
+#Monster World\It Returned To Have Another Race\Unlocked
+300BE00D 0001
+#Monster World\It Returned To Have Another Race\Reverse Mode
+300BE00D 0003
+#Monster World\It Returned To Have Another Race\Mirror Mode
+300BE00D 0007
+#Monster World\Return Of The Killer Toy Motors\Unlocked
+300BE012 0001
+#Monster World\Return Of The Killer Toy Motors\Reverse Mode
+300BE012 0003
+#Monster World\Return Of The Killer Toy Motors\Mirror Mode
+300BE012 0007
+#Track Codes\Time Trials - Best Times\All Normal Tracks
+50001404 0000
+800BD8B0 1000
+#Track Codes\Time Trials - Best Times\All Reverse Tracks
+50001404 0000
+800BD900 1000
+#Track Codes\Trials From The Crypt\Normal
+800BD8B0 1000
+#Track Codes\Trials From The Crypt\Reverse
+800BD900 1000
+#Track Codes\Cars Attacks!\Normal
+800BD8B4 1000
+#Track Codes\Cars Attacks!\Reverse
+800BD904 1000
+#Track Codes\Tempel Of Vroom\Normal
+800BD8B8 1000
+#Track Codes\Tempel Of Vroom\Reverse
+800BD908 1000
+#Track Codes\Hilltop Hairpins\Normal
+800BD8BC 1000
+#Track Codes\Hilltop Hairpins\Reverse
+800BD90C 1000
+#Track Codes\It Came To Have A Race\Normal
+800BD8C0 1000
+#Track Codes\It Came To Have A Race\Reverse
+800BD910 1000
+#Track Codes\I Know What You Drove Last Summer\Normal
+800BD8C4 1000
+#Track Codes\I Know What You Drove Last Summer\Reverse
+800BD914 1000
+#Track Codes\20:01 A Space Odd Rc\Normal
+800BD8C8 1000
+#Track Codes\20:01 A Space Odd Rc\Reverse
+800BD918 1000
+#Track Codes\Racers Of The Lost Park\Normal
+800BD8CC 1000
+#Track Codes\Racers Of The Lost Park\Reverse
+800BD91C 1000
+#Track Codes\Calamity Canyon\Normal
+800BD8D0 1000
+#Track Codes\Calamity Canyon\Reverse
+800BD920 1000
+#Track Codes\Attack Of The Killer Toy Motors\Normal
+800BD8D4 1000
+#Track Codes\Attack Of The Killer Toy Motors\Reverse
+800BD924 1000
+#Track Codes\Trials From The Crypt - The Director's Cut\Normal
+800BD8D8 1000
+#Track Codes\Trials From The Crypt - The Director's Cut\Reverse
+800BD928 1000
+#Track Codes\Cars Attacks! - Again!\Normal
+800BD8DC 1000
+#Track Codes\Cars Attacks! - Again!\Reverse
+800BD92C 1000
+#Track Codes\Tempel Of Vroom - The Awakening\Normal
+800BD8E0 1000
+#Track Codes\Tempel Of Vroom - The Awakening\Reverse
+800BD930 1000
+#Track Codes\Hilltop Hairpins - The Special Edition\Normal
+800BD8E4 1000
+#Track Codes\Hilltop Hairpins - The Special Edition\Reverse
+800BD934 1000
+#Track Codes\It Returned To Have Another Race\Normal
+800BD8E8 1000
+#Track Codes\It Returned To Have Another Race\Reverse
+800BD938 1000
+#Track Codes\I Still Know What You Drove Last Summer\Normal
+800BD8EC 1000
+#Track Codes\I Still Know What You Drove Last Summer\Reverse
+800BD93C 1000
+#Track Codes\20:01 A Space Odd Rc - Digitally Remastered\Normal
+800BD8F0 1000
+#Track Codes\20:01 A Space Odd Rc - Digitally Remastered\Reverse
+800BD940 1000
+#Track Codes\Racers Of The Lost Park - Collector's Edition\Normal
+800BD8F4 1000
+#Track Codes\Racers Of The Lost Park - Collector's Edition\Reverse
+800BD944 1000
+#Track Codes\Calamity Canyon - Live And Dangerous\Normal
+800BD8F8 1000
+#Track Codes\Calamity Canyon - Live And Dangerous\Reverse
+800BD948 1000
+#Track Codes\Return Of The Killer Toy Motors\Normal
+800BD8FC 1000
+#Track Codes\Return Of The Killer Toy Motors\Reverse
+800BD94C 1000
+

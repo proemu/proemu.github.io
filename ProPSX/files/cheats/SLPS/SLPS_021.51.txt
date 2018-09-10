@@ -1,0 +1,10 @@
+#Max Money  
+80017D7E 1400 
+#Symbolic all parameters Max
+80017D16 1400 
+#Character All Stats Max
+80197696 0063  
+8019769A 0063 
+8019769C 0063  
+8019769E 0063 
+801976A0 0063

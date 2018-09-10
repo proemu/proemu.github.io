@@ -1,0 +1,87 @@
+#Unendlich Manna
+80105438 03E7
+#Max Manna
+8010543C 03E7
+#Unendlich Gesundheit
+800F1D80 03E7
+#Max Gesundheit
+800F4E9C 03E7
+#Unendlich Gold
+80105428 FFFF
+#Max Punkte
+80105486 7FFF
+#Max St‰Rke
+80101D82 FFFF
+#Max Genauigkeit
+80101D84 FFFF
+#N‰Chster Level Mit 1
+8010538C 0001
+#Exp-Modifizierer
+80105388 ????
+?0000-FFFF
+#Besitze Streitaxt
+80105394 0001
+#Besitze Langschwert
+80105396 0001
+#Besitze Streitkolben
+80105398 0001
+#Besitze Kriegshammer
+8010539A 0001
+#Besitze Wurfaxt
+801053B4 0001
+#Besitze Dornschild
+801053CA 0001
+#Besitze Drachenschild
+801053CC 0001
+#Besitze Turmschild
+801053CE 0001
+#Besitze Explosiver Edelstein
+801053B8 0001
+#Besitze Feuerstein
+80105406 03E7
+#Besitze Erdstein
+80105408 03E7
+#Besitze Luftstein
+8010540A 03E7
+#Besitze Wasserstein
+8010540C 03E7
+#Besitze Stein Des Geistes
+8010540E 03E7
+#Besitze KˆRperstein
+80105410 03E7
+#Besitze Stein Des Verstandes
+80105412 03E7
+#Besitze Lichtstein
+80105414 03E7
+#Besitze Stein Der Finsternis
+80105416 03E7
+#Besitze Szepter Der Herrschaft
+80105434 03E7
+#Besitze Donnerer - Waffe Der Luft
+801053F4 0001
+#Besitze Knochenheiler - Waffe Des KˆRpers
+801053F6 0001
+#Besitze Umnachter - Waffe Der Finsternis
+801053F8 0001
+#Besitze Eichenherz - Waffe Der Erde
+801053FA 0001
+#Besitze Flammenkralle - Waffe Des Feuers
+801053FC 0001
+#Besitze Stern Von Erathia - Waffe Des Lichts
+801053FE 0001
+#Besitze Rasierklinge - Waffe Des Verstandes
+80105400 0001
+#Besitze Seelenst‰Rke - Waffe Des Geistes
+80105402 0001
+#Besitze Eisklaue - Waffe Des Wassers
+80105404 0001
+#Besitze Heilende Tr‰Nke
+8010542A 03E7
+#Besitze Manna-Tr‰Nke
+8010542C 03E7
+#Besitze Wiederbelebende Tr‰Nke
+8010542E 03E7
+#Besitze Tarnnebel
+80105430 03E7
+#Besitze Dasher-Nuss
+80105432 03E7

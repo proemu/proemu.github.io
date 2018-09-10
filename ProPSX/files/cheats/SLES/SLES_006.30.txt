@@ -1,0 +1,8 @@
+#Infinite Energy Player 1  
+800BE510 005F 
+#Invincible Player 1  
+800BE50C 00AA 
+#Infinite Power Player 1  
+8011FF0C 1000
+8011FF10 1000 
+

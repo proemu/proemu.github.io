@@ -1,0 +1,132 @@
+#Infinite Hp
+80078EB2 0212
+80078EB4 0212
+#Infinite Bp
+80078EB6 0212
+80078EB8 0212
+#Infinite Cash
+80078E8E 0001
+#Charging Bar Always Full	
+80078EEBE 8000	
+#Quick Level Gain
+80078F08 FFFF
+#All Rescues Complete (1)
+800BA1F8 0101
+800BA1FA 0101
+800BA1FC 0101
+800BA1FE 0101
+800BA200 0101
+800BA202 0101
+800BA204 0101
+800BA206 0101
+800BA208 0101
+800BA20A 0101
+800BA20C 0101
+800BA20E 0101
+#All Rescues Complete (2)
+800BA210 0101
+800BA212 0101
+800BA214 0101
+800BA216 0101
+800BA218 0101
+300BA21A 0001
+#Time 00:00:00
+80078E7C 0000
+80078E7E 0000
+#Tired At 0%
+80078EA6 00A0
+#Stop Village Rescue Timer
+80078E90 BE2A
+80078E92 041B
+#Stop Valve Reset Timer
+801204A8 0700
+#All Legendary Armor Peices
+300AE64B 00FF
+300AE64C 00FF
+#Have All Techs
+800AE658 FFFF
+#Invincible
+30126C00 4115
+#Moon Jump
+D0078DCA 0040
+80126B8E FFF1
+#Infinite Mid-Air Jumps (.With this code, you must have the Legendary Belt for this code to work)
+80126D98 0000
+#All Rescues Complete
+50001102 0000
+800BA1F8 0101
+300BA21A 0001
+#Max Body
+80078EE4 031B
+#Max Mind
+80078EEC 031B
+#Max Fus
+80078EF4 031B
+#Never Lose A Log (Raft Stage)
+800BA286 0400
+#Have Toys Codes\Have Musashi Toy
+800BA21A C1C2
+%NOTE2
+#Have Toys Codes\Have Bee Plant & Soldier1 Toy
+800BA21C C1C2
+%NOTE2
+#Have Toys Codes\Have Soldier2 & Rootrick Toy
+800BA21E C1C2
+%NOTE2
+#Have Toys Codes\Have St-Knight & Soldier3 Toy
+800BA220 C1C2
+%NOTE2
+#Have Toys Codes\Have Herbplant & Kmaneater Toy
+800BA222 C1C2
+%NOTE2
+#Have Toys Codes\Have Magician & Sleepie Toy
+800BA224 C1C2
+%NOTE2
+#Have Toys Codes\Have Skullpion & R-Vambee Toy
+800BA226 C1C2
+%NOTE2
+#Have Toys Codes\Have V-Soldier & Bowler Toy
+800BA228 C1C2
+%NOTE2
+#Have Toys Codes\Have Cure Worm & Bubbles Toy
+800BA22A C1C2
+%NOTE2
+#Have Toys Codes\Have R-Keeper & Penguin Toy
+800BA22C C1C2
+%NOTE2
+#Have Toys Codes\Have Hayawolf & Slowguy Toy
+800BA22E C1C2
+%NOTE2
+#Have Toys Codes\Have S-Golem & Ginger-E Toy
+800BA230 C1C2
+%NOTE2
+#Have Toys Codes\Have F-Dragon & Giant Toy
+800BA232 C1C2
+%NOTE2
+#Have Toys Codes\Have Toadstool & Ed & Ben Toy
+800BA234 C1C2
+%NOTE2
+#Have Toys Codes\Have Topo & Col-Capri Toy
+800BA236 C1C2
+%NOTE2
+#Have Toys Codes\Have Queen Ant & Soldier H1 Toy
+800BA238 C1C2
+%NOTE2
+#Have Toys Codes\Have Soldier2H & Soldier3H Toy
+800BA23A C1C2
+%NOTE2
+#Have Toys Codes\Have Bigwalker & Flatski Toy
+800BA23C C1C2
+%NOTE2
+#Have Toys Codes\Have T.O.D & Fillet Toy
+800BA23E C1C2
+%NOTE2
+#Have Toys Codes\Have Jon&Leno & Momminku Toy
+800BA240 C1C2
+%NOTE2
+#Have Toys Codes\Have Kojiro & Dlumina1 Toy
+800BA242 C1C2
+%NOTE2
+#Have Toys Codes\Have Dlumina2 & Dlumina3 Toy
+800BA244 C1C2
+%NOTE2

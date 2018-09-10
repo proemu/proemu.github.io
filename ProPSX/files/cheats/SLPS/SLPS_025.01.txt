@@ -1,0 +1,36 @@
+#Infinite Energy Crocodiles
+800AC8D0 00B8
+800AC8E4 00B8
+800AC930 00B8
+#Infinite Energy Rocks In Pyramid
+80071FE4 00C8
+80071FF8 00C8
+800C0AFE 00C8
+#Infinite energy shooting in pyramid
+800AC0B4 00C8
+#Infinite energy in fight with the tank
+800B114C 00C8
+#different
+#Bonus appearance	
+300A8B4A 0001
+#The invincible! / Defeat the enemy attacked	
+800ABDB0 00FF
+#The invincible! / Hirake its way to defeat the robot	
+300AC7E4 00FF	
+#The invincible! / Hirake its way to defeat the enemy	
+300ACAF8 00FF	
+#The physical fitness! / Hirake its way to defeat the robot	
+300AD1EC 00B8
+#Hirake its way to defeat the robot! / Strength of the enemy 0	
+300AD1EE 0000
+#The physical fitness! / Crush the submarine	
+300AE81C 00B8
+#Crush the submarine! / Strength of the enemy 0	
+300AE81E 0000
+#Destroy the tanks! / Strength of the enemy 0	
+300B114E 0000
+#The invincible! / Case forward to shade the megalithic	
+800C0AF8 0102 
+800C0AFA 0020	
+#The physical fitness! / Case forward to shade the megalithic	
+300C0AFE 00C8

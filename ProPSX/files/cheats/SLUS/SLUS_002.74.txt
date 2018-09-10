@@ -1,0 +1,90 @@
+#Family First\Infinite Health
+8009DB60 0000
+8009DB62 0000
+#Family First\Infinite Weapon Energy
+8011319C 00FF
+#Family First\Infinite Time
+801131D8 13AF
+#Family First\Infinite Lives
+80112F50 000F
+#Ready The Troops\Infinite Health
+801061E6 03E8
+#Ready The Troops\Infinite Weapon Energy
+8011230C 0064
+#Ready The Troops\Infinite Time
+80112348 152A
+#Ready The Troops\Infinite Lives
+801120C0 000F
+#Scenerio 3\Infinite Lives
+80113014 000F
+#Scenerio 3\Infinite Weapon Energy
+80113260 0064
+#Scenerio 3\Infinite Health
+80106D7E 03E8
+#Scenerio 3\Infinite Time
+8011329C 152A
+#Scenerio 4\Infinite Lives
+801149FC 000F
+#Scenerio 4\Infinite Weapon Energy
+80114C48 0064
+#Scenerio 4\Infinite Health
+80108A0E 03E8
+#Scenerio 4\Infinite Time
+80114C80 152A
+#Scenerio 5\Infinite Lives
+801120A4 000F
+#Scenerio 5\Infinite Weapon Energy
+801122F0 0064
+#Scenerio 5\Infinite Health
+80105542 03E8
+#Scenerio 5\Infinite Time
+8011232C 152A
+#Scenerio 6\Infinite Lives
+8011941C 000F
+#Scenerio 6\Infinite Weapon Energy
+80119668 0064
+#Scenerio 6\Infinite Health
+8010CE4A 03E8
+#Scenerio 6\Infinite Time
+801196A0 152A
+#Scenerio 7\Infinite Lives
+80106CBC 000F
+#Scenerio 7\Infinite Weapon Energy
+80106F08 0064
+#Scenerio 7\Infinite Health
+800FB32A 03E8
+#Misc Codes\Weapon Pistol 1
+80113194 0000
+#Misc Codes\Weapon Pistol 2
+80113194 0001
+#Misc Codes\Weapon Pistol 3
+80113194 0002
+#Misc Codes\Weapon Blaster 1
+80113194 0003
+#Misc Codes\Weapon Blaster 2
+80113194 0004
+#Misc Codes\Weapon Blaster 3
+80113194 0005
+#Misc Codes\Weapon Rocket 1
+80113194 0006
+#Misc Codes\Weapon Rocket 2
+80113194 0007
+#Misc Codes\Weapon Rocket 3
+80113194 0008
+#Misc Codes\Glitch Tool Mend
+80113190 0009
+#Misc Codes\Glitch Tool Mortar
+80113190 000A 
+#Misc Codes\Glitch Tool FlameThrower
+80113190 000B
+#Misc Codes\Glitch Tool Box Gun
+80113190 000E
+#Misc Codes\Glitch Tool Vampire
+80113190 000F
+#Misc Codes\Glitch Tool Anti-Virus
+80113190 0011
+#Misc Codes\Play As Dot Matrix
+30045ED0 0001
+#Misc Codes\Play As Enzo
+30045ED0 0002
+

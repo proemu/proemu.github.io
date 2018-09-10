@@ -1,0 +1,11 @@
+#Infinite Time To Shoot
+8006BC3E 04B0
+8006BC46 04B0
+#Home Team Scores 99
+80065378 0063
+#Away Team Score 99
+800653BC 0063
+#Home Team Scores 00
+80065378 0000
+#Away Team Score 00
+800653BC 0000

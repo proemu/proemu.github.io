@@ -1,0 +1,4 @@
+#Worms table P1 Infinite balls
+801DE588 0003
+#World Rally Fever P1 Infinite balls
+801DE718 0003

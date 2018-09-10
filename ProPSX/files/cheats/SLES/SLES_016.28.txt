@@ -1,0 +1,27 @@
+#Infinite HP P1 	
+80127AC2 03E8
+80127AC4 03E8 		
+#Infinite HP P2 	
+801284CA 03E8
+801284CC 03E8 		
+#Infinite Ammo P1 	
+30127B05 0009 	
+#Infinite Ammo P2 	
+3012850D 0009 		
+I#nfinite Traps P1 	
+50000403 0000
+30127AA8 0009 		
+#Infinite Traps P2 	
+50000403 0000
+301284B0 0009 		
+#Infinite Time 	
+8010B658 49EF
+8010B65A 0002 		
+#Unlock Extras 	
+30126D87 0001
+80126D88 0101
+#All levels unlocked	
+80126D9A 0100
+#All Characters unlocked	
+80126D8E 0101
+80126D90 0101

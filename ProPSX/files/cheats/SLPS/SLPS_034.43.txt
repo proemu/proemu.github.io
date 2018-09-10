@@ -1,0 +1,5 @@
+#Infinite energy  
+80090FA4 00C8    Start On Last Stage Arcade Mode -  
+80085B04 0009    Able To Transform Anytime  
+800880FE 0000 
+ 

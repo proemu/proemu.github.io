@@ -1,0 +1,23 @@
+#Save anywhere  
+D00DCC8C 0200
+800DCC8C 0000 
+#Infinite energy in battle Cless  
+80138E2C 03E7 
+#Infinite TP in battle Cless  
+80138E38 03E7 
+#Infinite energy in battle Chester  
+80139064 03E7 
+#Infinite TP in battle Chester  
+80139070 03E7 
+#Infinite money (9999999)  
+8008740C 967F
+8008740E 0098 
+#Infinite & Max HP out of Battle Cless  
+80086F10 03E7
+80086F0E 03E7 
+#Infinite & Max HP out of Battle Mint  
+80086FB0 03E7
+80086FAE 03E7 
+#Infinite & Max HP in Battle Mint  
+80139064 03E7 
+ 

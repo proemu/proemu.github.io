@@ -1,0 +1,7 @@
+#Joker Command P1  
+D00BA4E0 0000 
+#Infinite Health P1  
+80032146 00A6 
+#P1 Always has Full Aggressor  
+80032646 00CC 
+

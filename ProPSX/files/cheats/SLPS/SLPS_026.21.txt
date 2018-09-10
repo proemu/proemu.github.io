@@ -1,0 +1,17 @@
+#Infinite Time Play Strider 2
+800D9D6A 6363
+#Infinite Health Strider 2
+800AB99A 000A
+#Boost item MAX 
+800ABAA0 0004 
+#Does not decrease boost time 
+800ABA90 0130 
+#Boost state at any time 
+300ABABF 0001 
+#Invincibility 
+800AB7A6 1200 
+#It does not decrease TIME 
+800D9D6A 0000
+##Unlock Boost Option, Hien Mode, & Stage 0
+800A8CC0 0101
+300A8CC2 0001

@@ -1,0 +1,95 @@
+#Scenario cleared (bonus fully open)
+801A74C8 0001
+801A74DE 0014
+#100% fully open and mini-games Graphtec appreciation
+801B4F50 FF70
+301B4F52 0001
+301B4F75 006E
+801B4F76 81E0
+801B4F82 FFFF
+801B4F84 FFFF
+801B4F86 FFFF
+801B4F88 FFFF
+801B4F8A FFFF
+801B4F8C FFFF
+801B4F8E FFFF
+801B4F90 FFFF
+#All Mini Games Can Be Selected
+300533CC 0001
+801B4F76 01E0
+300533CE 0001
+301B4F82 0007
+300533D0 0001
+301B4F85 00FF
+300533D4 0001
+801B4F86 FFFF
+8018F792 FF80
+801B4F88 FFFF
+8018F794 0043
+801B4F8A FFFF
+301A74C8 0001
+801B4F8C FFFF
+801B4F50 7E70
+801B4F8E FFFF
+301B4F75 006E
+801B4F90 FFFF
+#Rainbow Peak Minigame Lock The Opponent's Racket
+301A7BD4 00A1
+#Foresight Minigame Player 99 Points
+301A7AD0 0063
+#Foresight Minigame Rival 0 Points
+301A7AD2 0000
+#Cleared looking GAL'S ROOM mistake Mini-Game
+8018F792 FFFF
+3018F794 0003
+#Quiz Minigame START + L1 button, 5 points, 4 own hearts Player
+D018F750 0804
+801A7BBC 0004
+D018F750 0804
+801A7BBE 0005 
+#Quiz Minigame START + R1 button, point 0 Heart 0 Rival
+D018F750 0808
+801A7BBC 0000
+D018F750 0808
+801A7BE2 0000
+#Bonus / GAL's ROOM selectable	
+300533CC 0001
+Bonus / Gaiden selectable	
+300533CE 0001
+#Bonus / Photo Gallery can be selected	
+300533D0 0001
+#Bonus / MINI GAMES selectable	
+300533D2 0001
+#Bonus / Graphic Watch selectable	
+300533D4 0001
+#Bonus / Sound Test selectable	
+300533D6 0001
+#Bonus / Information can be selected	
+300533D8 0001
+#Bonus / notice selectable	
+300533DA 0001
+#Bonus / Gochachiru selectable	
+300533DC 0001
+#Bonus / GAL's ROOM PLAY possible	
+301A74C8 0001
+#Favorability Max Ayuri	
+801A74A6 03E7	
+#Favorability Max DropletS
+801A74A8 03E7
+#Favorability Max Erica	
+801A74AA 03E7
+#Favorability Max Hinata
+801A74AC 03E7
+#Favorability Max Bookmarks
+801A74AE 03E7
+#Favorability Max Chizuru
+801A74B0 03E7
+#Favorability Max Makoto 	
+801A74B2 03E7
+#Favorability Max Yayoi 	
+801A74B4 03E7
+#Favorability Max Takizawa	
+801A74B6 03E7
+
+
+ 

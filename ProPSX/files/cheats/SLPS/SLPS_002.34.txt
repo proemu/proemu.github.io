@@ -1,0 +1,4 @@
+#Infinite HP main character in 1 on 1 combats
+8019FD60 005A
+#Have stat in 100 in main game
+8014E1FC 0064

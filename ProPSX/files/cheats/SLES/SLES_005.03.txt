@@ -1,0 +1,53 @@
+#Infinite Health
+800D9090 9000
+#Bug Hole
+800D8754 5C00
+#Acid Rush
+800D874A 5C00
+#Parasitic Bomb
+800D874C 5C00
+#Ray Splasher
+800D8752 5C00
+#Triad Thunder
+800D874E 5C00
+#Frost Shield
+800D8756 5C00
+#Tornado Fang
+800D8758 5C00
+#Spinning Blade
+800D8750 5C00
+#Invincible
+8003B2F2 1000
+#Inf. HP / Max HP
+300D8761 0020
+300D9091 00A0
+#Inf. Lives
+300D8743 0009
+#Have All Hearts
+300D8763 00FF
+#Have All Tanks & Armour
+800D8746 8F8F
+800D8748 8F8F
+300D8760 00FF
+#Have All Chips & Ride Armour
+800D8766 00FF
+#All Bosses Defeated & Have All Weapons
+50000902 0000
+300D874B 00DC
+#All Bosses Defeated 2nd Time (Sigma Stages)
+300D8769 00FF
+#All Mid-Bosses Defeated
+300D8762 00FF
+#Inf. Air Dashes
+300D90BB 0001
+#Endless Dash
+E0135194 0020
+300D90AE 000F
+#Moon Jumps
+E0135194 0040
+800D9084 0293
+#X has Beam-Sabre
+300D8741 0080
+#Zero has Beam-Sabre
+E00D9115 0002
+300D9116 0001

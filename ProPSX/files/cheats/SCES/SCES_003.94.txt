@@ -1,0 +1,35 @@
+#Unlimited Turbos P1 	
+800F64F8 0003
+800F64EE 0005 		
+#No Damage P1 	
+800F64E4 0000 
+#Night & Mirror Mode Open		
+300E05DB 0003
+#Unlock All Boats - EASY		
+50000402 0000
+800E0628 0101
+#Unlock All Boats - HARD		
+50000402 0000
+800E084C 0101
+#Unlock All Boats - MEDIUM		
+50000402 0000
+800E073A 0101
+#Unlock All Day Tracks - EASY		
+50000202 0000
+800E0610 0606
+#Unlock All Day Tracks - HARD		
+50000302 0000
+800E0832 0606
+#Unlock All Day Tracks - MEDIUM		
+50000302 0000
+800E0720 0606
+#Unlock All Night Tracks - EASY		
+50000302 0000
+800E0614 0606
+#Unlock All Night Tracks - HARD		
+50000302 0000
+800E0838 0606
+#Unlock All Night Tracks - MEDIUM		
+50000302 0000
+800E0726 0606
+

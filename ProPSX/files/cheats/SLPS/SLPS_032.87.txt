@@ -1,0 +1,4 @@
+#Have 60000 food  
+800FE710 EA60 
+#Have 60000 wood  
+800FE70C EA60 

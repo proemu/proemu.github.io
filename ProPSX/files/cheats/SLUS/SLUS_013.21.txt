@@ -1,0 +1,90 @@
+#Infinite Arcade Timer 	
+80110E6C FFFF 		 
+#Infinite Trial Time 	
+80108A00 FFFF 		
+#Freestyle-Max Score 	
+80108AE8 7FFF
+80108AEA 0000
+#Unlock Reygades 	
+8012F2EC 0001 		
+#Unlock Belo Horizonte 	
+8012F2E8 0001 		
+#Unlock Stade De France 	
+8012F2DC 0001 		
+#Unlock Eastern Creek 	
+8012F2F8 0001 		
+#Unlock Isle of Man-Hills 	
+8012F2FC 0001 		
+#Unlock Isle of Man-Town 	
+8012F300 0001 		
+#Unlock Isle of Man-Road 	
+8012F304 0001 		
+#Unlock Traffic 	
+8012F314 0001 		
+#Unlock Dragster 	
+8012F31C 0001 		
+#Unlock Freestyle 	
+8012F310 0001 		
+#Unlock Trial 	
+8012F308 0001 		
+#Unlock Cross Championship 	
+8012F2D8 0001 	
+#Last Lap Sachsenring 	
+D010F3A4 FFFF
+8010F3A4 FF02
+D010F370 FFFF
+8010F370 FF02 		
+#Last Lap Suzuka 	
+D01128F8 FFFF
+801128F8 FF02
+D01128C4 FFFF
+801128C4 FF02 		
+#Last Lap Isle of Man (Road) 	
+D010E968 FFFF
+8010E968 FF03
+D010E920 FFFF
+8010E920 FF03 		
+#Last Lap Eastern Creek 	
+D010FA80 FFFF
+8010FA80 FF03
+D010FA48 FFFF
+8010FA48 FF03 		
+#Last Lap Isle of Man (Hills) 	
+D010CC90 FFFF
+8010CC90 FF02
+D010CC48 FFFF
+8010CC48 FF02 		
+#Last Lap Barcelona 	
+D0108808 FF00
+80108808 FF06
+D01085E0 FF00
+801085E0 FF05 		
+#Last Lap USA Park 	
+D0114C18 FFFF
+80114C18 FF02
+D0114BB8 FFFF
+80114BB8 FF02 		
+#Last Lap Stade de France 	
+D0109590 FF00
+80109590 FF03
+D010937C FF00
+8010937C FF03 		
+#Last Lap Reygades 	
+D0112168 FFFF
+80112168 FF01
+D0112120 FFFF
+80112120 FF01 		
+#Last Lap Belo Horizonte 	
+D0107E1C FF00
+80107E1C FF04
+D0107C08 FF00
+80107C08 FF04 		
+#Last Lap Isle of Man (Town) 	
+D010E00C FFFF
+8010E00C FF03 		
+#Last Lap Speed Ring 	
+8010B5B4 FFFF
+8010B5B4 FF06 		
+#Last Lap Rive Gauchie 	
+D010F414 FFFF
+8010F414 FF01	

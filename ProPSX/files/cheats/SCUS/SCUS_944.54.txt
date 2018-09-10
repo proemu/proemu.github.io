@@ -1,0 +1,22 @@
+#Infinite Health
+800E7FEE 0010
+#Max Ap
+800BF874 E0FF
+800BF876 05F5
+#Overall Time is 0:00:00
+800BF878 0000
+#Have All 137 Events in Clear		
+300BF8AA 0089
+#Have All 137 Events in Occur		
+300BF8A8 0089
+#Have All Events Complete
+300BF8A8 0087
+300BF8AA 0087
+50003E01 0000
+300BF8B5 00FF
+50004B01 0000
+300BF8F4 00FF
+#Infinite Magic
+800BF87E 7070
+#Infinite Time On The Trolley
+800E7EC0 0157

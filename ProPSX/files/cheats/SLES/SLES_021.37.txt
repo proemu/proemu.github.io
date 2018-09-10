@@ -1,0 +1,16 @@
+#Unlimited Lives
+80106554 0009
+#Unlimited Armor
+8010655C 0000
+#Infinite time (Deactivate cheat after complete level)
+801160EC 0384
+#9999 Wings
+80106544 270F
+#Unlimited Secondary Weapons:
+801064AC 0009
+#Press Select For No Wings In Shop
+D00AA310 0100
+80010044 0000
+#Press L2 + R2 + x For No Assignments (Mines, Etc)
+D00AA310 0043
+801160BA 0000

@@ -1,0 +1,116 @@
+#Enable All Cheats 
+80039D0C 01FF
+#Have All Mementos
+80039D08 FFFF
+#Infinite Rounds All Weapons
+D0049580 005E
+80049582 2400
+#Never Reload All Weapons
+D008D404 006E
+8008D406 2400
+#Mission 1 Infinite Health Level 1
+800F0CEA 0080
+#Mission 1 Unlock Level 2
+80039E2C 0001
+#Mission 1 Infinite Health Level 2
+800E2DDA 0080
+#Mission 1Have Level 3 Unlocked
+80039E5C 0001
+#Mission 1 Infinite Health Level 3
+800E6E2A 0080
+#Mission 1 Have Level 4 Unlocked
+80039E8C 0001
+#Mission 1 Infinite Health Level 4
+800E689A 0080
+#Mission 2 Unlock Level 1
+80039EC4 0001
+#Mission 2 Infinite Health Level 1
+800E550A 0080
+#Mission 2 Unlock Level 2
+80039EF4 0001
+#Mission 2 Infinite Health Level 2
+800D9C8A 0080
+#Mission 2 Unlock Level 3
+80039F24 0001
+#Mission 2 Infinite Health Level 3
+800E57DA 0080
+#Mission 2 Unlock Level 4
+80039F54 0001
+#Mission 2 Infinite Health Level 4
+800E74CA 0080
+#Mission 3 Unlock Level 1
+80039F8C 0001
+#Mission 3 Infinite Health Level 1
+800EC48A 0080
+#Mission 3 Unlock Level 2
+80039FBC 0001
+#Mission 3 Infintie Health Level 2
+800DCDEA 0080
+#Mission 3 Unlock Level 3
+80039FEC 0001
+#Mission 3 Infinite Health Level 3
+800F147A 0080
+#Mission 4 Unlock Level 1
+8003A054 0001
+#Mission 4 Infinite Health Level 1
+800D71AA 0080
+#Mission 4 Unlock Level 2
+8003A084 0001
+#Mission 4 Infinite Health Level 2
+800DDCCA 0080
+#Mission 4 Unlock Level 3
+8003A0B4 0001
+#Mission 4 Infinite Health Level 3
+800DE6BA 0080
+#Mission 5 Unlock Level 1
+8003A11C 0001
+#Mission 5 Infinite Health Level 1
+800E48AA 0080
+#Mission 5 Unlock Level 2
+8003A14C 0001
+#Mission 5 Infinite Health Level 2
+800E190A 0080
+#Mission 5 Unlock Level 3
+8003A17C 0001
+#Mission 5 Infinite Health Level 3
+800E455A 0080
+#Mission 6 Unlock Level 1
+8003A1E4 0001
+#Mission 6 Infinite Health Level 1
+800E264A 0080
+#Mission 6 Unlock Level 2
+8003A214 0001
+#Mission 6 Infinite Health Level 2
+800FA97A 0080
+#Mission 6 Unlock Level 3
+8003A244 0001
+#Mission 6 Infinite Health Level 3
+800E82EA 0080
+#Mission 7 Unlock Level 1
+8003A2AC 0001
+#Mission 7 Infinite Health Level 1
+800DD80A 0080
+#Mission 7 Unlock Level 2
+800392DC 0001
+#Mission 7 Infinite Health Level 2
+800DC5EA 0080
+#Mission 7 Unlock Level 3
+8003930C 0001
+#Mission 7 Infinite Health Level 3
+800E4F9A 0080
+#Mission 7 Unlock Level 4
+8003933C 0001
+#Mission 7 Infinite Health Level 4
+800DF53A 0080
+#Mission 8 Unlock Level 1
+8003A374 0001
+#Mission 8 Infinite Health Level 1
+800E860A 0080
+#Mission 8 Unlock Level 2
+8003A3A4 0001
+#Mission 8 Infinite Health Level 2
+800DFBCA 0080
+#Mission 8 Unlock Level 3
+8003A3D4 0001
+#Mission 8 Infinite Health Level 3
+800E426A 0080

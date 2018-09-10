@@ -1,0 +1,14 @@
+#Infinite Lives P1
+80078C3C 0009
+#Infinite Bullets P1
+80078C38 0016
+#Infinite Lives P2
+80078C70 0009
+#Infinite Bullets P2
+80078C6C 0016
+#Infinite Credits
+80078C2C 001D
+#Last Stage Lethal Enforcers
+8006C21C 0014 
+#Last Stage Lethal Enforcers II
+8006C21C 0017

@@ -1,0 +1,10 @@
+#Infinite Energy P1		
+800B2CDC 00C8
+#1-Hit Death P1		
+D00B2CDC 00C8
+800B2CDC 0001
+#1-Hit Death P2		
+D00B364C 00C8
+800B364C 0001
+#Character Modifier P1	(00-1F)	
+800B81C6 001F

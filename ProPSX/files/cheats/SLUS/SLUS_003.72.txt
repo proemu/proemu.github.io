@@ -1,0 +1,62 @@
+#P1 Character Blistein
+301D867A 000A
+#P1 Character Kappah
+301D867A 000B
+#P1 Character Blood
+301D867A 000C
+#P1 Character Real Blistein
+301D867A 000D
+#P2 Character Blistein
+301D867B 000A
+#P2 Character Kappah
+301D867B 000B
+#P2 Character Blood
+301D867B 000C
+#P2 Character Real Blistein
+301D867B 000D
+#Infinite Health P1
+801D7CA0 00C8
+#Infinite Health P2
+801D8218 00C8
+#No Health P2
+801D8218 0000
+#1-Hit Death P2
+D01D8218 00C8
+801D8218 0001
+#Make Hayato's Sword Long P1
+801D7E14 01C0
+#Make Hayato's Sword Long P2
+801D838C 01C0
+#Have All Characters
+801EA8E4 0101
+801EA8E6 0001
+#Infinite Time (Seconds)
+801CF41A 3200
+#Infinite Time (Micro Seconds)
+801CF41C 0000
+#Stage Modifier Bilstien's stage
+301D867C 0009
+#Stage Modifier Real Bilstien's stage
+301D867C 000A
+#Stage Modifier Training stage
+301D867C 000B
+#P2 Color 1
+301D8680 0000
+#P2 Color 2
+301D8680 0001
+#Wall Mode Always On
+801CF3FE 0101
+#Infinite Plasma Strikes P1
+801D7EEC FFFF
+#Infinite Plasma Strikes P2
+801D8464 FFFF
+#Low Damage Mode P1
+801D7CC8 FFFF
+#Low Damage Mode P2
+801D8240 FFFF
+#Low Gravity P1
+801D7C8E 0001
+801D7CC0 FFFF
+#Low Gravity P2
+801D8206 0001
+801D8238 FFFF

@@ -1,0 +1,72 @@
+#Infinite Health Barkhang Monastery
+801E31C6 03E8
+#Infinite Health Bartoli's Hideout
+801D0CBE 03E8
+#Infinite Health Catacombs of The Talion
+801C5852 03E8
+#Infinite Health Diving Area
+801BDDA2 03E8
+#Infinite Health Dragon's Lair
+801A2A5E 03E8
+#Kill Dragon Boss With One Shot		
+D008AAD4 0040
+801A31CA 0000
+#Infinite Health Fathoms
+801BB482 03E8
+#Infinite Health Floating Islands
+801D1E42 03E8
+#Infinite Health Great Wall
+8019CF52 03E8
+#Infinite Health Home Sweet Home
+801B2CCE 03E8
+#Infinite Health Ice Palace
+801C8456 03E8
+#Kill Ice Palace Boss With One Shot	
+D008AAD4 0040
+801C9F0E 0000
+#Infinite Health Living Quarters
+801B6916 03E8
+#Infinite Health Offshore Rig
+801BEC86 03E8
+#Infinite Health Opera House
+801CF2F6 03E
+#Infinite Health Temple of Xian	
+801DB426 03E8
+#Infinite Health The Deck
+801DCD1A 03E8
+#Infinite Health Tibetan Foothills
+801DB6F2 03E8
+#Infinite Health Venice
+801C19E6 03E8
+#Infinite Health Wreck of The Maria Doria
+801CFE86 03E8
+#Wreck of The Maria Doria Have All 3 Circuit Breakers	
+80088B48 0003
+#Lara's Home Secret Door Open	
+8017D04A 0001
+8010BA08 1672
+#Infinite Oxygen
+8008C4FE 0708
+#Infinite Large Medi Packs
+80088AB8 03E7
+#Have All Special Items
+80088B34 0009
+#Have All Weapons	
+80088AA0 000B
+#Infinite Automatic Pistols Ammo		
+8008C5AC 0028
+#Infinite Flares		
+80088AAA 03E7
+#Infinite Grenade Launcher Ammo	
+8008C5BC 0008
+#Infinite M-16 Ammo	
+8008C5C0 0050
+#Infinite Shotgun Ammo	
+8008C5B4 0012
+#Infinite Uzis Ammo	
+8008C5B0 00A0
+#Have All Levels (You Must Load A Saved Game)		
+D006E678 0821
+8006E67C 0013
+D006E678 0821
+8006E67E 2402

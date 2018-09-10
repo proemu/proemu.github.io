@@ -1,0 +1,15 @@
+#Infinite Lives
+800B20C0 0005
+#Infinite Time
+800B1DF8 0000
+800B1D64 0352
+#Infinite Bullets
+800B1DDC 0006
+#Infinite Credits
+800B1D5C 0009
+#Auto Reload On	
+30109ED3 0001
+#Cheat Menu (Press Select)	
+D010C426 FFFE
+800C37C8 0004
+

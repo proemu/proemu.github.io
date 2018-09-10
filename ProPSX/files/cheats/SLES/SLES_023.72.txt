@@ -1,0 +1,20 @@
+#Infinite Time
+8004CB3A 3C00
+#Infinite Health
+80055146 3C00
+#Infinite Grenades/Ammo nearly for all weapons
+80052B6A 3C00
+#Infinite Magazines
+8002675A 3C00
+#Invincible (All Team Members)
+8007D3EC 0001
+#Open All Levels
+8007D3F0 0001
+#Finish Game Without Playing
+8007D400 0001
+#Invincible Hostages
+8007D404 0001
+#No Enemies
+8007D408 0001
+#No Locked Doors
+8007D414 0001

@@ -1,0 +1,26 @@
+#Asteroids\Infinite Lives P1
+300F595B 0006
+#Asteroids\Infinite Lives P2
+300F595C 0006
+#Battlezone\Infinite Lives P1
+80132E4C 0004
+#Centipede\Infinite Lives P1
+3011A93D 0005
+#Centipede\Infinite Lives P2
+3011A93E 0005
+#Missile Command\Infinite Cities P1
+3012438C 0006
+#Missile Command\Infinite Cities P2
+3012438D 0006
+#Missile Command\Infinite Shots (Alpha Fire)
+3012436C 000A
+#Missile Command\Infinite Shots (DeltaFire)
+3012436D 000A
+#Missile Command\Infinite Shots (Omega Fire)
+3012436E 000A
+#Super Breakkout\Score Modifier P1
+300FC314 0063
+#Super Breakkout\Infinite Turns P1
+800FC2F8 0001
+#Tempest\Infinite Lives P1
+30125080 0003

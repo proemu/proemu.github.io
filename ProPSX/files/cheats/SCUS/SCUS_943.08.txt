@@ -1,0 +1,23 @@
+#Unlock All Courses, Course Variations, Difficulty Levels, And 20 Vehicles
+80056456 0114
+#Freeze Timer
+800659C0 0000
+#Freeze Lap Timer
+800659C4 0000
+#Always Place 1
+800B43CA 0001
+#Start On Lap 2
+D00659BA 0001
+800659BA 0002
+#Start On Lap 3
+D00659BA 0001
+800659BA 0003
+#Start On Lap 4
+D00659BA 0001
+800659BA 0004
+#Start On Lap 5
+D00659BA 0001
+800659BA 0005
+#Extra Cars
+80055278 0014
+

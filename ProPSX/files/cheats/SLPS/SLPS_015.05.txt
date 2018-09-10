@@ -1,0 +1,5 @@
+#Infinite Money  	
+801397C0 423F
+801397C2 000F
+#Infinite HP in battle
+801396B4 00CB

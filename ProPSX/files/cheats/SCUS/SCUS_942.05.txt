@@ -1,0 +1,7 @@
+#Infinite Energy P1
+800BCFA0 00CF
+#P1 Needs 1 Round To Win		
+D00B41E0 0000
+300B41E1 0001
+#No Energy P2	
+800BCFA2 0000

@@ -1,0 +1,25 @@
+#Maximum Tokens
+800C85C8 0039
+#Have All Jewels
+D00A686A 0000
+800A686A 0005
+#All Gems		
+800A686A 0005
+#Everything Open/Completed		
+800A688C FFFF
+800A688E FFFF
+#Max $		
+800A6866 03E7
+#Infinite Time (Lizzie's Lunch)
+800DAE04 5000
+#Press L1 For Max Tips (Lizzie's Lunch)
+D00CDEB2 FBFF
+800DB75C FFFF
+#Press L2 For Max Sales (Lizzie's Lunch)
+D00CDEB2 FEFF
+800DADFC FFFF
+#Max Exposures Of Film (Photo Shoot)
+300C85C9 0036
+#Press R2 For More Picture Time (Photo Shoot)
+D00CDEB2 FDFF
+800A5154 5641

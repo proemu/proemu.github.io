@@ -1,0 +1,44 @@
+#Infinite HP Main Character
+800C3BF2 270F
+#Infinite HP Main Character (Girl)
+800C3D36 270F
+#Infinite HP Third Character
+800C3E7A 270F
+#Infinite HP Fourth Character (Archer)
+800C3FBE 270F
+#Infinite HP Fiith Character (Mage Girlr)
+800C4102 270F
+#Gold 999999
+80177E4C 967F
+80177E4E 0098
+#Mp Infinite
+D00444C6 0083
+800444C6 0080
+#??? Hpmax
+80177E2C 03E7
+#??? Mpmax
+80177E2E 03E7
+#???? Hpmax
+80177E54 03E7
+#???? Mpmax
+80177E56 03E7
+#???? Hpmax
+80177E7C 03E7
+#???? Mpmax
+80177E7E 03E7
+#??? Hpmax
+80177EA4 03E7
+#??? Mpmax
+80177EA6 03E7
+#?????? Hpmax
+80177ECC 03E7
+#?????? Mpmax
+80177ECE 03E7
+#??? Hpmax
+80177EF4 03E7
+#??? Mpmax
+80177EF6 03E7
+#???? Hpmax
+80177F6C 03E7
+#???? Mpmax
+80177F6E 03E7

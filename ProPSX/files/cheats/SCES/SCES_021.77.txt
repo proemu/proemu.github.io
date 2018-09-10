@@ -1,0 +1,11 @@
+#Player 1 Maximum Score
+801E01FC C9FF
+801E01FE 3B9A
+#Max Gauge Player 1 (use it with the other gauge code and deactivate this one after use it)
+801E015A 9800
+#Press L2 For Max Gauge Player 1 	
+E01E1154 0001
+801E015A 9800
+#Press L2 For Max Gauge (P1) Alt 1
+E01E1140 0001
+801E072A 9800

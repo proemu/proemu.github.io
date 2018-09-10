@@ -1,0 +1,10 @@
+#Infinite HP 1P 
+300C27B8 0067 
+#Number of power Stock P1
+300C2859 0005 
+#Infinite HP 2P
+300C2980 0067 
+#No HP 2P
+300C2980 0000
+#Number of power Stock P2
+300C2A21 0005 

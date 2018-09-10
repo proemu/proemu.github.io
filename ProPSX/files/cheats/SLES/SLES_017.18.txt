@@ -1,0 +1,124 @@
+#Infinite Lives
+80055F74 000F
+#Infinite Energy
+80055F7A 0009
+#No. Of Neds To Capture
+80055FBA 00??
+?00-FF
+#No. Of Neds Captured
+80055FBE 00??
+?00-FF
+#Infinite Blaster-Ammo
+80055FFC 03E7
+#Finish Bonus-Levels Successfully
+D0055FBA 0064
+80055FBA 0001
+D0055FBE 0000
+80055FBE 0063
+#Level Select Alien Containment Facility
+D0056020 0001
+80056020 0001
+#Level Select Security Level
+D0056020 0001
+80056020 0002
+#Level Select Airfield Under Attack
+D0056020 0001
+80056020 0003
+#Level Select Airforce Assault
+D0056020 0001
+80056020 0004
+#Level Select This Space Intentionally Blank
+D0056020 0001
+80056020 0005
+#Level Select Chiswick Park Ned Farm
+D0056020 0001
+80056020 0006
+#Level Select Big Ben Time Machine
+D0056020 0001
+80056020 0007
+#Level Select Body Snatchers
+D0056020 0001
+80056020 0008
+#Level Select The Tower Of London
+D0056020 0001
+80056020 0009
+#Level Select Stonehenge Time Gate
+D0056020 0001
+80056020 000A
+#Level Select Mexican Jungle
+D0056020 0001
+80056020 000B
+#Level Select Aztec City Limits
+D0056020 0001
+80056020 000C
+#Level Select Aztec Suburbia
+D0056020 0001
+80056020 000D
+#Level Select Aztec Airport
+D0056020 0001
+80056020 000E
+#Level Select Shamanic Temple
+D0056020 0001
+80056020 000F
+#Level Select Stoneage Starport 
+D0056020 0001
+80056020 0010
+#Level Select Pterydactyl Terror
+D0056020 0001
+80056020 0011
+#Level Select Inside The Volcano
+D0056020 0001
+80056020 0012
+#Level Select Grimloid Magma Plant
+D0056020 0001
+80056020 0013
+#Level Select The Reactor Core
+D0056020 0001
+80056020 0014
+#Level Select Grimloid Starport
+D0056020 0001
+80056020 0015
+#Level Select Baggage Handling
+D0056020 0001
+80056020 0016
+#Level Select Downtown Homeworld
+D0056020 0001
+80056020 0017
+#Level Select NEDCO's Flagship
+D0056020 0001
+80056020 0018
+#Level Select Big Bubba's Bridge
+D0056020 0001
+80056020 0019
+#Level Select Intro
+D0056020 0001
+80056020 001A
+#Level Select Outro
+D0056020 0001
+80056020 001B
+#Level Select Bonus Level 1
+D0056020 0001
+80056020 001C
+#Level Select Bonus Level 2
+D0056020 0001
+80056020 001D
+#Level Select Bonus Level 3
+D0056020 0001
+80056020 001E
+#Level Select Bonus Level 4
+D0056020 0001
+80056020 001F
+#Level Select Demo Level 1
+D0056020 0001
+80056020 0024
+#Level Select Demo Level 2
+D0056020 0001
+80056020 0025
+#P.O.D.-Codes (On Pickup)\Infinite Explosives,Smart Bombs S, Bubble Bombs,Impact Scatter Grenades, Skinner Missiles
+80056000 03E7
+#P.O.D.-Codes (On Pickup)\Infinite Bubble-Bombs
+80056004 03E7
+#P.O.D.-Codes (On Pickup)\Infinite Love Bombs
+80056008 03E7
+#P.O.D.-Codes (On Pickup)\Infinite Hoverned-Traps
+8005600C 03E7

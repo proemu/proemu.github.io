@@ -1,0 +1,19 @@
+#Always Place 1st
+8009CA0C 0000
+800A1FF2 0000
+#Slow Motion
+8009C468 F550
+#Stop Timer
+8009CA18 0000
+8009CA14 0000
+#Max Speed 
+8009C632 000F
+#Always On Lap 1
+8009CA10 0000
+#Always On Lap 2
+8009CA10 0001
+#Start On Lap 2
+D009CA10 0000
+8009CA10 0001
+#Accelerate Faster Than Normal
+8009C552 FFFF

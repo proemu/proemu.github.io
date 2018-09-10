@@ -1,0 +1,8 @@
+#P1 Infinite Armor
+80153950 0003
+#P2 Infinite Armor
+80195710 0003
+#P1 Infinite Temperature
+80153948 0000
+#P2 Infinite Temperature
+80195708 0000

@@ -1,0 +1,4 @@
+#Infinite magic
+80105664 0064
+#Infinite energy
+800F1FAC 0096

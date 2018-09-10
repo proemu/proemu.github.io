@@ -1,0 +1,9 @@
+#Infinite Money
+8013B810 E0FF
+8013B812 05F5
+#High Reputation
+8013C538 0400
+#Maximum cures	
+8013B9C6 FFFF
+#Raised G.P.'s price	
+80011BAC FFFF

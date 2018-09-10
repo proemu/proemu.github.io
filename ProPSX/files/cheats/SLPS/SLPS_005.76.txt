@@ -1,0 +1,12 @@
+#Fast Level Up		
+80075A60 270F
+80075A9C 270F
+80075A7E 270F
+#Hero to upgrade immediately 
+80075A60 270F 
+#Grain of soldiers decrease 
+8007351 C3E7 
+#Rapid escalation of stubborn fighting vehicles 
+80075A9C 270F 
+#Stubborn cannon to upgrade immediately 
+80075A7E 270F 

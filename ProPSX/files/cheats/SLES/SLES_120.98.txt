@@ -1,0 +1,27 @@
+#Ghosts'n Goblins\Infinite Time
+301D00AB 0055
+#Ghosts'n Goblins\Infinite Lives
+301D0060 0005
+#Ghosts'n Goblins\Infinite Shields
+301D00AC 0000
+#Ghosts'n Goblins\Invincible
+301D00AD 00FF
+#Ghouls'n Ghosts\Infinite Time
+801C06D2 0222
+#Ghouls'n Ghosts\Infinite Lives
+301A07AD 0005
+#Ghouls'n Ghosts\Invincible
+301C0931 00FF
+#Ghouls'n Ghosts\Get All Special Weapons
+801C07AA 0201
+301C07AC 0003
+301C095E 0001
+#Super Ghouls'n Ghosts\Infinite Time
+301902A7 0005
+301902A8 0001
+#Super Ghouls'n Ghosts\Infinite Lives
+301902A4 0005
+#Super Ghouls'n Ghosts\Invincible (.Press Select to be vulnerable for a short time)
+80190276 0002
+D010772C 0100
+80190276 0000

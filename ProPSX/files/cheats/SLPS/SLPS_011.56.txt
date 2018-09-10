@@ -1,0 +1,10 @@
+#Infinite money 999999 Player 1
+800D76C4 270F
+#Money 0 Player 2 
+800D7840 0000 
+#Money 0 Player 3
+800D79BC 0000
+#Money 0 Player 4
+800D7B38 0000
+#Kintarou Infinite Strenght In Mini Game
+8013D920 0005

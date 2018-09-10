@@ -1,0 +1,26 @@
+#Have 999 Points In Mahjong
+80106A30 03E7
+#Enemy has 0 and you win
+80106A34 0000
+#Open all of the puzzle image other than items of survival bonus
+801082C0 FFFF 
+801082C2 FFFF 
+801082C4 FFFF 
+801082C6 FFFF 
+801082C8 FFFF 
+#Memories Off completed puzzle image 
+801082A0 0100 
+801082A2 0100 
+801082A4 0100 
+#Infinity completed puzzle image 
+801082A6 0100 
+801082A8 0100 
+#Tsubasa puzzle image completion of a dream 
+801082AA 0100 
+801082AC 0100 
+#Ten balls puzzle image completion 
+801082AE 0100 
+801082B0 0100 
+801082B2 0100 
+#Aine completed puzzle image 
+801082B4 0100 

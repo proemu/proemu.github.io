@@ -1,0 +1,37 @@
+#Away Team Score 9
+3001D49B 0009
+#Away Team Score 0
+3001D49B 0000
+#Home Team Score 9
+3001D458 0009
+#Home Team Score 0
+3001D458 0000
+#Infinite Creation Points
+801DCC48 00FF
+#Infinite Outs
+800B9270 0000
+#1 Out And You Are Out
+D00B9270 0000
+800B9270 0002
+#2 Outs And You Are Out
+D00B9270 0000
+800B9270 0001
+#Infinite Strikes
+800B9272 0000
+#1 Strike And You Are Out
+D00B9272 0000
+800B9272 0002
+#2 Strikes And You Are Out
+D00B9272 0000
+800B9272 0001
+#Infinite Balls
+800B9274 0000
+#1 Ball And You Walk
+D00B9274 0000
+800B9274 0003
+#2 Balls And You Walk
+D00B9274 0000
+800B9724 0002
+#3 Balls And You Walk
+D00B9724 0000
+800B9724 0001

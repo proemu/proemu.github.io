@@ -1,0 +1,22 @@
+#Infinite Hp
+30098728 00FA
+#Infinite Magic
+3009872D 00FA
+#Max Exp
+300BD428 00C8
+#Infinite Life Second Character 
+80098B54 0064
+#Infinite Herb
+800D7448 0003
+#Double Magic Slash (Press R2)
+D00BB2F8 0002
+800BCAC8 0028
+#One Slash Kill
+D0048926 0270
+80048926 0000
+#Infinite Items
+D00591D6 0211
+800591D6 0200
+#Never Get Poisoned
+D00474C2 A4A2
+800474C2 A4A0

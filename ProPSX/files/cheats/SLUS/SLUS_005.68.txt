@@ -1,0 +1,4 @@
+#Inf Health In Battle
+800DDE72 03E7
+#Infinite Money
+800E8540 FFFF

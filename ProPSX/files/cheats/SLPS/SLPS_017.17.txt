@@ -1,0 +1,8 @@
+#Infinite Life P1	
+80093168 000A		
+#Max Bomb Fire P1	
+801D8C08 000A		
+#10 Bombs in a Row P1	
+801D8C0C 000A		
+#Have Remote Controlled Bombs P1	
+801D8C14 0001

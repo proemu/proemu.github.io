@@ -1,0 +1,12 @@
+#Home Score 99	
+80094FC0 0063
+#Home Score 0	
+80094FC0 0000
+#Away Score 99	
+80095060 0063
+#Away Score 0	
+80095060 0000
+#Home Infinite Turbo
+800C2C14 00FF
+#Away Infinite Turbo
+800C2C18 00FF

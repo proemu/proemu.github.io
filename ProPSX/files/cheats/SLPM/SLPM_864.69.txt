@@ -1,0 +1,6 @@
+#Infinite money  
+800A4A58 03E7 
+#Rivals money = 0  
+800A4A5C 0000
+800A4A60 0000
+800A4A64 0000 

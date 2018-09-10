@@ -1,0 +1,37 @@
+#Infinite & Max HP 1st character in Battle	
+80195BB4 03E7
+80195BB6 03E7
+#Infinite & Max HP 2nd character in Battle	
+80195C30 03E7
+80195C32 03E7
+#Infinite & Max HP 3rd character in Battle	
+80195CAC 03E7
+80195CAE 03E7
+#Infinite & Max HP 4th character in Battle	
+80195D28 03E7
+80195D2A 03E7
+#Infinite & Max HP 5th character in Battle	
+80195DA4 03E7
+80195DA6 03E7
+#Infinite & Max HP 6th character in Battle	
+80195E20 03E7
+80195E22 03E7
+#Max HP all characters in Battle	
+5000067C 0000
+80195BB4 03E7
+#Infinite HP all characters in Battle
+5000067C 0000
+80195BB6 03E7
+#Infinite Rune MP all characters	
+D0073B68 1821
+80073B6C 0000
+D0073B68 1821
+80073B6E 0000
+#No random battles	
+D102566E 0000
+8002566E 0000
+#Infinite all inventory	
+D00716B0 088A
+800716B0 0000
+D00716B0 088A
+800716B2 0000

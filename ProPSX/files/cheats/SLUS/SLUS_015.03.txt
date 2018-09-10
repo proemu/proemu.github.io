@@ -1,0 +1,4 @@
+#15 Beans Every Pickup
+80084860 F000
+#Infinite Health
+80084A7C 8000

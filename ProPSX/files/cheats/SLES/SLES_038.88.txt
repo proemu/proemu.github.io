@@ -1,0 +1,8 @@
+#Invulnerable
+80044DF2 2400
+#Infinite ammo on pick-up
+800C8972 2400
+#Infinite Grenades On Pickup
+800C9336 2400
+#Infinite rifle ammo
+800F6EDC 001E

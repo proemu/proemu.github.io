@@ -1,0 +1,2 @@
+#All courses and hidden characters
+80098C10 FFFF

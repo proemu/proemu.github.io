@@ -1,0 +1,58 @@
+#Infinite time The Ambassador's Car 	
+800F6188 0000
+#Unlock Level Meet Camp Freddie Mission 
+30011032 0001
+#Infinite time Meet Camp Freddie Mission 	
+800F4F88 0000
+#Unlock Level Peaches For Peaches Mission 
+3001102E 0001
+#Infinite time Peaches For Peaches Mission 	
+800F70B8 0000
+#Unlock Level Special Delivery Mission 
+30011030 0001
+#Infinite time Special Delivery Mission 	
+800F3C94 0000
+#Unlock Level Prison Pals Mission 
+30011034 0001
+#Infinite time Prison Pals Mission 	
+800F1B20 0000
+#Unlock Level Keeping It Up Mission
+3001103C 0001
+#Infinite time Keeping It Up Mission
+800F0C08 0000
+#Unlock Level Big William's Ride Mission 
+30011038 0001
+#Infinite time Big William's Ride Mission 	
+800F6184 0000
+#Unlock Level Torino Tours Mission 
+3001103A 0001
+#Infinite time Torino Tours Mission 	
+800E7B84 0000
+#Unlock Level Mafia Mania Mission 
+3001103A 0001
+#Infinite time Mafia Mania Mission 	
+800F674C 0000
+#Unlock Level Traffic Tape Caper Mission 
+300110B8 0001
+#Infinite time Traffic Tape Caper Mission 	
+800EFA18 0000
+#Unlock Level Interference Mission
+300110BE 0001
+#Infinite time Interference Mission
+800F18D0 0000
+#Unlock Level Convoy Mission
+300110BC 0001
+#Infinite time Convoy Mission
+800F8208 0000
+#Unlock Level The Getaway Mission 
+300110C0 0001
+#Infinite time The Getaway Mission  	
+800F632C 0000
+#Unlock Level Red, White & Blue Mission 
+300110C2 0001
+#Infinite time Red, White & Blue Mission 	
+800E8188 0000
+#Unlock Level Home Free Mission 
+300110C4 0001
+#Infinite time Home Free Mission 	
+800DAA2C 0000

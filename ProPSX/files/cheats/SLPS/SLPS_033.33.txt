@@ -1,0 +1,15 @@
+#Main character infinite & Max HP
+8014CB02 03E7 
+8014CB0C 03E7
+#Second character infinite & Max HP
+8014CE4A 03E7 
+8014CE54 03E7
+#Third Character infinite & Max HP
+8014D192 03E7 
+8014D19C 03E7 
+#Money 99999999 
+801FE9D4 E0FF 
+801FE9D6 0FF5 
+#Items all possession
+50007602 0000 
+801FE8BE 6363

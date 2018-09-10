@@ -1,0 +1,4 @@
+#Infinite energy robot in battle
+801ADB42 0096
+#Infinite bombs (Special attack)
+801ADB38 0007

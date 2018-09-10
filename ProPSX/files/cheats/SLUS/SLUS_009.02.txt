@@ -1,0 +1,35 @@
+#Infinite Health		
+800D73BC 4000
+800D73BE 0006
+#Invincible		
+800D73F8 0000
+#Infinite Napalm Liquid
+300D7E2A 0063
+#Infinite Paralysis Liquid
+300D7E2B 0063
+#Infinite Gravity Liquid
+300D7E2C 0063
+#Infinite E-Chips
+300D7E2D 0063
+#Max Set Bombs
+8019147C 0006
+#Max Lock-On Range
+80191E00 0006
+#Max Defense Field Power
+80192784 0006
+#Max Score
+800D7E84 FFFF
+800D7E86 0FFF
+#Have All Characters
+800D7D28 FFFF
+#Overall Time is 0:00:00
+800D7D18 0000
+#All Targets Destroyed 	
+C20D7E3E 0001
+800D734E 0000
+#Infinite Shields (Rescue: Ship - Mission 5)		
+8019E92E 000F
+#Infinite Shields (Rescue: Ship - Mission 12)		
+80179BB6 0019
+
+	

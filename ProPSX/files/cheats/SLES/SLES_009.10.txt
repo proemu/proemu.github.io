@@ -1,0 +1,11 @@
+#Infinite money 	
+800B7178 FFFF
+800B717A 3B9A 		
+#Slow Down Timer In Time Trials 	
+800C1BBC 0747
+800C1F60 7FBC 		
+#Infinite Bike Durability 	
+8010F0AA 7F7F 		
+#Infinite Biker Health 	
+8010F072 8080
+

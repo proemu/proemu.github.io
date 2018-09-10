@@ -1,0 +1,97 @@
+#Hero Physical condition MAX
+80074F7A 03E7
+#Hero Humanities MAX
+80074F7E 03E7
+#Hero Science MAX
+80074F82 03E7
+#Hero Art MAX
+80074F86 03E7
+#Hero Exercise MAX
+80074F8A 03E7
+#Hero Trivia MAX
+80074F8E 03E7
+#Hero Paper MAX
+80074F92 03E7
+#Hero Guts MAX
+80074F96 03E7
+#Hero Stress 0
+80074F9A 0000
+#Hero State health
+30075043 0000
+#Aso Kasumi Tokimeki degree MAX
+800A1AE2 00FF
+#Aso Kasumi Friendship degree MAX
+800A1AE6 00FF
+#Aso Kasumi Heartbreak of 0
+800A1AEA 0000
+#Hino-ka light Tokimeki degree MAX
+800A1B12 00FF
+#Hino-ka light Friendship degree MAX
+800A1B16 00FF
+#Hino-ka light Heartbreak of 0
+800A1B1A 0000
+#Minazuki Kotoko Tokimeki degree MAX
+800A1B42 00FF
+#Minazuki Kotoko Friendship degree MAX
+800A1B46 00FF
+#Minazuki Kotoko Heartbreak of 0
+800A1B4A 0000
+#Kotobuki Miyuki Tokimeki degree MAX
+800A1B72 00FF
+#Kotobuki Miyuki Friendship degree MAX
+800A1B76 00FF
+#Kotobuki Miyuki Heartbreak of 0
+800A1B7A 0000
+#Akane Tokimeki degree MAX
+800A1BA2 00FF
+#Akane Friendship degree MAX
+800A1BA6 00FF
+#Akane Heartbreak of 0
+800A1BAA 0000
+#SnowWhite Miho Tokimeki degree MAX
+800A1BD2 00FF
+#SnowWhite Miho Friendship degree MAX
+800A1BD6 00FF
+#SnowWhite Miho Heartbreak of 0
+800A1BDA 0000
+#Red flame Tokimeki degree MAX
+800A1C02 00FF
+#Red flame Friendship degree MAX
+800A1C06 00FF
+#Red flame Heartbreak of 0
+800A1C0A 0000
+#Sakuranashi Tokimeki degree MAX
+800A1C32 00FF
+#Sakuranashi Friendship degree MAX
+800A1C36 00FF
+#Sakuranashi Heartbreak of 0
+800A1C3A 0000
+#Sakura Kaedeko Tokimeki degree MAX
+800A1C62 00FF
+#Sakura Kaedeko Friendship degree MAX
+800A1C66 00FF
+#Sakura Kaedeko Heartbreak of 0
+800A1C6A 0000
+#Ijuin Mei Tokimeki degree MAX
+800A1C92 00FF
+#Ijuin Mei Friendship degree MAX
+800A1C96 00FF
+#Ijuin Mei Heartbreak of 0
+800A1C9A 0000
+#SnowWhite Maho Tokimeki degree MAX
+800A1CC2 00FF
+#SnowWhite Maho Friendship degree MAX
+800A1CC6 00FF
+#SnowWhite Maho Heartbreak of 0
+800A1CCA 0000
+#All ending possible selection
+3006D663 00C0
+8006D664 FFFF
+3006D666 001F 
+#All mini-sub games can be selected
+3006D776 00F9 
+#MELTNG POINT invincible
+D00E353C 1023
+800E353E 0060
+#Does not decrease MELTNG POINT ring
+80124578 1000

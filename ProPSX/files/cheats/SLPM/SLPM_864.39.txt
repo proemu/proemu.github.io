@@ -1,0 +1,5 @@
+#Couple affinity = 100 Mission 1
+800BC584 0064
+#Have 99000000 Money
+801F481C 9EC0
+801F481E 05E6

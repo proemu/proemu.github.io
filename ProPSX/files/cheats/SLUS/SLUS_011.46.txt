@@ -1,0 +1,32 @@
+#Home Team Score 0\1st Quarter
+801682A4 0000
+#Home Team Score 0\2nd Quarter
+801682A8 0000
+#Home Team Score 0\3rd Quarter
+801682AC 0000
+#Home Team Score 0\4th Quarter
+801682B0 0000
+#Away Team Score 0\1st Quarter
+801682B4 0000
+#Away Team Score 0\2nd Quarter
+801682B8 0000
+#Away Team Score 0\3rd Quarter
+801682BC 0000
+#Away Team Score 0\4th Quarter
+801682C0 0000
+#Home Team Score 99\1st Quarter
+801682A4 0063
+#Home Team Score 99\2nd Quarter
+801682A8 0063
+#Home Team Score 99\3rd Quarter
+801682AC 0063
+#Home Team Score 99\4th Quarter
+801682B0 0063
+#Away Team Score 99\1st Quarter
+801682B4 0063
+#Away Team Score 99\2nd Quarter
+801682B8 0063
+#Away Team Score 99\3rd Quarter
+801682BC 0063
+#Away Team Score 99\4th Quarter
+801682C0 0063

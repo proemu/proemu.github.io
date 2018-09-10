@@ -1,0 +1,36 @@
+#Bekomme viele Punkte für jeden Trick	
+D006787A AE00
+8006787C 4E20
+D006787A AE00
+8006787E 2442
+#Bekomme immer Topwertung (Drücke L1 & L2 & Oben)	
+D00C2236 FAEF
+50000302 03E8
+800C3836 0000
+#Alle Gaps geschafft Giesserei	
+800BD9EC FFFF
+800BD9EE FFFF
+800BD9F0 FFFF
+300BD9F2 000F
+#Alle Gaps geschafft Los Angeles	
+800BD9F8 FFFF
+800BD9FA 7FFF
+#Alle Gaps geschafft Rio de Janeiro	
+800BDA04 FFFF
+800BDA06 9FFF
+#Alle Gaps geschafft Vorstadt	
+800BDA10 FFFF
+300BDA12 003F
+#Alle Gaps geschafft Flughafen	
+800BDA1C FFFF
+800BDA1E FFFF
+300BDA20 0001
+#Alle Gaps geschafft Skater Island	
+800BDA28 FFFF
+800BDA2A FFFF
+300BDA2C 0007
+#Alle Gaps geschafft Kanada	
+800BDA34 7FFF
+#Alle Gaps geschafft Tokio	
+800BDA40 FFFF
+300BDA42 003F

@@ -1,0 +1,11 @@
+#No Wall Damage
+D0044274 00F8
+80044276 2400
+#Infinite Turbo
+D00473D0 0190
+800473D2 2400
+#Stop Timer
+D0042ABC 00D0
+80042ABE 2400
+#Unlock All  Levels (.You have to enter a game then exit. Then all the levels will be unlocked)
+80066236 0033

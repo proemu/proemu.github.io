@@ -1,0 +1,20 @@
+#Master Code	
+D002A9A8 000D
+#Infinite Lives Player 1	
+800CDF42 001E
+#Infinite Ammo Player 1
+800CDF3E 03E8
+#Infinite Lives Player 2
+D004B138 0002
+800CDFCA 001E		
+#Infinite Ammo Player 2	
+D004B138 0002
+800CDFC6 03E8
+#Have All Keys	
+80107AC4 000F
+#All pause menu cheats activated (press select after you start level 1)		
+D00FC970 0100
+300A1484 003F
+#Level Select Cheat Activated (press select after you have started level 1 then quit)		
+D00FC970 0100
+300A1486 0001

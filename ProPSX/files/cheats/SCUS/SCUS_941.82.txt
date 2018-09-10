@@ -1,0 +1,10 @@
+#Infinite Energy 	
+80040FBE 6D60
+#Infinite Weapon 1 	
+8004128A 00C8
+#Infinite Weapon 2 	
+800412C6 00C8
+#Infinite Armor 	
+801A2818 7000
+#Infinite Time 	
+8019F52C FFFF

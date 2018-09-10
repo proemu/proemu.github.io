@@ -1,0 +1,11 @@
+#Infinite health Player 1
+800AEF4E 0064
+#Infinite health Player 2
+800AF08E 0064
+#Stop time Only Enable In Game
+800AAAC2 0800
+#SuddenDeath all enemies	
+D00852A6 0043
+800852A4 0000
+D00852A6 0043
+800852A6 3402

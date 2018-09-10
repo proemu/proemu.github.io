@@ -1,0 +1,7 @@
+#All Racers Enabled
+8008156C 03FF
+#All Tracks Enabled
+80081570 01FF
+#All Cups Enabled
+80081574 0007
+

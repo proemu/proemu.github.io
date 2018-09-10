@@ -1,0 +1,8 @@
+#Infinites lives
+8007D6AC 0009
+#Infinite fuel
+8008C458 0DAC
+#Infinite missiles
+8008C48C 0014
+#Infinite bullets
+8008C488 03E7

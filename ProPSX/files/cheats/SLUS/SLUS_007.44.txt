@@ -1,0 +1,16 @@
+#Infinite Health Player 1
+800A1E5C B400
+#Unlock Everything
+50000402 0000
+800BE56C FFFF
+#P1 Only Needs 1 Win		
+D00A1F28 0000
+800A1F28 0001
+#P2 No Health		
+800A2430 1400
+#View Ending After First Battle
+E009F0AC 0000
+3009F0AC 0009
+#Infinite Round Time
+3009EB44 0063
+

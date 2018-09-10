@@ -1,0 +1,167 @@
+#Quest Infinite Lives
+80153C64 0063
+#Quest Infinite Health
+80153C58 0004
+#Quest Invincible
+80153C58 0004
+#Quest Max Pac Dots
+80153C68 00FF
+#Quest Max Score
+80153C60 FFFF
+80153C62 0FFF
+#Quest 100 Cherries On Pick-Up
+80153E16 0063
+#Quest 100 Strawberries On Pick-Up
+80153E18 0063
+#Quest 100 Oranges On Pick-Up
+80153E1A 0063
+#Quest 100 Apples On Pick-Up
+80153E1E 0063
+#Quest 100 Bananas On Pick-Up
+80153E20 0063
+#Quest Have Pacman (Press Select)
+D014790A 0001
+50000602 0000
+80153E58 0001
+#Classic Infinite Lives
+801A9468 0063
+#Classic Max Points
+801BD678 FFFF
+#Maze Unlock Outtakes
+80111BAC 0001
+#Maze Max Score
+D0153C60 0000
+80153C60 FFFF
+#Maze 100 Melons On Pick-Up
+80153E22 0063
+#Maze 100 Lemons On Pick-Up
+80153E24 0063
+#Maze 100 Peaches On Pick-Up
+80153E1C 0063
+#Maze 100 Bells On Pick-Up
+80153E28 0063
+#Maze 100 Galaxians On Pick-Up
+80153E26 0063
+#Maze 100 Keys On Pick-Up
+80153E2E 0063
+#Unlock Pirate Level 1
+80153E84 00FF
+#Pirate Level 1 Completed
+80153DA2 00FF
+#Unlock Pirate Level 2
+80153E78 00FF
+#Pirate Level 2 Completed
+80153DA4 00FF
+#Unlock Pirate Level 3
+80153E7C 00FF
+#Pirate Level 3 Completed
+80153DA6 00FF
+#Unlock Pirate Level 4
+80153E80 00FF
+#Pirate Level 4 Completed
+80153DA8 00FF
+#Pirate Level 5 Completed
+80153DAA 00FF
+#Pirate Level 6 Completed
+80153DAC 00FF
+#Unlock Ruins Level 1
+80153E68 00FF
+#Ruins Level 1 Completed
+80153DAE 00FF
+#Unlock Ruins Level 2
+80153E6C 00FF
+#Ruins Level 2 Completed
+80153DB0 00FF
+#Unlock Ruins Level 3
+80153E74 00FF
+#Ruins Level 3 Completed
+80153DB2 00FF
+#Ruins Level 4 Completed
+80153DB4 00FF
+#Ruins Level 5 Completed
+80153DB6 00FF
+#Ruins Level 6 Completed
+80153DB8 00FF
+#Unlock Space Level 1
+80153CE8 00FF
+#Space Level 1 Completed
+80153DBA 00FF
+#Unlock Space Level 2
+80153CEC 00FF
+#Space Level 2 Completed
+80153DBC 00FF
+#Unlock Space Level 3
+80153CF0 00FF
+#Space Level 3 Completed
+80153DBE 00FF
+#Unlock Space Level 4
+80153CF4 00FF
+#Space Level 4 Completed
+80153DC0 00FF
+#Space Level 5 Completed
+80153DC2 00FF
+#Space Level 6 Completed
+80153DC4 00FF
+#Unlock Funhouse Level 1
+80153CF8 00FF
+#Funhouse Level 1 Completed
+80153DC6 00FF
+#Unlock Funhouse Level 2
+80153CFC 00FF
+#Funhouse Level 2 Completed
+80153DC8 00FF
+#Unlock Funhouse Level 3
+80153D00 00FF
+#Funhouse Level 3 Completed
+80153DCA 00FF
+#Unlock Funhouse Level 4
+80153D04 00FF
+#Funhouse Level 4 Completed
+80153DCC 00FF
+#Funhouse Level 5 Completed
+80153DCE 00FF
+#Funhouse Level 6 Completed
+80153DD0 00FF
+#Unlock Factory Level 1
+80153D14 00FF
+#Factory Level 1 Completed
+80153DD2 00FF
+#Unlock Factory Level 2
+80153D18 00FF
+#Factory Level 2 Completed
+80153DD4 00FF
+#Unlock Factory Level 3
+80153D1C 00FF
+#Factory Level 3 Completed
+80153DD6 00FF
+#Unlock Factory Level 4
+80153D20 00FF
+#Factory Level 4 Completed
+80153DD8 00FF
+#Factory Level 5 Completed
+80153D26 00FF
+#Factory Level 6 Completed
+80153D28 00FF
+#Unlock Mansion Level 1
+80153D08 00FF
+#Mansion Level 1 Completed
+80153D2A 00FF
+#Unlock Mansion Level 2
+80153D0C 00FF
+#Mansion Level 2 Completed
+80153D2C 00FF
+#Unlock Mansion Level 3
+80153D10 00FF
+#Mansion Level 3 Completed
+80153D2E 00FF
+#Mansion Level 4 Completed
+80153D30 00FF
+#Mansion Level 5 Completed
+80153D32 00FF
+#Mansion Level 6 Completed
+80153D34 00FF
+#Unlock Gallery & All Mazes Completed
+50000802 0000
+80153D26 00FF
+50001C02 0000
+80153DA2 00FF

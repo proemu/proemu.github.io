@@ -1,0 +1,22 @@
+#Cloud infinite & Max HP
+8009D924 03E7
+8009D926 03E7
+#Cloud infinite HP in battle
+800F8504 03E7
+#Barret infinite & Max HP
+8009DD64 03E7
+8009DD66 03E7
+#Barret infinite HP in battle
+800F8968 03E7
+#Tifa infinite & Max HP
+8009C934 03E7
+8009C936 03E7
+#Cloud infinite MP in battle
+800F5CEE 0063
+#Tifa infinite MP in battle
+800F5D76 0063
+#Aeris infinite MP in battle
+800F5D32 0063
+#Have 999999 gold
+8009D328 423F
+8009D32A 000F

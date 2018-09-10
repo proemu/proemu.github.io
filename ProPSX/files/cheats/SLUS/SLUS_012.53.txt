@@ -1,0 +1,83 @@
+#Have 99999 money
+8009F5C8 869F
+8009F5CA 0001
+#Alec Infinite Hp
+80080C20 270F
+#Alec Max Hp
+80080C22 270F
+#Alec Infinite Mp
+80080C26 270F
+#Alec Max Mp
+80080C28 270F
+#Aneritta Infinite Hp
+80080EF0 270F
+#Aneritta Max Hp
+80080EF2 270F
+#Aneritta Infinite Mp
+80080EF6 270F
+#Aneritta Max Mp
+80080EF8 270F
+#Cheryl Infinite Hp
+80080D10 270F
+#Cheryl Max Hp
+80080D12 270F
+#Cheryl Infinite Mp
+80080D16 270F
+#Cheryl Max Mp
+80080D18 270F
+#Elc Infinite Hp
+80080E00 270F
+#Elc Max Hp
+80080E02 270F
+#Elc Infinite Mp
+80080E06 270F
+#Elc Max Mp
+80080E08 270F
+#Lutz Infinite Hp
+80080C70 270F
+#Lutz Max Hp
+80080C72 270F
+#Lutz Infinite Mp
+80080C76 270F
+#Lutz Max Mp
+80080C78 270F
+#Marisa Infinite Hp
+80080D60 270F
+#Marisa Max Hp
+80080D62 270F
+#Marisa Infinite Mp
+80080D66 270F
+#Marisa Max Mp
+80080D68 270F
+#Shu Infinite Hp
+80080EA0 270F
+#Shu Max Hp
+80080EA2 270F
+#Shu Infinite Mp
+80080EA6 270F
+#Shu Max Mp
+80080EA8 270F
+#Theo Infinite Hp
+80080CC0 270F
+#Theo Max Hp
+80080CC2 270F
+#Theo Infinite Mp
+80080CC6 270F
+#Theo Max Mp
+80080CC8 270F
+#Tosh Infinite Hp
+80080E50 270F
+#Tosh Max Hp
+80080E52 270F
+#Tosh Infinite Mp
+80080E56 270F
+#Tosh Max Mp
+80080E58 270F
+#Velhart Infinite Hp
+80080DB0 270F
+#Velhart Max Hp
+80080DB2 270F
+#Velhart Infinite Mp
+80080DB6 270F
+#Velhart Max Mp
+80080DB8 270F

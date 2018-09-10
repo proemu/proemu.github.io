@@ -1,0 +1,14 @@
+#99999999 Credits  
+80115DD0 E0FF
+80115DD2 05F5 
+#Solo, Tournament & Special Races\Get 100 Racing Points  
+80115EE0 0064 
+#Solo, Tournament & Special Races\Place 1st  
+80110EB8 0001
+80113A68 0001
+80115EE2 0001 
+#Trophy Room - Have Gold Trophies\Have All Gold Trophies  
+50000D01 0000
+30115FAD 0001
+30115FBB 0001 
+

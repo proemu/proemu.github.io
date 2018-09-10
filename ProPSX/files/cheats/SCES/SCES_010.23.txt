@@ -1,0 +1,23 @@
+#Infinite Shields
+800B7A70 00C8
+800B7A72 00C8
+800B7A74 00C8
+800B7A76 00C8
+#Infinite Cannon
+800B7C14 0008
+#Infinite Guided Missiles
+800B7BBA 0008
+#Infinite Ion Cannon
+800B7B84 0100
+#Infinite Specials
+800B7BDE 00E8
+#Infinite Mines
+800B7C02 0010
+#Infinite Phoenix Missiles
+800B7BCC 0008
+#Infinite Plasma
+800B7B96 0100
+#Infinite Laser Mark 1
+800B7B60 0100
+#Infinite Laser Mark 2
+800B7B72 0100

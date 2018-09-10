@@ -1,0 +1,6 @@
+#Have always 9 lives
+8010AB40 0009
+#Infinite Energy
+8010ABE0 0005
+#Have 99 Cards
+80109533 0063

@@ -1,0 +1,17 @@
+#Koudelka Unendlich GP	
+801D13C0 270F
+#Koudelka Unendlich MP	
+801D13D0 270F
+#Edward Unendlich GP	
+801CF9C0 270F
+#Edward Unendlich MP	
+801CF9D0 270F
+#James Unendlich GP	
+801CDFC0 270F
+#James Unendlich MP	
+801CDFD0 270F
+#Unendlich Gegenstände / Munition	
+D008B3EE AE00
+8008B3F0 0000
+D008B3EE AE00
+8008B3F2 0000

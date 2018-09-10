@@ -1,0 +1,4 @@
+#Alle Cheats	
+80039D24 01FF
+#Alle Medaillen	
+80039D20 0FFF

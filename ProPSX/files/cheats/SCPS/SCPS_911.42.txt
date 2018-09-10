@@ -1,0 +1,7 @@
+#Have 99999 gold  
+800B9374 869F
+800B9376 0001 
+#Infinite HP Ken  
+800BC5C0 03E7 
+#Infinite HP Dog  
+800BC5C6 03E7 

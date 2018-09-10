@@ -1,0 +1,8 @@
+#Infinite Life
+300C7094 0003
+#Have Hella Honey Pots
+800C7098 03E7
+#Have All Pictures
+800C7074 FFFF
+800C7076 FFFF
+800C7078 FFFF

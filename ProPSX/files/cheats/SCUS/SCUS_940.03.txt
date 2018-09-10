@@ -1,0 +1,10 @@
+#Infinite Health Player 1 (Code 1) 
+801B82D0 00FE
+#Infinite Health Player 1 (.Use this code or code 2)
+801BC188 0000
+#Infinite Time
+801CA6E8 0B3A
+#Choose Gaia
+801BC11A 0008
+#Choose Sho
+801BC11A 0009

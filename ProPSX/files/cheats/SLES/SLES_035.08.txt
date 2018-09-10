@@ -1,0 +1,7 @@
+#Infinite Time
+800D6F50 2329
+#Infinite Roost
+80047C00 0000
+#Have 9999 points in race
+800D6FC8 270F
+

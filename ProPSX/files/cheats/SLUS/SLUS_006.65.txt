@@ -1,0 +1,15 @@
+#Infinite Money (Allies)
+8002A3D4 FFFF
+#Infinite Power (Allies)
+8002A3F0 FFFF
+#Infinite Money (Soviet)
+8002A798 FFFF
+#Infinite Power (Soviet)
+8002A7B4 FFFF
+#Infinite Funds
+801046D0 0000
+801046D2 0000
+#Skirmish Mode Codes\Infinite Money
+8002CD40 FFFF
+#Skirmish Mode Codes\Infinite Power
+8002CD5C FFFF

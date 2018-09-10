@@ -1,0 +1,35 @@
+#Infinite Hp P1 
+8007CB98 00BC
+#Infinite Hp P2
+8007CB68 00BC
+#Sudden death P2
+8007CB68 0001
+#Character Modifier P1 Potemkin	
+80139048 0000
+#Character Modifier P1 Zato-1
+80139048 0001
+#Character Modifier P1 Sol-Badguy
+80139048 0002
+#Character Modifier P1 Ky Kiske
+80139048 0003
+#Character Modifier P1 Chipp Zanuee
+80139048 0004
+#Character Modifier P1 May
+80139048 0005
+#Character Modifier P1 Axl Low
+80139048 0006
+#Character Modifier P1 M
+80139048 0007
+#Character Modifier P1 Kliff Undersn	
+80139048 0008
+#Character Modifier P1 Dr.Baldhead
+80139048 0009
+#Character Modifier P1 Testament	
+80139048 000A
+#Character Modifier P1 Justice	
+80139048 000B
+#Character Modifier P1 Baiken
+80139048 000C
+
+
+

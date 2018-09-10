@@ -1,0 +1,14 @@
+#Have 99999 points in Half Pipe
+8010F228 869F
+8010F22A 0001
+#Enable All Events		
+800BA194 0009
+#Enable Circuit Mode		
+800E68EC 0F74
+#Enable Circuit Mode		
+800E68EC 0F74
+#Enable Ollie-B		
+800BA11C 0009
+#Enable Super Circuit Mode	
+800BA0C8 0004
+

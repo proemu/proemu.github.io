@@ -1,0 +1,59 @@
+#Max Hero Meter
+D20918B4 0059
+800918B4 0058
+#Enable All Impacts (Normal)
+D209173E 00FF
+8009173E 00FF
+#Enable All Impacts (Hard)
+D2091740 00FF
+80091740 00FF
+#Enable All Impacts (Expert)
+D2091742 00FF
+80091742 00FF
+#Max Hero Badges
+E20918B8 0003
+300918B8 0003
+#Infinite Time Impact 2
+D00D0BA4 0002
+800D0BA4 0001
+#Infinite Time Impact 4
+D00EEE84 0002
+800EEE84 0001
+#Enable Hard + Sapphire
+E009184D 0000
+3009184D 0001
+#Enable Expert + Serious Mode
+E009184E 0000
+3009184E 0001
+#Enable Hustle Time Mode
+E009184F 0000
+3009184F 0001
+#Infinite Health\Impact 1
+D20F45E8 0050
+800F45E8 0064
+#Infinite Health\Impact 2
+D2117398 0050
+80117398 0064
+#Infinite Health\Impact 3
+D20F2878 0050
+800F2878 0064
+#Infinite Health\Impact 4
+D20F27D8 0050
+800F27D8 0064
+#Infinite Health\Impact 5
+D20FE678 0050
+800FE678 0064
+#Infinite Health\Impact 6
+D20F5928 0050
+800F5928 0064
+#Infinite Health\Impact 7
+D20FAE78 0050
+800FAE78 0064
+#Infinite Health\Impact 8
+D20F9E18 0050
+800F9E18 0064
+#Infinite Health\Impact Finish
+D20EB3B8 0050
+800EB3B8 0064
+
+

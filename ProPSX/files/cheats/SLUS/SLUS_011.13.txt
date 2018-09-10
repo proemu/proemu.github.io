@@ -1,0 +1,144 @@
+#Mat Hoffman Codes Extra Covers
+800609C0 00FF
+#Mat Hoffman Codes Unlock All Bikes
+800609EE 00FF
+#Mat Hoffman Codes All Comps Completed
+800609CA FFFF
+#Mat Hoffman Codes All Objectives Completed
+800609C4 FFFF
+800609C6 FFFF
+800609C8 FFFF
+800609CC FFFF
+#Mat Hoffman Codes Max Stats
+800609F0 0A0A
+800609F2 0A0A
+800609F4 0A0A
+800609F6 0A0A
+#Mike Escamilla Codes Extra Covers
+800609F8 00FF
+#Mike Escamilla Codes Unlock All Bikes
+80060A26 00FF
+#Mike Escamilla Codes All Comps Completed
+80060A02 FFFF
+#Mike Escamilla Codes All Objectives Completed
+800609FC FFFF
+800609FE FFFF
+80060A00 FFFF
+80060A04 FFFF
+#Mike Escamilla Codes Max Stats
+80060A28 0A0A
+80060A2A 0A0A
+80060A2C 0A0A
+80060A2E 0A0A
+#Cory Nastazio Codes Extra Covers
+80060A30 00FF
+#Cory Nastazio Codes Unlock All Bikes
+80060A5E 00FF
+#Cory Nastazio Codes All Comps Completed
+80060A3A FFFF
+#Cory Nastazio Codes All Objectives Completed
+80060A34 FFFF
+80060A36 FFFF
+80060A38 FFFF
+80060A3C FFFF
+#Cory Nastazio Codes Max Stats
+80060A60 0A0A
+80060A62 0A0A
+80060A64 0A0A
+80060A66 0A0A
+#Joe Butcher Kowalski Codes Extra Covers
+80060A68 00FF
+#Joe Butcher Kowalski Codes Unlock All Bikes
+80060A96 00FF
+#Joe Butcher Kowalski Codes All Comps Completed
+80060A72 FFFF
+#Joe Butcher Kowalski Codes All Objectives Completed
+80060A6C FFFF
+80060A6E FFFF
+80060A70 FFFF
+80060A74 FFFF
+#Joe Butcher Kowalski Codes Max Stats
+80060A98 0A0A
+80060A9A 0A0A
+80060A9C 0A0A
+80060A9E 0A0A
+#Rick Thorne Codes Extra Covers
+80060AA0 00FF
+#Rick Thorne Codes Unlock All Bikes
+80060ACE 00FF
+#Rick Thorne Codes All Comps Completed
+80060AAA FFFF
+#Rick Thorne Codes All Objectives Completed
+80060AA4 FFFF
+80060AA6 FFFF
+80060AA8 FFFF
+80060AAC FFFF
+#Rick Thorne Codes Max Stats
+80060AD0 0A0A
+80060AD2 0A0A
+80060AD4 0A0A
+80060AD6 0A0A
+#Dennis Mccoy Codes Extra Covers
+80060AD8 00FF
+#Dennis Mccoy Codes Unlock All Bikes
+80060B06 00FF
+#Dennis Mccoy Codes All Comps Completed
+80060AE2 FFFF
+#Dennis Mccoy Codes All Objectives Completed
+80060ADC FFFF
+80060ADE FFFF
+80060AE0 FFFF
+80060AE4 FFFF
+#Dennis Mccoy Codes Max Stats
+80060B08 0A0A
+80060B0A 0A0A
+80060B0C 0A0A
+80060B0E 0A0A
+#Kevin Robinson Codes Extra Covers
+80060B10 00FF
+#Kevin Robinson Codes Unlock All Bikes
+80060B3E 00FF
+#Kevin Robinson Codes All Comps Completed
+80060B1A FFFF
+#Kevin Robinson Codes All Objectives Completed
+80060B14 FFFF
+80060B16 FFFF
+80060B18 FFFF
+80060B1C FFFF
+#Kevin Robinson Codes Max Stats
+80060B40 0A0A
+80060B42 0A0A
+80060B44 0A0A
+80060B46 0A0A
+#Simon Tabron Codes Extra Covers
+80060B48 00FF
+#Simon Tabron Codes Unlock All Bikes
+80060B76 00FF
+#Simon Tabron Codes All Comps Completed
+80060B52 FFFF
+#Simon Tabron Codes All Objectives Completed
+80060B4C FFFF
+80060B4E FFFF
+80060B50 FFFF
+80060B54 FFFF
+#Simon Tabron Codes Max Stats
+80060B78 0A0A
+80060B7A 0A0A
+80060B7C 0A0A
+80060B7E 0A0A
+#Tony Hawk Codes Extra Covers
+80060BB8 00FF
+#Tony Hawk Codes Unlock All Bikes
+80060BE6 00FF
+#Tony Hawk Codes All Comps Completed
+80060BC2 FFFF
+#Tony Hawk Codes All Objectives Completed
+80060BBC FFFF
+80060BBE FFFF
+80060BC0 FFFF
+80060BC4 FFFF
+#Tony Hawk Codes Max Stats
+80060BE8 0A0A
+80060BEA 0A0A
+80060BEC 0A0A
+80060BEE 0A0A

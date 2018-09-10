@@ -1,0 +1,38 @@
+#P1 Infinite Health
+80197D44 0048
+#P2 Infinite Health
+80197E2C 0048
+#P1 Infinite Lifes
+801980CC 000A
+#P2 Infinite Lifes
+80198104 000A
+#Infinite Time
+8019DD6A 0100
+#Select Stage 2
+80011800 0002
+#Select Stage 3
+80011800 0003
+#Select Stage 4
+80011800 0004
+#Select Stage 5
+80011800 0005
+#Select Stage 6
+80011800 0006
+#Select Stage 7
+80011800 0007
+#Final Stage 8		
+80011800 0008
+#Hold L1 to Run (P1)	
+E019EA38 0004
+80197DC2 0C00
+#Hold L1 to Run (P2)		
+E019EA3A 0004
+80197EAA 0C00
+#Inf. Weapon Use (P1)	
+30197DCD 0004
+#Inf. Weapon Use (P2)		
+30197EB5 0004
+#Unlock Extras Unlocks 4-player mode & stage select.		
+800112D4 0004
+D01A1BEC 0002
+801A1BEE 0001

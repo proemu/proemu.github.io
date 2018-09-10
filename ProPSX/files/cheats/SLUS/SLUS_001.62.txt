@@ -1,0 +1,11 @@
+#Infinite Healvh
+8007F01C 0064
+8007F02C 0064
+800FBD80 0064
+#Brass Key
+8007EA28 0001
+#Iron Key
+8007EA2C 0001
+#Infinite Fools Gold
+8007EA30 FFFF
+

@@ -1,0 +1,38 @@
+#Infinite HP
+3007A536 000A
+#Inf. Time
+3005C420 0063
+#Money Max
+8005D2D6 7530
+#Inf. Lives
+3005D2EC 0063
+#Inf Gas (Robot)
+800D3418 270F
+#Max Power (Robot)
+800D3428 012C
+#Inf. Time		
+8005C420 0063
+#Invincible		
+8007A590 0010
+#Maxed-Out Weapons		
+8005D2E2 0303
+8005D2E4 0303
+#All Arrests Complete		
+50000402 0000
+8005C2D2 0B0B
+#All Stages Open		
+50000D02 0000
+8005C34E FFFF
+#Have All Characters		
+3005C34D 000F
+#Have Best Armor		
+8005D2D2 6312
+#Have Best Helmet	
+8005D2D4 6316
+#Have Best Riceball		
+8005D2D0 010E
+#Press L2+CIRCLE to Play as Yoshitsune		
+D005A5A4 0002
+E005A503 0021
+8005D2F4 0404
+

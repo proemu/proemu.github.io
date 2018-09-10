@@ -1,0 +1,20 @@
+#Time 00:00:00 / Always Pole
+D0058D22 AE02
+80058D22 0000
+#Get 15 Points For Each Race / Always First In Rankings
+D0058218 00A0
+80058214 000F
+D0058218 00A0
+80058216 2442
+#Drive In Lap 3 / Always First
+300A8B90 0003
+#Drive In Lap 3 / Always First (Press Select) 
+D00BE9A2 FFFE
+300A8B90 0003
+#Freeze Race Time
+800B6DAC 4CE1
+#Start On Lap 2
+D00A5A8C 0000
+800A5A8C 0002
+#Max Points
+80089B04 0378

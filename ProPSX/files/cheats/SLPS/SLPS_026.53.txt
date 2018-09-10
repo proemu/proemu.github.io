@@ -1,0 +1,36 @@
+#HP 99 1 monster
+80118CAE 0063
+#HP 99 2 monster
+80118CE6 0063
+#HP 99 3 monster
+80118D1E 0063
+#99 deck
+80118C90 0063
+#Guts 99
+80118C92 0063
+#All Business card It is set by looking at the command information
+800DF454 0001
+800DF456 2403
+800DF458 1111
+800DF45A A043
+800DF45C 0001
+800DF45E 2402
+#50 sheets get a new card I get 50 sheets at a time only card that newly acquired
+800F8064 0001
+800F7F30 0032
+800F7F32 2402
+#50 pieces of all cards other than the monster card It is set by looking at the Card Management and all possession card
+80093FF0 0032
+80093FF2 2403
+80093FF4 0000
+80093FF6 A663
+#I want to disable the CD check in the disk stone Institute 
+D00F66F4 2821 
+300F66F6 0000 
+#All cardholder 
+50001602 0000 
+800FC1F4 6363 
+5000FF02 0000 
+800FC220 0063 
+50001F02 0000 
+800FC41E 0063 

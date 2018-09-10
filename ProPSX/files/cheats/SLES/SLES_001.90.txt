@@ -1,0 +1,8 @@
+#Home team always score 0
+8010CEC8 0000
+#Home team always score 9
+8010CEC8 0009
+#Away team always score 0
+8010CECC 0000
+#Away team always score 9
+8010CECC 0009

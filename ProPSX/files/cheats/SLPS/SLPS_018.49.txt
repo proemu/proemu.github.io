@@ -1,0 +1,6 @@
+#Infinite HP Player 1
+800A7091 0004
+#Infinite Sp For Player One
+800A7090 0400
+#Infinite Sp For Player Two
+800A713C 0400

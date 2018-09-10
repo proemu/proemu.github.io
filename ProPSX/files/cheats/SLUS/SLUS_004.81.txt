@@ -1,0 +1,16 @@
+#Arcade Mode Codes\P1 Infinite Lives
+800B732C 0005
+#Arcade Mode Codes\P1 Infinite Bullets
+800AD1A8 7FFF
+#Infinite health quest mode
+800C2528 03E7
+#Quest Mode Codes\Quick Level Gain P1
+800B76A8 FFFF
+#Quest Mode Codes\Infinite Cash
+800A3E64 FFFF
+#All Mode Codes\Infinite Bullets
+800AD1A8 0010
+800AD1C4 0010
+#All Mode Codes\Infinite Hits This code works for most games but some games require you to protect characters.
+800B4318 0060
+

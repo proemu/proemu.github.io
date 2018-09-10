@@ -1,0 +1,80 @@
+#1st Character Max Experience
+8013DB24 FFFF
+#1st Character Max HP
+8013DB08 270F 
+#2nd Character Max Experience
+8013DB58 FFFF
+#2nd Character Max HP
+8013DB3C 270F
+#3rd Character Max Experience
+8013DB8C FFFF
+#3rd Character Max HP
+8013DB70 270F
+#Level up to 65535
+8016403C FFFF
+#MAX Gellas
+8013DEF4 967F 
+8013DEF6 0098
+#Infinite Hp
+80073C88 0000
+80073C8A 0000
+#Infinite Mp
+8004A176 0000
+800A2C3E 0000
+#Maximum Experience
+800488F0 0000
+#Maximum Money
+80078FEC 0000
+#More Money
+8013DEF4 FFFF
+#DEBUG Debugging ON in SELECT + L2 Debugging OFF in SELECT + R2
+D00DCD20 0101 
+800DC618 00EF 
+D00DCD20 0102 
+800DC618 00C8 
+#HP all recovery After open the menu 
+8005DAAC 0004 
+8005DAAE A645 
+#MP full recovery After open the menu 
+8005DAEC 0008 
+8005DAEE A645  
+#The 99 possession of all items 
+80047DA8 0001 
+80047DDA A025 
+80047DE4 0063 
+80047DE6 2402 
+#The possession of all the goods 
+3013DB87 0000 
+8013DB88 0201 
+3013DB8A 0003 
+3013DBBB 0004 
+8013DBBC 0605 
+3013DBBE 0007 
+3013DBEF 0008 
+8013DBF0 0A09 
+3013DBF2 000B 
+#No random battles while pushing  L2 
+D00DCD78 0001 
+300DC738 0000 
+#No random battles  
+300DC738 0000 
+#Rudy all arms
+800479AA 24C2 
+800479AE A022 
+#Jack Master all shoot 
+80047A26 24C2 
+80047A2A A022 
+#Cecilia learn all Magic
+80047A96 24C2 
+80047A9A A022 
+#Not reduce the remaining number of bullets of the arm 
+800A2490 0000 
+#You can do with free modification of the arm 
+800B1ADA AC20 
+800B1C9A 1000 
+800B1D12 0040 
+#None Encounter	
+800EAFC4 0000 
+800EAFC6 0000 
+800EAFC8 0000 
+800EAFCA 0000

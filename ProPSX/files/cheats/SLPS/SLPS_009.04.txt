@@ -1,0 +1,9 @@
+#Infinite money in hanafuda mode 99999
+80110018 869F
+8011001A 0001
+#Have 9999 points in story mode level 1
+8011001E 270F
+#Opponent have 0 points in story mode
+80110020 0000
+#Have 9999 points in story mode level 2
+801118DE 270F

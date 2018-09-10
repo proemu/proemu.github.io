@@ -1,0 +1,12 @@
+#Infinite Energy P1
+800C525C 0032
+#Infinite Energy P2
+800C52C6 0032
+#Infinite Running (Hercules)
+800C5260 0046
+#Infinite Running (Jason)
+800C52CA 0032
+#Infinite Spears P2
+800C52DC 03E7
+#Infinite Coins P1
+800C5264 270F

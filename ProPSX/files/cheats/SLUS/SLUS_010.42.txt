@@ -1,0 +1,29 @@
+#Infinite HP
+80073BA0 03E7
+#Max HP		
+80073BA2 03E7
+#Infinite MP
+80073BA4 03E7
+#Max MP		
+80073BA6 03E
+#Have All Key Items		
+80072714 FFFF
+80072716 FFFF
+80072718 FFFF
+#Have All Modes Available At Start Of A New Game		
+30072176 0001
+80185040 0404
+#Infinite Ammo For All Primary Weapons		
+D00B6E1A 9205
+800B6E1C 2400
+#Infinite Ammo For All Secondary Attachment Weapons		
+D00B6E7A 9205
+800B6E7C 2400
+#Infinite BP
+80073B94 FFFF
+#Max BP
+80073B94 967F
+80073B96 0098
+#Max Exp
+80073B90 967F
+80073B92 0098

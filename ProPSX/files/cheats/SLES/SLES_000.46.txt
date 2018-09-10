@@ -1,0 +1,6 @@
+#Infinites Lives	
+800767E0 0005
+#Infinite Energy 
+80079188 FED4
+#Infinites Bombs	
+80078F14 0003

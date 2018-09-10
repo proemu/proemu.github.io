@@ -1,0 +1,7 @@
+#Infinite Energy P1	
+80091FE4 0090
+#Force gauge infinite P1 
+30091FEA 0003 
+#No Energy P2	
+80092214 0000
+

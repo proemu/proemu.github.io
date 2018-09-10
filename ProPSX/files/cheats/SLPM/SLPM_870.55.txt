@@ -1,0 +1,14 @@
+#Infinite Energy P1
+80057E9C 03E7
+80057E98 03E7
+#Infinite Special Attack P1
+80057E90 0032
+#Infinite Energy P2
+80057F84 03E7
+80057F80 03E7
+#Infinite Special Attack P2
+80057F86 0032
+#Infinite Money P1
+80057E90 EA60
+#Infinite Money P2
+800E7F78 EA60

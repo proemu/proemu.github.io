@@ -1,0 +1,6 @@
+#Infinite Money (Press R2 to fill up)  
+D0064D28 0002
+80067B2C E0FF
+D0064D28 0002
+80067B2E 05F5 
+ 

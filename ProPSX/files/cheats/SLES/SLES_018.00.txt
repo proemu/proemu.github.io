@@ -1,0 +1,59 @@
+#Max Rubine
+801B595C 967F
+801B595E 0098
+#Unendlich Tp
+801CDC1C FFFF
+#Unendlich Pp
+801CDC1E FFFF
+#Max Tp
+801CDC20 FFFF
+#Max Pp
+801CDC22 FFFF
+#HöChster Level
+801CDC24 FFFF
+#Max Fitness
+801CDC26 FFFF
+#Max StäRke
+801CDC28 FFFF
+#Max Energie
+801CDC2A FFFF
+#GlüCk = Super
+801CDC2E FFFF
+#Max Erfahrung
+801CDC34 CA00
+801CDC36 0098
+#Besitze StäRkstes Schwert
+301B5851 0042
+#Besitze StäRkste RüStung
+301B5853 0078
+#Besitze StäRksten Helm
+301B5855 007C
+#Besitze StäRkstes Schild
+301B5857 00A3
+#Besitze Gesamten Plunder
+50001E02 0001
+301B585D 00B8
+#Besitze Gesamtes Inventar
+50000E02 0001
+301B5835 0004
+#Baby-Codes\Unendlich Tp
+801CDC44 FFFF
+#Baby-Codes\Max Tp
+801CDC48 FFFF
+#Baby-Codes\HöChster Level
+801CDC4C FFFF
+#Baby-Codes\Max Fitness
+801CDC4E FFFF
+#Baby-Codes\Max StäRke
+801CDC50 FFFF
+#Baby-Codes\Max Energie
+801CDC52 FFFF
+#Baby-Codes\GlüCk = Super
+801CDC56 FFFF
+#Baby-Codes\Max Erfahrung
+801CDC5C CA00
+801CDC5E 0098
+#Baby-Codes\Besitze Gesamtes Inventory Drücke L1+R2
+D0147EC0 011C
+5000BA01 0000
+301B5441 00FF

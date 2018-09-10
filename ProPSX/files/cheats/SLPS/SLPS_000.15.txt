@@ -1,0 +1,18 @@
+#You win even if you do not do anything
+800B4E1A 03EF
+#Max Score (P1) 	
+800B4BB4 E0FF
+800B4BB6 05F5
+#Max Score (P2) 	
+800B4BB8 E0FF
+800B4BBA 05F5
+#Send No Kougeki Bells (P1) 	
+800B4E1E 0000
+#Send No Kougeki Bells (P2) 	
+800B4E20 0000
+#Send Max Kougeki Bells (P1) 	
+800B4E1E 00FF
+#Send Max Kougeki Bells (P2) 	
+800B4E20 00FF#00 Robo Saku
+#Character Modifier (P1)Arcade Original Taisen Puzzle Dama 01 Penkurou, 02 Yumi-chan, 03 Dr. Nakasugi, 04 Ryou, 05 John Wantarou, 06 Mayu Sawada, 07 Makorin
+30099F7F 0007

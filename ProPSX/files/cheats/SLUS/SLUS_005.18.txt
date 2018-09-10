@@ -1,0 +1,100 @@
+#Infinite Armor & Lives		
+80081A94 000F
+#Infinite Fuel (BPC)		
+80039998 0000
+8003999A 0000
+#Mission Island Mission	
+80081A88 0102
+#Mission Peace Mission Part 1	
+80081A88 0202
+#Mission Peace Mission Part 2	
+80081A88 0302
+#Mission Dmz Mission	
+80081A88 0402
+#Mission Fortress Mission	
+80081A88 0502
+#Mission Lightning Mission	
+80081A88 0602
+#Delta Apache Codes\Infinite Fuel
+800F5982 3B20
+#Delta Apache Codes\Infinite Armor
+800F5900 05DC
+#Delta Apache Codes\Infinite Wing Tips
+800EF454 0008
+#Delta Apache Codes\Infinite Missiles
+800EF438 0008
+#Delta Apache Codes\Infinite Rockets
+800EF41C 0026
+#Delta Apache Codes\Infinite Chain Gun
+800EF400 049A
+#Delta Huey Codes\Infinite Fuel
+800F5AF0 04A6
+#Delta Huey Codes\Infinite Armor
+800F5B72 767E
+#Delta Huey Codes\Infinite Wing Tips
+800EF3E4 0008
+#Delta Huey Codes\Infinite Rockets
+800EF3AC 0026
+#Island Apache Codes\Infinite Fuel
+800F3DCA 638B
+#Island Apache Codes\Infinite Armor
+800F3D48 05DC
+#Island Apache Codes\Infinite Wing Tips
+800EF13C 0004
+#Island Apache Codes\Infinite Missiles
+800EF120 000C
+#Island Apache Codes\Infinite Rockets
+800EF104 0026
+#Island Apache Codes\Infinite Chain Gun
+800EF0E8 049A
+#Peace Chopper Codes\Infinite Fuel
+800F2EA2 6107
+#Peace Chopper Codes\Infinite Armor
+800F2E20 03E8
+#Peace Chopper Codes\Infinite Tgas
+800EE0BC 0008
+#Dmz Apache Codes\Infinite Fuel
+800F65CA 62F5
+#Dmz Apache Codes\Infinite Armor
+800F6548 07D0
+#Dmz Apache Codes\Infinite Wing Tips
+800EF00C 0008
+#Dmz Apache Codes\Infinite Guns
+800EEFB8 05DC
+#Dmz Tank Codes\Infinite Fuel
+8008203C 3939
+#Dmz Tank Codes\Infinite Armor
+800F5B70 0FA0
+#Dmz Tank Codes\Infinite Cannon
+800EEEBC 0064
+#Delta Hovercraft Codes\Infinite Fuel
+800F57E2 C742
+#Delta Hovercraft Codes\Infinite Armor
+800F5760 0BB8
+#Delta Hovercraft Codes\Infinite Guns
+800EF374 2710
+#Delta Hovercraft Codes\Infinite Cannon
+800EF33C 0064
+#Delta Hovercraft Codes\Infinite Rockets
+800EF358 0018
+#Dmz Bradley Codes\Infinite Fuel
+800F60B2 602F
+#Dmz Bradley Codes\Infinite Armor
+800F6030 07D0
+#Dmz Bradley Codes\Infinite Guns
+800EEF64 04B0
+#Dmz Bradley Codes\Infinite Missiles
+800EEF80 000A
+#Dmz A10X Warthog Codes\Infinite Fuel
+800F63F2 62F2
+#Dmz A10X Warthog Codes\Infinite Armor
+800F6370 1B58
+#Dmz A10X Warthog Codes\Infinite Wing Tips
+800EEEA0 0008
+#Dmz A10X Warthog Codes\Infinite Rockets
+800EEE68 0190
+#Dmz A10X Warthog Codes\Infinite Missiles
+800EEE84 0030
+#Dmz A10X Warthog Codes\Infinite Cannon
+800EEE4C 1B58
+

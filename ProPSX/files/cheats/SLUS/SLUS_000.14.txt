@@ -1,0 +1,14 @@
+#Infinite Energy
+8005E2B8 0003
+80062724 0003
+800628CC 0003
+#Infinite Lives
+80062ADC 0009
+#All 5 Stars Collected
+8006297C 001F
+#99 Spots Collected
+300629EF 0099
+#Have Cool Option Open
+300626FC 0001
+#Have All Levels Open In Cool Option
+3004DBAA 0001

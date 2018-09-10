@@ -1,0 +1,9 @@
+#Infinite Health 	
+8004B104 2400 		
+#Infinite Ammo 	
+80021AB2 2400 		
+#Extra Ammo 	
+80021AA8 1021 		
+#Can Play All Movies 	
+D007D1FC 0023
+8007D1FE 2400

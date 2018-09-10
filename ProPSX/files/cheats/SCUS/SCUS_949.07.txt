@@ -1,0 +1,12 @@
+#Push Triangle To Have All 5 Letters
+D001000C 0010
+8005AE70 0020
+#Invincible
+80053E08 004B
+#Infinite Health
+80010044 1950
+#Push Triangle For 99 Pumpkins
+D001000C 0010
+80010040 0063
+#Infinite Lives
+80010042 0900

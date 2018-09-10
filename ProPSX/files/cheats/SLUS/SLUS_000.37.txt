@@ -1,0 +1,18 @@
+#Infinite Shield
+800D10A6 0064
+#Infinite Energy
+800D10A2 0064
+#Infinite Homing Missiles
+800D10BC 0009
+#Infinite Lives (9)	
+800D10A8 000A
+#Have All Weapons	
+800D10AE FFFF
+#Have All Keys (All Levels)
+800D109C 000E
+#Have All Keys (All Levels), Invincibility & Cloaking Device	
+800D109C 0F0F
+
+
+
+

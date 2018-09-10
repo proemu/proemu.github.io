@@ -1,0 +1,25 @@
+#All Characters Max Hp
+50000D38 0000
+80136F70 03E7
+#All Characters Infinite Hp
+50000D38 0000
+80136F8A 03E7
+#All Characters Max Mp
+50000D38 0000
+80136F72 03E7
+#All Characters Infinite Mp
+50000D38 0000
+80136F8C 03E7
+#Have All Guardians		
+30137721 00FF
+30137722 00FF
+#Have all Items 	
+50007D02 0000
+8013A720 6363
+#Infinite Gold		
+80137714 FFFF
+#Infinite Medals		
+80137718 FFFF
+#Infinite Were Points		
+300EBE44 0020
+

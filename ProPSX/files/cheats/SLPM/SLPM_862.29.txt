@@ -1,0 +1,13 @@
+#Groove meter automatic recovery 1P
+800C18D0 04A0  
+#Groove meter automatic recovery 2P 
+800C18D2 04A0
+#TRAINING & FREE MODE songs selectable
+800B1894 0000 
+300B1896 0000 
+#Auto-play (Only 1P)
+800C1880 0001
+#Auto-play (Only 2P)
+800C1880 0002
+#Auto-play (1P & 2P) 
+800C1880 0001

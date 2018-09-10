@@ -1,0 +1,6 @@
+#Lap Time is 00:00:000
+800C2A24 0000
+#One Lap Needed To Finish Race
+800C29A2 0009
+#Always First Place
+800C29CF 0101

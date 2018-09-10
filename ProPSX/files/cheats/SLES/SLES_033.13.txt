@@ -1,0 +1,22 @@
+#Unendlich Energie		
+800B8E6A 3E70
+##Habe Waffe		
+300B4D28 0018
+#Alle Level & Missionen freigeschaltet & bestanden 	
+50000D01 0000
+300D4CEA 007F
+#Stoppuhr Angehalten (Drücke L2)	
+D00E6702 FEFF
+800872C8 0000
+#Stoppuhr Läuft weiter (Drücke R2)		
+D00E6702 FDFF
+800872C8 0D08
+#Habe alle kleinen, grünen Männchen		
+800AA31C 0005
+800AA380 0005
+#Max Chips		
+800B5C2E 03E7
+#Unendlich Gesundheit		
+800B5C26 0188
+#Unendlich Jetpack-Treibstoff	
+800AA928 0900

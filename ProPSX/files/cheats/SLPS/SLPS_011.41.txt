@@ -1,0 +1,51 @@
+#Infinite Health
+800B555E 0050
+800B55A2 0050
+#Inf. HP / Max HP		
+800B555E 00C0
+800B55A0 00C0
+#Moon Jump Press and hold X to float endlessly upward.
+E00B560D 0040
+800B5536 FF20
+#Inf Special Weapon Energy
+800B5A42 0018
+#Time is 0:00:00
+800C1E6C 0000
+800C1E6E 0000
+#Inf. Weapon Power		
+50000C08 0000
+800B59FA 0020
+#Infinite Money
+800C1E7C 967F
+800C1E7E 0098
+#Invincible		
+800B5600 FF01
+#(Same water warfare, both dogfight) durability of the ship 
+800C1EBC 1800 
+#Max $		
+800C1E7C 423F
+800C1E7E 000F
+#Max All Stats		
+800B59EC 0707
+800B59EE 0707
+#In one day Maximum Buster (strongest weapon) 
+300B5944 0011 
+#All special weapons possession 
+800BE760 FFFF 
+800BE762 FFFF 
+#all key items 
+800BE76C FFFF 
+800BE76E FFFF 
+#all regular items 
+800BE770 FFFF 
+800BE772 FFFF 
+800BE774 FFFF 
+800BE776 FFFF 
+#Rock-Buster Always Active		
+300B5661 0001	
+#Total Time = 00:00		
+800C1E6C 0000
+800C1E6E 0000
+#Unlock All Extras		
+800C1E78 0001
+800C1E7A 0001

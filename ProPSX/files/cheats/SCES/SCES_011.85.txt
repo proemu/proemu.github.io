@@ -1,0 +1,4 @@
+#Infinite Energy
+8010E478 0004
+#Infinite Lifes
+8010E472 0006

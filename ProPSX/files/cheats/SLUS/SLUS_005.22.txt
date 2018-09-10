@@ -1,0 +1,12 @@
+#Infinite Money
+800A7C6C FFFF
+#Infinite Fuel
+800A7E10 0064
+#Infinite Damage
+800A86A0 0800
+#Infinite Lives
+800A84A0 0004
+#Infinite Nitro
+800A5EF8 0003
+#Level Modifier (0-A)
+800A854C 000A

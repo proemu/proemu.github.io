@@ -1,0 +1,8 @@
+#Max Hp Justin
+800C0980 03E7
+#Max Hp Feena
+800C0B6C 03E7
+#Max Hp Rap
+800C0D58 03E7
+#Max Hp Liete
+800C0F44 03E7

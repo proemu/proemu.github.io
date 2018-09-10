@@ -1,0 +1,6 @@
+#Infinite Hp P1		
+800B2BA2 017C
+#Infinite Hp P2		
+800B2C92 017C
+#Infinite Hand Gun		
+800995D2 0007

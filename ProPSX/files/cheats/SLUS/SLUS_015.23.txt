@@ -1,0 +1,10 @@
+#Infinite Time
+800E7778 FFFF
+#Infinite Health
+800E7784 0003
+#Infinite Lives
+800E7786 0064
+#99 Crystals
+800E7780 0063
+#Infinite Shield
+800E8484 0074

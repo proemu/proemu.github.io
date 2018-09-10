@@ -1,0 +1,7 @@
+#Unlock All Killer Loop Modes
+D0010116 6C68
+80064A82 FFFF
+#Unlock All Ships And Tracks
+D0010116 6C68
+50000602 0000
+80064818 0101

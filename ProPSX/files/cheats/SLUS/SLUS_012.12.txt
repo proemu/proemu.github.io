@@ -1,0 +1,10 @@
+#Infinite Lives 
+800475AE 2400
+#Infinite Bombs
+800398BE 2400
+#Unlock Another Mission 	
+300D4213 00FF
+#Invincible		
+8003273E 2400
+80032764 00C8
+80032766 2405

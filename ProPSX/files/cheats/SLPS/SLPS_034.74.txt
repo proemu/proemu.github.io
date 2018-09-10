@@ -1,0 +1,10 @@
+#Gallery 001 All Open
+800AFD4C FFFF
+800AFD4E 0FFF
+800AFD50 01FF
+#Infinite lives (balls) Deactivate after use
+800AFD36 2328
+#Always 100% Power Deactivate after use
+800AFD1C 0064
+#Speed Games
+80037BC6 1400

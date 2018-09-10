@@ -1,0 +1,27 @@
+#ALways Place First
+800B95F6 0000
+#Infinite Turbo
+800B9618 0009
+800B961A 00FF
+#Start On Last Lap
+800B962A 0003
+#Enable Loop
+30010040 0000
+#Enable Karo
+30010041 0000
+#Enable Woot
+30010042 0000
+#Enable Buzz
+30010043 0000
+#Enable Valley Course
+3001002D 0000
+#Enable Artic Course
+3001002E 0000
+#Enable Bridge Course
+3001002F 0000
+#Enable Ocean Course
+30010034 0000
+#Enable Desert Course
+30010035 0000
+#Enable Space Course
+30010037 0000

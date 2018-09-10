@@ -1,0 +1,7 @@
+#Infinite energy P1
+8010AC54 03E8 
+#Infinite PSV
+8010AC56 0190 
+#Infinite autoguard
+8010AD24 000A
+

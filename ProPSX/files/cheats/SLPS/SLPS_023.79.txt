@@ -1,0 +1,47 @@
+#Infinite Energy other mode	
+30059F95 001B
+#Fast Kill Boss (Can Use All Stage) Press L1+L2 	
+D0056DA8 0005
+30059F9D 0000
+D0056DA8 0005
+30059F9E 0000
+D0056DA8 0005
+30059F9F 0000
+#Infinte Time 	
+80056CB8 0077 		
+#All Support Ability 	
+30056CBC FFFF
+#Infinite Energy navy mode	
+80059F94 5000 		
+#Fast Kill Boss (Version 2) Press L1+L2 	
+D0056DA8 0005
+80059F9C 0000
+D0056DA8 0005
+80059F9E 0000
+#Have Energy Balancer	
+3005A246 0001
+#Infinite Beat		
+3005A241 001B
+#Infinite Centaur Flash	
+3005A240 001B
+#infinite Knight Cracher	
+3005A23E 001B
+#Infinite Silver Tomahawk	
+3005A23F 001B
+#Infinite Yamato Spear	
+3005A239 001B
+#Infinte Blizzard Attack	
+3005A23B 001B
+#Infinte Flame Blast	
+3005A23C 001B
+#Infinte Plant Barier	
+3005A23D 001B
+#Infinte Wind Strom	
+3005A23A 001B
+#Moon Jump (Press X+R1) 
+D0056DA8 0048
+8005A178 04FE
+D005A178 04FE
+8005A160 CC00 
+#Rockmans Ammo 
+8005A0F0 A916 

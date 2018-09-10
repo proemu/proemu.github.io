@@ -1,0 +1,62 @@
+#Infinite Energy Boy With Brown Hair
+801C5970 03E7
+801C596C 03E7
+#Infinite Energy Boy With Green Hair
+801C59A0 03E7
+801C599C 03E7
+#Infinite Energy Girl
+801C59D0 03E7
+801C59CC 03E7
+#Money
+801B3C30 7530
+#Infinite & Max HP - Man
+801C5A00 03E7
+801C59FC 03E7
+#Infinite energy in battle all party
+801B2FDC 03E7
+#All God open
+801B3A10 FFFF
+##I do not reduce Oni-shin 
+D016FA52 0043
+8016FA52 0040
+#Divine power does not decrease 
+D016FA12 0043
+8016FA12 0040
+#Maximum strength 
+801C596C 270F
+#Maximum divine power 
+801C596E 270F 
+#Current physical fitness 
+801C5970 270F
+#Now God force 
+801C5972 270F 
+#Demon heart 
+801C5974 270F
+#Ending is from the beginning 
+801B4C34 0003
+#Status MAX When God negotiations in villages and towns 
+801B4E6E 270F
+801B4E70 270F
+801B4E72 03E7
+801B4E74 03E7
+801B4E76 03E7
+801B4E78 03E7
+801B4E7A 03E7
+801B4E7C 03E7
+801B4E7E 03E7
+#Status MAX When God negotiations in the dungeon 
+801B4EEE 270F
+801B4EF0 270F
+801B4EF2 03E7
+801B4EF4 03E7
+801B4EF6 03E7
+801B4EF8 03E7
+801B4EFA 03E7
+801B4EFC 03E7
+801B4EFE 03E7
+#All tools 
+50000B04 0000
+801B3E34 0014
+801B3EF0 0014
+50000704 0000
+801B403C 0014

@@ -1,0 +1,12 @@
+#Infinite Health	
+801457D0 0078
+#Infinite Batteries & Energy Cells	
+80145776 000A
+#Infinite Datalinks (Useless,only need one)	
+80145766 000A
+#Infinite Money	
+801457D8 FFFF
+#Infintie Medi Kits	
+80145772 000A
+#Infinite Landmines	
+8014576A 000A

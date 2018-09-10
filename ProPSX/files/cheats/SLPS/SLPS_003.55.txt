@@ -1,0 +1,40 @@
+#Unlock SP Mode
+801FF018 0007 
+#Start on Saga Modifier - Saiyan Saga
+801FF002 0000
+#Start on Saga Modifier - Ginyu Saga
+801FF002 0001
+#Start on Saga Modifier - Freeza Saga
+801FF002 0002
+#Start on Saga Modifier - Android Saga
+801FF002 0003
+#Start on Saga Modifier - Cell Saga
+801FF002 0004
+#Start on Saga Modifier - Buu Saga (Dabura/Majin Buu)
+801FF002 0005
+#Start on Saga Modifier - Buu Saga (Majin Buu/Super Buu)
+801FF002 0006
+#Start on Saga Modifier - Buu Saga (Super Buu/Kid Buu)
+801FF002 0007
+#Press Select to Unlock All Characters [Title Screen]
+D0055B6C 0100
+801FF002 0007
+#Infinite super power player 1 
+80019498 3E80 
+#No Powerbar Player 1 
+80017FC2 0009 
+#Power Balance full blue 
+8001AF10 7FFF 
+#Power Balance, Balanced 
+8001AF10 0000 
+#Power Balance full red 
+8001AF10 8AD0
+#All Attacks Hurt P2 (Game Mode)	
+D00566F4 0023
+300566F4 0021
+#All Attacks Hurt P2 (SP Mode)	
+D00565BC 0023
+300565BC 0021
+#All Attacks Hurt P2 (VS Mode)	
+D0056250 0023
+30056250 0021

@@ -1,0 +1,2 @@
+#Infinite Money (60000)
+8008C504 EA60

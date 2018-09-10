@@ -1,0 +1,36 @@
+#Infinite Points For Creating Character (Select + L2 to Get Points) (Select + R2 to Get Zero)		
+D00C2C1C 0101
+800C6B6A 03E7
+D00C2C1C 0102
+800C6B6A 0000
+#Use Secret Character S · S machine	
+800BBD36 0101
+#Use Secret Character Masahiro Chono (Baby F) 
+800BBD37 0101
+#Use Secret Character Mad God Liger 
+800BBD38 0101
+#Use Secret Character Tiger Mask 
+300BBD39 0001
+#Settable skills item increases 
+300BBD3A 0001 
+#Settable skills Available parts increases 
+300BBD3B 0001 
+#Hit point setting Main Max
+800B5894 03E7 
+#Hit point setting Head Max
+800B5896 03E7 
+#Hit point setting Fuselage Max
+800B5898 03E7 
+#Hit point setting Arms Max
+800B589A 03E7
+#Hit point setting Leg Nax
+800B589C 03E7 
+#Hit point setting Blow S groggy Max
+800B589E 7FFF
+#Hit point setting Blow down Max
+800B58A0 7FFF) 
+#Hit point setting Stretch S groggy Max
+800B58A2 7FFF) 
+#Hit point setting Standing L groggy Max
+800B58A4 7FFF) 
+

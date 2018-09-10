@@ -1,0 +1,12 @@
+#Infinite Time
+80154EF4 007A
+#P1 Infinite Lives
+800522C0 0005
+#P2 Infinite Lives
+800522D8 0005
+#Enable Everything
+800632F0 FFFF
+800632F4 FFFF
+800632F6 07FF
+#Infinite Kitty's
+8011C49E 0003

@@ -1,0 +1,16 @@
+#Infinite Health
+800620F4 0064
+#Infinite Life
+800E798C 0000
+#Infinite Ammo
+800FC656 0000 
+#Infinite Ammos/Grenades
+800D8252 001E
+800D8254 001E
+800D8250 0004
+800D824A 001E
+800D824E 012C
+#Weapons TYPE-C / TYPE-D Bazooka
+80061FE0 0003
+#Weapons TYPE-C / TYPE-D Rocket Launcher
+80061FE0 0004

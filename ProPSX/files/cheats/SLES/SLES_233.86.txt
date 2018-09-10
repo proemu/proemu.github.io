@@ -1,0 +1,19 @@
+#No fear	
+80047EC2 0000
+#Infinite ammo	
+D003FFC0 0004
+3003FFC0 0000
+#Infinite rounds
+D0040A8C 00F0
+30040A8C 0000
+#No Fear Infinite Health
+30049560 0000
+#No fear / infinite health On (Press Select)	
+D00862D2 FFFE
+30049560 0000
+#Timer frozen Computer desk	
+D00B3B1C 0004
+300B3B1C 0000
+#Time Frozen Bombsearch	
+D00B9018 FFFF
+800B9018 0001

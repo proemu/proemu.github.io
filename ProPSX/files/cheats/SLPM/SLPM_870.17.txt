@@ -1,0 +1,5 @@
+#Player 1 has 99999 points Player will lose the points if he is touched by an opponent
+8009A1EC 869F
+8009A1EE 0001
+#Opponent has 0 points
+8009A370 0000

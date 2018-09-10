@@ -1,0 +1,29 @@
+#Main character Physical condition 999
+800EE06E 03E7 
+#Main character Humanities 999
+800EE072 03E7  
+#Main character Science 999
+800EE076 03E7  
+#Main character Art 999
+800EE07A 03E7 
+#Main character Movement 999
+800EE07E 03E7 
+#Main character Trivia 999
+800EE082 03E7 
+#Main character Appearance 999 
+800EE086 03E7 
+#Main character Guts 999 
+800EE08A 03E7 
+#Main character Stress 0
+800EE08E 0000  
+#Bonus game all sub-selectable option
+800EFA3E 0100 
+800EFA40 0001  
+#Extra free talk all selectable options
+800EFA14 0101 
+800EFA16 0101 
+800EFA18 0101 
+800EFA1A 0101 
+800EFA1C 0101 
+800EFA1E 0101 
+800EFA20 0101

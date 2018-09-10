@@ -1,0 +1,43 @@
+#Infinite Energy P1
+301D63B5 0096
+#1-Hit Death P1
+D01D63B4 9600
+301D63B5 0001
+#Max Power P1
+301D63B4 00C8
+#Infinite Energy P2
+301D78DD 0096
+#No Energy P2
+301D78DD 0000
+#1-Hit Death P2
+D01D78DC 9600
+301D78DD 0001
+#Max Power P2
+301D78DC 00C8
+#Expert Training Point Modifier .When you activate this code, go to the Expert Practice room then leave. Cut the GS off then. You should now have the four hidden characters.
+801EBCC0 FFFF
+#Stop Timer
+801D39C4 2D63
+#Unlock All Endings and can be saved to memory card
+801D39EC FFFF
+801D39EE FFFF
+#Unlock Bonus Game and can be saved to memory card
+801E98BE 6101
+#Unlock  7 Secret Characters without expert points and can be saved to memory card
+801E960A 77FD
+#Expert Mode Complete
+50001302 0000
+801E95D8 FFFF
+#P1 Infinite Health & Super
+801D63B4 96C8
+#P1 No Health & Super
+801D63B4 0000
+#P2 Infinite Health & Super
+801D78DC 96C8
+#P2 No Health & Super
+801D78DC 0000
+#P1 Wins Modifier (Survival Mode)
+801DC9F6 FFFF
+#P1 Low Overall Time (Time Attack Mode)
+801DC9D8 0000
+

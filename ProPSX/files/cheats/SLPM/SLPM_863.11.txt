@@ -1,0 +1,35 @@
+#Infinite Energy In Battle Character 1
+801BDFD0 03E7
+801BE020 03E7
+801BE126 03E7
+801D375C 03E7
+801D37AC 03E7
+#Max Energy Character 1
+801390BE 03E7
+801390BC 03E7
+#Enemy HP always 1
+D01C21A8 0000 
+801C21A8 0001 
+D01C2A4C 0000 
+801C2A4C 0001
+D01C32F0 0000 
+801C32F0 0001 
+#Infinite Money 9999999
+80138F38  423F
+80138F3A  000F 
+#A Lot Of Experience After Battle
+801BD23C 270F
+#Mp Consumption Regardless Of The Value Of Possible Magic Chant .Valid only during combat.
+D017E84C 003C
+8017E84C 0030
+#Infinite Mp (With The Recovery)
+D00469BC 00D6
+800469CE A604
+D00469BC 00D6
+800469BC 00D4
+#Skills Speedy Imposition Charges
+D01A7B3E 1480
+801A7B3C 0001
+#Gloria Shield & Sword Double Acquisition (Other).Save data is not reflected in equipment will be reflected in the state depends on the ingenuity and… or use.
+D0066CF8 1024
+80066CF8 1025

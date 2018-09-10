@@ -1,0 +1,20 @@
+#Goblis Adventure Codes\Infinite Hp (All Characters)
+8012A46C 082B
+8012A46E 0230
+8012A474 0014
+8012A476 1420
+D0128578 0022
+8012857A 2400
+#Goblis Adventure Codes\Infinite Mp (All Characters)
+8011E4C4 FFE8
+8011E4C8 0004
+#Goblis Adventure Codes\Infinite Money
+801E84B4 E0FF
+801E84B6 05F5
+#Goblis Adventure Codes\Infinite Red Berries
+301E8317 0063
+#Goblis Adventure Codes\Infinite Blue Berry
+301E8318 0063
+#Goblis Adventure Codes\Infinite Forest Herb
+301E831B 0063
+

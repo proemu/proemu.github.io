@@ -1,0 +1,10 @@
+#Infinite Credits And Gdi-Missions
+8011BA10 2000
+#Unlimited Credits
+8011C0F8 FFFF
+#Infiniye Money
+801100DF B99A
+#Infinite Power
+801100DD B99A
+#Unlimited Credits
+8011C120 FFFF

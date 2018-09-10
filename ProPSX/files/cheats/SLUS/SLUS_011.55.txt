@@ -1,0 +1,25 @@
+#Max Infinite Credits
+80072478 FFFF
+8007247A FFFF
+#All Permits Passed
+30072458 0001
+30072461 0001
+3007246A 0001
+30072473 0001
+#Max Championship Points
+800844C4 0FFF
+#P1 Start/Stop Timer (L1+L2 To Start & R1+R2 To Stop)
+D0073A3C 0500
+800DCD56 ACA3
+D0073A3C 0A00
+800DCD56 2400
+#Infinite Health
+D00BB11C 0028
+800BB11E 2400
+#Menu Modifier 02-Language Select(not all text 
+present)
+80127A4C 0002
+#Menu Modifier 05- Debug Start (debug menu)
+80127A4C 0005
+
+

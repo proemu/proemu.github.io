@@ -1,0 +1,23 @@
+#Infinite Health		
+8006DE50 0003
+#Infinite Lives		
+8006C614 0005
+#Infinite time for Fly-level		
+8006CD98 01A1
+#Moon Jump
+E00684B0 0040
+80066BEC 0EBA
+#Have All of The Orbs		
+8006C778 0040
+#Ability to swim 	
+30069356 0001
+#Ability to climb	
+3006935A 0001
+#Can use Headbang	
+3006 935E 0001
+#Have Fire Breath		
+D0070692 DFFF
+8006DDD1 000F
+#Infinite gems		
+D006C6F4 0000
+3006C6F4 D903

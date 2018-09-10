@@ -1,0 +1,5 @@
+#Always First Place
+301E8D64 0000
+#Turbo Boost (Press Circle For Boost)
+D015CF8A DFFF
+301E8508 00FF

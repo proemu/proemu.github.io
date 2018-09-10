@@ -1,0 +1,4 @@
+#Full Shield
+800A9F0C 0199
+#Have 9999 money
+800A9DE4 270F

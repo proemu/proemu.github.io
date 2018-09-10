@@ -1,0 +1,4 @@
+#Max Credits
+801016AE 00FF
+#Clear Stage Immediately You need to beat the first stage to have the codes work on the following stages
+8010180C 0000

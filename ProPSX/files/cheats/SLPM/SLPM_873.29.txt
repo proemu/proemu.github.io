@@ -1,0 +1,6 @@
+#Parodius\P1 Infinite Lives  
+8016C348 0002 
+#Parodius\P2 Infinite Lives  
+8016C374 0002 
+#Super Parodius\P1 Infinite Lives  
+800FF0FE 0002 

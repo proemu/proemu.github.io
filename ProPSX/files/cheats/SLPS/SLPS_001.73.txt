@@ -1,0 +1,78 @@
+#65535 Money
+80064630 FFFF
+#Kusumida Max Brawn
+801F0792 270F
+#Kusumida Max Robust
+801F0794 270F
+#Kusumida Max Knowledge
+801F0796 270F
+#Kusumida Max ??
+801F0798 270F
+#Kusumida Max Dexterity
+801F079A 270F
+#Kusumida Max Speed
+800F079C 270F
+#Kusumida Max Hp
+800897C4 270F
+#Kusumida Max Mhp
+801F0784 270F
+#Juna Max Brawn
+801F0852 270F
+#Juna Max Robust
+801F0854 270F
+#Juna Max Knowledge
+801F0856 270F
+#Juna Max ??
+801F0858 270F
+#Juna Max Dexterity
+801F085A 270F
+#Juna Max Speed
+801F085C 270F
+#Karin Max Brawn
+801F07D2 270F
+#Karin Max Robust
+801F07D4 270F
+#Karin Max Knowledge
+801F07D6 270F
+#Karin Max ??
+801F07D8 270F
+#Karin Max Dexterity
+801F07DA 270F
+#Karin Max Speed
+801F07DC 270F
+#Kugaku Max Brawn
+801F0992 270F
+#Kugaku Max Robust
+801F0994 270F
+#Kugaku Max Knowledge
+801F0996 270F
+#Kugaku Max ??
+801F0998 270F
+#Kugaku Max Dexterity
+801F099A 270F
+#Kugaku Max Speed
+801F099C 270F
+#Lieu Sui Max Brawn
+801F0A52 270F
+#Lieu Sui Max Robust
+801F0A54 270F
+#Lieu Sui Max Knowledge
+801F0A56 270F
+#Lieu Sui Max ??
+801F0A58 270F
+#Lieu Sui Max Dexterity
+801F0A5A 270F
+#Lieu Sui Max Speed
+801F0A5C 270F
+#Chatoran Max Brawn
+801F0812 270F
+#Chatoran Max Defense
+801F0814 270F
+#Xchatoran Max Knowledge
+801F0816 270F
+#Chatoran Max ??
+801F0818 270F
+#Chatoran Max Dexterity
+801F081A 270F
+#Chatoran Max Speed
+801F081C 270F

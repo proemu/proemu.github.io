@@ -1,0 +1,10 @@
+#Infinite Health	
+800B22BE 000E
+#Infinite Lives	
+800B22C2 0005
+#Always have Super Charge Laser
+800A1290 0064
+#Always have Super Spin Attack	
+800A143C 0060
+#Have 99 Coins		
+800B22C6 0063

@@ -1,0 +1,8 @@
+#Heroine Infinite & Max HP
+300FF224 0008  
+300FF225 0008
+#Rival Infinite & Max HP 
+300FF28A 0008
+300FF28B 0008
+#All Pictures 
+30101015 00FF

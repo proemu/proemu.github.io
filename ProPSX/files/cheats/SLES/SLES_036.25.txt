@@ -1,0 +1,30 @@
+#Unendlich Netzflüssigkeit	
+D0050E12 0067
+80050E14 2400
+#Unendlich Gesundheit	
+D005370A 0043
+8004370C 2400
+#Training Alle Level freigeschaltet	
+800B3FAC FFFF
+#Levelanwahl	
+300C2CCC 0001
+#Charakterbetrachter Galerie	
+800B3F7C FFFF
+800B37FE 000F
+#Filmbetrachter & Storyboards Galerie	
+800B3F55 0002
+800B3F80 FFFF
+800B3F82 0FFF
+#Comicsammlung Galerie	
+800B3F88 FFFF
+800B3F8A FFFF
+#Bugle-Schlagzeilen Galerie	
+800B3F84 FFFF
+#Parkers Portfolio Galerie	
+800B3F8C FFFF
+800B3F8E 00FF
+#Alle Outfits freigeschaltet	
+800B3F78 FFFF
+800B3F7A 000F
+#Alle Kräfte freigeschaltet	
+300B3F90 007F

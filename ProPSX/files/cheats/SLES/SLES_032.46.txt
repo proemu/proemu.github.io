@@ -1,0 +1,4 @@
+#Always first place
+800F1EB0 0001
+#Start on lap 5
+800F1EA6 0005

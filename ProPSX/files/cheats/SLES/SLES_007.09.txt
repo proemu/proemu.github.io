@@ -1,0 +1,6 @@
+#Infinite Health
+800DCB2C 1518
+#Infinite Energon
+800DCCCA 0000
+#Score Always At Max
+800DCCBC FFFF

@@ -1,0 +1,23 @@
+#All Abilities
+800D5D0C 0020
+#Infinite Glyph Power
+800D5DBC 0063
+800D5DBE 0063
+#Unlimited Life Energy Material World
+D00D5DE4 0001
+800D5DA8 A120
+D00D5DE4 0001
+800D5DAA 0007
+#Unlimited Life Spectral World
+D00D5DE4 0002
+800D5DA8 86A0
+D00D5DE4 0002
+800D5DAA 0001
+#All parts of emblem
+800D505E 0005
+#All portals open (In-Game)
+800D20BE 0009
+800D213E 0009
+800D217E 0009
+#Have all glyphs
+800D5DB6 03FF	

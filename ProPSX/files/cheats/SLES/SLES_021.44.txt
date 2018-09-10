@@ -1,0 +1,12 @@
+#Infinite Lives Player 1
+800EF4A4 0009
+#Infinite Lives Player 2
+800EF570 0009
+#Invincible
+800EF49C 000B
+#P1 invulnerable	
+800EF47C 0001
+#P2 invulnerable	
+800EF548 0001
+#Play the old space invader	
+800D8838 0002

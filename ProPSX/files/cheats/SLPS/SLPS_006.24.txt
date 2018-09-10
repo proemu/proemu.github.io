@@ -1,0 +1,11 @@
+#Infinite Shield
+800CA9DD 0050
+#Infinites lives
+800D284C 0009
+#Infinite intense fire
+800CA9ED 0050
+#Infinites credits
+800CA908 0009
+#Infinite boss time
+800CA8EA 6666
+

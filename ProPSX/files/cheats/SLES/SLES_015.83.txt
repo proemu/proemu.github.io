@@ -1,0 +1,4 @@
+#Infinite energy Level 1
+800E09B2 0064
+#Infinite energy Level 2
+800F6E92 0064

@@ -1,0 +1,15 @@
+#Increase Time - Press L1,L2,R1 &R2
+D008E6FA F0FF
+800F03D8 1E00
+D008E6FA F0FF
+800F03DA 1E00
+#No Line Stress
+800F03C0 0000
+#Max Fish & Weight
+800EF19C 0FFF
+#Fast Reel - Press X & R2 (You need to press a few times for it to work)
+D008E6FA BDFF
+800F03D0 0000
+#99 Fish Caught With All Lure
+50001B01 0000
+3007CBD7 0063

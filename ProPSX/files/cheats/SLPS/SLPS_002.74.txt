@@ -1,0 +1,5 @@
+#Infinite Health
+800B9B8C 003C
+#Infinite Bullets
+800CB75E 0063
+

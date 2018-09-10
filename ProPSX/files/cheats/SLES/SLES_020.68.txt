@@ -1,0 +1,20 @@
+#Infinite shield 	
+8005FE80 03E8 		
+#Infinite shield II 	
+80060158 03E8 		
+#Infinite shields Missions 10a, 13c and 14a 	
+8005FD14 7530 		
+#Infinite shields Mission 13 	
+8005FFFE 03E8 	
+#Unlock all missions 	
+8005BE30 FFFF
+8005BE32 3FFF 		
+#All missions complete 	
+8005BE34 FFFF
+8005BE36 3FFF
+#Infinite time 	
+80060FAC 1494
+80061B0C 1494
+800620BC 1494
+80061284 1494 	
+

@@ -1,0 +1,51 @@
+#Stop Race Timer
+800790B2 2400
+#Have All Trucks (Arcade Mode)
+30022D10 000C
+30022D12 000C
+#Unlock 4x4 Amateur
+30022D66 0001
+#Unlock 4x4 Pro
+30022D67 0001
+#Unlock HotRod Amateur
+30022D68 0001
+#Unlock HotRod Pro
+30022D69 0001
+#Start With Season Complete 	
+D0022CFE 0000
+80022D00 0005
+D0022CFE 0100
+80022D00 000A
+D0022CFE 0200
+80022D00 0005
+D0022CFE 0300
+80022D00 000A
+80022D04 0000
+50000602 0000
+80022CF0 0000
+#Enable All Seasons
+80022D66 0101
+80022D68 0101
+#Enable All Vehicles
+80022D18 FFFF
+80022D1A FFFF
+#Have All 3 Tracks (Arizona)		
+800228EC 0003
+#Have All 3 Tracks (Florida)		
+800228E8 0003
+#Have All 3 Tracks (New Mexico)		
+800228E6 0003
+#Have All 3 Tracks (Northern California)		
+800228EA 0003
+#Have All 3 Tracks (Texas)		
+800228E2 0003
+#Have All 3 Tracks (Washington)		
+800228E4 0003
+#Have All 3 Tracks+Circuit Track (Colorado)		
+800228DE 0004
+#Have All 3 Tracks+Circuit Track (Louisiana)		
+800228DA 0004
+#Have All 3 Tracks+Circuit Track (Oregon)		
+800228E0 0004
+#Have All 3 Tracks+Circuit Track (Southern California)		
+800228DC 0004

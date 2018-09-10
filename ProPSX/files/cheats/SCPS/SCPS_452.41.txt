@@ -1,0 +1,4 @@
+#Infinite Lives
+800B3D1C 0803
+#Invincible
+800B3D1E 0008

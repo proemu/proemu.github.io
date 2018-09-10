@@ -1,0 +1,4 @@
+#Distance Max (0-9999)
+800FE19E 1250
+#Have 50:00:00 minutes of flight time
+80082B84 EA60

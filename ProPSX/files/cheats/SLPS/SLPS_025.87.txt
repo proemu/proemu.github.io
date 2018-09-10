@@ -1,0 +1,8 @@
+#Infinite Tuning Coupon
+800BA764 03E7
+#Unlock All Arcade Cars - Unable To Save To Memory Card.
+800BA758 FFFF
+800BA75A FFFF
+#Unlock All Arcade Cars/Tracks
+50001C02 0000
+800BA77E FFFF

@@ -1,0 +1,8 @@
+#Infinite Timer
+80069D98 17AE
+#Infinite Health P1
+8006A724 0064
+#Does not decrease stamina 1P 
+301E1E71 00C8 
+#Does not decrease stamina 2P 
+301E1E75 00C8

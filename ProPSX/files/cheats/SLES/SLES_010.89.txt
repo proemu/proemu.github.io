@@ -1,0 +1,5 @@
+"Infinite Shield
+80086A04 1000
+"Infinites Lives
+800CD1C0 0009
+

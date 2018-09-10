@@ -1,0 +1,30 @@
+#Infinite Life
+800978AE 0003
+#Infinite Credits
+800949E2 0063
+#Infinite Weapons
+800978BA 001F
+#Craww
+80097856 0003
+#Invincible
+800978DE 0091
+#CRAW energy MAX 
+80097868 3000 
+#I can use all weapons 
+300978BA 00FF 
+#The possible & Time Attack watch digital viewer 
+80097720 FFFF 
+80097722 FFFF 
+80097724 FFFF 
+80097726 FFFF 
+80097728 FFFF 
+3009772A 00FF 
+#You can free Kontini MASTER difficulty can be selected I use booster machine in Time Attack 
+80097746 FFFF 
+80097764 FFFF 
+8009776C FFFE 
+#Time Attack mode Remaining time (0000 ~ FFFF) 
+80083BF0 FFFF 
+#TOTAL ATTACK TIME 00:00:00 
+80083C4C: 0000 
+80083C4E: 0000 

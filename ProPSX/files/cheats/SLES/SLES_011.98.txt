@@ -1,0 +1,11 @@
+#Infinite Health	  
+30127D44 0032
+30127D48 0032
+#Infinite Money 
+801EB834 270F
+# Have 99 Gilded Falcons	  
+301EB83A 0063
+#Have Keys	  
+301EB934 0063
+301EB96C 0001
+301EB964 0001

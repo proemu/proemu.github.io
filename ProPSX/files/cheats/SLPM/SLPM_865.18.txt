@@ -1,0 +1,7 @@
+#Have 999 points
+8005EE20 03E7
+#Have 6 hearts in knockout mode
+8005EE2C 0006
+#Have always 3 right answers in knockout mode
+8005EE54 0003
+

@@ -1,0 +1,28 @@
+#Infinite Round Time
+8019B440 7740
+8019B442 001B
+#Indestructable Team P1
+8014AAA8 0064
+8014AB44 0064
+8014ABE0 0064
+8014AC7C 0064
+#Infinite time in Practice mode
+8019AA08 E678
+#Basic training - The Gods Medal Modifier	
+301E2408 0003
+#Unlock The Next Level (The Gods Codes)	
+301E238C 0001
+#Have All Weapons	
+50003E04 0000
+8014B4EC 0001
+#Infinite Ammo All Weapons	
+50003E04 0000
+8014B4EE 0001
+#P1 Indestructable Worm 1
+8014AAA8 0064
+#P1 Indestructable Worm 2	
+8014AB44 0064
+#P1 Indestructable Worm 3	
+8014ABE0 0064
+#P1 Indestructable Worm 4		
+8014AC7C 0064

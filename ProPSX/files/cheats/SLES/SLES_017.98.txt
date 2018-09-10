@@ -1,0 +1,5 @@
+#Infinite gold English
+8011A4F0 869F
+8011A4F2 0001
+#Infinite gold Spanish,Egyptians and Aztecs
+80119A00 7530

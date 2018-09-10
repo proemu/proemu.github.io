@@ -1,0 +1,256 @@
+#Enable Extra Heads In Character Selection
+80090F7C 00FF
+80090F7E 00FF
+#Enable Extra Upper Body Parts
+80090F90 00FF
+80090F92 00FF
+#Enable Extra Lower Body Parts
+80090FA4 00FF
+80090FA6 00FF
+#Have All Player Characteristics And Moves
+50000C02 0000
+80090700 FFFF
+#P1 Infinite Special Attacks\Single Match
+D00BB836 0000
+800BB836 0005
+#P1 Infinite Special Attacks\Hardcore
+D00BAEE2 0000
+800BAEE2 0005
+#P1 Infinite Special Attacks\Special Referee
+D00BC16A 0000
+800BC16A 0005
+#P1 Infinite Special Attacks\Anywhere Fall
+D00BC16A 0000
+800BC16A 0005
+#P1 Infinite Special Attacks\I Quit
+D00BAF7A 0000
+800BAF7A 0005
+#P1 Infinite Special Attacks\Cage Match
+D00BACFE 0000
+800BACFE 0005
+#P1 Infinite Special Attacks\Survival Match
+D00BACFE 0000
+800BACFE 0005
+#Full Power Bar & Earn A Special Every Hit\I Quit - P1
+D00BB834 0000
+800BB834 0064
+#Full Power Bar & Earn A Special Every Hit\I Quit - P2
+D00C48A8 0000
+800C48A8 0064
+#Full Power Bar & Earn A Special Every Hit\Special Referee - P1
+D00BC168 0000
+800BC168 0064
+#Full Power Bar & Earn A Special Every Hit\Special Referee - P2
+D00C90A8 0000
+800C90A8 0064
+#Full Power Bar & Earn A Special Every Hit\Survival Match - P1
+D00BC168 0000
+800BC168 0064
+#Full Power Bar & Earn A Special Every Hit\Survival Match - P2
+D00C9434 0000
+800C9434 0064
+#Full Power Bar & Earn A Special Every Hit\Cage Match - P1
+D00B6CA8 0000
+800B6CA8 0064
+#Full Power Bar & Earn A Special Every Hit\Cage Match - P2
+D00C4D54 0000
+800C4D54 0064
+#Full Power Bar & Earn A Special Every Hit\Anywhere Fall - P1
+D00C4D54 0000
+800BB4A8 0064
+#Full Power Bar & Earn A Special Every Hit\Anywhere Fall - P2
+D00C8D10 0000
+800C8D10 0064
+#Full Power Bar & Earn A Special Every Hit\King Of The Ring - P1
+D00BB834 0000
+800BB834 0064
+#Full Power Bar & Earn A Special Every Hit\King Of The Ring - P2
+D00C8D10 0000
+800C8D10 0064
+#Full Power Bar & Earn A Special Every Hit\Single Match - P1
+D00BB834 0000
+800BB834 0064
+#Full Power Bar & Earn A Special Every Hit\Single Match - P2
+D00C90A8 0000
+800C90A8 0064
+#Full Power Bar & Earn A Special Every Hit\Tag Match - P1
+D00BB834 0000
+800BB834 0064
+#Full Power Bar & Earn A Special Every Hit\Tag Match - P2
+D00C90A8 0000
+800C90A8 0064
+#Full Power Bar & Earn A Special Every Hit\Tag Match - P3
+D00D7968 0000
+800D7968 0064
+#Full Power Bar & Earn A Special Every Hit\Tag Match - P4
+D00E4510 0000
+800E4510 0064
+#Full Power Bar & Earn A Special Every Hit\Handicapped 1 On 2 - P1
+D00BB834 0000
+800BB834 0064
+#Full Power Bar & Earn A Special Every Hit\Handicapped 1 On 2 - P2
+D00C90A8 0000
+800C90A8 0064
+#Full Power Bar & Earn A Special Every Hit\Handicapped 1 On 2 - P3
+D00D7968 0000
+800D7968 0064
+#Full Power Bar & Earn A Special Every Hit\Handicapped 1 On 3 - P1
+D00BB834 0000
+800BB834 0064
+#Full Power Bar & Earn A Special Every Hit\Handicapped 1 On 3 - P2
+D00C90A8 0000
+800C90A8 0064
+#Full Power Bar & Earn A Special Every Hit\Handicapped 1 On 3 - P3
+D00D7968 0000
+800D7968 0064
+#Full Power Bar & Earn A Special Every Hit\Handicapped 1 On 3 - P4
+D00E4510 0000
+800E4510 0064
+#Full Power Bar & Earn A Special Every Hit\Battle Royal - P1
+D00BB834 0000
+800BB834 0064
+#Full Power Bar & Earn A Special Every Hit\Battle Royal - P2
+D00C90A8 0000
+800C90A8 0064
+#Full Power Bar & Earn A Special Every Hit\Battle Royal - P3
+D00D7968 0000
+800D7968 0064
+#Full Power Bar & Earn A Special Every Hit\Battle Royal - P4
+D00E4510 0000
+800E4510 0064
+#Full Power Bar & Earn A Special Every Hit\Royal Rumble - P1
+800BB834 0000
+800BB834 0064
+#Full Power Bar & Earn A Special Every Hit\Royal Rumble - P2
+D00C90A8 0000
+800C90A8 0064
+#Full Power Bar & Earn A Special Every Hit\Royal Rumble - P3
+D00D7968 0000
+800D7968 0064
+#Full Power Bar & Earn A Special Every Hit\Royal Rumble - P4
+D00E4510 0000
+800E4510 0064
+#P1 Starts With 5 Specials
+8007ACDE 0005
+#P2 Starts With 5 Specials
+8007ACF6 0005
+#P3 Starts With 5 Specials
+8007AD0E 0005
+#P4 Starts With 5 Specials
+8007AD26 0005
+#Never Add A Special
+80049878 0000
+#Never Lose A Special
+80047B44 0000
+#No Power-Meter
+80049856 3C00
+#Infinite Creation Points
+D00ED5EA 0040
+800ED5EA 004A
+#Fight In The Crowd
+8007ACAC 0001
+#Infinite Special-Codes\P1
+80049878 0000
+80047B44 0000
+8007ACDE 0005
+8007ACF6 0000
+8007AD0E 0000
+8007AD26 0000
+#Infinite Special-Codes\P2
+80049878 0000
+80047B44 0000
+8007ACDE 0000
+8007ACF6 0005
+8007AD0E 0000
+8007AD26 0000
+#Infinite Special-Codes\P3/Ref
+80049878 0000
+80047B44 0000
+8007ACDE 0000
+8007ACF6 0000
+8007AD0E 0005
+8007AD26 0000
+#Infinite Special-Codes\P4
+80049878 0000
+80047B44 0000
+8007ACDE 0000
+8007ACF6 0000
+8007AD0E 0000
+8007AD26 0005
+#Infinite Special-Codes\P1/P2
+80049878 0000
+80047B44 0000
+8007ACDE 0005
+8007ACF6 0005
+8007AD0E 0000
+8007AD26 0000
+#Infinite Special-Codes\P1/P3/Ref
+80049878 0000
+80047B44 0000
+8007ACDE 0005
+8007ACF6 0000
+8007AD0E 0005
+8007AD26 0000
+#Infinite Special-Codes\P1/P4
+80049878 0000
+80047B44 0000
+8007ACDE 0005
+8007ACF6 0000
+8007AD0E 0000
+8007AD26 0005
+#Infinite Special-Codes\P1/P2/P3
+80049878 0000
+80047B44 0000
+8007ACDE 0005
+8007ACF6 0005
+8007AD0E 0005
+8007AD26 0000
+#Infinite Special-Codes\P1/P3/Ref/P4
+80049878 0000
+80047B44 0000
+8007ACDE 0005
+8007ACF6 0000
+8007AD0E 0005
+8007AD26 0005
+#Infinite Special-Codes\P1/P2/P4
+80049878 0000
+80047B44 0000
+8007ACDE 0005
+8007ACF6 0005
+8007AD0E 0000
+8007AD26 0005
+#Infinite Special-Codes\P2/P3/Ref
+80049878 0000
+80047B44 0000
+8007ACDE 0000
+8007ACF6 0005
+8007AD0E 0005
+8007AD26 0000
+#Infinite Special-Codes\P2/P4
+80049878 0000
+80047B44 0000
+8007ACDE 0000
+8007ACF6 0005
+8007AD0E 0000
+8007AD26 0005
+#Infinite Special-Codes\P2/P3/Ref/P4
+80049878 0000
+80047B44 0000
+8007ACDE 0000
+8007ACF6 0005
+8007AD0E 0005
+8007AD26 0005
+#Infinite Special-Codes\P3/Ref/P4
+80049878 0000
+80047B44 0000
+8007ACDE 0000
+8007ACF6 0000
+8007AD0E 0005
+8007AD26 0005
+#Infinite Special-Codes\P1/P2/P3/Ref/P4
+80049878 0000
+80047B44 0000
+8007ACDE 0005
+8007ACF6 0005
+8007AD0E 0005
+8007AD26 0005

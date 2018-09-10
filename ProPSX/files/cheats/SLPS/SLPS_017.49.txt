@@ -1,0 +1,31 @@
+#Infinite & Max HP 65535
+800ED31C FFFF
+800ED320 FFFF
+#Infinite & Max MP 65535
+800ED31E FFFF
+800ED322 FFFF
+#Attack Lv255 
+300ED324 00FF 
+#Defense Lv255 
+300ED325 00FF 
+#Magic Lv255 
+300ED326 00FF 
+#Agility Lv255 
+300ED327 00FF 
+#Money 999999G 
+800ED36C 423F 
+800ED36E 000F 
+#(No effect, reflected in when it is down the stairs at the time of entering the dungeon) Number of stories in the ring gate Dungeon current Home World	
+800E3058 03E6
+#Imperial Calvi favorite meal 
+800ED338 C193 
+800ED33A E38F 
+800ED33C 4A83 
+800ED33E 8B83 
+800ED340 7283 
+800ED342 E892 
+800ED344 4890 
+800ED346 448D 
+800ED348 AB82 
+800ED34A 82CC 
+300ED34C 0000

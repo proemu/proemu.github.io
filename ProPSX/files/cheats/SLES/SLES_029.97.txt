@@ -1,0 +1,11 @@
+#Infinite Time
+800D7CA5 0812
+800DA981 0812
+#Infinite Damage
+800AB8AD 0000
+800D1AAF 0000
+#Unlock All Cities
+D01C1308 F809
+801C1310 0000
+#Unlock everything 	
+800AA5B4 0028

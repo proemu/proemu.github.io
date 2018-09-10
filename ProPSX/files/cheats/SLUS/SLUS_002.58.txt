@@ -1,0 +1,69 @@
+#Infinite Time 	
+80190324 6302 		
+#Infinite Energy P1 	
+801981F0 0090 	
+#1-Hit Death P2 	
+D0198584 0090
+80198584 0001 		
+#Super Always Powered at Level 3 P1 	
+8019825A 0090
+#Player 1 Character Ryu (Arcade Mode) 	
+8019823A 0000
+#Player 1 Character Ken (Arcade Mode) 	
+8019823A 0100
+#Player 1 Character Akuma (Arcade Mode) 	
+8019823A 0200
+#Player 1 Character Charlie (Arcade Mode) 	
+8019823A 0300
+#Player 1 Character Chun Li (Arcade Mode) 	
+8019823A 0400
+#Player 1 Character Adon (Arcade Mode) 	
+8019823A 0500
+#Player 1 Character Sodom (Arcade Mode) 	
+8019823A 0600
+#Player 1 Character Guy (Arcade Mode) 	
+8019823A 0700
+#Player 1 Character Birdie (Arcade Mode) 	
+8019823A 0800
+#Player 1 Character Rose (Arcade Mode) 	
+8019823A 0900
+#Player 1 Character M.Bison (Arcade Mode) 	
+8019823A 0A00
+#Player 1 Character Sagat (Arcade Mode) 	
+8019823A 0B00
+#Player 1 Character Dan (Arcade Mode) 	
+8019823A 0C00
+#Player 1 Character Sakura (Arcade Mode) 	
+8019823A 0D00
+#Player 1 Character Rolento (Arcade Mode) 	
+8019823A 0E00
+#Player 1 Character Dhalsim (Arcade Mode) 	
+8019823A 0F00
+#Player 1 Character Zangief (Arcade Mode) 	
+8019823A 1000
+#Player 1 Character Gen (Arcade Mode) 	
+8019823A 1100
+#Player 1 Character Chun Li (SSF2 Turbo) (Arcade Mode) 	
+8019823A 1200
+#Player 1 Character Gen (New) (Arcade Mode) 	
+8019823A 1300
+#Player 1 Character Akuma (New) (Arcade Mode) 	
+8019823A 1400
+#Player 1 Character Ryu (New) (Arcade Mode) 	
+8019823A 1500
+#Player 1 Character Akuma (New) (Arcade Mode) 	
+8019823A 1600
+#Player 1 Character Rose (New) (Arcade Mode) 	
+8019823A 1700
+#Player 1 Character Rolento (New) (Arcade Mode) 	
+8019823A 1800
+#Player 1 Character Gen (New) (Arcade Mode) 	
+8019823A 1900
+#Player 1 Character Ken (New) (Arcade Mode) 	
+8019823A 1A00
+#Player 1 Character Ryu (New) (Arcade Mode) 	
+8019823A 1B00
+
+
+
+ 

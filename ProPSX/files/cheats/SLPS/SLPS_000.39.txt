@@ -1,0 +1,12 @@
+#Infinite Energy Short Hair Girl
+800C2A60 03E7
+#Infinite Energy Long Hair Girl
+800C2BF0 03E7
+#Infinite Energy Boy
+800C28D0 03E7
+#Infinite special attack long hair girl
+800C2BF8 03E7
+#Infinite special attack short hair girl
+800C2A68 03E7
+#Infinite special attack boy
+800C28D8 03E7

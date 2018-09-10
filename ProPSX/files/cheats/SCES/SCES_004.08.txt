@@ -1,0 +1,10 @@
+#Open All Tracks Do Not Use in Pro Mode!
+80057AEE 0114
+#Always First Place
+800670B0 0000
+800670B4 0000
+80040870 0000
+80040872 0000
+#Extra Cars
+80056910 0014
+

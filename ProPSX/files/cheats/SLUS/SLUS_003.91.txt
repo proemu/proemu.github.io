@@ -1,0 +1,44 @@
+#Home Team Scores 9
+800FF898 0009
+#Home Team Scores 0
+800FF898 0000
+#Away Team Scores 9
+300FF899 0009
+#Away Team Scores 0
+300FF899 0000
+#Max Stick Handling
+301A6984 0063
+#Max Shooting
+301A6985 0063
+#Max Acceleration
+301A6987 0063
+#Max Toughness
+301A6988 0063
+#Max Endurance
+301A697A 0063
+#Max Speed
+301A697B 0063
+#Max Skating
+301A697C 0063
+#Max Passing
+301A697D 0063
+#Max Shot Power
+301A697E 0063
+#Max Offensive Awareness
+301A697F 0063
+#Max Defensive Awareness
+301A6980 0063
+#Max Checking
+301A6981 0063
+#Max Aggression
+301A6982 0063
+#Infinite Time
+800FF85C 012C
+#Home Team Scores 9
+800FF898 0009
+#Home Team Scores 0
+800FF898 0000
+#Away Team Scores 9
+300FF899 0009
+#Away Team Scores 0
+300FF899 0000

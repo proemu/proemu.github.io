@@ -1,0 +1,73 @@
+#Have 99999 points in bone darts
+800661D4 869F
+800661D6 0001
+#Infinite Health
+8006645A 03E7
+#Max Health
+80066458 0E37
+#Lots Of Gold
+8006644C FFFF
+#Equipped Rising Sword
+300661B4 0024
+#Equipped Valar Shield 
+300661B6 002C
+#Hypermode
+D003B23C 003A
+3003B23E 0000
+#Slowmotion
+D003B23C 003A
+8003B23E 3C00
+#Don't Need Supplys To Use Items
+D0024118 0003
+8002411A 3C00
+#Infinite Items
+80024126 3C00
+#Walkthroughwalls
+D008EF8C 0082
+8008EF8E 1000
+#Have Infinite\Wonder Orbs
+30066187 0009
+#Have Infinite\Herbs
+30066188 0009
+#Have Infinite\Compass
+30066189 0009
+#Have Infinite\Tonics
+3006618A 0009
+#Have Infinite\Elixirs
+3006618B 0009
+#Have Infinite\Panaceas
+3006618C 0009
+#Have Infinite\Lorien Nuts
+3006618D 0009
+#Have Infinite\Grapes Of Eru
+3006618E 0009
+#Have Infinite\Round Keys (Special Item)
+3006618F 0009
+#Have Infinite\Triangle Keys (Special Item)
+30066190 0009
+#Have Infinite\Tickets (Special Item)
+30066191 0009
+#Have Infinite\Bone Darts (Special Item)
+30066194 0009
+#Have Infinite\Goo Goo Birds (Special Item)
+30066195 0009
+#Have Infinite\Have Keys
+30066197 0009
+#Have Infinite\Puzzle Pieces
+30066198 0009
+#Have Infinite\Elf Rings
+3006619A 0009
+#Have Infinite\Sp Elf Rings
+3006619B 0009
+#Have Infinite\Guard Rings
+3006619C 0009
+#Have Infinite\Sp Guard Rings
+3006619D 0009
+#Have Infinite\Amulets
+3006619E 0009
+#Have Infinite\Elemental Rings
+300661A0 0009
+#Have Infinite\Elemental Charms
+300661A1 0009
+#Have Infinite\Crimson Capes (Special Item)
+300661A2 0009

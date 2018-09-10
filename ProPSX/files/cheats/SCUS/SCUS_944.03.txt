@@ -1,0 +1,22 @@
+#Infinite Lives
+800E7CA4 0002
+#Infinite Credits
+800E7D28 0003
+#Invunerability
+800E7F60 0004
+#Infinite Buster Grenades
+800E7F5C 0003
+#Max Vulcan
+800E7D0C 0002
+#Max Laser
+800E7D0E 0002
+#Max A-Break
+800E7D10 0002
+#Max Rav-B
+800E7D12 0002
+#Infinite Srm Missiles
+800E8004 0002
+#Infinite Mrm Missiles
+800E8004 0001
+#Invincibility
+800ED7C6 0003

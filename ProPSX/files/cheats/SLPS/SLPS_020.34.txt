@@ -1,0 +1,8 @@
+#Infinite Lives
+800E0890 0004
+#Invinvible
+801E4338 0031
+#Infinite Weapons
+800E08A4 0102
+800E08A6 0304
+800E08A8 0500

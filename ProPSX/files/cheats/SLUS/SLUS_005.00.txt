@@ -1,0 +1,2 @@
+#Rival always score 0
+800C6F2A 0000

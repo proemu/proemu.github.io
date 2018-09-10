@@ -1,0 +1,9 @@
+#P1 infinite energy 	
+801D8210 00C8 		
+#Extra-characters 	
+801EAE54 0101
+801EAE56 0001 		
+#P1 - Plasma 	
+801BE4FA 7A8D
+801BE51A 7A8D
+801D7F8C 0000

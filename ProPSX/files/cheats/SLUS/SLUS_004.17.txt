@@ -1,0 +1,26 @@
+#Baraduke Codes\Infinite Shields
+801600D6 0002
+#Baraduke Codes\Infinite Lives
+801600C0 0005
+#Dragon Spirit Codes\Infinite Health
+801E91B0 0002
+#Dragon Spirit Codes\Infinite Lives
+801E9006 0300
+#Legend Of Valkryie Codes\P1 Infinite Health
+80190740 0080
+#Legend Of Valkryie Codes\P1 Infinite Magic
+8019073E 0080
+#Legend Of Valkryie Codes\P1 Infinite Money
+80190742 FFFF
+#Legend Of Valkryie Codes\P2 Infinite Health
+80190844 0080
+#Legend Of Valkryie Codes\P2 Infinite Magic
+80190842 0080
+#Legend Of Valkryie Codes\P2 Infinite Money
+80190846 FFFF
+#Metro Cross Codes\Infinite Time
+801E1442 0308
+#Pac-Mania Codes\P1 Infinite Lives
+801E0620 030A
+#Pac-Mania Codes\P2 Infinite Lives
+801E0622 0103

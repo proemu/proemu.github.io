@@ -1,0 +1,15 @@
+#Freeze Timer
+8003E33C 0000
+8003E338 0000
+8003E340 0000
+#Start On Lap 2
+D003E1A4 0000
+8003E1A4 0001
+#End Race Immediately - Gp Mode - Press Select
+D003DFD2 FFFE
+8003E0E0 00FF
+#Max Creation Points - Press L1
+D003DFD2 FBFF
+801FFBE4 0063
+#Max Points - Gp Mode
+8003DF90 005A

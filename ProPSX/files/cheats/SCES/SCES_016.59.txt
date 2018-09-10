@@ -1,0 +1,19 @@
+#Infinite Health
+800E856A 000C
+#Have Dagger
+800D1B72 0001
+#Have Crossbow
+800D1BEA 0001
+#Infinite Arrows
+800E85CA 0063
+#Infinite Ammo After Pickup
+80047502 3C00
+#Infinite Coins
+800E85C4 0031
+#Have All Keys
+50000D02 0000
+800E85E0 0001
+#Infinite Lives
+800E8600 0063
+#Playing Time
+800E7798 0000

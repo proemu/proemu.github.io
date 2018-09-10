@@ -1,0 +1,28 @@
+#P1 Infinite Energy
+801EFA02 00C8
+#P1 Level 8 Super
+801EFC18 081E
+#P2 Infinite Energy
+801EFE02 00C8
+#P2 Level 8 Super
+801F0018 0800
+#Use All Character Secret switch on at the select character screen
+801F65D0 FFFF
+801F65D4 FFFF
+801F65D8 FFFF
+801F65DA FFFF
+801F65DC FFFF
+801F65DE FFFF
+#Fast Kill Enemy		
+801EFE02 0000
+#Evolution DISC for When you open the use status in the hot-blooded youth diary Friendship degree of all MAX 
+D00A4D44 0018 
+800A4E30 001F 
+D00A4D44 0018 
+800A4E32 2403 
+D00A4D44 0018 
+800A4E38 18A8 
+D00A4D44 0018 
+800A4E3A A023 
+D00A4D44 0018 
+800A4E3C 000B

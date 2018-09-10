@@ -1,0 +1,64 @@
+#Hero status during the game infinite energy
+8003522C 3E58 
+8003522E 000F 
+#Hero status during the game infinite spirit 
+80035230 03E7 
+#Hero status during the game instantaneous force
+80035234 03E7 
+#Hero status during the game Power 
+80035238 03E7 
+#Hero status during the game technology
+8003523C 03E7 
+#Hero status during the game Knowledge Power 
+80035240 03E7
+80035244 03E7
+#Ally in doubles games during the game infinite energy
+80035258 3E58 
+8003525A 000F 
+#Ally in doubles games during the game infinite spirit
+8003525C 03E7
+#Ally in doubles games during the game instantaneous force
+80035260 03E7
+#Ally in doubles games during the game Power 
+80035264 03E7 
+#Ally in doubles games during the game technology
+80035268 03E7
+#Ally in doubles games during the game Knowledge Power
+8003526C 03E7
+80035270 03E7 
+#Give a lot of money and gifts
+8004B8CC 0064 
+8004B8CE 2410 
+#First place in the ranking change of one degree 
+8005359C 0004 
+8005359E 1000 
+800535C4 0001 
+800535C6 2403 
+8005363C 0001 
+80053644 0001 
+80053646 2403 
+80053650 0001 
+80053652 2403 
+#Ally number of games 5 
+800353F4 0005
+#Opponent number of games 
+800353F8 0000
+#Ally number of points 40  
+800353FC 0003
+#Opponent number of points 0 
+80035400 0000 
+#I use Seigaku soul singles match 
+D0031D48 0128 
+80031D50 0001 
+#I can use from the beginning deathblow 
+D0027E18 00E8 
+80027E20 0001 
+D0027E18 00E8 
+80027E68 0001 
+D0027E18 00E8 
+80027EC0 0001 
+D0027E18 00E8 
+80027F30 0001 
+#Clear Pressing punishment game once button of club practice 
+D001B044 0880 
+8001B054 0090 

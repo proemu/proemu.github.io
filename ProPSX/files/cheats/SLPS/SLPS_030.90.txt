@@ -1,0 +1,16 @@
+#P1 Infinite Health
+8009A23E 00C8
+#P1 One Hit Kill
+D009A23E 00C8
+8009A23E 0001
+#P2 Infinite Health
+8009A326 00C8
+#P2 One Hit Kill
+D009A326 00C8
+8009A326 0001
+#Does not decrease time 
+8008CAE8 070B 
+#999 Points
+800A854C 03E7
+#Unlock Everything
+800A8548 FFFF

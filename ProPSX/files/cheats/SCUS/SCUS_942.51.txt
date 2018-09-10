@@ -1,0 +1,14 @@
+#Have 50000 Points
+8009AD9C C350
+#Always Place First & Infinite Time
+8009C694 0000
+#Have All Mountains
+80069078 0005
+#Have Extra Characters
+800BD7CC 0015
+#Have Extra Free Style Boards
+800BDDE0 000A
+#Have Extra Free Ride Boards
+800BDEF8 000A
+#Have Extra Alpine Boards
+800BE010 0003

@@ -1,0 +1,6 @@
+#Infinite Hp P1
+800A9EF8 0190
+#Level 999 (All Characters)
+800106F6 03E7
+#No HP P2		
+800AA268 0000

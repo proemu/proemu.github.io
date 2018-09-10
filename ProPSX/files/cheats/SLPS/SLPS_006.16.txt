@@ -1,0 +1,10 @@
+#Infinite Stamina
+80106770 44A0
+#Infinite Power
+80106776 0786
+#Infinite Spirit
+8010677C 7000
+
+
+
+

@@ -1,0 +1,12 @@
+#Infinite Hp
+80098110 00FA
+#Infinite Mp
+30098115 00FA
+#Infinite Health Kurenai		
+8009853C 0064
+#Always Have Normal Status		
+800BCE04 0000
+#Infinite All Items		
+80059106 2400
+
+	

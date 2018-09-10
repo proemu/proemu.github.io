@@ -1,0 +1,7 @@
+#Have 999999 points  
+801FFE44 423F
+801FFE46 000F 
+#Infinite energy 1st unit in mission 1  
+800B1D80 0064 
+#Infinite energy 2nd unit in mission 1  
+800B2158 0064 

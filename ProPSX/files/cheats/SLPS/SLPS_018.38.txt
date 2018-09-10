@@ -1,0 +1,4 @@
+#Energy always 100
+80093382 0064
+#Patient life always full
+80092C9D 0F42

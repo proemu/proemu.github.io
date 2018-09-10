@@ -1,0 +1,16 @@
+#Joker Command  
+D00CF844 0000 
+#Infinite Health Standard Mode  
+800C51AC 0060
+800C867E 0060 
+#Infinite Health Training Mode  
+300C51AC 008C 
+#Infinite Health Advanced Mode  
+800B8BC6 0301
+800B8BC8 FF00
+800B8BCC 00FF
+800C51AC 0060 
+#Infinite Ammo (All Weapons-Except FlameThrower)  
+D00418F8 FFFF
+800418F8 0000 
+ 

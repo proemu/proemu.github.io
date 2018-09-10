@@ -1,0 +1,14 @@
+#Max Speed
+8006E8DA AFFF
+#Infinite Check Point Time
+800E47A8 0046
+#Always First
+8006E910 0000
+#Finish The Race Immediately - Press Select
+D00E50A0 0100
+800803AC 0003
+#Unlock All Characters
+800800A0 000A
+#Unlock All Courses
+8008009C 0007
+

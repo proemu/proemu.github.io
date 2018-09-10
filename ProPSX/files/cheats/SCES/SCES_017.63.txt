@@ -1,0 +1,21 @@
+#All unlocked 	
+800EE3BC 0C0C
+800EEA1C FFFF
+#Infinite Continues
+800EEAD4 0009
+#Unlock Most Things
+800EE3BC 0C0C
+#Infinite continues 
+D0018254 FFFF
+80018258 0000
+#Infinite boost	
+D008EAF8 1823
+8008EAF8 0023
+#Always good grip	
+80042F9E AE80
+#Always first (Display)	
+D00E465A 2442
+800E465A 2402
+#Time attack Timer 00:00	
+D009324C 0001
+8009324C 0000

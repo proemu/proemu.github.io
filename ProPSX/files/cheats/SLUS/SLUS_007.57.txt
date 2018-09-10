@@ -1,0 +1,26 @@
+#Player 1 Codes\Infinite Health
+800CBDA0 0064
+#Player 1 Codes\Have All Weapons it works, but you can not use the weapons till you get some ammo for them.
+800C7F38 0FFF
+#Player 1 Codes\Infinite Armor
+800C7F1E 0064
+#Player 1 Codes\Infinite Shotgun & Super Shotgun Ammo
+800C7F3C 0064
+#Player 1 Codes\Infinite Machine Gun & Chaingun Ammo
+800C7F3E 0064
+#Player 1 Codes\Infinite Grenades & Grenade Launcher Ammo
+800C7F40 0064
+#Player 1 Codes\Infinite Rocket Launcher Ammo
+800C7F42 0064
+#Player 1 Codes\Infinite Hyper Blaster + Bfg Ammo
+800C7F44 0064
+#Player 1 Codes\Infinite Rail Gun Ammo
+800C7F46 0064
+#Player 1 Codes\Super Jump Press Square
+D00C7DD0 8000
+800CBD86 FEC7
+#Player 1 Codes\Refresh Health In Level 3 Press Select+R2
+D00C7DD0 0201
+800CC3A0 0064
+
+

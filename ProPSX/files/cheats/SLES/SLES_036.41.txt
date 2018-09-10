@@ -1,0 +1,20 @@
+#All Cams
+801F44C0 0032
+#Have 99 Films, all mini-games 
+801F44C0 0505
+#Infinite Time - Car Race (Disconnect before enter gym)
+801EBDF8 0784
+#Infinite Time - Slalom Game
+801F0F4C 0784
+#Autowin - Worm Challenge 
+801ECA50 000A
+#Only Catch one worm to win - Worm Challenge 
+801ECA50 0009
+#Infinite Time - Worm Game Level Hard
+801EF2CC 1800
+#Fish Challenge (only need 1 fish to advance)
+800A0028 0009
+#Infinite Time - Tug-o-war 
+801F2C80 049F
+#Infinite Time - Blue Ribbon Race
+800AE01C 0381

@@ -1,0 +1,52 @@
+#Invincible 	
+8001DA6A 1000
+#Infinite HP 	
+8005A98A 0010
+#Infinite Lives 	
+80059402 0063
+#Start game at level 1 - Castle Entrance
+80059434 0000
+#Start game at level 2 - Cave
+80059434 0001
+#Start game at level 3 - Courtyard
+80059434 0002
+#Start game at level 4 - Royal Chapel
+80059434 0003
+#Start game at level 5 - Clock Tower
+80059434 0004
+#Start game at level 6 - Floating Corridor
+80059434 0005
+#Start game at level 7 - Prison 
+80059434 0006
+#Start game at level 8 - Final Level - Chronicles
+80059434 0007
+#Watch endings / FMVs in Original & Arranged Modes
+801057BC 001B
+#Unlocked Sound engine selection menu	
+D0107BE0 0007
+80107BE0 0004
+D0107C20 000A
+80107C20 0004
+#Unlocked Time attack & ranking (Arrange mode)	
+3006E5CC 0001
+D006E602 0000
+3006E602 0053
+#Unlocked Gallery & pictures in options menu	
+3006E5C9 001A
+#Unlocked Extra option menu On 	
+D005E4E4 000F
+80107C5E 001C
+#Enable Arranged Music		
+3005946D 0003
+#Final Stage (All Slots)	
+50000610 0000
+3006E5DC 0017
+#Invincible		
+8001DA6A 1000
+#Max Level Sub-Weapon (Triple Shot)		
+3005A997 0003
+#Max Level Weapon (Morning Star Whip)		
+3005A99E 0002
+#Press X For Moon Jump	Hold X to continue floating	
+E005E4C3 00BF
+8005A99C 0008

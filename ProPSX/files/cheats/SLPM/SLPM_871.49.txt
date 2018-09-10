@@ -1,0 +1,2 @@
+#Infinite HP Bar in Attack Mode
+8016DD48  0014

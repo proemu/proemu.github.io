@@ -1,0 +1,4 @@
+#Infinite Life 
+8009C46A 0000 
+#Infinite Magic 
+8009C426 000F 

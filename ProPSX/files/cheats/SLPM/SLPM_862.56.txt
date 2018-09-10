@@ -1,0 +1,36 @@
+#Infinite Money (60000)
+800CFEF8 EA60
+#Status MAX National language 
+800CFD16 03E7 
+#Status MAX Mathematics 
+800CFD1A 03E7 
+#Status MAX English 
+800CFD1E 03E7 
+#Status MAX Rika 
+800CFD22 03E7 
+#Status MAX Society 
+800CFD26 03E7 
+#Status MAX Music 
+800CFD2E 03E7 
+#Status MAX Art 
+800CFD32 03E7 
+#Status MAX General knowledge 
+800CFD46 03E7 
+#Status MAX Courtesy 
+800CFD4A 03E7 
+#Status MAX Endurance 
+800CFD3A 03E7 
+#Status MAX Instantaneous force 
+800CFD3E 03E7 
+#Status MAX Style 
+800CFD52 03E7 
+#Status MAX Sense 
+800CFD56 03E7 
+#Status MAX Physical fitness 
+800CFD66 03E7 
+800CFD6A 03E7 
+#Status MAX Spirit 
+800CFD5A 03E7 
+#Status MAX Luck 
+800CFD5E 03E7 
+800CFD62 03E7

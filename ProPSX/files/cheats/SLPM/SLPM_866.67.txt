@@ -1,0 +1,15 @@
+#Max Dance Gauge (P1)		
+80083B8C 03E8
+#Max Dance Gauge (P2)		
+800856E4 03E8
+#All Lessons Clear		
+50000C02 0000
+80010E5C 0101
+#Dance Magic Mode: Max Power (P1)		
+800E3EE4 0002
+800E3EE6 00FF
+#Dance Magic Mode: Max Power (P2)		
+800E3EF0 0002
+800E3EF2 00FF
+#Unlock All Extras		
+80010E5A 1000

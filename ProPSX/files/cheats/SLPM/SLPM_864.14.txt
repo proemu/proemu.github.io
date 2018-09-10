@@ -1,0 +1,12 @@
+#Free play can be selected Kinha 
+30058740 0001 
+#Free play can be selected Mami 
+30058741 0001 
+#Free play can be selected Tsukasa 
+30058742 0001 
+#Adding a bonus mode Kinha 
+30058746 0001 
+#Adding a bonus mode Mami 
+30058747 0001 
+#Adding a bonus mode Tsukasa 
+30058748 0001

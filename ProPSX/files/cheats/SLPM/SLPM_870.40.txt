@@ -1,0 +1,40 @@
+#Infinite  & Max energy character 1
+800E0926 03E7
+800E092A 03E7
+#Infinite  & Max MP character 1
+800E0928 03E7
+800E092C 03E7
+#Lv 99	
+300E092E 0063
+#Infinite & Max energy character 2
+800E094C 03E7
+800E0950 03R8
+#Infinite & Max MP character 2
+800E094E 03E7
+800E0952 03R8
+#Have 9999 money
+800D7A5C 270F
+#All Destination of Warp	
+800D77B8 FFFF
+#LEVEL Max	
+300D77BC 0063
+#Vu~inekon / MAP Harajuku map 	
+800D78DE 0001
+#No random battles
+300D7999 00FF
+#Destination of warp chapter Location ground 	
+300D7A4A 0000 
+#Destination of warp chapter Location Iceland 	
+300D7A4A 0001 
+#Destination of warp chapter Location Marble Land 	
+300D7A4A 0002 
+#Destination of warp chapter Location Sandland 	
+300D7A4A 0003 
+#Destination of warp chapter Location Forest Land 	
+300D7A4A 0004 
+#Destination of warp chapter Location Fire Land	
+300D7A4A 0005 
+#Destination of warp chapter Location Central Land	
+300D7A4A 0006 
+#Destination of warp chapter Location Sanctuary 	
+300D7A4A 0007

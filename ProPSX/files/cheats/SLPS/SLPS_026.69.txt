@@ -1,0 +1,11 @@
+#Clear flag everyone cheats already · Add field of ETC in the title screen Added a bonus CG in the CG gallery 
+and Added a character introduced to the Start menu 
+3007DCAC 003F
+#All Cg Gallery Filled Bonus
+80158110 FFFF
+80158112 FFFF
+80158114 FFFF
+80158116 FFFF
+80158118 FFFF
+#Izumi 
+80157300 0004

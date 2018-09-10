@@ -1,0 +1,11 @@
+#Unlock all classes	
+800873E0 000F
+#Unlock all tracks	
+800873E4 0FFF
+#Unlock Mirror Mode	
+8008 73E8 0001
+#Unlock View Fox Movie	
+800873F4 0001
+#Big Head Mode	
+800873AC 0001
+

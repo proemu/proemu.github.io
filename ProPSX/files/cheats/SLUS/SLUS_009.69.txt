@@ -1,0 +1,46 @@
+#P1 Infinite Damage
+80066E54 0000
+#Enable Redneck Raceway Track	
+300596CD 0000
+#Enable Lyon Stadium Track	
+300596D2 0000
+#Enable Meltdown Track
+300596D3 0000
+#Enable Hunters Quarry Track
+300596D5 0000
+#Enable Chemical Plant Track	
+300596D7 0000
+#Enable Scrap Heap Track
+300596D8 0000
+#Enable Go Cart Carnage Track
+300596D9 0000
+#Enable Pelton Stadium Track
+300596DA 0000
+#Enable Reverse Tracks
+300596DC 0000
+#Enable Predator Car
+300596EF 0000
+#Enable Renegade Car
+300596F0 0000
+#Enable Mantis Car
+300596F1 0000
+#Enable Widowmaker Car
+300596F2 0000
+#Enable Vandal Car
+300596F3 0000
+#Enable Chase Mode
+300596F5 0000
+#Enable Chicken Mode
+300596F6 0000
+#Enable Suicide Mode
+300596F8 0000
+#Enable Semi Pro League
+30064B30 0000
+#Enable Pro League League
+30064B34 0000
+#Enable Endurance League
+30064B38 0000
+
+
+
+

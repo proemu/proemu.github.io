@@ -1,0 +1,12 @@
+#Infinite health  
+800E856A 000C 
+#Infinite coins  
+800E85C4 0031 
+#Have all keys  
+50000D02 0000
+800E85E0 0001 
+#Infinite Lives  
+800E8600 0063 
+
+ 
+

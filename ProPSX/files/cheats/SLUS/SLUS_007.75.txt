@@ -1,0 +1,4 @@
+#Infinite Lives
+8004EF60 0003
+#Infinite time
+8004f068 0905

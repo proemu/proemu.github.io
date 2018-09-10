@@ -1,0 +1,50 @@
+#Unlimited vitality
+D00DA2AE 0006
+3005C014 0000
+#Infinite vitality (fight with Benoit) 	
+D00DB0A2 F0FE 
+3005ADB8 0000
+.(Press L1 & L2 & R1 & R2 & Select)
+#Mission selection (New Game) Mission 2	
+D00B8B3E 0002
+300B8B3E 0003
+#Mission selection (New Game) Mission 3
+D00B8B3E 0002
+300B8B3E 0004
+#Mission selection (New Game) Mission 4
+D00B8B3E 0002
+300B8B3E 0005
+#Mission selection (New Game) Mission 5
+D00B8B3E 0002
+300B8B3E 0006
+#Mission selection (New Game) Mission 6
+D00B8B3E 0002
+300B8B3E 0007
+#Mission selection (New Game) Mission 7
+D00B8B3E 0002
+300B8B3E 0008
+#Mission selection (New Game) Mission 8
+D00B8B3E 0002
+300B8B3E 0009
+#Mission selection (New Game) Mission 9
+D00B8B3E 0002
+300B8B3E 000A
+#Mission selection (New Game) Mission 10
+D00B8B3E 0002
+300B8B3E 000B
+#Mission selection (New Game) Mission 11
+D00B8B3E 0002
+300B8B3E 000C
+#Mission selection (New Game) Mission 12	
+D00B8B3E 0002
+300B8B3E 000D
+#Mission selection (New Game) Mission 13
+D00B8B3E 0002
+300B8B3E 000E
+#Mission selection (New Game) Mission 14
+D00B8B3E 0002
+300B8B3E 000F
+#Mission selection (New Game) Credits
+D00B8B3E 0002
+300B8B3E 0010
+

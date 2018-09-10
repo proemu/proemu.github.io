@@ -1,0 +1,3 @@
+#Infinite money Player 1
+800FF59C 869F
+800FF59E 0001

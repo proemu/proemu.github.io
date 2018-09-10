@@ -1,0 +1,15 @@
+#Botiquin Mediano Infinitos
+800AE52C 270F
+#Municion De Rifle Infinita
+800AE430 270F
+#Municion De CañOn Laser Infinita
+800AE484 270F
+#Botiquin Grande Infinitos
+800AE538 270F
+#Municion De Pistola Infinita
+800AE43C 270F
+#Municion De Subfusil Infinita
+800AE448 270F
+#Puntos de extinción
+800AE560 967F
+800AE562 0098

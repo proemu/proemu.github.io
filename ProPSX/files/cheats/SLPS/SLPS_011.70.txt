@@ -1,0 +1,4 @@
+#Always First
+800D1F96 0001
+#Secret Character
+80010004 0004

@@ -1,0 +1,24 @@
+#Infinite Health P1
+800FC174 0003
+#Infinite Health P2
+800FC1D0 0003
+#Infinite Bombs P1
+800FC17A 0003
+#Infinite Bombs P2
+800FC1D6 0003
+#Weapon Automatic P1
+800FC178 0004
+#Weapon Automatic P2
+800FC1D4 0004
+#Infinite Credits
+8002278E 0601
+#Never Reload P1
+300FC185 0006
+#Never Reload P2
+300FC1E1 0006
+#Max No. Of Hits P1
+800FC1B4 FFFF
+?0000-FFFF
+#Max No. Of Hits P2
+800FC210 FFFF
+

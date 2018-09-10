@@ -1,0 +1,13 @@
+#Infinite Energy Player 1
+800D928C 0050
+800D9324 0050
+#Infinite Energy Player 2
+800BE24C 0050
+800BE2E4 0050
+#Infinite lives Player 1
+800B6724 0009
+#Infinite lives Player 2
+800B6748 0009
+#Cheat (Password) Mode open in options		
+300B273C 0004
+

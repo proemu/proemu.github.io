@@ -1,0 +1,6 @@
+#Infinite Zenny/Money
+800C86CC FFFF
+#Infinite Health
+800C8720 10F0
+#Max Health
+800C8722 10F0

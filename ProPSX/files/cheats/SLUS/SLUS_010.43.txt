@@ -1,0 +1,22 @@
+#Infinite Lives (Everyone)
+80037B9E 2400
+#Little Foot Codes\Infinite Lives
+300D7811 0005
+#Little Foot Codes\Have 98 Leaves
+E20D7813 0062
+300D7813 0062
+#Ducky Codes\Infinite Lives
+300D7814 0005
+#Ducky Codes\Have 98 Leaves
+E20D7816 0062
+300D7816 0062
+#Cera Codes\Infinite Lives
+300D7817 0005
+#Cera Codes\Have 98 Leaves
+E20D7819 0062
+300D7819 0062
+#Spike Codes\Infinite Lives
+300D781A 0005
+#Spike Codes\Have 98 Leaves
+E20D781C 0062
+300D781C 0062

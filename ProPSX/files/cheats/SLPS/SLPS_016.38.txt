@@ -1,0 +1,57 @@
+#Reiko Koizumi mood and favorability  Fine
+800A2A000 0005
+800A2A002 0005
+#Terumi  Hinata mood and favorability  Fine
+800A2A2A 0005
+800A2A24 0005
+#Saori Fujino mood and favorability  Fine
+800a2A54 0005
+800a2A56 0005
+#New Ayanokoji mood and favorability  Fine 
+800a2A7E 0005
+800A2A80 0005
+#Naoki Hashimoto mood and favorability  Fine 
+800A2AA8 0005
+800A2AAA 0005
+#Ibuki Akizuki mood and favorability Fine
+800A2AD2 0005
+800A2AD4 0005 
+#Mako Uchida mood and favorability Fine 
+800A2AFC 0005
+800A2AFE 0005
+#Yoko Sakurai mood and favorability Fine
+800A2B26 0005 
+800A2B28 0005 
+#Shindo love mood and favorability Fine
+800A2B50 0005 
+800A2B52 0005
+#Narumi mood and favorability Fine
+800A2B7A 0005
+800A2B7C 0005
+#Shoko Mizusawa mood and favorability Fine
+800A2BA4 0005 
+800A2BA6 0005 
+#Nazuna Spiraea mood and favorability Fine
+800A2BCE 0005
+800A2BD0 0005 
+#Eye mood and favorability Fine
+800A2BF8 0005
+800A2BFA 0005
+#Kasumi mood and favorability Fine
+800A2C22 0005  
+800A2C24 0005
+#Erika Natori mood and favorability Fine
+800A2C4C 0005
+800A2C4E 0005 
+#Shizuka Hanabishi mood and favorability Fine
+800A2C76 0005
+800A2C78 0005 
+#Gaya Shinozaki mood and favorability Fine
+800A2CA0 0005 
+800A2CA2 0005
+#Aster Shirakawa mood and favorability Fine
+800A2CCA 0005
+800A2CCC 0005
+#Misako Yamada mood and favorability Fine
+800A2CF4 0005
+800A2CF6 0005 

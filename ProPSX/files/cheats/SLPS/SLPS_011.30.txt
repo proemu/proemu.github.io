@@ -1,0 +1,13 @@
+#Infinite Mission Timer
+801A1694 0F80
+#Infinite Energy
+801A4980 8300
+#Infinite Jet Packs
+80041A26 6D60
+#Infinite Rifle
+80041CF8 00C8
+#Infinite Small Missiles
+80041D36 0028
+#Infinite Money
+8003A634 E0FF
+8003A636 50F5

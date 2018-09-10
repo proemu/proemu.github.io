@@ -1,0 +1,10 @@
+#Always have perfect pizza
+800CC2D0 0010
+#Infinite Money
+800CC2A8 423F
+300CC2AA 000F
+#Infinite Time
+800AC4DC 0000
+800AC4DE 0000
+#Opponent and vehicles don't move		
+8009DEA2 1000

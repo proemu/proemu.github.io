@@ -1,0 +1,20 @@
+#Infinite energy Alissa
+800616C4 03E7
+#Infinite energy Kay
+800616E0 03E7
+#Infinite energy Marcia
+800616FC 03E7
+#Infinite energy Silvia
+80061718 03E7
+#Infinite energy Michael
+80061734 03E7
+#Infinite energy in battle character 1
+8010DD28 03E7
+#Infinite energy in battle character 2
+8010DCC8 03E7
+#Infinite energy in battle character 3
+8010DCF8 03E7
+#Infinite energy in battle character 4
+8010DD58 03E7
+#Infinite energy in battle character 5
+8010DD88 03E7

@@ -1,0 +1,22 @@
+#Max points in championship mode SG360X car 
+800CBC30 03E7
+#Enable All Secret Racing Paths
+50000302 0000
+300EF9B0 0001
+#Enable All Cars In Racing Path K
+50000602 0000
+300EFB2A 0001
+#Enable All Cars In Racing Path A
+50000602 0000
+300EFB42 0001
+#Enable All Cars In Racing Path S
+50000602 0000
+300EFB5A 0001
+#Max Speed
+80015688 0000
+8001568A 0000
+8001568C 0FFF
+8001568E 2402
+#Max Points In Championship Mode
+800C8360 004E
+

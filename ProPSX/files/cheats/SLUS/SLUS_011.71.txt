@@ -1,0 +1,16 @@
+#Team 1 Max Score	
+800A3A88 03E7
+#Team 1 No Score
+800A3A88 0000
+#Team 2 Max Score
+800A3AAC 03E7
+#Team 2 No Score
+800A3AAC 0000
+#Team 1 Infinite Strikes
+D00A3A70 0000
+800A3634 0000
+#Team 2 Infinite Strikes
+D00A3A70 0001
+800A3634 0000
+#Infinite Time To Answer
+800A361C 0032

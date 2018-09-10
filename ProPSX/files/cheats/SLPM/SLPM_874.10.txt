@@ -1,0 +1,18 @@
+#Infinite Energy 	
+3005D090 001C
+#Infinite Energy Tank 	
+800DB1D4 0005
+#Fast Kill Boss (Press L2+R2)		
+D0055C68 0003
+3005D091 0000
+#Chayaphon's Buster (Press L2+Triangle)		
+D0055C68 0011
+8005D072 02FF
+#All Bosses Defeated & Have All Weapons		
+1F8002D2 00FF
+1F8002D3 0007
+#Unlock All Extras		
+50000302 0000
+8005C6BC 0001
+50008602 0000
+8005C7BC FFFF

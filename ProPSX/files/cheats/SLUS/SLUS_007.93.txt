@@ -1,0 +1,13 @@
+#Infinite Health P1 	
+800707B2 0090
+80070DA4 0090
+#Enable All Illustrations 	
+80025082 FFFF
+#Enable All Endings 	
+80025076 FFFF
+80025080 FFFF
+#No Health P2		
+800707B6 0000
+80071164 0000
+#P1 Wins Modifier 2		
+800707D6 0002

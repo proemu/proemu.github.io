@@ -1,0 +1,36 @@
+#Character 1 Infinite HP
+801E5FD8 752F
+#Character 2 Infinite HP
+801E61AC 752F
+#Character 3 Infinite HP
+801E6380 752F
+#Character 4 Infinite HP
+801E6554 752F
+#Character 1 Infinite TP
+801E5FDE 752F
+#Character 2 Infinite TP
+801E61B2 752F
+#Character 3 Infinite TP
+801E6386 752F
+#Character 4 Infinite TP
+801E655A 752F
+#Have All Items 	
+301CE781 0001
+301CE948 0001
+5000E202 0000
+801CE782 0101
+#Infinite Gold		
+801CE76C 967F
+801CE76E 0098
+#Infinite Lens		
+801CE77C 967F
+801CE77E 0098
+#No Random Battles		
+801CE982 00FF
+#Debug Mode R1: Choose a battle to fight
+R2: Map warp
+X + R1: Choose a minigame to play
+X + R2: Choose an Event to see
+X + Select: Choose a movie to see
+X + Start: Switch between screen warping modes
+801B3B28 0004

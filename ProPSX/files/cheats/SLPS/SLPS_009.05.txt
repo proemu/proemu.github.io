@@ -1,0 +1,20 @@
+#Infinite Energy Player 1
+80102CD4 03E7
+#Infinite Energy Player 2
+801027A8 03E7
+#Infinite Bombs Player 1
+800D406C 0009
+#Infinite Bombs Player 2
+800D40A0 0009
+#Infinite Money
+800D3F50 FFFF
+#Maximum Experience
+800D400C FFFF
+800D4044 FFFF
+#1P MEC 99999 
+800D3F50 869F 
+800D3F52 0001 
+#2P MEC 99999 
+800D4000 869F 
+800D4002 0001 
+

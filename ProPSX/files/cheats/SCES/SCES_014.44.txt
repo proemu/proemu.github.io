@@ -1,0 +1,18 @@
+#Infinite Lifes
+D0129664 0003
+30129664 000A
+#Infinite Health
+D01293EA 00C8
+301293E8 00C8
+#Have All Red & Gold Dragons
+50000F10 0000
+800E7514 0A03
+#Unlock All Paths
+50000E10 0000
+800E7528 FFFF
+#Enable Level Select Cheat 	
+800500FE 2400 		 
+#Enable Level + Dragon Unlock Cheat 	
+80050132 2400
+#Enable Bonus Movie Cheat 	
+800500DA 2400

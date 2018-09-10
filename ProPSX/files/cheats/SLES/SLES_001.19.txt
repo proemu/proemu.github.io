@@ -1,0 +1,24 @@
+#Stops Timer
+801454AC 0B89
+#Infinite Energy Worm 1 P1 (No in water)
+801441FC 0064
+#Infinite Energy Worm 2 P1 (No in water)	
+801442A8 0064
+#Infinite Energy Worm 3 P1 (No in water)	
+80144354 0064
+#Infinite Energy Worm 4 P1 (No in water)	
+80144400 0064
+#Sudden Death Worm 1 P2	
+D01444AC 0064
+801444AC 0001
+#Sudden Death Worm 2 P2	
+D0144558 0064
+80144558 0001
+#Sudden Death Worm 3 P2	
+D0144604 0064
+80144604 0001
+#Sudden Death Worm 4 P2	
+D0144680 0064
+80144680 0001
+#Infinite weapons for all worms	
+8003A40A 3C00

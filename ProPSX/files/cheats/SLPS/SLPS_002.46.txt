@@ -1,0 +1,4 @@
+#Infinite energy player one
+800447ED 006E
+#No energy P2
+8004FE9C 0000

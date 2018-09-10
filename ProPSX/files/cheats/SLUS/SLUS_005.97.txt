@@ -1,0 +1,134 @@
+#Infinite Gp
+801C915C 869F
+801C915E 0001
+#Have Wind Orb
+301C9100 0001
+#Have Moon Stone
+301C9101 0001
+#Have Star Stone
+301C9102 0001
+#Have Tea Set
+301C9103 0001
+#Have Broken Sword
+301C9104 0001
+#Have Ocarina Book
+301C9105 0001
+#Have Amulet
+301C9106 0001
+#Have Magic Rock
+301C9107 0001
+#Have Wedding Ring
+301C9108 0001
+#Have Youth Troop Emblem
+301C9109 0001
+#Have Prison Key
+301C910A 0001
+#Have Ziruas's Potion
+301C910B 0001
+#Have Geinta's Stones
+301C910C 0001
+#Have Neutralizing Solution
+301C910D 0001
+#Have Acid Solution
+301C910E 0001
+#Have Gandor's Dagger
+301C910F 0001
+#Have Stone Tablet
+301C9110 0001
+#Have Fishing Equipment
+301C9111 0001
+#Have Gold Piece
+301C9112 0001
+#Have Silver Piece
+301C9113 0001
+#Have Bronze Piece
+301C9114 0001
+#Have Coral Necklace
+301C9115 0001
+#Have Level 1 Id Card
+301C9116 0001
+#Have Level 2 Id Card
+301C9117 0001
+#Have Sulfuric Acid
+301C9118 0001
+#Have Fake Treasure
+301C9119 0001
+#Have Card Of Wind God
+301C911A 0001
+#Have Card Of Water God
+301C911B 0001
+#Have Card Of Fire God
+301C911C 0001
+#Have Card Of Earth God
+301C911D 0001
+#Have Card Of Giant God
+301C911E 0001
+#Have Card Of Dragon God
+301C911F 0001
+#Have Soldier's Diary
+301C9120 0001
+#Have Key Card
+301C9121 0001
+#Have System Card
+301C9122 0001
+#Have Cell Key
+301C9123 0001
+#Have Piece Of Metal
+301C9124 0001
+#Have Silver Comb
+301C9125 0001
+#Have Decayed Crest
+301C9126 0001
+#Have Burnt Sword
+301C912A 0001
+#Have Gem
+301C912C 0001
+#Have Source Of Power
+301C912D 0001
+#Have 99 Elixirs
+301C912E 0063
+#Have 99 Anicent Mystery Stones
+301C912F 0063
+#Have 99 Dried Herbs
+301C9130 0063
+#Have 99 Fresh Herbs
+301C9131 0063
+#Have 99 Special Herbs
+301C9132 0063
+#Have 99 Low Potions
+301C9133 0063
+#Have 99 High Potions
+301C9134 0063
+#Have 99 Rare Potions
+301C9135 0063
+#Have 99 Life Elements
+301C9136 0063
+#Have 99 Miracle Fruits
+301C9137 0063
+#Have 99 Life Stones
+301C9138 0063
+#Have 99 Angel Feathers
+301C9139 0063
+#Have 99 Panther Eyes
+301C913A 0063
+#Have 99 Fruit Of Venatawas
+301C913B 0063
+#Have 99 White Crystals
+301C913C 0063
+#Have 99 Black Crystals
+301C913D 0063
+#Have All Weapons
+801C9140 FFFF
+#Have All Shields
+801C9144 FFFF
+#Have All Armor
+801C9148 FFFF
+#Have All Magic
+801C914C FFFF
+801C914E FFFF
+801C9150 FFFF
+#Have All Scepters
+801C9154 FFFF
+801C9156 FFFF
+#Infinite Health In Battle
+800C0F04 001E

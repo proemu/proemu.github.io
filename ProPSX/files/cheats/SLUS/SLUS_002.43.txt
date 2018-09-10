@@ -1,0 +1,8 @@
+#Tune Squad Score 99
+80078A44 0063
+#Tune Squad Score 0
+80078A44 0000
+#Monstars Score 99
+80078A48 0063
+#Monstars Score 0
+80078A48 0000

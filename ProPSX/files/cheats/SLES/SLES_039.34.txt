@@ -1,0 +1,6 @@
+#Infinite Hp P1 don't enable it until you're in battle
+8017B554 6000
+#No Health P2
+80180B6C 0000
+#Infinite Health P2		
+80180B6C 6000

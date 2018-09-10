@@ -1,0 +1,9 @@
+#Time Always 0.0
+80077DD0 0000
+#Infinite Health
+8007DD28 0064
+#Quick Score Gain
+80077D70 FFFF
+#Max Score
+80077D70 E0FF
+80077D72 05F5

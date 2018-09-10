@@ -1,0 +1,11 @@
+#Infinite Health
+30010044 0050
+#Amount Of Pumpkins
+30010040 00??
+3005C2CE 00??
+?00-FF
+#Infinite Lifes
+30010043 0063
+#All 5 Letters Press Select
+D001000E 0100
+800639C8 0020

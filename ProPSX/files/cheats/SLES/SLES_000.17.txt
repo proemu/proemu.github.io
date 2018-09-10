@@ -1,0 +1,19 @@
+#Character Unlocked Tao Zhu	
+30100DB8 0001		
+#Character Unlocked Samuel Jefferson	
+30100DBC 0001		
+#Character Unlocked Fabian Van Hilten	
+30100DC0 0001		
+#Character Unlocked Patrice Demanger	
+30100DC4 0001		
+#Character Unlocked Frankie Zamboni	
+30100DD8 0001		
+#Character Unlocked Johnny Roberts	
+30100DDC 0001		
+#Character Unlocked Mick Oshea	
+30100DE0 0001		
+#Character Unlocked Jimmy Silk	
+30100DE4 0001		
+#Freeze round timer	
+301036E8 003C
+

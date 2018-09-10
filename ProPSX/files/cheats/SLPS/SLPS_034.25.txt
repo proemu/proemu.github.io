@@ -1,0 +1,5 @@
+#Infinite Detective Points
+800949FC 0064
+#AP 100% 
+800949F8 0015 
+800949E4 0015 

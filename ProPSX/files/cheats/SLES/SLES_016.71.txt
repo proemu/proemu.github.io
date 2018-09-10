@@ -1,0 +1,24 @@
+#One ballon == complete 1 box	
+80052E2E 2400
+#One biscuit == complete mini-game	
+80058C1A 2400
+#One coin == complete mini-game		
+300E3BC8 0001
+#One egg == complete mini-game	
+300E3BCC 0001
+#Clear the timer Press L2 button	
+D00CF03A FEFF
+800C5924 0001
+#GodMode	
+80078C0E 2400
+#Have all pieces of the puzzle	
+800C6B44 0FFF
+#Infinite flashlight's charge	
+300F61DA 0000
+#Infinite remote control's charge		
+300EF0E6 0000
+#Infinite tries at Angelica's circus	
+8008111E 1000
+#Max time Press R1 button | Activate ONLY on levels with timer	
+D00CF03A F7FF
+800C5924 FFFF

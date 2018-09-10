@@ -1,0 +1,16 @@
+#Max money 
+800CB6A8 FFFF 
+800CB6AA FF04 
+#Money in hand	
+800CBDF0 C9FF 
+800CBDF2 3B9A
+#Infinite time	
+800EED94 0BB0
+#Max Point 	
+800C3810 0064
+#Contact deduction 0	
+8013CED0 0000
+#Other deductions 0	
+8013CED4 0000
+#Total score Max	
+8013CEDC 0064

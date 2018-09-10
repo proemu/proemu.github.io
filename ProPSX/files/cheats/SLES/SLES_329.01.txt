@@ -1,0 +1,14 @@
+#Infinite Energy Koudelka
+801D13C0 270F
+#Infinite Mp Koudelka
+801D13D0 03E7
+#Infinite Energy Edward
+801CF9C0 270F
+#Infinite Mp Edward
+801CF9D0 03E7
+#Infinite Energy James
+801CDFC0 270F
+#Infinite Mp James
+801CDFD0 03E7
+#No random battles
+801D11C8 0821

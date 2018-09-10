@@ -1,0 +1,5 @@
+#Infinite & Max HP - Main Unit (Law)
+800BC67E 03E7
+800BC680 03E7
+#Infinite Summon points
+800C6DC0 0000

@@ -1,0 +1,10 @@
+#Access All Levels	
+800648EA 00FF
+#Disable Timer 	
+800B0F54 76A8
+#Infinite Credits 	
+800B060A 0009 	
+#Always Catch Larger Fish 	
+800A84CE 00FF
+#Have Total Count List (Options - Press Select To View)		
+801F9058 0008

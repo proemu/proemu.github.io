@@ -1,0 +1,8 @@
+#Home Team Scores 9 Goals
+80088EF0 2D39
+#Home Team Scores 0 Goals
+80088EF0 2D30
+#Away Team Scores 9 Goals
+80088EF2 0039
+#Away Team Scores 0 Goals
+80088EF2 0030

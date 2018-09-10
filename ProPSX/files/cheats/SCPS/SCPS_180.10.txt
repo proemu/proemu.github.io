@@ -1,0 +1,41 @@
+#Practice All
+301E219C 0008
+#Challenge Mode BATTLE OF GUITARISTS Score 999
+801E25E0 03E7
+#(I always win) wins score of 0 RIFF1 
+801E2670 0000 
+#Winning score of 0 RIFF2 
+801E2674 0000 
+#Easy Scoring
+801E2670 0000
+801E2674 0000
+#Max Gauge 
+801E1734 0019 
+#The degree of advance of the scene Scene 1 
+801E14A4 0001
+#The degree of advance of the scene Scene 2 
+801E14A4 0002
+#The degree of advance of the scene Scene 3
+801E14A4 0003
+#The degree of advance of the scene Scene 4
+801E14A4 0004
+#The degree of advance of the scene Scene 5
+801E14A4 0005
+#The degree of advance of the scene Scene 6
+801E14A4 0006
+#The degree of advance of the scene Scene 7
+801E14A4 0007
+#The degree of advance of the scene Scene 8
+801E14A4 0008
+#The degree of advance of the scene Scene 9
+801E14A4 0009
+#The degree of advance of the scene Scene 10
+801E14A4 000A
+#The degree of advance of the scene Scene 11
+801E14A4 000B
+#The degree of advance of the scene Scene 12
+801E14A4 000C
+#GUITAR RACK 
+301E1188 0001 
+301E118C 0001 
+301E1190 0001 

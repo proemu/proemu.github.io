@@ -1,0 +1,12 @@
+#Infinite Black Mana
+800A1A34 0009
+#Infinite Blue Mana
+800A1A20 0009
+#Infinite Red Mana
+800A1A48 0009
+#Infinite Green Mana
+800A1A5C 0009
+#Infinite White Mana
+800A1A0C 0009
+#Infinite Health P1
+800A18A8 0098

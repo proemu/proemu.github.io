@@ -1,0 +1,12 @@
+#Infinite Energy
+800B6294 03DE
+#Infinite Armor
+800B6298 03E8
+#Infinite Wales Ammo
+800B62C8 01EF
+#Infinite Erosion Ammo
+800B62E0 0003
+#Infinite Zax Ammo
+800B6204 0058
+#Infinite Iritro Crion Ammo
+800B62D0 000A

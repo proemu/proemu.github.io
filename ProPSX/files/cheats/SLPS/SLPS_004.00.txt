@@ -1,0 +1,28 @@
+#Infinity Life
+801EF996 0100
+#Infinite Energy Player 2
+801F17DE 0100
+#No Energy Player 1
+801EF996 0000
+#No Energy Player 2
+801F17DE 0000
+#All characters available
+800DB802 000F 
+#Quest Mode\Hyper Mode Always On
+801F0390 0001
+#Quest Mode Infinite & Max HP 
+801EF996 0200
+801F0372 0200
+#Quest Mode\Maximum Strength
+801F141A 0100
+#Quest Mode\Maximum Defence
+801F1418 0100
+#Quest Mode\Maximum Molmoran
+801F1428 FFFF
+#Quest Mode\Maximum Hearts
+801F141C 0003
+#Quest Mode Infinite Time
+801F142C 0000
+#Quest Mode Instant end the select button
+D00CC8F8 0100
+800CBCFA 0022

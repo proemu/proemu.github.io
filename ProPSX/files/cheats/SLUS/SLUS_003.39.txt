@@ -1,0 +1,25 @@
+#Infinite HP Main character in battle
+8005ED38 03E7
+#Infinite SP Main character in battle
+8005ED40 03E7
+#Infinite HP Nate in battle
+8005EE24 03E7
+#Infinite SP Nate in battle
+8005EE2C 03E7
+#Infinite HP Mark in battle
+8005EF10 03E7
+#Infinite SP Mark in battle
+8005EF18 03E7
+#Infinite HP Yuki in battle
+8005EFFC 03E7
+#Infinite SP Yuki in battle
+8005F004 03E7
+#Infinite HP Ellen in battle
+8005F0E8 03E7
+#Infinite SP Ellen in battle
+8005F0F0 03E7
+#Infinite money 99999
+801F2674 869F
+801F2676 0001
+#No Random Battles (Tested In Hospital)		
+801F15BC 0000

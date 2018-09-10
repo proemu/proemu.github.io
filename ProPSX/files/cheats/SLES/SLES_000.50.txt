@@ -1,0 +1,8 @@
+#Infinite Energy P1
+801B75D2 0070
+#Super Hit-Combo P1
+801B76EA 3030
+#Infinite Energy P2
+801B7972 0070
+#No Energy P2
+801B7972 0000

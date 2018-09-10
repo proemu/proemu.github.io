@@ -1,0 +1,4 @@
+#Have 9999 money
+800C13FC 270F
+#Have infinite HP First character
+800C1F04 001E

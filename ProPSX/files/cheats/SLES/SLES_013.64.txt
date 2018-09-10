@@ -1,0 +1,18 @@
+#Infinite Time
+800F3BBC 3FFF
+#Infinite Lifes
+300F3B91 0063
+#Infinite Health
+80113A7A 0190
+#Invincible
+300F3B94 0063
+#Infinite Dual Missiles
+300F484F 0063
+#Infinite Rockets
+300F4850 0063
+#Infinite Stinger
+300F4853 0063
+#Infinite Smart
+300F4854 0063
+#Infinite Doomsday
+300F4855 0063

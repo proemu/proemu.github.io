@@ -1,0 +1,8 @@
+#All Stages Open 
+30014519 0001 
+#Infinite Lives    
+80102EF4 0005 
+#Unlock All Extras all stages and bonus modes	
+C1000000 0000
+300140E2 0024
+300140E9 0003

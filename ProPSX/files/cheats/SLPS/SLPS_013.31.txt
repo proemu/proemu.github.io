@@ -1,0 +1,4 @@
+#Infinite Ammo Machine Gun
+800BF858 03E7
+#Infinite Arm Punch
+800B3056 03E7

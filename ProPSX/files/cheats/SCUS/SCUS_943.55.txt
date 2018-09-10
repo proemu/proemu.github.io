@@ -1,0 +1,60 @@
+#Grand Prix:Always Get 1st Place
+800B59BC 0001
+#Grand Prix 1P Modes - Always Super Toon
+300B59C1 0001
+#Press L2 To Select Zako (P1) 
+E01FFC30 0001
+80057534 0005
+#Always Have 1st Place
+300DC21E 0001
+#Time Never Goes Past 2
+800DD73A 0000
+#Start On Lap 2 
+D00DC21E 0108
+300DC21F 0002
+300DC3FB 0002
+300DC5D7 0002
+#Start On Lap 3
+D00DC21E 0108
+300DC21F 0003
+300DC3FB 0003
+300DC5D7 0003
+#P1 Is Always ? 2
+8008C7AC 000?
+#Infinite Coins
+800DC3C6 0900
+#Turn On Extra Character Goodie
+300E4574 0001
+#Turn On Extra Track Goodie
+300E4575 000A
+#Turn On Tank Combat Goodie
+300E4576 0001
+#Turn On Submarine x Goodie
+800E4577 0001
+#Turn On Motortoon Gpr Goodie
+300E4578 0001
+#Infinite Of Current Item
+800E38EC 0007
+#Infinite Continues
+800DD21C 0003
+#Always In Stealth Field (Doesn't Flash)
+800DC3D4 0114
+#Always In Stealth Field (Invisible)
+800DC3D4 0112
+#Once Activated-Always In Stealth Field (Flashes)
+D00DC3D4 0112
+800DC3D4 0114
+#Always Have ?? Item 3
+800DC3CA ??00
+#Always In Big, Bigger, Biggest Mode
+800DC3D6 0114
+#Always In Super Shield Mode
+800DC3D8 0114
+#Always Have 32T On You
+800DC3DA 0114
+#Always In Pandora's Box Confusion
+800DC3DE 0114
+#Always Hit By Crazy Mushroom
+800DC3D2 0114
+#Fireballs Freeze On The Screen
+800E3148 02FF

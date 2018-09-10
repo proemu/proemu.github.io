@@ -1,0 +1,47 @@
+#Infinite & Max Power
+300BC680 0063
+300BC67F 0063
+#Intimacy 200 hero and Rosalia
+30099965 00C8
+#Intimacy 200 hero and Julius
+30099972 00C8
+#Intimacy 200 hero and Kravis
+3009997F 00C8
+#Intimacy 200 hero and Randy
+3009998C 00C8
+#Intimacy 200 hero and Lumiere
+30099999 00C8
+#Intimacy 200 hero and Oscar
+300999A6 00C8
+#Intimacy 200 hero and Marcel
+30099983 00C8
+#Intimacy 200 hero and Zeferu
+300999C0 00C8
+#Intimacy 200 hero and Olivier
+300999CD 00C8
+#Intimacy 200 hero and Levallois
+300999DA 00C8
+#Intimacy 200 hero and High Priest
+300999E7 00C8
+#100 affinity with the hero Rosalia
+30099959 0064
+#100 affinity with the hero Julius
+3009995A 0063
+#100 affinity with the hero Kravis
+3009995B 0063
+#100 affinity with the hero Randy
+3009995C 0063
+#100 affinity with the hero Lumiere
+3009995D 0063
+#100 affinity with the hero Oscar
+3009995E 0063
+#100 affinity with the hero Marcel
+3009995F 0063
+#100 affinity with the hero Zeferu
+30099960 0063
+#100 affinity with the hero Olivier
+30099961 0063
+#100 affinity with the hero Levallois
+30099962 0063
+#100 affinity with the hero High Priest
+30099963 0063

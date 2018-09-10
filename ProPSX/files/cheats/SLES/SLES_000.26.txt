@@ -1,0 +1,24 @@
+#Invulnerable
+80087EF4 0600
+80087EF6 0600
+#Infinite Money
+80085894 C350
+#Gun Never Overheats
+80087EE4 0000
+#Max Armour
+8008587E 0006
+80085880 0030
+#Max Sams
+80085882 0004
+#Max Air Support
+80085888 0001
+#Max Engine
+8008588A 0004
+#Max Tracks
+8008588C 0004
+#Max Reload Mech
+8008588E 0004
+#Max Targetting Comp
+80085890 0004
+#Max Coolant
+80085892 0004

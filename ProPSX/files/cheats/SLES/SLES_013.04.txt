@@ -1,0 +1,47 @@
+#Infinite health P1 	
+80145F18 03E7
+#Infinite health P2 	
+80146058 03E7
+#Infinite health P3 	
+80146198 03E7
+#Infinite magic P1 	
+80145F1A 03E7
+#Infinite magic P2 	
+8014619A 03E7
+#Infinite magic P3 	
+8014619A 03E7
+#Infinite Money
+80144F50 FFFF
+#Rei-Codes\100 Health Points
+80144C0C 0064
+80144C14 0064
+#Rei-Codes\Infinite Attack Points
+8014619A 0064
+80144C16 0064
+#Teepo-Codes\100 Health Points
+80144B68 0064
+80144B70 0064
+#Teepo-Codes\Infinite Attack Points
+8014605A 0064
+80144B72 0064
+#Ryu-Codes\Infinite Attack Points
+80145F1A 0064
+80144986 0064
+#Ryu-Codes\Full Power
+80144988 03E7
+#Ryu-Codes\Full Defence
+8014498A 03E7
+#Ryu-Codes\Full Agility
+8014498C 03E7
+#Ryu-Codes\Full Intelligence
+8014498E 03E7
+#Ryu-Codes\Infinite Health
+8014497C 03E7
+80144984 03E7
+#Ryu-Codes\Infinite Magic
+8014497E 03E7
+80144986 03E7
+#Ryu-Codes\Max Level 99
+8014496E 0063
+#Ryu-Codes\Max Experience
+80144972 03E7

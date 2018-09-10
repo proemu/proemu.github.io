@@ -1,0 +1,22 @@
+#Infinite Bullets
+800B7418 0010
+800B7434 0010
+#Infinite Hits
+800B4318 00FF
+#Arcade Mode Codes\P1 Infinite Lifes
+800C159C 0005
+#Arcade Mode Codes\P2 Infinite Lifes
+800C159E 0005
+#Arcade Mode Codes\Infinite Bullets P1
+800B7418 0063
+#Arcade Mode Codes\Infinite Bullets P2
+800B741A 0063
+#Arcade Mode Codes\Always Max Hits
+800BE588 00FF
+#Arcade Mode Codes\Infinite Time Press L1 & R1 & Select (On) Press L2 & R2 & Select (Off)
+800B7434 0016
+800AD856 FFFF
+#Quest Mode Codes\Infinite Money
+800AE0D4 FFFF
+#Quest Mode Codes\Quick Level Gain P1
+800C1918 FFFF

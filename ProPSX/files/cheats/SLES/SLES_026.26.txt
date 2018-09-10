@@ -1,0 +1,18 @@
+#Infinite health	
+80105928 012C
+#Infinite health partner (1st mission)	
+8010AFC8 00C8
+#Infinite ammo (Boot Camp)	
+80142FD6 03E7
+80142E76 03E7
+80143086 03E7
+80142F26 03E7
+80143136 03E7
+80153296 270F
+#Infinite ammo (All weapons)	
+D0075032 00A3
+80075036 2400
+D007756A 0082
+8007756E 2400
+#Hyper Mode (Boot Camp)	
+80137130 0000

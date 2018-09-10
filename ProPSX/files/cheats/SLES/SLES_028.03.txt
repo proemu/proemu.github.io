@@ -1,0 +1,27 @@
+#Unendlich Lebenskraft	
+301450DC 0064
+#Sudden Death Gegner	
+8007C63A A480
+#Unendlich Munition alle Waffen	
+D003EDF0 0006
+8003EDF0 0000
+D003EE54 0004
+8003EE54 0000
+#Zeit Angehalten Carnby & Aline (Press L1 & L2 Pad2)	
+D00D211E FAFF
+800356EC 0000
+#Starte auf Disc 2 	
+D011370C 0001
+3011370C 0002
+#Enable Cheat Mode (Press Triangle to access your inventory to use the Cheat Mode option. If you want to save or load your game at any time, press Select. To view the build information for the game, pause and hold L2)	
+300C34EC 0002 	
+#God Mode
+800BA734 0004
+#Unlimited Ammo
+800BA734 0008
+#All Items
+800BA734 0020
+#Infinite Medikits
+800BA734 0040
+#Weapon Reload Infinite
+800BA734 0080

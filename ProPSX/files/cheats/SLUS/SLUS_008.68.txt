@@ -1,0 +1,14 @@
+#P1 Unlock All Characters/Quest Mode Complete With Everyone
+5000120A 0000
+8006B9E8 01FF
+#P1 Maxed Out Stats All Characters
+5000120A 0000
+8006B9EE 6464
+5000120A 0000
+8006B9F0 6464
+#Open All Original V8 Levels & Wacky Mode
+8006A832 001F
+#Invincible
+8006A830 0008
+#View All Endings
+8006A830 0010

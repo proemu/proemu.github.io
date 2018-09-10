@@ -1,0 +1,13 @@
+#Unlock Everything
+50000601 0000
+3004E255 0004
+#Time Always 0:00:00
+8005E676 2400
+#start Lap 3	
+301FD2F8 0003
+#start Lap 4	
+301FD2F8 0004
+#start Lap 5	
+301FD2F8 0005
+#start Lap 6	
+301FD2F8 0006

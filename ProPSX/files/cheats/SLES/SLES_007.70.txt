@@ -1,0 +1,66 @@
+#Unendlich Lebensenergie
+800CFB48 0064
+#Daunen-Weste
+800EF800 0001
+#Gehirnbaustein
+800EF804 0001
+#Silberne Codekarte
+800EF808 0001
+#Memo
+800EF80C 0001
+#Lasermesser
+800EF810 0001
+#Anti-Gravitations-Modul
+800EF814 0001
+#Molotow-Cocktail
+800EF818 0001
+#ÖL-Kanister
+800EF81C 0001
+#Defekter Thermostat
+800EF820 0001
+#Chemikalienflasche
+800EF824 0001
+#Kapsel Mit Arna-Virus
+800EF828 0001
+#9Mm-Handwaffe
+800EF82C 0001
+#Silberner SchlüSsel
+800EF830 0001
+#Recorder
+800EF834 0001
+#Eisenstangen
+800EF838 0001
+#Elektroschocker
+800EF83C 0001
+#Metallgitter
+800EF840 0001
+#Schneidbrenner
+800EF844 0001
+#9Mm-Magazin
+800EF848 0001
+#Rote Codekarte
+800EF84C 0001
+#Cd
+800EF850 0001
+#Goldene Codekarte
+800EF854 0001
+#Wundspray
+800EF858 0001
+#SchraubenschlüSsel
+800EF85C 0001
+#Kabel
+800EF860 0001
+#Blankes Kabel
+800EF864 0001
+#Leere Batterie
+800EF868 0001
+#Aufgeladene Batterie
+800EF86C 0001
+#Identifikationskarte
+800EF870 0001
+#KüHlbox
+800EF874 0001
+#Kleine Bombe
+800EF878 0001
+#Molotow-Cocktail
+800EF87C 0001

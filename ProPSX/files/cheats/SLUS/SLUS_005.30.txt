@@ -1,0 +1,21 @@
+#Infinites Lives
+80074FDC 0003
+#Always have 100 crystals	
+80074964 0064
+#Always have saved 6 Gobbos	
+8007496C 0006
+#Have all 5 colored crystals	
+80074AC8 001F
+#Always have gold key	
+80074AC0 0001
+#Always have silver key	
+80074AC4 0001
+#Have all 8 jigsaw pieces	
+8007 4E6C 0008
+#Lava Will Not Kill You	
+80074964 FFFF
+8007C0DE 0000
+#Have Level Unlocked (88-DE Next level is 2 more (88-90)	
+8007BFDE 8000
+#Unlock Shoutin Lava Lava Lava	
+8007BF8A 8006

@@ -1,0 +1,9 @@
+#Player 1 Maximum Groove Meter
+80060F0C 008A
+80060F1C 008A
+#Player 2 Groove Meter Always Zero
+80060F6C 0000
+#Player 2 Keeps Making Mistakes
+800AE4D0 0000
+800AE4D0 0001
+

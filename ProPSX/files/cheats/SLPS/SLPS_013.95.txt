@@ -1,0 +1,5 @@
+#Infinite Life
+801500FC 0030
+8015016C 0030
+#Slow Motion
+800C6A14 0E57

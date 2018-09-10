@@ -1,0 +1,139 @@
+#Max/Infinite Health
+800C20E0 2710
+#Max Shadow Level
+800C26E8 2710
+#Max Shadow Power
+800C26EC 2710
+#Enable All Locations
+50001101 0000
+300BCDC8 0001
+#Have Infinite Bullets
+800C2100 0063
+#Have Infinite Shotgun Shells
+800C20F4 000C
+#Have Infinite Violator Ammunition
+800C20F8 0063
+#Have Nettie's File
+D00BCD30 0000
+800BCD30 0003
+#Have The Prophecy
+D00BCD34 0000
+800BCD34 0003
+#Have Jacks Journal
+D00BCD38 0000
+800BCD38 0003
+#Have Book Of Shadows
+D00BCD3C 0000
+800BCD3C 0003
+#Have Teddy Bear
+D00BCD40 0000
+800BCD40 0003
+#Have Accumulator
+D00BCD44 0000
+800BCD44 0003
+#Have Enseigne
+D00BCD48 0000
+800BCD48 0003
+#Have Asson
+D00BCD4C 0000
+800BCD4C 0003
+#Have 0.9-Smg
+D00BCD50 0000
+800BCD50 0003
+#Have Flashlight
+D00BCD54 0000
+800BCD54 0003
+#Have Engineer's Key
+D00BCD58 0000
+800BCD58 0003
+#Have Flambeau
+D00BCD5C 0000
+800BCD5C 0003
+#Have Pistol
+D00BCD60 0000
+800BCD60 0003
+#Have Shotgun
+D00BCD64 0000
+800BCD64 0003
+#Have Keycard
+D00BCD64 0000
+800BCD64 0003
+#Have Violator
+D00BCD6C 0000
+800BCD6C 0003
+#Have Marteau
+D00BCD70 0000
+800BCD70 0003
+#Have Baton
+D00BCD74 0000
+800BCD74 0003
+#Have Mp-909
+D00BCD78 0000
+800BCD78 0003
+#Have 2nd Shotgun
+D00BCD7C 0000
+800BCD7C 0003
+#Have Retractor
+D00BCD80 0000
+800BCD80 0003
+#Have Spare (Green)
+D00BCD84 0000
+800BCD84 0003
+#Have Calabash
+D00BCD88 0000
+800BCD88 0003
+#Have Spare (Purple)
+D00BCD8C 0000
+800BCD8C 0003
+#Have Spare (Green)
+D00BCD90 0000
+800BCD90 0003
+#Have Prism (0)
+D00BCD94 0000
+800BCD94 0003
+#Have L'Eclipser - La Lune
+D00BCD98 0000
+800BCD98 0003
+#Have L'Eclipser - La Soleil
+D00BCD9C 0000
+800BCD9C 0003
+#Have L'Eclipser - La Lame
+D00BCDA0 0000
+800BCDA0 0003
+#Have Cadeaux (0)
+D00BCDA4 0000
+800BCDA4 0003
+#Infinite Voodoo Power
+800C20F0 FFFF
+#Have Full Shadow Power
+800C20E8 2710
+#Have 9999 Cadeaux
+800BCDC6 03E7
+800C20FC 03E7
+800C20FE 0000
+#Infinite Prisms
+800C2104 0063
+#Infinite Retractor Ammo
+800C2106 0063
+#Infinite Accumulator Ammo
+800C2108 0063
+#Moon Jump
+E00BC40E 0010
+800C1F9C A000
+.Hold Triangle
+#Further Back Camera
+800C1872 00B9
+800C187E 00B9
+.Very Hard To Control
+#Skinny Shadowman
+800C1FB0 1000
+#Tall/Weird Shadowman
+800C1FB0 2000
+#Taller Up-Close View
+800C1FB0 4000
+#Upside Down Mode Doesnt Work On All Levels
+800C1FB0 8000
+#Up-Close Upside Down Mode
+800C1FB0 E000
+#Flat Mode
+800C1FB0 0000

@@ -1,0 +1,5 @@
+#Infinite Shields  
+8004D4B4 0DAC 
+#Infinite Credits  
+80042658 FFFF 
+

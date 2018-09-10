@@ -1,0 +1,57 @@
+#Kaini Infinite Hp in combar
+80164CC0 03E7
+80164CC2 03E7
+#Kain Infinite Ap in combar	
+80164CC4 03E7
+80164CC6 03E7
+#Kain Energy Bar Always Full
+80164C70 000A
+#Kain Level 99
+80164C5A 0063
+#Uingu Inf Hp the character first join his max HP is 66
+80164E26 0042
+#Uingu Inf Hp but when Gon & Kirua join, his HP is 100
+80164E26 0064
+#Uingu Inf Ap .inf AP (when the character first join his max AP is 102
+80164E2A 0066
+#Uingu Inf Ap .when Gon & Kirua join, his AP is 100
+80164E2A 0063
+#Uingu Level 99
+80164DBE 0063
+#Uingu Exp Bar Always Full
+80164DD4 000A
+#Gon Inf Hp
+80164F8A 0028
+#Gon Inf Ap
+80164F8E 0050
+#Gon Level 99
+80164F22 0063
+#Gon Experience Bar Always Full
+80164F38 000A
+#Kiruan Inf Hp
+801650EE 0023
+#Kirua Inf Ap
+801650F2 003C
+#Kirua Exp Bar Always Full
+8016509C 000A
+#Kirua Level 99
+80165086 0063
+#999999 Gold
+800A7E24 423F
+800A7E26 000F
+#MAP all 
+300A7E3D 0001 
+300A7E57 0001 
+300A7E65 0001 
+300A7E7F 0001 
+300A7EA1 0001 
+300A7E8D 0001 
+#Kain Infinite & MaX HP · AP In combat 
+80164CC0 03E7 
+80164CC2 03E7 
+80164CC4 03E7 
+80164CC6 03E7 
+#World map appearance	
+800A7EFF 0001
+#Clades mansion explosion time limit	
+3016B7EA 0063

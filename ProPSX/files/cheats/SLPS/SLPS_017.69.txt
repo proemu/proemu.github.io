@@ -1,0 +1,10 @@
+#Infinite Energy Link 1
+8002D446 00FF
+#Infinite Energy Link 2
+8002D462 00FF
+#Infinite Energy Link 3
+8002D47E 00FF
+#Infinite money (9999)
+8002D42E 270F
+#Infinite Energy Ginball
+8002BBB0 03E7

@@ -1,0 +1,6 @@
+#Infinite Time
+800FA156 0BB8
+#Max Pts
+800FA160 FFFF
+#Infinites Lives
+800FA154 0064

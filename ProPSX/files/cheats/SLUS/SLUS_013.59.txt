@@ -1,0 +1,14 @@
+#Always First Place
+30094419 0001
+#Open Circuits Int The Stage
+8009446B 0003
+#Enable Level 4
+80094467 0004
+800F5772 0004
+801A4378 0004
+#Open Next Stage
+801B73DA 0003
+#Infinite Missles
+80094408 0001
+#Everything Unlocked
+800100EA FFFF

@@ -1,0 +1,255 @@
+#Infinite Health
+800C8620 10F0
+#Max Health
+800C8622 10F0
+#Time is 0:00:00
+800C85C0 0000
+#Max Zenny/Money
+800C85CC 967F
+800C85CE 0098
+#All Missions Complete 	
+50000601 0000
+300A6095 0003
+#1-Hit Defeats Cop Missions 1-2	
+D00C9346 0060
+800C9346 0000
+#1-Hit Defeats BIG Reaverbot Missions 3-1		
+D00C9346 0040
+800C9346 0000
+#1-Hit Defeats Reaverbot Nest Missions 3-2		
+D009F78E 0018
+8009F78E 0000
+#1-Hit Defeats Last Gaurdian Mission 3	
+D00C9346 00A0
+800C9346 0000
+#1-Hit Defeats Glyde Intro Mission		
+D00C9346 0180
+800C9346 0000
+#1-Hit Defeats Glyde Final Mission		
+D00C990E 0400
+800C990E 0001
+#1-Hit Defeats Colossus Last Battle		
+D00C9346 1200
+800C9346 0000
+#Infinite Cows & Truck Energy Missions 5-2	
+D009F78E 0021
+8009F78E 0030
+D009F78E 0012
+8009F78E 0030
+D009F78E 0003
+8009F78E 0030
+#Enable Serve Bot 41		
+800F2142 0029
+D00C8148 0100
+800F2184 0028
+#Max Attack-ServBots 	
+50002808 0000
+300CB540 00FF
+#Max Brains-ServBots 	
+50002808 0000
+300CB541 00FF
+#Unlock Teisel's Room		
+300A60AE 0001
+#Unlock Torture Room	
+300A60AC 0001
+#Unlock Tron's Room		
+300A60AD 0001
+#Infinite Time-Mission 1
+800C85E4 0000
+#Infinite Green Apple
+300C880C 0063
+#Infinite E. Bottle 1
+300C880D 0063
+#Infinite E. Bottle 2
+300C880E 0063
+#Infinite E. Bottle 3
+300C880F 0063
+#Infinite E. Bottle 4
+300C8810 0063
+#Infinite Pork
+300C881B 0063
+#Infinite Fish
+300C881C 0063
+#Infinite Apple
+300C881D 0063
+#Infinite Curry
+300C881E 0063
+#Infinite Hamburger
+300C881F 0063
+#Infinite Juice
+300C8820 0063
+#Infinite Cake
+300C8821 0063
+#Infinite Tire
+300C8822 0063
+#Infinite Police Lights
+300C8823 0063
+#Infinite Riot Shield
+300C8824 0063
+#Infinite Comic
+300C8825 0063
+#Infinite Hat
+300C8826 0063
+#Infinite Chicken
+300C8827 0063
+#Infinite Letter
+300C8828 0063
+#Infinite Scallop
+300C8829 0063
+#Infinite Ring
+300C882A 0063
+#Infinite Shell
+300C882B 0063
+#Infinite Lunchbox
+300C882C 0063
+#Infinite Steak
+300C8832 0063
+#Infinite Pig
+300C8833 0063
+#Infinite Rabbit
+300C8834 0063
+#Infinite Cow
+300C8835 0063
+#Infinite Black Stallion
+300C8837 0063
+#Infinite Horse
+300C8838 0063
+#Infinite Birdbot
+300C8839 0063
+#Infinite Milk
+300C883A 0063
+#Infinite Cheese
+300C883B 0063
+#Infinite Yogurt
+300C883C 0063
+#Infinite Ice Cream
+300C883D 0063
+#Infinite Horseshoe
+300C883E 0063
+#Infinite Beef
+300C883F 0063
+#Infinite Pipe
+300C8845 0063
+#Infinite Fireworks
+300C8846 0063
+#Infinite Iron Plate
+300C8847 0063
+#Infinite Litnium
+300C8848 0063
+#Infinite Hi-Density Tank
+300C8849 0063
+#Infinite Bottle Notes
+300C884A 0063
+#Infinite Rusted Tank
+300C884B 0063
+#Infinite Attack Cube
+300C884C 0063
+#Infinite Brain Cube
+300C884D 0063
+#Infinite Speed Cube
+300C884E 0063
+#Infinite Energy Cube
+300C884F 0063
+#Infinite Card Key
+300C8850 0063
+#Infinite Gate Key
+300C8851 0063
+#Infinite Room Key
+300C8852 0063
+#Infinite Blue Crystal
+300C8853 0063
+#Infinite Green Crystal
+300C8854 0063
+#Infinite Pink Crystal
+300C8855 0063
+#Infinite Super Drill
+300C8856 0063
+#Infinite Hyper Drill
+300C8857 0063
+#Infinite Refractor Ore
+300C8858 0063
+#Infinite Finance Book
+300C8859 0063
+#Infinite Beauty Book
+300C885A 0063
+#Infinite Cannon
+300C885B 0063
+#Infinite Paint Set
+300C885C 0063
+#Infinite Poetry Book
+300C885D 0063
+#Infinite Strategy Notes
+300C885E 0063
+#Infinite Design Magazine
+300C885F 0063
+#Infinite Red Head Parts
+300C8861 0063
+#Infinite Old Instrument
+300C886A 0063
+#Infinite Loader Parts
+300C886B 0063
+#Infinite Memento
+300C886C 0063
+#Infinite Bon Parts
+300C886D 0063
+#Infinite Filer
+300C886E 0063
+#Infinite Contact Lenses
+300C886F 0063
+#Infinite Handkerchief
+300C8870 0063
+#Infinite Ancient Pistol
+300C8871 0063
+#Infinite Tank Parts
+300C8879 0063
+#Infinite Bazooka Parts
+300C887A 0063
+#Infinite Gatling Parts
+300C887B 0063
+#Infinite Armor Parts
+300C887C 0063
+#Infinite Search Cannon
+300C887D 0063
+#Infinite Bonne Bazooka
+300C887E 0063
+#Infinite Gatling Gun
+300C887F 0063
+#Infinite Armor
+300C8880 0063
+#Infinite Hard Armor
+300C8881 0063
+#Infinite E. Tank 1
+300C8882 0063
+#Infinite E. Tank 2
+300C8883 0063
+#Infinite E. Tank 3
+300C8884 0063
+#Infinite E. Tank 4
+300C8885 0063
+#Infinite E. Tank 5
+300C8886 0063
+#Infinite E. Tank 6
+300C8887 0063
+#Infinite E. Tank 7
+300C8888 0063
+#Infinite E. Tank P
+300C8889 0063
+#Have All Items
+50000502 0000
+300C880C 0063
+50001202 0000
+300C881B 0063
+50000402 0000
+300C8832 0063
+50000902 0000
+300C8837 0063
+50001B02 0000
+300C8845 0063
+300C8861 0063
+50000802 0000
+300C886A 0063
+50001102 0000
+300C8879 0063
+#Max Score In Training Press Select
+D00C8146 0001
+300F2A9A 0063

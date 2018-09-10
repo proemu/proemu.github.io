@@ -1,0 +1,12 @@
+#Away Team scores 9 goals	
+8007469E 0009
+80074958 0009
+#Away Team scores 0 goals	
+8007469E 0000
+80074958 0000
+#Home Team scores 9 goals	
+8007469C 0009
+80074940 0009
+#Home Team scores 0 Goals	
+8007469E 0000
+80074940 0000

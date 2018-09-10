@@ -1,0 +1,14 @@
+#Infinite Lifes	
+30016470 0005
+#Always have 99 DNA, get an Extra Life everytime you pick up one	
+30016471 0063
+#Infinite Energy	
+30016472 0002
+#Infinite Missiles (On Pickup)	
+30016473 0004
+#Infinite Flame (On Pickup)	
+30016479 00FF
+#Infinite Electro (On Pickup)	
+3001647B 00FF
+#Infinite Poison (On Pickup)	
+3001647D 00FF

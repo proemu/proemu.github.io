@@ -1,0 +1,34 @@
+#All Cheats And Multiplayer Stuff
+8011F770 FFFF
+8011F772 FFFF
+#All Weapons And Items 1
+8012A7E4 FFFF
+#All Weapons And Items 2
+8012A7E6 FFFF
+#All Levels Selectable
+8014B1BC 0015
+#Expert Mode
+8011F704 0001
+#Logan immune (against explosions, head shots, vehicle hits & fire).You can still die from a fall.
+80089F8E 2400
+#Infinite Armour all levels
+D0089F38 0006
+80089F38 0000
+#Sudden Death (Hero Only)
+8011F760 0001
+#Infinite Ammo
+8012A7EE FFFF
+8012A7F6 FFFF
+8012A7FE FFFF
+8012A806 FFFF
+8012A80E FFFF
+8012A816 FFFF
+8012A81E FFFF
+8012A826 FFFF
+8012A7EA FFFF
+8012A7F2 FFFF
+8012A7FA FFFF
+8012A812 FFFF
+8012A81A FFFF
+8012A822 FFFF
+8012A82A FFFF

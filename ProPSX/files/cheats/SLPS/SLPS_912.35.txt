@@ -1,0 +1,7 @@
+#Practical instruction to 100 points in Training campus  
+801A9CBC 0064
+801AF280 0064 
+#Practical instruction to 100 points in Training on the road  
+801AA84C 0064
+801ADF08 0064 
+ 

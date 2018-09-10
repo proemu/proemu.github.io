@@ -1,0 +1,20 @@
+#Unlock All Levels
+8005BD68 FFFF
+8005BD6A FFFF
+#Infinite Time
+80061BB0 18CC
+#Infinite Photon Torpedoes
+8011AC38 0063
+#Infinite Quantum Torpedoes
+8011AC64 0063
+#Infinite Protomater Missles
+8011AC90 0063
+#Infinite Shields
+8005FDB8 02BC
+#Infinite Hull
+8005FDBC 00F5
+#Have All Dual Levels Completed		
+8005BD70 FFFF
+#Have All Levels Completed		
+8005BD6C FFFF
+8005BD6E FFFF

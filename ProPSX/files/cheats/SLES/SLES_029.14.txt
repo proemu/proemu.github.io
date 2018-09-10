@@ -1,0 +1,24 @@
+#Infinite HP
+8016C840 270F
+8016C844 270F
+#Infinite MP
+8016C842 03E7
+8016C846 03E7
+#Have All Attacks
+50000402 FFFF
+8016C850 0000
+#Infinite lives	
+8016C874 0003
+#Max happiness	
+8013FA52 0064
+#Max discipline	
+8013FA50 0064
+#No virus	
+3013FA46 0000
+#Access All Cards (Card List)		
+800BEAF6 2400
+#Access All Digimon (Chart)	
+800BE626 2400
+#Sudden Death most opponents	
+50000568 0000
+8016C8C4 0000

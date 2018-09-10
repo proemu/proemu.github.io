@@ -1,0 +1,133 @@
+#Infinite Health Player 1
+801F0600 03E8
+#No health P2 (Press Select)	
+D0054F56 0100
+801F0B60 0000
+#No health P2 
+801F0B60 0000
+#Unlock Secret Character Eric Bischoff	
+80063596 0001
+#Unlock Secret Character Mean Gene	
+8006359A 0001
+#Unlock Secret Character Jericho	
+8006359C 0001
+#Unlock Secret Character Disco Inferno	
+800635A0 0001
+#Unlock Secret Character Bobby the Brain	
+800635A4 0001
+#Unlock Secret Character Miss Elizabeth	
+800635A8 0001
+#Unlock Secret Character Sonny Ono	
+800635AC 0001
+#Unlock Secret Character Ultimo Dragon	
+800635B0 0001
+#Unlock Secret Character Steve McMichael	
+800635B4 0001
+#Unlock Secret Character Ray Mysterio Jr.	
+800635B8 0001
+#Unlock Secret Character Jimmy Hart	
+800635BC 0001
+#Unlock Secret Character Steven Regal	
+800635C0 0001
+#Unlock Secret Character Jaquelyn	
+800635C4 0001
+#Unlock Secret Character Madusa	
+800635C8 0001
+#Unlock Secret Character Kimberly	
+800635CC 0001
+#Unlock Secret Character Konnan	
+800635D0 0001
+#Unlock Secret Character Hulkster	
+800635D4 0001
+#Unlock Secret Character Pee Wee	
+800635D8 0001
+#Unlock Secret Character Stinger	
+800635DC 0001
+#Unlock Secret Character Greyling
+800635E0 0001
+#Unlock Secret Character Schiavone	
+800635E4 0001
+#Unlock Secret Character Savage	
+800635E8 0001
+#Unlock Secret Character Whitey	
+8006 35EC 0001
+#Unlock Secret Character Buzz	
+800635F0 0001
+#Unlock Secret Character Ivan	
+800635F4 0001
+#Unlock Secret Character T Rex	
+800635F8 0001
+#Unlock Secret Character Frankensteiner	
+800635FC 0001
+#Unlock Secret Character Bones	
+80063600 0001
+#Unlock Secret Character Santa Claws	
+80063604 0001
+#Unlock Secret Character Annie Mae	
+80063608 0001
+#Unlock Secret Character Dweeble	
+8006360C 0001
+#Unlock Secret Character Ecto	
+80063610 0001
+#Unlock Secret Character Virtual Andy	
+80063614 0001
+#Unlock Secret Character Cobra	
+80063618 0001
+#Unlock Secret Character Reanimator	
+8006361C 0001
+#Unlock Secret Character Jaumbo	
+80063620 0001
+#Unlock Secret Character John	
+80063624 0001
+#Unlock Secret Character Fush	
+80063628 0001
+#Unlock Secret Character Flyboy	
+8006362C 0001
+#Unlock Secret Character Tony the Rod	
+80063630 0001
+#Unlock Secret Character Eddie the Wire	
+80063634 0001
+#Unlock Secret Character Donn	
+80063638 0001
+#Unlock Secret Character Uncle Monkey	
+8006363C 0001
+#Unlock Secret Character Dudeman	
+80063640 0001
+#Unlock Secret Character Mike	
+80063644 0001
+#Unlock Secret Character Steve	
+80063648 0001
+#Unlock Secret Character Brian	
+8006364C 0001
+#Unlock Secret Character Superfan	
+80063650 0001
+#Unlock Secret rings Graveyard	
+80063660 0001
+#Unlock Secret rings Spaceship	
+80063664 0001
+#Unlock Secret rings Circus	
+80063668 0001
+#UnlocK Secret rings Hive	
+8006366C 0001
+#UnlocK Secret rings Turbo	
+8006 3670 0001
+#UnlocK Secret rings Wunderland	
+80063674 0001
+#UnlocK Secret rings Boudoir	
+8006367C 0001
+#UnlocK Secret rings Hall of Mirrors	
+80063680 0001
+#UnlocK Secret rings Reck Room	
+80063684 0001
+#UnlocK Secret rings Psychodelic	
+80063688 0001
+#UnlocK Secret rings Disco	
+8006368C 0001
+#UnlocK Secret rings Jungle	
+80063690 0001
+#UnlocK Secret rings 1984	
+80063698 0001
+#UnlocK Secret rings Quark	
+8006369C 0001
+#UnlocK Secret rings Texas	
+800636A0 0001

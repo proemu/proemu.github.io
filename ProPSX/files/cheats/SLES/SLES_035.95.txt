@@ -1,0 +1,19 @@
+#Infinite Energy
+800E6464 1000
+#Have 99 points after race deactivate after sending
+800C5FE0 0063
+#Instant Win (Note)
+D00E6824 FFFF
+800E6824 0002
+#Only One Lap To Race 
+D00E6824 0000
+800E6824 0002
+#Start With Loads Of Money
+D00E65EC 0000
+800E65EC D02C
+D00E65EE 0000
+800E65EE 0160
+#All Cups & Tracks
+800B2FFC 0006
+#All Vehicles
+800B3000 0008

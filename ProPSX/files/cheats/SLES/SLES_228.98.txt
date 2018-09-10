@@ -1,0 +1,9 @@
+#Infinite Ammo All Weapons
+D008B312 A083
+8008B312 2A00
+#Infinite Mp All Characters
+D008AC0A A602
+8008AC0A 2A00
+#No random battles On (Press L1)
+D00B709A FDFF
+80072FF2 2442

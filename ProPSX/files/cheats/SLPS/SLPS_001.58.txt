@@ -1,0 +1,7 @@
+#Infinite HP in Comical Quest
+8012355A 0006
+#Infinite Time in Comical Quest
+80123548 0D40
+8012354A 0003
+#Have 999 points in Yoshimoto Club Quiz mode
+801097E8 03E7

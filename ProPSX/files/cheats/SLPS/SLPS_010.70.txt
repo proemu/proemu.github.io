@@ -1,0 +1,6 @@
+#P1 Infinite Health, Beast, and Rave
+301B5798 0003 
+#P1 Infinite Health, Beast, Rave, and Big Arm Mode
+301B5798 0013 
+#Open Bonus Options & Art Gallery 	
+801B57B0 FFFF

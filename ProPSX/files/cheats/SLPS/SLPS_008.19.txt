@@ -1,0 +1,26 @@
+#Infinite Hp
+800E9220 270F
+800E9222 270F
+#Level Max
+800E9208 270F 
+#Occupation level Max
+800E920A 270F 
+#Offensive power Max 
+800E98CA 270F 
+#Phylactic power Max 
+800E98CC 270F
+#Witchcraft Max
+800E98CE 270F 
+#Empirical value Max
+800E920C 270F 
+#Belongings maximum number 
+300E9228 0063
+#Energy Max
+800E9224 270F 
+#Fast Level Up
+800E920C FFFF
+#Infinite Money
+800E9214 869F) 
+300E9216 0001
+#Invincibility	
+300E921E 0004

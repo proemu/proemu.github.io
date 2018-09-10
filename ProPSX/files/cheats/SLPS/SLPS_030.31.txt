@@ -1,0 +1,9 @@
+#Infinite money (60000)
+801E1280 EA60
+#Infinite Money
+801E1280 423F 
+301E1282 000F 
+#Max Item 
+50009D01 0000 
+301E1A71 0001
+

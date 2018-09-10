@@ -1,0 +1,21 @@
+#Ammo And Items Increase .To have Ammo and Items increase instead of decrease click on L3 (i.e. left stick of analogue pad). To get back to normal click on R3 (i.e. right stick of analogue pad).
+D0122FFA FFFD
+80064820 0001
+D0122FFA FFFB
+80064820 FFFF
+#Mission Never Fails On (Press L2)	
+D0122FFA FEFF
+80025D6E 2A00
+#Immune to fire		
+8003B08A 2A00
+#No explosion		
+8003B70A 2A00
+#All weapons after one pick-up		
+80063170 FFFF
+#Timer frozen	
+8005CACE 2A00
+#Timers increase	
+8005CAC8 0001
+#Unlock menu cheat		
+8011F4D0 FFFF
+8011F4D2 FFFF

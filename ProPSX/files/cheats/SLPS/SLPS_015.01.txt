@@ -1,0 +1,12 @@
+#Infinite Hp
+300A4AE7 0063
+#Infinite Bullets
+300A4AE3 0063
+#Infinite Points
+300A4AE2 0063
+#Infinite Lifes
+300A4AE1 0063
+#Infinite All Weapons
+800A4AE4 6363
+300A4AE6 0063
+800A4AEC 0063

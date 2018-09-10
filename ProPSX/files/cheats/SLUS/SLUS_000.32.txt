@@ -1,0 +1,20 @@
+#Infinite Standerd Missiles
+801CFECA 0032
+#Infinite U238 Missiles
+801CFEBE 0007
+#Infinite Mirv Missiles
+801CFEC0 0007
+#Infinite Surefire Missiles
+801CFEBC 0032
+#Infinite Agms
+801CFECC 0032
+#Infinite Nuke Missiles
+801CFEC8 0032
+#Infinite Lame Missiles
+801CFEC2 0032
+#Infinite Hard Missiles
+801CFEC4 0032
+#Infinite Boss Misiles
+801CFEC6 0032
+#Infinite Null Missiles
+801CFECE 0032

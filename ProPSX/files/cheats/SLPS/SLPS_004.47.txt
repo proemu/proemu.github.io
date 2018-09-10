@@ -1,0 +1,2 @@
+#Have 99 points in story mode (always pass the level)
+8018AF8C 0063

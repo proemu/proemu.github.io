@@ -1,0 +1,13 @@
+#Total player appearance
+3007A2CA 000F
+#Quotations fully open
+8007A2C4 FFFF
+#Training mode parameter MAX
+80045460 0001
+#CPU fight without
+D00BBE70 0003
+800BBE72 1000
+#One-shot KO
+D009F2D0 0002
+8009F2D0 0001
+

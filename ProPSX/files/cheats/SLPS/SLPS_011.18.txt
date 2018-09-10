@@ -1,0 +1,6 @@
+#The Fugitives 99
+800825BC 0063
+#Injured 0
+800825BA 0000
+#Invincibility 
+800825D2 0001

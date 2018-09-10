@@ -1,0 +1,13 @@
+#Unendlich Sub-Leben	
+300B8685 000F
+300B8686 000F
+#Sub-Leben nehmen nicht ab	
+30037054 0000
+#Unendlich Leben	
+300B8684 0005
+#Unbesiegbar	
+D00689BC FFFF
+800689C0 000
+#Starte mit viel Böser Energie	
+D00B867A 0000
+800B867A 2328

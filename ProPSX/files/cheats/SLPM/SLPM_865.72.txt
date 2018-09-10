@@ -1,0 +1,28 @@
+#Infinite HP Robot
+80118368 03E7
+#Infinite Health
+80118310 0351
+#Max Money
+801182E4 270F
+#Impact Stages (Robot) Max MP		
+8011839E 007A
+#Impact Stages (Robot) Max Power
+8011839C 007A
+#Impact Stages (Robot): Press SELECT for Boss HP=0		
+E011D8DA 00FE
+801183B4 0000
+#Have All Fortune Cats		
+801182E0 6363
+#Have All Skills		
+801182F0 0707
+801182F2 0707
+#Have Dumplings		
+50000304 0000
+801182C8 0002
+#Have Riceballs		
+50000304 0000
+801182BC 0001
+#Have Talismans		
+50000304 0001
+801182D4 0003
+

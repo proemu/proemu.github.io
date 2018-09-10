@@ -1,0 +1,4 @@
+#Infinite Lifes
+800CA500 0003
+#Infinite Energy/Shield
+800CA504 1000

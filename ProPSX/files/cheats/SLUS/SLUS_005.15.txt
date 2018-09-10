@@ -1,0 +1,206 @@
+#Infinite Lives
+80050CAA 0701
+#Infinite Lives (Bpc)
+80015FE4 0000
+80015FE6 0000
+#Compy Level Beat Levels At Touch Of A Button		
+D000857C 0001
+80050CD4 0004
+#Compy Level Infinite Breath (Beneath The Surface)		
+8008A684 03E8
+#Compy Level Infinite Energy (Aisle of Giants)		
+800D0C7E 0064
+#Compy Level Infinite Energy (Beneath The Surface)		
+80088ACE 0064
+#Compy Level Infinite Energy (Beneath The Surface)		
+8008A664 0063
+#Compy Level Infinite Energy (Creek Bed)		
+800AB90E 0064
+#Compy Level Infinite Energy (High Ridge)	
+800B3A7E 0064
+#Compy Level Infinite Energy (Plains)		
+8009886E 0064
+#Compy Level Infinite Energy (Plains)		
+8009A404 0063
+#Compy Level Infinite Energy (Rain Forest)		
+800AA1FE 0064
+#Compy Level Infinite Energy (River's Edge)		
+800A4F6E 0064
+#Compy Level Infinite Energy (River's Edge)		
+800A6B04 0063
+#Compy Level Infinite Energy (Sleeping Titan)		
+800A441E 0064
+#Compy Level Infinite Energy (Sleeping Titan)		
+800A5FB4 0063
+#Compy Level Infinite Energy (Tidal Cavern)		
+800DF66E 0064
+#Compy Level Infinite Energy (Tidal Cavern)		
+800E1204 0063
+#Compy Level Infinite Lives (Aisle of Giants)		
+800D2814 0063
+#Compy Level Infinite Lives (Creek Bed)		
+800AD4A4 0063
+#Compy Level Infinite Lives (High Ridge)		
+800B5614 0063
+#Compy Level Infinite Lives (Rain Forest)		
+800ABD94 0063
+#Compy Level Level Modifier High Ridge		
+80050CD0 0001
+#Compy Level Level Modifier Rain Forest		
+80050CD0 0002
+#Compy Level Level Modifier Creek Bed		
+80050CD0 0003
+#Compy Level Level Modifier Aisle of Giants		
+80050CD0 0004
+#Compy Level Level Modifier Sleeping Titan		
+80050CD0 000F
+#Compy Level Level Modifier Plains		
+80050CD0 0005
+#Compy Level Level River's Edge		
+80050CD0 0006
+#Compy Level Level Modifier Beneath The Surface		
+80050CD0 0007
+#Compy Level Level Modifier Tidal Cavern		
+80050CD0 0010 
+#Hunter Level Codes Beat Levels At Touch Of A Button		
+D000857C 0001
+800582D4 0004
+#Hunter Level Codes Infinite Cannon Gun		
+30064BD1 0063
+#Hunter Level Codes Infinite Energy (Arid Canyon)		
+800B032E 0064
+#Hunter Level Codes Infinite Energy (Enter Carefully)		
+800C0D5E 0064
+#Hunter Level Codes Infinite Energy (Geothermal Center)		
+800B635E 0064
+#Hunter Level Codes Infinite Energy (Heart of The Island)		
+800B6B2E 0064
+#Hunter Level Codes Infinite Energy (Ingen Complex)		
+800C73BE 0064
+#Hunter Level Codes Infinite Energy (Underground)		
+800BBB5E 0064
+#Hunter Level Codes Infinite Flame Gun		
+30064BD0 0063
+#Hunter Level Codes Infinite Lighting Gun		
+30064BD6 0063
+#Hunter Level Codes Infinite Lives (Arid Canyon)		
+800B1EC4 0063
+#Hunter Level Codes Infinite Lives (Enter Carefully)		
+800C28F4 0063
+#Hunter Level Codes Infinite Lives (Geothermal Center)		
+800B7EF4 0063
+#Hunter Level Codes Infinite Lives (Heart of The Island)		
+800B86C4 0063
+#Hunter Level Codes Infinite Lives (Ingen Complex)		
+800C8F54 0063
+#Hunter Level Codes Infinite Lives (Underground)		
+800BD6F4 0063
+#Hunter Level Codes Infinite Machine Gun		
+30064BD4 0063
+#Hunter Level Codes Infinite Smoke Gun		
+30064BD2 0063
+#Hunter Level Codes Infinite Timer Bomb		
+30064BD3 0063
+#Hunter Level Codes Level Modifier Enter Carefully		
+800582D0 0001
+#Hunter Level Codes Level Modifier Arid Canyon		
+800582D0 00030
+#Hunter Level Codes Level Modifier Heart of The Island		
+800582D0 0004
+#Hunter Level Codes Level Modifier Underground		
+800582D0 0005
+#Hunter Level Codes Level Modifier Geothermal Center		
+800582D0 0006
+#Hunter Level Codes Level Modifier Ingen Complex		
+800582D0 0007 
+#Raptor Level Codes Beat Levels At Touch Of A Button		
+D000857C 0001
+8005733C 0004
+#Raptor Level Codes Infinite Energy (Eve of Chaos)		
+801279EE 0064
+#Raptor Level Codes Infinite Energy (Into The Fire)		
+800C365E 0064
+#Raptor Level Codes Infinite Energy (Raptor Ravine)		
+800B2D7E 0064
+#Raptor Level Codes Infinite Energy (The Burn Zone)		
+800D8ECE 0064
+#Raptor Level Codes Infinite Energy (The Way Out)		
+800CDC1E 0064
+#Raptor Level Codes Infinite Lives (Eve of Chaos)		
+80129584 0063
+#Raptor Level Codes Infinite Lives (Into The Fire)		
+800C51F4 0063
+#Raptor Level Codes Infinite Lives (Raptor Ravine)		
+800B4914 0063
+#Raptor Level Codes Infinite Lives (The Burn Zone)		
+800DAA64 0063
+#Raptor Level Codes Infinite Lives (The Way Out)		
+800CF7B4 0063
+#Raptor Level Codes Level The Way Out	
+80057338 0001
+#Raptor Level Codes Level Raptor Ravine	
+80057338 0003
+#Raptor Level Codes Level The Burn Zone	
+80057338 0005
+#Raptor Level Codes Level Into The Fire	
+80057338 0007
+#Raptor Level Codes Level Eve of Chaos	
+80057338 0008
+#T-Rex Level Codes Beat Levels At Touch Of A Button		
+D000857C 0001
+80059C74 0004
+#T-Rex Level Codes Infinite Energy (Aftermath)		
+800B49CE 0064
+#T-Rex Level Codes Infinite Energy (Dinosaur Lairs)		
+8009792E 0064
+#T-Rex Level Codes Infinite Energy (Force of Nature)		
+8009785E 0064
+#T-Rex Level Codes Infinite Energy (Hunter Camp)		
+800AEE6E 0064
+#T-Rex Level Codes Infinite Energy (Predator's Ball)		
+80091F6E 0064
+#T-Rex Level Codes Infinite Energy (Sulphure Fields)		
+800B035E 0064
+#T-Rex Level Codes Infinite Energy (The Hunters Regroup)		
+800AD63E 0064
+#T-Rex Level Codes Infinite Lives (Aftermath)		
+800B6564 0063
+#T-Rex Level Codes Infinite Lives (Dinosaur Lairs)		
+800994C4 0063
+#T-Rex Level Codes Infinite Lives (Force of Nature)		
+800993F4 0063
+#T-Rex Level Codes Infinite Lives (Hunter Camp)	kstok@pacific.net.sg	
+800B0A04 0063
+#T-Rex Level Codes Infinite Lives (Predator's Ball)		
+80093B04 0063
+#T-Rex Level Codes Infinite Lives (Sulphure Fields)		
+800B1EF4 0063
+#T-Rex Level Codes Infinite Lives (The Hunters Regroup)		
+800AF1D4 0063
+#T-Rex Level Codes Level Modifier Aftermath	
+80059C70 000A
+#T-Rex Level Codes Level Modifier Force of Nature	
+80059C70 0014
+#T-Rex Level Codes Level Modifier Sulphure Fields	
+80059C70 001E
+#T-Rex Level Codes Level Modifier Dinosaur Lairs	
+80059C70 0032
+#T-Rex Level Codes Level Modifier Predator's Ball	
+80059C70 003C
+#T-Rex Level Codes Level Modifier Hunter Camp
+80059C70 0046
+#T-Rex Level Codes Level Modifier The Hunters Regroup	
+80059C70 0050 
+#Enter Level Select Password Only Once	With this code, goto the password screen and enter, Square, X, Circle, Triangle, Triangle, X, Square, Circle, Triable, Circle, X Square!	
+8002EEF8 0002
+#Infinite Lives (Special Edition)
+D0009E10 0003
+80015B3E 2400
+D0009E10 0004
+80015B56 2400
+D0009E10 0005
+80015B0E 2400
+D0009E10 0006
+80015D5A 2400
+D0009E10 0007
+80015B4E 2400

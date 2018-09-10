@@ -1,0 +1,499 @@
+#Other Codes\Misc. Codes\Instantly Win The Target Mission (In Battle) (Press Select+L1+L2)
+D0124890 0105
+801248D2 0001
+#Other Codes\All Characters & Enemies Codes\Infinite Pilot Hp (All Allies)
+801184F6 270F
+8011866A 270F
+801187DE 270F
+80118952 270F
+80118AC6 270F
+80118C3A 270F
+80118DAE 270F
+80118F22 270F
+80119096 270F
+8011920A 270F
+8011937E 270F
+801194F2 270F
+80119666 270F
+801197DA 270F
+8011994E 270F
+80119AC2 270F
+80119C36 270F
+#Other Codes\All Characters & Enemies Codes\Infinite Ap (All Allies)
+3011850C 0063
+30118680 0063
+301187F4 0063
+30118968 0063
+30118ADC 0063
+30118C50 0063
+30118DC4 0063
+30118F38 0063
+301190AC 0063
+30119220 0063
+30119394 0063
+30119508 0063
+3011967C 0063
+301197F0 0063
+30119964 0063
+30119AD8 0063
+30119C4C 0063
+#Other Codes\All Characters & Enemies Codes\Allies Can Always Move
+3011851A 0000
+3011868E 0000
+30118802 0000
+30118976 0000
+30118AEA 0000
+30118C5E 0000
+30118DD2 0000
+30118F46 0000
+301190BA 0000
+3011922E 0000
+301193A2 0000
+30119516 0000
+3011968A 0000
+301197FE 0000
+30119972 0000
+30119AE6 0000
+30119C5A 0000
+#Other Codes\All Characters & Enemies Codes\Infinite Body Hp (All Allies)
+8011A016 270F
+8011A282 270F
+8011A4EE 270F
+8011A75A 270F
+8011A9C6 270F
+8011AC32 270F
+8011AE9E 270F
+8011B10A 270F
+8011B376 270F
+8011B5E2 270F
+8011B84E 270F
+8011BABA 270F
+8011BD26 270F
+8011BF92 270F
+8011C1FE 270F
+8011C46A 270F
+8011C6D6 270F
+#Other Codes\All Characters & Enemies Codes\Infinite Leg Hp (All Allies)
+8011A046 270F
+8011A2B2 270F
+8011A51E 270F
+8011A78A 270F
+8011A9F6 270F
+8011AC62 270F
+8011AECE 270F
+8011B13A 270F
+8011B3A6 270F
+8011B612 270F
+8011B87E 270F
+8011BAEA 270F
+8011BD56 270F
+8011BFC2 270F
+8011C22E 270F
+8011C49A 270F
+8011C706 270F
+#Other Codes\All Characters & Enemies Codes\Infinite l Arm Hp (All Allies)
+8011A076 270F
+8011A2E2 270F
+8011A54E 270F
+8011A7BA 270F
+8011AA26 270F
+8011AC92 270F
+8011AEFE 270F
+8011B16A 270F
+8011B3D6 270F
+8011B642 270F
+8011B8AE 270F
+8011BB1A 270F
+8011BD86 270F
+8011BFF2 270F
+8011C25E 270F
+8011C4CA 270F
+8011C736 270F
+#Other Codes\All Characters & Enemies Codes\Infinite R Arm Hp (All Allies)
+8011A0A6 270F
+8011A312 270F
+8011A57E 270F
+8011A7EA 270F
+8011AA56 270F
+8011ACC2 270F
+8011AF2E 270F
+8011B19A 270F
+8011B406 270F
+8011B672 270F
+8011B8DE 270F
+8011BB4A 270F
+8011BDB6 270F
+8011C022 270F
+8011C28E 270F
+8011C4FA 270F
+8011C766 270F
+#Other Codes\All Characters & Enemies Codes\Enemies About To Surrender
+301E3D28 00FF
+301E3E9C 00FF
+301E4010 00FF
+301E4184 00FF
+301E42F8 00FF
+301E446C 00FF
+301E45E0 00FF
+301E4754 00FF
+301E48C8 00FF
+301E4A3C 00FF
+301E4BB0 00FF
+301E4D24 00FF
+301E4E98 00FF
+#Other Codes\Misc. Codes\Max Money
+8011E958 967F
+8011E95A 0098
+#Pilot Codes\Alisa Takemura Pilot Codes\Infinite Pilot Hp
+8011920A 270F
+#Pilot Codes\Alisa Takemura Pilot Codes\Max Pilot Hp
+8011920C 270F
+#Pilot Codes\Alisa Takemura Pilot Codes\Max Ace Rank
+8011920E 0190
+#Pilot Codes\Alisa Takemura Pilot Codes\Infinite Ap
+30119220 0063
+#Pilot Codes\Alisa Takemura Pilot Codes\Max Ap
+30119221 0063
+#Pilot Codes\Alisa Takemura Pilot Codes\Can Always Move
+3011922E 0000
+#Pilot Codes\Alisa Takemura Pilot Codes\All Skill Levels Max
+50000D02 0000
+801191E6 3390
+#Pilot Codes\Alisa Takemura Pilot Codes\Have 100 Of Every Battle Skill
+50003002 0000
+80119254 6565
+#Pilot Codes\Alisa Takemura Pilot Codes\Never Stunned
+30119245 0000
+#Pilot Codes\Alisa Takemura Pilot Codes\Never Confused
+30119246 0000
+#Pilot Codes\Dennis Mcarth Pilot Codes\Infinite Pilot Hp
+80118952 270F
+#Pilot Codes\Dennis Mcarth Pilot Codes\Max Pilot Hp
+80118954 270F
+#Pilot Codes\Dennis Mcarth Pilot Codes\Max Ace Rank
+80118956 0190
+#Pilot Codes\Dennis Mcarth Pilot Codes\Infinite Ap
+30118968 0063
+#Pilot Codes\Dennis Mcarth Pilot Codes\Max Ap
+30118969 0063
+#Pilot Codes\Dennis Mcarth Pilot Codes\Can Always Move
+30118976 0000
+#Pilot Codes\Dennis Mcarth Pilot Codes\All Skill Levels Max
+50000D02 0000
+8011892E 3390
+#Pilot Codes\Dennis Mcarth Pilot Codes\Have 100 Of Every Battle Skill
+50003002 0000
+8011899C 6565
+#Pilot Codes\Dennis Mcarth Pilot Codes\Never Stunned
+3011898D 0000
+#Pilot Codes\Dennis Mcarth Pilot Codes\Never Confused
+3011898E 0000
+#Pilot Codes\Emma Klamsky Pilot Codes\Infinite Pilot Hp
+8011866A 270F
+#Pilot Codes\Emma Klamsky Pilot Codes\Max Pilot Hp
+8011866C 270F
+#Pilot Codes\Emma Klamsky Pilot Codes\Max Ace Rank
+8011866E 0190
+#Pilot Codes\Emma Klamsky Pilot Codes\Infinite Ap
+30118680 0063
+#Pilot Codes\Emma Klamsky Pilot Codes\Max Ap
+30118681 0063
+#Pilot Codes\Emma Klamsky Pilot Codes\Can Always Move
+3011868E 0000
+#Pilot Codes\Emma Klamsky Pilot Codes\All Skill Levels Max
+50000D02 0000
+80118646 3390
+#Pilot Codes\Emma Klamsky Pilot Codes\Never Stunned
+301186A5 0000
+#Pilot Codes\Emma Klamsky Pilot Codes\Never Confused
+301186A6 0000
+#Pilot Codes\Hei Fong Liu Pilot Codes\Infinite Pilot Hp
+8011937E 270F
+#Pilot Codes\Hei Fong Liu Pilot Codes\Max Pilot Hp
+80119380 270F
+#Pilot Codes\Hei Fong Liu Pilot Codes\Max Ace Rank
+80119382 0190
+#Pilot Codes\Hei Fong Liu Pilot Codes\Infinite Ap
+30119394 0063
+#Pilot Codes\Hei Fong Liu Pilot Codes\Max Ap
+30119395 0063
+#Pilot Codes\Hei Fong Liu Pilot Codes\Can Always Move
+301193A2 0000
+#Pilot Codes\Hei Fong Liu Pilot Codes\All Skill Levels Max
+50000D02 0000
+8011935A 3390
+#Pilot Codes\Hei Fong Liu Pilot Codes\Have 100 Of Every Battle Skill
+50003002 0000
+801193C8 6565
+#Pilot Codes\Hei Fong Liu Pilot Codes\Never Stunned
+301193B9 0000
+#Pilot Codes\Hei Fong Liu Pilot Codes\Never Confused
+301193BA 0000
+#Pilot Codes\Isao Takemura Pilot Codes\Infinite Pilot Hp
+80119AC2 270F
+#Pilot Codes\Isao Takemura Pilot Codes\Max Pilot Hp
+80119AC4 270F
+#Pilot Codes\Isao Takemura Pilot Codes\Max Ace Rank
+80119AC6 0190
+#Pilot Codes\Isao Takemura Pilot Codes\Infinite Ap
+30119AD8 0063
+#Pilot Codes\Isao Takemura Pilot Codes\Max Ap
+30119AD9 0063
+#Pilot Codes\Isao Takemura Pilot Codes\Can Always Move
+30119AE6 0000
+#Pilot Codes\Isao Takemura Pilot Codes\All Skill Levels Max
+50000D02 0000
+80119A9E 3390
+#Pilot Codes\Isao Takemura Pilot Codes\Have 100 Of Every Battle Skill
+50003002 0000
+80119B0C 6565
+#Pilot Codes\Isao Takemura Pilot Codes\Never Stunned
+30119AFD 0000
+#Pilot Codes\Isao Takemura Pilot Codes\Always Stunned
+30119AFD 00FF
+#Pilot Codes\Isao Takemura Pilot Codes\Never Confused
+30119AFE 0000
+#Pilot Codes\Isao Takemura Pilot Codes\Always Confused
+30119AFE 00FF
+#Pilot Codes\Jose Astrada Pilot Codes\Infinite Pilot Hp
+80118C3A 270F
+#Pilot Codes\Jose Astrada Pilot Codes\Max Pilot Hp
+80118C3C 270F
+#Pilot Codes\Jose Astrada Pilot Codes\Max Ace Rank
+80118C3E 0190
+#Pilot Codes\Jose Astrada Pilot Codes\Infinite Ap
+30118C50 0063
+#Pilot Codes\Jose Astrada Pilot Codes\Max Ap
+30118C51 0063
+#Pilot Codes\Jose Astrada Pilot Codes\Can Always Move
+30118C5E 0000
+#Pilot Codes\Jose Astrada Pilot Codes\All Skill Levels Max
+50000D02 0000
+80118C16 3390
+#Pilot Codes\Jose Astrada Pilot Codes\Have 100 Of Every Battle Skill
+50003002 0000
+80118C84 6565
+#Pilot Codes\Jose Astrada Pilot Codes\Never Stunned
+30118C75 0000
+#Pilot Codes\Jose Astrada Pilot Codes\Never Confused
+30118C76 0000
+#Pilot Codes\Kazuki Takemura Pilot Codes\Infinite Pilot Hp
+801184F6 270F
+#Pilot Codes\Kazuki Takemura Pilot Codes\Max Pilot Hp
+801184F8 270F
+#Pilot Codes\Kazuki Takemura Pilot Codes\Max Ace Rank
+801184FA 0190
+#Pilot Codes\Kazuki Takemura Pilot Codes\Infinite Ap
+3011850C 0063
+#Pilot Codes\Kazuki Takemura Pilot Codes\Max Ap
+3011850D 0063
+#Pilot Codes\Kazuki Takemura Pilot Codes\Can Always Move
+3011851A 0000
+#Pilot Codes\Kazuki Takemura Pilot Codes\All Skill Levels Max
+50000D02 0000
+801184D2 3390
+#Pilot Codes\Kazuki Takemura Pilot Codes\Have 100 Of Every Battle Skill
+50003002 0000
+80118540 6565
+#Pilot Codes\Kazuki Takemura Pilot Codes\Never Stunned
+30118531 0000
+#Pilot Codes\Kazuki Takemura Pilot Codes\Never Confused
+30118532 0000
+#Pilot Codes\Linny Barilar Pilot Codes\Infinite Pilot Hp
+80118F22 270F
+#Pilot Codes\Linny Barilar Pilot Codes\Max Pilot Hp
+80118F24 270F
+#Pilot Codes\Linny Barilar Pilot Codes\Max Ace Rank
+80118F26 0190
+#Pilot Codes\Linny Barilar Pilot Codes\Infinite Ap
+30118F38 0063
+#Pilot Codes\Linny Barilar Pilot Codes\Max Ap
+30118F39 0063
+#Pilot Codes\Linny Barilar Pilot Codes\Can Always Move
+30118F46 0000
+#Pilot Codes\Linny Barilar Pilot Codes\All Skill Levels Max
+50000D02 0000
+80118EFE 3390
+#Pilot Codes\Linny Barilar Pilot Codes\Have 100 Of Every Battle Skill
+50003002 0000
+80118F6C 6565
+#Pilot Codes\Linny Barilar Pilot Codes\Never Stunned
+30118F5D 0000
+#Pilot Codes\Linny Barilar Pilot Codes\Never Confused
+30118F5E 0000
+#Pilot Codes\Marcus Armstrong Pilot Codes\Infinite Pilot Hp
+80119096 270F
+#Pilot Codes\Marcus Armstrong Pilot Codes\Max Pilot Hp
+80119098 270F
+#Pilot Codes\Marcus Armstrong Pilot Codes\Max Ace Rank
+8011909A 0190
+#Pilot Codes\Marcus Armstrong Pilot Codes\Infinite Ap
+301190AC 0063
+#Pilot Codes\Marcus Armstrong Pilot Codes\Max Ap
+301190AD 0063
+#Pilot Codes\Marcus Armstrong Pilot Codes\Can Always Move
+301190BA 0000
+#Pilot Codes\Marcus Armstrong Pilot Codes\All Skill Levels Max
+50000D02 0000
+80119072 3390
+#Pilot Codes\Marcus Armstrong Pilot Codes\Have 100 Of Every Battle Skill
+50003002 0000
+801190E0 6565
+#Pilot Codes\Marcus Armstrong Pilot Codes\Never Stunned
+301190D1 0000
+#Pilot Codes\Marcus Armstrong Pilot Codes\Never Confused
+301190D2 0000
+#Pilot Codes\Mayor Edward Pilot Codes\Infinite Pilot Hp
+8011994E 270F
+#Pilot Codes\Mayor Edward Pilot Codes\Max Pilot Hp
+80119950 270F
+#Pilot Codes\Mayor Edward Pilot Codes\Max Ace Rank
+80119952 0190
+#Pilot Codes\Mayor Edward Pilot Codes\Infinite Ap
+30119964 0063
+#Pilot Codes\Mayor Edward Pilot Codes\Max Ap
+30119965 0063
+#Pilot Codes\Mayor Edward Pilot Codes\Can Always Move
+30119972 0000
+#Pilot Codes\Mayor Edward Pilot Codes\All Skill Levels Max
+50000D02 0000
+8011992A 3390
+#Pilot Codes\Mayor Edward Pilot Codes\Have 100 Of Every Battle Skill
+50003002 0000
+80119998 6565
+#Pilot Codes\Mayor Edward Pilot Codes\Never Stunned
+30119989 0000
+#Pilot Codes\Mayor Edward Pilot Codes\Never Confused
+3011998A 0000
+#Pilot Codes\Mijo Shinjo Pilot Codes\Infinite Pilot Hp
+801194F2 270F
+#Pilot Codes\Mijo Shinjo Pilot Codes\Max Pilot Hp
+801194F4 270F
+#Pilot Codes\Mijo Shinjo Pilot Codes\Max Ace Rank
+801194F6 0190
+#Pilot Codes\Mijo Shinjo Pilot Codes\Infinite Ap
+30119508 0063
+#Pilot Codes\Mijo Shinjo Pilot Codes\Max Ap
+30119509 0063
+#Pilot Codes\Mijo Shinjo Pilot Codes\Can Always Move
+30119516 0000
+#Pilot Codes\Mijo Shinjo Pilot Codes\All Skill Levels Max
+50000D02 0000
+801194CE 3390
+#Pilot Codes\Mijo Shinjo Pilot Codes\Have 100 Of Every Battle Skill
+50003002 0000
+8011953C 6565
+#Pilot Codes\Mijo Shinjo Pilot Codes\Never Stunned
+3011952D 0000
+#Pilot Codes\Mijo Shinjo Pilot Codes\Never Confused
+3011952E 0000
+#Pilot Codes\Pham Luis Pilot Codes\Infinite Pilot Hp
+80119666 270F
+#Pilot Codes\Pham Luis Pilot Codes\Max Pilot Hp
+80119668 270F
+#Pilot Codes\Pham Luis Pilot Codes\Max Ace Rank
+8011966A 0190
+#Pilot Codes\Pham Luis Pilot Codes\Infinite Ap
+3011967C 0063
+#Pilot Codes\Pham Luis Pilot Codes\Max Ap
+3011967D 0063
+#Pilot Codes\Pham Luis Pilot Codes\Can Always Move
+3011968A 0000
+#Pilot Codes\Pham Luis Pilot Codes\All Skill Levels Max
+50000D02 0000
+80119642 3390
+#Pilot Codes\Pham Luis Pilot Codes\Have 100 Of Every Battle Skill
+50003002 0000
+801196B0 6565
+#Pilot Codes\Pham Luis Pilot Codes\Never Stunned
+301196A1 0000
+#Pilot Codes\Pham Luis Pilot Codes\Never Confused
+301196A2 0000
+#Pilot Codes\Ryogo Kusama Pilot Codes\Infinite Pilot Hp
+801187DE 270F
+#Pilot Codes\Ryogo Kusama Pilot Codes\Max Pilot Hp
+801187E0 270F
+#Pilot Codes\Ryogo Kusama Pilot Codes\Max Ace Rank
+801187E2 0190
+#Pilot Codes\Ryogo Kusama Pilot Codes\Infinite Ap
+301187F4 0063
+#Pilot Codes\Ryogo Kusama Pilot Codes\Max Ap
+301187F5 0063
+#Pilot Codes\Ryogo Kusama Pilot Codes\Can Always Move
+30118802 0000
+#Pilot Codes\Ryogo Kusama Pilot Codes\All Skill Levels Max
+50000D02 0000
+801187BA 3390
+#Pilot Codes\Ryogo Kusama Pilot Codes\Have 100 Of Every Battle Skill
+50003002 0000
+80118828 6565
+#Pilot Codes\Ryogo Kusama Pilot Codes\Never Stunned
+30118819 0000
+#Pilot Codes\Ryogo Kusama Pilot Codes\Never Confused
+3011881A 0000
+#Pilot Codes\Xiang Mei Lu Pilot Codes\Infinite Pilot Hp
+80118DAE 270F
+#Pilot Codes\Xiang Mei Lu Pilot Codes\Max Pilot Hp
+80118DB0 270F
+#Pilot Codes\Xiang Mei Lu Pilot Codes\Max Ace Rank
+80118DB2 0190
+#Pilot Codes\Xiang Mei Lu Pilot Codes\Infinite Ap
+30118DC4 0063
+#Pilot Codes\Xiang Mei Lu Pilot Codes\Max Ap
+30118DC5 0063
+#Pilot Codes\Xiang Mei Lu Pilot Codes\Can Always Move
+30118DD2 0000
+#Pilot Codes\Xiang Mei Lu Pilot Codes\All Skill Levels Max
+50000D02 0000
+80118D8A 3390
+#Pilot Codes\Xiang Mei Lu Pilot Codes\Have 100 Of Every Battle Skill
+50003002 0000
+80118DF8 6565
+#Pilot Codes\Xiang Mei Lu Pilot Codes\Never Stunned
+30118DE9 0000
+#Pilot Codes\Xiang Mei Lu Pilot Codes\Never Confused
+30118DEA 0000
+#Pilot Codes\Xiao Hua Lan Pilot Codes\Infinite Pilot Hp
+801197DA 270F
+#Pilot Codes\Xiao Hua Lan Pilot Codes\Max Pilot Hp
+801197DC 270F
+#Pilot Codes\Xiao Hua Lan Pilot Codes\Max Ace Rank
+801197DE 0190
+#Pilot Codes\Xiao Hua Lan Pilot Codes\Infinite Ap
+301197F0 0063
+#Pilot Codes\Xiao Hua Lan Pilot Codes\Max Ap
+301197F1 0063
+#Pilot Codes\Xiao Hua Lan Pilot Codes\Can Always Move
+301197FE 0000
+#Pilot Codes\Xiao Hua Lan Pilot Codes\All Skill Levels Max
+50000D02 0000
+801197B6 3390
+#Pilot Codes\Xiao Hua Lan Pilot Codes\Have 100 Of Every Battle Skill
+50003002 0000
+80119824 6565
+#Pilot Codes\Xiao Hua Lan Pilot Codes\Never Stunned
+30119815 0000
+#Pilot Codes\Xiao Hua Lan Pilot Codes\Never Confused
+30119816 0000
+#Pilot Codes\Xiao Hua Lan Pilot Codes\Yun Lai Fa Pilot Codes\Infinite Pilot Hp
+80118AC6 270F
+#Pilot Codes\Xiao Hua Lan Pilot Codes\Yun Lai Fa Pilot Codes\Max Pilot Hp
+80118AC8 270F
+#Pilot Codes\Xiao Hua Lan Pilot Codes\Yun Lai Fa Pilot Codes\Max Ace Rank
+80118ACA 0190
+#Pilot Codes\Xiao Hua Lan Pilot Codes\Yun Lai Fa Pilot Codes\Infinite Ap
+30118ADC 0063
+#Pilot Codes\Xiao Hua Lan Pilot Codes\Yun Lai Fa Pilot Codes\Max Ap
+30118ADD 0063
+#Pilot Codes\Xiao Hua Lan Pilot Codes\Yun Lai Fa Pilot Codes\Can Always Move
+30118AEA 0000
+#Pilot Codes\Xiao Hua Lan Pilot Codes\Yun Lai Fa Pilot Codes\All Skill Levels Max
+50000D02 0000
+80118AA2 3390
+#Pilot Codes\Xiao Hua Lan Pilot Codes\Yun Lai Fa Pilot Codes\Have 100 Of Every Battle Skill
+50003002 0000
+80118B10 6565
+#Pilot Codes\Xiao Hua Lan Pilot Codes\Yun Lai Fa Pilot Codes\Never Stunned
+30118B01 0000
+#Pilot Codes\Xiao Hua Lan Pilot Codes\Yun Lai Fa Pilot Codes\Never Confused
+30118B02 0000

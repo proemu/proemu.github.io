@@ -1,0 +1,5 @@
+#Always 1 step in story mode
+80060DC8 0001
+#Stage Clear Press Select Button
+D0076252 FFFE 
+30060DEC 000B

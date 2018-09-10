@@ -1,0 +1,4 @@
+#Opponent has always 0 wins
+80154E4C 0000
+#Player has always 2 wins
+80154E48 0002

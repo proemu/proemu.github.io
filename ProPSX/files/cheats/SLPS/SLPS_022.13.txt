@@ -1,0 +1,18 @@
+#Infinite Money (60000)
+80046770 EA60
+#Infinite Energy
+800418F5 1600
+#Life now
+300418F6 006C 
+#Maximum Life 
+300418F7 006C
+#The amount of water in the watering 
+300418FD 0008 
+#Handicrafts that can make out all 
+300418FE 000F  
+#Friendship gauge 
+80147C88 0802 
+#Bazaar / gold sales 
+801C1DE8 FFFF 
+#I stop the time of choice 
+301D69E4 0000

@@ -1,0 +1,6 @@
+#Infinite Health P1
+301E19C8 0096
+#Infinite Health P2
+301E1CB0 0096
+#No Health P2
+301E1CB0 0000

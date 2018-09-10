@@ -1,0 +1,12 @@
+#Dance Meter Full 	
+800C23EA 03FF
+#Max Score 	
+800C23F4 C9FF
+800C23F6 3B9A
+#All Lessons Clear		
+50000C02 0000
+800E5628 0202
+#Unlock All Songs & Modes	
+800E4108 FFFF
+300E410A 000F
+

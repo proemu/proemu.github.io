@@ -1,0 +1,10 @@
+#Infinite Continues	
+800F3C2C 0008
+80143BAE 00C0
+80143BC8 0008
+#Arrow Aimer Is Always On	
+80152DBC 0001
+#Stop Timer	
+8014209C 0000
+#Last Level 	
+80142014 001E

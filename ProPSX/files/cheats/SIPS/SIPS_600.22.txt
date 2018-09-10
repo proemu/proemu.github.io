@@ -1,0 +1,6 @@
+#Freeze time 1P 
+80066EA4 0000 
+#CPU does not increase the current number of laps 
+30066F0E 0000 
+30066F7E 0000 
+30066FEE 0000 

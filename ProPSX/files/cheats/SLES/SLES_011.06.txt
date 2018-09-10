@@ -1,0 +1,5 @@
+#Ski - Infinite time Championship mode (Activate only in race)
+800F220D 0386
+.Activate only in race
+#Freeride - 9999 Points in Championship Mode (Activate only in race)
+801AE3D8 270F

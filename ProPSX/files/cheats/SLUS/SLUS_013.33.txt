@@ -1,0 +1,3 @@
+#Infinite Money P1
+80113D50 FFFF
+80113D54 FFFF

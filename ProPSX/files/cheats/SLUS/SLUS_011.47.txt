@@ -1,0 +1,34 @@
+#P1 Infinite Health
+800B0D30 0064
+#P1 Infinite Stamina
+800B0D34 0064
+#Start On Last Match (Arcade Mode) 	
+D00A101C 0000
+800A101C 000B
+#Max Money 	
+800B3418 423F
+800B341A 000F
+#You Da Champ 	
+800B3408 0000 		
+#Start At Championship Fight 	
+D00B3408 000C
+800B3408 0001
+#Unlock Michael Jackson 	
+800B5748 0003 		
+#Unlock G.C. Thunder 	
+800B574C 0003 		
+#Unlock Shaq 	
+800B5750 0003 		
+#Unlock Rocket Samchav 	
+800B5754 0003 		
+#Unlock Robox Ressea 	
+800B5758 0003 		
+#Unlock First Lady 	
+800B575C 0003 		
+#Unlock Mr President 	
+800B5760 0003 		
+#Unlock Rumbleman 	
+800B5764 0003 		
+#Unlock Random Select 	
+800B5768 0003
+

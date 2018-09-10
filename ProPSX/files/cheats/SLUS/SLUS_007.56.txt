@@ -1,0 +1,23 @@
+#Infinite ammo Hand Gun Claire
+800D49F5 0063
+#Infinite ammo Bow Gun Claire
+800D4A01 0063
+#Infinite Ink Ribbons Claire
+800D4A09 0063
+#The 4th Survivor Mode Main Menu
+800CFB2C 0048
+#The Tofu Survivor Mode Main Menu
+800CFB2C 0049
+#Infinite Health Claire
+800CFD06 00C8
+#Super Mega Rapid Fire (All Weapons)
+D00CE2B4 0048
+800CFCFC 000B
+#Stop Clock When Fighting Lass Boss Of The Game
+800D47EA 012C
+#Extreme Battle Mode Main Menu
+D00CFB2E 0000
+300CFB2F 0001
+#All Characters & Levels (Extreme Battle Mode)
+800CFB50 0200
+

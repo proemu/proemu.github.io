@@ -1,0 +1,12 @@
+#Infinite Lives P1 	
+801783C8 0003
+#Infinite Lives P2 	
+80178448 0003 
+#Infinite Bombs P1 	
+801783CC 0002
+#Infinite Bombs P2 	
+8017844C 0002
+#Invincible P1
+801783E6 0078
+#Invincible P2
+80178466 0078

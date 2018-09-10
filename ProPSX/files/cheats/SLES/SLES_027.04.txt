@@ -1,0 +1,12 @@
+#Home Team Scores 15 Goals
+8003C29C 000F
+#Home Team Scores No Goals
+8003C29C 0000
+#Away Team Scores 15 Goals
+8003C2A0 000F
+#Away Team Scores No Goals
+8003C2A0 0000
+#Crazy Keepers
+80128F2C 007F
+801283D8 001D
+80129276 00C5

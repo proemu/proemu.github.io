@@ -1,0 +1,5 @@
+#Infinite health  
+800E851A 000A 
+#Infinite Lives  
+800E85B0 0009 
+ 

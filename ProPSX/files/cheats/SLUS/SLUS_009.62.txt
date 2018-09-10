@@ -1,0 +1,16 @@
+#Quick Win		
+800BF9B8 0001
+D00F3046 0000
+800F3046 0001
+#Instant Finish First Turn off code at end of race to advance to the next race.
+800F3046 000B
+#All Cars Unlocked		
+800BEF7A FFFF
+#Have Montana Track Unlocked	
+800BEF5C 03FF
+#Have Race Against the King Complete		
+800BEF5C FFFF
+#Infinite Fuel		
+8006B842 2400
+#No Damage - Everyone		
+80047906 2400

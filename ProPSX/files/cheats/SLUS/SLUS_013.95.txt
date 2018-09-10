@@ -1,0 +1,55 @@
+#Infinite Health
+800970FC 2020
+#Hp Gauge Full
+300CCF2B 0040
+#Infinite Lives
+800CCF08 0900
+#Have All Weapons
+30097169 00FF
+#No Level Time
+800CCF60 0000
+#Infinite All Weapons
+50000802 0000
+8009714A 0168
+#Have All Souls (HU Ranking) 	
+800CCFA2 270F 		 
+#Have All Arrmor Parts 	
+800CCF38 FF01
+#All Reploids Rescued  	
+50002002 0000
+800CCFA8 2222
+#Have All Armors & Enable Zero In Black Armor 	
+300CCF2F 003F
+#Level Sky Lagoon  select Game Start at main title screen,after the intro scenes instead of going to the Intro Level(Sky Lagoon) you will be taken to the leve
+301721CC 0000
+#Level Jungle select Game Start at main title screen,after the intro scenes instead of going to the Intro Level(Sky Lagoon) you will be taken to the leve
+301721CC 0001
+#Level Snow Base select Game Start at main title screen,after the intro scenes instead of going to the Intro Level(Sky Lagoon) you will be taken to the leve
+301721CC 0002
+#Level Bio Laboratory  select Game Start at main title screen,after the intro scenes instead of going to the Intro Level(Sky Lagoon) you will be taken to the leve
+301721CC 0003
+#Level Volcano select Game Start at main title screen,after the intro scenes instead of going to the Intro Level(Sky Lagoon) you will be taken to the leve
+301721CC 0004
+#Level Marine Base select Game Start at main title screen,after the intro scenes instead of going to the Intro Level(Sky Lagoon) you will be taken to the leve
+301721CC 0005
+#Level Cyber Space  select Game Start at main title screen,after the intro scenes instead of going to the Intro Level(Sky Lagoon) you will be taken to the leve
+301721CC 0006
+#Level Air Force select Game Start at main title screen,after the intro scenes instead of going to the Intro Level(Sky Lagoon) you will be taken to the leve
+301721CC 0007
+#Level Military Train  select Game Start at main title screen,after the intro scenes instead of going to the Intro Level(Sky Lagoon) you will be taken to the leve
+301721CC 0008
+#Level Memorial Hall  select Game Start at main title screen,after the intro scenes instead of going to the Intro Level(Sky Lagoon) you will be taken to the leve
+301721CC 0009
+#Level Spaceport select Game Start at main title screen,after the intro scenes instead of going to the Intro Level(Sky Lagoon) you will be taken to the leve
+301721CC 000A
+#Level Final Weapon select Game Start at main title screen,after the intro scenes instead of going to the Intro Level(Sky Lagoon) you will be taken to the leve
+301721CC 000B
+#Level Final Weapon:2nd Section select Game Start at main title screen,after the intro scenes instead of going to the Intro Level(Sky Lagoon) you will be taken to the leve
+301721CC 000C
+
+
+
+
+
+
+

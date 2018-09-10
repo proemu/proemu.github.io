@@ -1,0 +1,23 @@
+#P1 Unendlich Energie	
+8009FDF4 BB80
+#P1 Unendlich Konter	
+8009FED8 0000
+#P1 Keine Konter	
+8009FED8 0003
+#P2 Unendlich Energie P2	
+800A03C8 BB80
+#P2 SuddenDeath	
+D10A03C8 B400
+800A03C8 0000
+#Unendlich Zeit Akademie  	
+D002F478 FFFF
+3002F480 0000
+#Alles freigeschaltet
+50000302 0000
+800BCD04 FFFF
+#Unendlich Zeit 
+D002F2E0 FFFF
+3002F2E8 0000
+#1 Runde gewinnen, um Abspann zu sehen	
+D009DFEC 0000
+3009DFEC 0009

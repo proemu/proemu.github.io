@@ -1,0 +1,25 @@
+#Vite Infinite		
+80094CD2 240
+#Salute al massimo		
+8008E86C 0160
+8008E86E 2405
+#Salute Infinita		
+8008F79C 0160
+8008F79E 2402
+#Tutti i livelli 100% completi		
+50000D02 0000
+3005B8A4 0064
+#Tutti i livelli e filmati		
+50000D02 0000
+3005B8A3 00FF
+#The Trucchi menu (the one hidden in the main menu) and the "Menu Trucchi" (at the pause menu during levels) are always activated		
+D008CEAE 1040
+8008CEAE 2400
+D008CEB6 1445 
+8008CEB6 2400
+D008CD88 8000
+8008CD88 8001
+#Tempo infinito nel bonus level		
+800A4A2C 1910
+#Seleziona livello 00-?? enabled 09	
+3005B89B 0009

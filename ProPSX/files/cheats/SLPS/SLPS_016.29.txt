@@ -1,0 +1,27 @@
+#Infinite HP Phobos in battle (main character)
+800BDB6A 03E7
+#Infinite & Max HP Phobos (main character)
+80010762 03E7
+80010764 03E7
+#Infinite money (9999999)
+8001001C 967F
+8001001E 0098
+#Infinite Mp
+D00BA77C 1023
+800BA77E 0040
+#Inf Item
+D00B5B5A 2442
+800B5B58 0000
+#Infinite Mp In Battle
+D002AF8A A466
+8002AF88 0000
+D002AF8A A466
+8002AF8A 0000
+#Infinite Combat
+D002AF62 A066
+8002AF60 0000
+D002AF62 A066
+8002AF62 0000
+#Items Not Decrease During Combat You have to have two units
+D0025EE0 1023
+80025EE2 0060

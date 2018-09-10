@@ -1,0 +1,16 @@
+#Infinite ammo cannon 1
+8007E9B4 03E7
+#Infinite ammo cannon 3
+8007E9B0 03E7
+#Infinite ammo cannon 4
+8007E9B2 03E7
+#Infinite shield
+8007A010 00C8
+800ED066 00C8
+#Gold Max  After the battle
+80010BD0 E0FF 
+80010BD2 05F5 
+#Level Max After the battle
+8006D542 1400 
+#Infinite Bullet 
+8006287E 0040 

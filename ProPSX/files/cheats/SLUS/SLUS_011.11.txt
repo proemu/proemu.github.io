@@ -1,0 +1,19 @@
+#Infinite air
+801F0701 0249
+#Max Score
+801F06C8 FFFF
+#Infinite Lives
+8019A598 0003
+#Stop Timer
+800D2CFE 2400
+#Quick Win
+C219849C 0002
+801F069C 0000
+#Unlock All Levels
+801983E0 FFFF
+801983E2 000F
+#All Levels Completed & Extra Outfit Unlocked
+80198458 FFFF
+8019845A 000F
+#Invincible
+801F06C0 0000

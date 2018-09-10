@@ -1,0 +1,9 @@
+#Invincible / All Characters will be available 
+80068040 9FFF 
+#Hidden stage will be available for selection 
+80068090 1F1F 
+80068092 1F1F 
+80068094 1F1F 
+80068096 1F1F 
+80068098 1F1F 
+8006809A 1F1F 

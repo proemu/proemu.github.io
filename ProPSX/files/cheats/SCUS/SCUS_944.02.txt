@@ -1,0 +1,64 @@
+#Raiden\Player 1 Infinite Lifes
+8012F7F4 0003
+#Raiden\Player 1 Max. Vulcan
+8012F7FA 0008
+#Raiden\Player 1 Max. Lasers
+8012F7FC 0008
+#Raiden\Player 1 Max. Ammo
+8012F7FE 0004
+#Raiden\Player 1 Max. Searchrockets
+8012F800 0004
+#Raiden\Player 1 Infinite Thermobombs
+8012F802 0003
+#Raiden\Player 2 Infinite Lifes
+8012F824 0003
+#Raiden\Player 2 Max. Vulcan
+8012F82A 0008
+#Raiden\Player 2 Max. Lasers
+8012F82C 0008
+#Raiden\Player 2 Max. Ammo
+8012F82E 0004
+#Raiden\Player 2 Max. Searchrockets
+8012F830 0004
+#Raiden\Player 2 Infinite Thermobombs
+8012F832 0003
+#Raiden\Infinite Credits
+8004D5DA 0003
+#Raiden Ii\Player 1 Max. Vulcan
+800ECF28 0008
+#Raiden Ii\Player 1 Max. Laser
+800ECF2A 0008
+#Raiden Ii\Player 1 Max. Plasma
+800ECF2C 0008
+#Raiden Ii\Player 1 Max. Ammo
+800ECF30 0004
+#Raiden Ii\Player 1 Max. Searhrockets
+800ECF32 0004
+#Raiden Ii\Player 1 Inf Thermobombs
+800ECF38 0101
+#Raiden Ii\Player 1 Inf Splatterbombs
+800ECF38 0202
+#Raiden Ii\Player 1 Inf Nuke Bombs
+800ECF3C 0003
+#Raiden Ii\Player 1 Infinite Lifes
+800ECF40 0003
+#Raiden Ii\Player 2 Max. Vulcan
+800ECF68 0008
+#Raiden Ii\Player 2 Max. Lasers
+800ECF6A 0008
+#Raiden Ii\Player 2 Max. Plasma
+800ECF6C 0008
+#Raiden Ii\Player 2 Max. Ammo
+800ECF70 0004
+#Raiden Ii\Player 2 Max. Searchrockets
+800ECF72 0004
+#Raiden Ii\Player 2 Inf Thermobombs
+800ECF78 0101
+#Raiden Ii\Player 2 Inf Splatterbombs
+800ECF78 0202
+#Raiden Ii\Player 2 Inf Nuke Bombs
+800ECF7C 0003
+#Raiden Ii\Player 2 Infinite Lifes
+800ECF80 0003
+#Raiden Ii\Infinite Credits
+800FFC24 0003

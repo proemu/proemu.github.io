@@ -1,0 +1,7 @@
+#P1 Infinite Health 	
+8007C0CC 0090
+#Unlock All Illustrations & Endings 	
+8007B6D4 FFFF
+8007B6D6 FFFF 		
+#Unlock Special Partners 	
+8007B6D8 FFFF 

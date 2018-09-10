@@ -1,0 +1,15 @@
+#Infinite time puzzle mode
+8019129C 0DAC
+#Only 1 second in running mini game mode
+800BE61A 0001
+@Kokumeikan@SLPS-91033
+#Infinite Hp / Maximum Hp Level
+800A4ABA 6464
+#No Poison/Confused Status
+300A4B36 0000
+#Infinite Mp
+800A4B38 967F
+800A4B3A 0098
+#Infinite Warl
+800A4B40 967F
+800A4B42 0098

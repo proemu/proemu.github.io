@@ -1,0 +1,16 @@
+#Infinite Energy
+D00D3C3A BFFF
+800D772C EBBF
+#Time 000 1ST
+800CC644 0000
+#Energy Bar Always Full
+800D772C EBBF
+#Have All Extra Bike Parts
+50000402 0000
+800D15AA 0303
+#Trick Mode 9999 Points
+800CC648 270F
+#Trick Trail Mode Freeze Time
+800CC644 6000
+
+

@@ -1,0 +1,13 @@
+#Infinite Lives P1
+801051CC 0009
+#Infinite Lives P2
+80105244 0009
+#Infinite Bombs P1
+801051BE 0003
+#Infinite Bombs P2
+80105236 0003
+#Invincible P1
+801051A8 007F
+#Invincible P2
+80105220 007F
+

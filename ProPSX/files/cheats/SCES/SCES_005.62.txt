@@ -1,0 +1,14 @@
+#Infinite Energy P1
+800BF5AC 00CF
+#Infinite Energy P2
+800BF5AE 00CF
+#No Energy P2
+800BF5AE 0000
+#Maximum Pow P1
+800F4534 007F
+#Maximum Pow P2
+800F4536 007F
+#Infinite Time
+800F4540 633C
+#Slow-Motion
+80087F60 3534

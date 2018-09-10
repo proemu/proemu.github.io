@@ -1,0 +1,27 @@
+#P1 Infinite health	
+301EA024 00C8
+#P2 Infinite health	
+301EB8A0 00C8
+#P2 No health	
+301EB8A0 0000
+#Start On Last Stage
+D01E6F2E 0000
+801E6F2E 0006
+#Everything unlocked	
+801F57B6 FFFF
+801F57B8 FFFF
+#Barrel-Codes\Increase Time
+D01EF3E2 F3F7
+801F38D0 1C20
+.Press L1 & R1 & Start
+#Barrel-Codes\Decrease Time
+D01EF3E2 FCF7
+801F38D0 003C
+.Press L2 & R2 & Start
+#Barrel-Codes\No Barrels Missed
+D01EF360 0103
+301EF361 0000
+#Barrel-Codes\Max Barrels
+301EF366 00FF
+#Barrel-Codes\99 Combo
+301EF367 0063

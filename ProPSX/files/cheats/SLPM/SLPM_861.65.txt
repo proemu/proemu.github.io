@@ -1,0 +1,32 @@
+#Infinite & Max HP Angelique
+801170E8 270F
+801170EC 270F
+#Infinite & Max HP Second character
+801172F0 270F
+801172F4 270F
+#Infinite & Max HP Third character
+801173C0 270F
+801173C4 270F
+#Infinite & Max HP Fourth character
+80117358 270F
+8011735C 270F
+#Infinite & Max HP Fifth character
+80117428 270F
+8011742C 270F
+#Have 99999 money
+800E3BE8 869F
+800E3BEA 0001
+#Angelique Max
+301174E8 00FF
+#Angelique Max Mp
+301174E9 00FF
+#Angelique Max Attack Force
+301174EA 00FF
+#Angelique Max Defenses
+301174EB 00FF
+#Angelique Max Magic Power
+301174EC 00FF
+#Angelique Max Anti-Magic
+301174ED 00FF
+#Angelique Max Rapidity
+301174EE 00FF

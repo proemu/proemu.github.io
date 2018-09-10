@@ -1,0 +1,6 @@
+#Clear map
+300225F3 0001 
+#MAX Money
+8002264C DF7E 
+8002264E 1017  
+

@@ -1,0 +1,16 @@
+#Gives P1 Lots Of Points
+80105348 C350
+#Gives P1 No Points
+80105348 0000
+#Gives P2 Lots Of Points
+8010534C C350
+#Gives P2 No Points
+8010534C 0000
+#Gives P3 Lots Of Points
+80105350 C350
+#Gives P3 No Points
+80105350 0000
+#Gives P4 Lots Of Points
+80105354 C350
+#Gives P4 No Points
+80105354 0000

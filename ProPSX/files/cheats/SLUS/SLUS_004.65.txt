@@ -1,0 +1,14 @@
+#Infinite Balls
+30026CAB 0000
+#Infinite Strikes
+30026CAA 0000
+#Infinite Outs
+30026CAC 0000
+#Away Team Score 9
+300269C8 0009
+#Away Team Score 0
+300269C8 0000
+#Home Team Score 9
+300269C4 0009
+#Home Team Score 0
+300269C4 0000

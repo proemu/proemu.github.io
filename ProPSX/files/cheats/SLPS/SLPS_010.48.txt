@@ -1,0 +1,5 @@
+#Infinite Points
+80158BD0 001F
+#Infinite Lifes
+8014892E 1900
+800FC780 0064

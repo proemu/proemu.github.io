@@ -1,0 +1,7 @@
+#Almost Invulnerable		
+800885CA C000
+#Player 1 Open All Cinematics		
+800A02BC FFFF
+800A02BE FFFF
+#Player 1 Open All Levels 
+800A02BA 0007

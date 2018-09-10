@@ -1,0 +1,17 @@
+#Infinite Health P1
+8005232E 1912
+#Infinite Power P1
+8005232C 1914
+#Can't Loose With Knock Outs P1
+80052330 0000
+#Infinite Power P2
+800527DC 1914
+#Infinite Health P2
+800527DE 1912
+#Can't Loose With Knock Outs P2
+800527D0 0000
+#Refresh Time (P1) Press R1+L1
+D0052E3A 000C
+80077B7E 00BB
+#Don't Recover Power
+80066CBE 3C00

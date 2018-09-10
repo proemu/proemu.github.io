@@ -1,0 +1,9 @@
+#Infinite Health
+801D83A0 8000
+#Infinite % Max Hp
+801D83A0 0078 
+801D83A8 0078
+#Invincible
+801D84C8 002A
+#Infinite Bombs
+801D84F6 0003

@@ -1,0 +1,7 @@
+#Enemy always 0 wins in vs mode
+800CFCFB 0000
+#Enemy always 2 wins in vs mode
+800CFCF8 0002
+#Always Score 9,999,999
+800CFBE8 423F
+800CFBEA 000F

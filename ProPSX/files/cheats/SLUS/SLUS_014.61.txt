@@ -1,0 +1,12 @@
+#Max Points P1
+800D6990 0063
+#No Points P1
+800D6990 0000
+#Max Coins P1
+800E08D8 270F
+#No Points P2		
+800D6992 0000
+#No Coins P2		
+800E0A24 0000
+#Max Points P2		
+800D6992 0063

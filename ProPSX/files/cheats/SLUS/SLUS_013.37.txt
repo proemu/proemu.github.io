@@ -1,0 +1,8 @@
+#Player 1 Infinite Lives
+800996B4 0003
+#Player 1 Max Infinite Special
+8009970A 7FFF
+#Player 2 Infinite Lives
+80099750 0003
+#Player 2 Max Infinite Special
+800997A6 7FFF

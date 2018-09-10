@@ -1,0 +1,29 @@
+#Instant Max Combo (P1)		
+E009D85E 0001
+3009D85E 0014
+#Instant Max Combo (P2)		
+E009D85F 0001
+3009D85F 0014
+#Massive Kougekidamas (p1)		
+3009D85B 00FF
+#Massive Kougekidamas (P2)		
+3009D85A 00FF
+#Max Score (P1)		
+8009D554 E0FF
+8009D556 05F5
+#Max Score (P2)		
+8009D558 E0FF
+8009D55A 05F5
+#No Kougekidamas (P1)		
+3009D85B 0000
+#No Kougekidamas (P2)		
+3009D85A 0000
+#Press L2 for Zendamas (P1)		
+E008C9A0 0001
+8009D550 0808
+#Press L2 for Zendamas (P2)		
+E008C9F0 0001
+8009D552 0808
+#Unlock All Extras		
+8008CB72 FFFB
+8009D34C FFFF

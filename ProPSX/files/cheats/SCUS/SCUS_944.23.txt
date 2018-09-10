@@ -1,0 +1,27 @@
+#Infinite Health	
+800EC2C8 0005		
+#Infinite Lives	
+800F448C 0064	
+#Infinite Air	
+800F4DC8 0258		
+#Catch 1 Monkey to End Level	
+800F44B6 00CE		
+#Max Gold Triangle	
+800F44B8 0063		
+#Timer is 0:00:00	
+800F4490 0000		
+#Have All Gadgets	
+D00F51C4 0003
+300F51C4 00FF		
+#Have All Spectar Coins	
+800F44BA 003C		
+#Moon Jump (Press R1 for Moon Jump, and R2 for a Normal Jump.)	
+D00E5478 0008
+800EC23E 0008
+#Complete Monkey Book		
+5000FF02 0000
+800DF828 0202
+50005502 0000
+800DFA26 0202
+50001002 0000
+800DFC70 0202

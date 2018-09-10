@@ -1,0 +1,6 @@
+#Player Who Goes First Has 9,999,999 Gold (.For one player mode use player goes first code. For the missions which it does not work, use the player who goes second's code.)
+800E6C88 967F
+800E6C8A 0098
+#Player Who Goes Second Has 9,999,999 Gold
+800EAEAC 967F
+800EAEAE 0098

@@ -1,0 +1,8 @@
+#P1 Infinite Health
+801232DE 0080
+#Infinite Time
+80125180 090E
+#P2 No Health		
+80124312 0000
+#Select All Extra Players
+801273D0 FFFF

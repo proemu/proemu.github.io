@@ -1,0 +1,5 @@
+#Infinite Ball Player 1	
+80063DD4 0001		
+#Infinite Ball Saver	
+8005EBC6 0007
+

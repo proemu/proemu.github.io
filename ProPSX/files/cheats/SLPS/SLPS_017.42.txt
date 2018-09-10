@@ -1,0 +1,27 @@
+#Infinite Energy Colosseum Mode
+800A2E72 012C
+#Infinite Magic Colosseum Mode
+800A2E74 012C
+#Infinite Money 999999
+800705A0 423F
+800705A2 000F
+#HP enemy in combat 0
+800A2FF2 0000 
+#All Gallery Unlocked
+80081600 FFFF 
+80081602 FFFF 
+80081604 FFFF 
+80081606 FFFF 
+30081608 00FF 
+#Purchased items 
+300705A4 0048 
+#HP battle now	
+800A2E72 03E7
+#MP during combat currently	
+800A2E74 03E7
+#During combat Maximum HP	
+800A2E76 03E7
+#During combat Maximum MP	
+800A2E78 03E7
+#Gallery	
+3008160F 00FF

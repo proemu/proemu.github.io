@@ -1,0 +1,61 @@
+#Infinite Time
+80054C54 0000
+80054C64 0000
+8005772C 0000
+8005FC60 0000
+8005FC64 0000
+#Infinite Msc's
+8005FCF0 0063
+#Infinite Rkt's
+8005FCF2 03E7
+#Infinite Nap's
+8005FCF4 0063
+#Infinite Tac's
+8005FCF6 0063
+#Always Play Level Urban Strike
+800F23DC 0000
+#Always Play Level Black Out
+800F23DC 0001
+#Always Play Level Ice Storm
+800F23DC 0002
+#Always Play Level Desert Fury
+800F23DC 0003
+#Always Play Level Riger Trap
+800F23DC 0004
+#Always Play Level Crack Down
+800F23DC 0005
+#Always Play Level Hurricane
+800F23DC 0005
+#Start on Level Urban Strike
+D00F23DC 0000
+800F23DC 0000
+#Start on Level Black Out
+D00F23DC 0000
+800F23DC 0001
+#Start on Level Ice Storm
+D00F23DC 0000
+800F23DC 0002
+#Start on Level Desert Fury
+D00F23DC 0000
+800F23DC 0003
+#Start on Level Riger Trap
+D00F23DC 0000
+800F23DC 0004
+#Srtart on Level Crack Down
+D00F23DC 0000
+800F23DC 0005
+#Strart on Level Hurricane
+D00F23DC 0000
+800F23DC 0005
+#Msc's Fully Powered Up
+3005FCFA 0003
+#Rkt's Fully Powered Up
+3005FCFB 0003
+#Nap's Fully Powered Up
+3005FCFC 0003
+#Tac's Fully Powered Up
+3005FCFD 0003
+#Gun Fully Powered Up
+3005FCFE 0003
+#'Perfect' Pause Enabled
+8005EF78 0001

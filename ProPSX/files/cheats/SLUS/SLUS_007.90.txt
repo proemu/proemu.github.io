@@ -1,0 +1,20 @@
+#Unlock All Classes
+80086E68 000F
+#Unlock All Tracks
+80086E6C 0FFF
+#Unlock Mirror Mode
+80086E70 0001
+#Unlock View Fox Movie
+80086E7C 0001
+#Huge Head & Tires
+80086E36 0001
+#Total Point Modifier & Always Place First 1
+800D4F1C 0063
+#Start on Lap 2
+80086E38 0002
+#Start on Lap 3
+80086E38 0003
+#Start on Lap 4
+80086E38 0004
+#Big Head & Tire Mode
+30086E34 0001

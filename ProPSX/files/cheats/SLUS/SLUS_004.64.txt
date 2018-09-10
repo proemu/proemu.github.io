@@ -1,0 +1,68 @@
+#Infinite Energy
+800CF8F4 0064
+#Have Jacket
+800EF4DC 0001
+#Have Memory Chip
+800EF4E0 0001
+#Have Silver Key Card
+800EF4E4 0001
+#Have Memo
+800EF4E8 0001
+#Have Laser Knife
+800EF4EC 0001
+#Have Anti Gravity Device
+800EF4F0 0001
+#Have Simple Case
+800EF4F4 0001
+#Have Oil Container
+800EF4F8 0001
+#Have Broke Thermostat
+800EF4FC 0001
+#Have Chemical Bottle
+800EF500 0001
+#Have Capsule
+800EF504 0001
+#Have Hand Gun
+800EF508 0001
+#Have Silver Key
+800EF50C 0001
+#Have Voice Recorder
+800EF510 0001
+#Have Iron Rods
+800EF514 0001
+#Have Stun Gun
+800EF518 0001
+#Have Metal Grate
+800EF51C 0001
+#Have Burner
+800EF520 0001
+#Have Clip
+800EF524 0001
+#Have Red Key Card
+800EF528 0001
+#Have Compact Data Disc
+800EF52C 0001
+#Have Gold Card Key
+800EF530 0001
+#Have Emergency Spray
+800EF534 0001
+#Have Allen Wrench
+800EF538 0001
+#Have Cord
+800EF53C 0001
+#Have Bare Cord
+800EF540 0001
+#Have Dead Battery
+800EF544 0001
+#Have Charged Batter
+800EF548 0001
+#Have Identification Card
+800EF54C 0001
+#Have Ice Box
+800EF550 0001
+#Have Small Bombe
+800EF554 0001
+#Have Sample Case
+800EF558 0001
+#Have Portable Food
+800EF55C 0001

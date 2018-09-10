@@ -1,0 +1,38 @@
+#R-Type 1\Invincible
+80135A70 0001
+#R-Type 1\Infinite Lifes P1
+801359DC 0005
+#R-Type 1\Infinite Lifes P2
+801359E4 0005
+#R-Type 1\Max Speed And Laser Attack
+80132ADE 0A0A
+#R-Type 1\Have Shield
+80132ADA 0303
+#R-Type 1\Have Missiles
+80132ADC 0314
+#R-Type 1\Max Weapons
+80132AE6 0303
+#R-Type 1\Full Beam
+80132AE4 8000
+#R-Type 1\Credits
+801359AE 0099
+#R-Type 2\Infinite Lifes P1
+800FA352 0300
+#R-Type 2\Infinite Lifes P2
+800FA35A 0300
+#R-Type 2\Invincible
+D00975F8 0040
+800975F8 0000
+#R-Type 2\Full Beam
+800F6B7A 00A0
+#R-Type 2\Max Speed
+800F6B6E 0002
+#R-Type 2\Have Shield
+800F6B6A 0303
+#R-Type 2\Have Missiles
+800F6B6C 0314
+#R-Type 2\Max Weapons
+800F6B76 0303
+#R-Type 2\Credits
+800FA326 0099
+

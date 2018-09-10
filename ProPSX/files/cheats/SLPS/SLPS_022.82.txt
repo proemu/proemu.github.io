@@ -1,0 +1,3 @@
+#Player 1 has 99999 money
+8004CDE4 869F
+8004CDE6 0001

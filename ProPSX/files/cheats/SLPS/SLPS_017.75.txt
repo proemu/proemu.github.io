@@ -1,0 +1,62 @@
+#Special FX job at 999
+8004F848 2706
+#Scissors job at 999
+8004F84A 2706
+#Music job at 999
+8004F84C 2706
+#Graves job at 999
+8004F84E 2706
+#Sounds job at 999
+8004F850 2706
+#Movie job at 999
+8004F852 2706
+#Sayuri Katayama Love degree Max 	
+3004F371 0003 
+3004F371 0003
+#Sayuri Katayama  Friends degree Max 	
+8004F388 270F 
+8004F388 270F	
+#Ikumi Hosokawa Love degree Max 	
+3004F3BD 0003 
+3004F3BD 0003
+#Ikumi Hosokawa Friends degree Max 	
+8004F3D4 270F 
+8004F3D4 270F		
+#Hashimoto Love degree Max 	
+3004F409 0003 
+3004F409 0003
+#Hashimoto Friends degree Max 	
+8004F420 270F 
+8004F420 270F		
+#Ito Sha  Love degree Max 	
+3004F455 0003 
+3004F455 0003
+#Ito Sha Friends degree Max 	
+8004F46C 270F 
+8004F46C 270F	
+#Eriko Ikeda Love degree Max 	
+3004F4ED 0003 
+3004F4ED 0003
+#Eriko Ikeda Friends degree Max 	
+8004F504 270F 
+8004F504 270F	
+#Hutoshi Hiroshi Tanaka Friends degree Max 	
+8004F550 270F 
+8004F550 270F		
+#Satoshi Suzuki Friends degree Max 	
+8004F59C 270F 
+8004F59C 270F
+#Takeshita Xiang Friends degree Max 	
+8004F5E8 270F 
+8004F5E8 270F
+#It does not increase fatigue 
+8001683E A460
+#All preparatory work is in progress to 100 	
+D00736C4 660E 
+D00736C4 660E
+800736C8 03E8 
+800736C8 03E8
+D00736C4 660E 
+D00736C4 660E
+800736CA 2402 
+800736CA 2402

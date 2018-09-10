@@ -1,0 +1,6 @@
+#Have All Driver's Unlocked
+800EE332 FFFF
+#One Lap To Race / Finish 1st
+800EDE48 0009
+D0110EFC 0000
+80110EFC 0008

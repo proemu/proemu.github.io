@@ -1,0 +1,25 @@
+#Infinite Health
+8009B162 001F
+#Infinite Lives
+8009AEB4 0003
+#Invincible
+8011CD1E 0092
+#Infinite Green Weapon Energy
+8009AF0E 0024
+#Always Have Red Homing Gun With Infinite Ammo
+8009AC0C 0006
+#Moon Jump For the moon jump use the default controller settings only. Hold X down to rise higher
+D009B150 0001
+800C16C4 0100
+#Infinite Oxygen
+8009B030 0EF3
+#Have All Keys
+801BE972 0001
+#Have All Keys
+801BE95A 0001
+#Have All Keys
+801BE98A 0001
+#Room & Stage Skip Press R1 and R2 buttons to scroll forward for each and hold the buttons to warp there
+3009B334 0001
+
+

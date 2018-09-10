@@ -1,0 +1,11 @@
+#Infinite Lives
+80102EF4 0005
+#SUPPORT AI (Select) 
+D004BAC6 FFFE 
+3016FE48 0002
+#Unlock All Extras all stages, bonuses, and medals. 	
+C1000000 0000
+80014498 FFFF
+800144A6 FFFF
+800144C2 FFFF
+800144C6 0100

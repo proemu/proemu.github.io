@@ -1,0 +1,20 @@
+#Infinite Energy Character 1 Mission 1
+8019F9B4 0190
+#Infinite Energy Character 2 Mission 1
+8019FB2C 0150
+#Infinite Energy Character 1 Mission 2
+801A283C 0150
+#All levels unlocked (load a save game) 
+30110BF0 000F
+#No damage  (all)
+80073320 0000
+#No damage  (all) On (Press L1 & Up)
+D012E9D6 FBEF
+80073320 0000
+#Items Infinite	
+D002D7E8 FFFF
+8002D7EC 0000
+#Inventory Have All items (Press L1 & L2)
+D012E9D6 FAFF
+50000702 4040
+801111A8 0000

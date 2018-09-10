@@ -1,0 +1,28 @@
+#1 Hit Dead 	
+D0058696 1C40
+80058696 1C00 		
+#Infinite Hp 	
+D0058642 0071
+80058642 0060 		
+#Infinite Mp 	
+D0059A76 0070
+D0059A76 0060 		
+#Max Hp 	
+8009B584 03E7 		
+#Max Mp 	
+8009B586 03E7 		
+#Max Act 	
+8009B588 03E7 		
+#Max +Act 	
+8009B590 03E7 		
+#Max Def 	
+8009B58C 03E7 		
+#Max +Def 	
+8009B594 03E7 		
+#Max Money 	
+8009B4F0 967F
+8009B4F2 0098
+
+
+
+

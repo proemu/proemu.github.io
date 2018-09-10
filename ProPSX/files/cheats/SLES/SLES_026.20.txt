@@ -1,0 +1,6 @@
+#Infinite energy Player 1 mission 1
+801BF259 0190
+#Infinite energy Player 1 mission 2
+801BE069 0190
+#Infinite energy Player 1 mission 3
+801C1CA1 0190

@@ -1,0 +1,2 @@
+#Have infinite character creation points Deactivate after completing creating the character
+800D0374 0063

@@ -1,0 +1,12 @@
+#Infinite Hp For Player One
+8014CE86 1000
+#Infinite Hp For Player Two
+8014CF36 1000
+#Infinite Overheat Bar For Player One
+8014CE76 0104
+#Infinite Overheat Bar For Player Two
+8014CF26 0104
+#Infinite Missiles For Player One
+8014CE6C 0008
+#Infinite Missiles For Player Two
+8014CF1C 0008

@@ -1,0 +1,11 @@
+#Infinite Lasers
+801E6A8C 03FC
+#Inf Energy--Break Point Code
+80107F50 0000
+80107F52 0000
+#Infinite Imrec Missiles
+801E6C08 0009
+#Infinite Decoys
+801E6AA0 0018
+#Infinite Fuel
+801E5A3C EE00

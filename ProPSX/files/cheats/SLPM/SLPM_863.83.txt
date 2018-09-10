@@ -1,0 +1,33 @@
+#All Letters (Turn code OFF during bonus stage, or you will play the bonus stage endlessly)
+8005B58C FFFF
+#Have Knife		
+D00A63AE 0000
+800A6404 0010
+#Infinite Fruit		
+D00A63AE 0000
+800A6862 0063
+D00A63AE 0000
+800A6864 0063
+D00A63AE 0000
+800A6866 0063
+#Infinite HP	
+800A63B6 0160
+#Physical fitness Max
+800A63B6 0200 
+800A63B8 0200 
+#Infinite Lives		
+8005B5BA 0063
+#Max Coins	
+D00A63AE 0000
+8005B5BC 03E7
+#Unlock Extras
+8005B586 8001
+50000D02 0000
+3005B5C3 00FF
+50000D02 0000
+3005B5C4 0064
+#(Paused) bonus 
+8005B586 8001 
+#All Tarzan characters
+3005B58D 003F 
+

@@ -1,0 +1,10 @@
+#Infinite energy 1P
+8018720C 0090 
+#Infinite energy 2P
+801874D4 0090 
+#No energy 2P
+801874D4 0000 
+#1P air deathblow 
+8018727E 0090 
+#2P air deathblow 
+80187546 0090

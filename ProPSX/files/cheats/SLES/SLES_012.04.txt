@@ -1,0 +1,66 @@
+#Freeze Race Timer
+D00C607E 000F
+800C607E 000A
+#Infinite Time
+800C5FD8 003C
+#Always Pass The Rally School
+80010358 FFFF
+#All Tracks & Cars In Expert Mode
+80010098 FFFF
+#To End Race And Always Be In First Place (.This cheat reqiures that you press the R1 button by itself once during each race. This will make the game believe that the race is finished. When you decide to end the race is up to you. If you want to drive through most of the course you can or you can finish as youstart.)
+8007BDF0 0000
+8007BDF2 0000
+D00CE0E4 0800
+800C6C38 02F0
+#Infinite Time In Setup At Rally School
+800CF160 003C
+#Stop Timer In Rally School
+800CF206 0001
+#Difficulty Modifier Novice
+801E5534 0000
+#Difficulty Intermediate
+801E5534 0001
+#Difficulty Expert
+801E5534 0002
+#Press R1 + x For Nitrous Boost
+E00CE0E5 0048
+800D537A 000C
+E00CE0E5 0048
+800D537E 000C
+E00CE0E5 0048
+800D5382 000C
+E00CE0E5 0048
+800D5386 000C
+E00CE0E5 0048
+800DB912 000C
+E00CE0E5 0048
+800DB916 000C
+E00CE0E5 0048
+800DB91A 000C
+E00CE0E5 0048
+800DB91E 000C
+E00CE0E5 0048
+800D54D6 0006
+#Elektricity
+300101D2 0000
+300101D4 0064
+#Behaviour
+300101D5 0000
+300101D7 0064
+#Brakes
+300101D8 0000
+300101DA 0064
+#Engine
+300101DB 0000
+300101DD 0064
+#Gearbox
+300101DE 0000
+300101E0 0064
+#Championship qualification
+300C6C18 0001
+#Have Infinite Repair- & Setup-Time
+800C5D0C 003C
+800C5C98 003C
+#Freeze Timer In Time Trial Mode
+800C5D3C 0000
+800C6900 0000

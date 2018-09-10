@@ -1,0 +1,47 @@
+#Infinite Health
+300BA0BD 0040
+800BA0BE 0006
+#Infinite Ammo All Weapons/No Reload
+800BA008 0001
+#Have Map
+800BCB98 0002
+#Have Max Slots
+300BCADF 0028
+#Save Anywhere (Press L1+Circle)		
+D00BC76C 2400
+800B9FC8 0009
+#Always First Save
+800BCADA 0000
+#Maxium Brightness In Options
+300BC74B 001F
+#Roller Skate Mode
+800BA132 3800
+#Infinite All Items 1
+50002804 0000
+300BCA35 00FF
+#Game Time 0:0:0
+800BCC84 0000
+800BCC86 0000
+#Radio Always On
+800BCAE0 0001
+#Completed Map
+800BCC08 FFFF
+800BCC0A FFFF
+800BCC0C FFFF
+800BCC0E FFFF
+800BCC10 FFFF
+#Flashlight Always On
+800BC35C 0100
+#All Weapons This will overwrite other items unless you start a new game!!
+50000404 0001
+300BCA34 00A0
+50000304 0001
+300BCA44 0080
+50000404 0001
+300BCA50 0084
+300BCA60 00E2
+#Have A Ten Star Ranking At End Of Game
+300C48B5 0064
+#How Many Games Cleared Max
+300BCC7E 00FF
+

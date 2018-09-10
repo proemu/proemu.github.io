@@ -1,0 +1,8 @@
+#Infinite Money For Gdi
+8011C564 270F
+#Infinite Power For Gdi
+8011C584 0600
+#Infinite Money For Nod
+8011CC4C 270F
+#Infinite Power For Nod
+8011CC6C 0600

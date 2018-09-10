@@ -1,0 +1,34 @@
+#Infinite Mp Mint Level 1 Forest
+8012586E 03E7
+#Infinite Hp Mint Level 1 Forest
+8012586C 03E7
+#Infinite Mp Mint Level 2 Cliffs
+8011B982 03E7
+#Infinite Hp Mint Level 2 Cliffs
+8011B980 03E7
+#Infinite Mp Mint Level 3 Gargoyles
+8012E03E 03E7
+#Infinite Hp Mint Level 3 Gargoyles
+8012E03C 03E7
+#Infinite Mp Mint Level 4 Guard Dog
+801569FE 03E7
+#Infinite Hp Mint Level 4 Guard Dog
+801569FC 03E7
+#Infinite HP Mint Underground Ruins
+80128840 03E7
+#Max Money
+8009B2D8 967F
+8009B2DA 0098
+#Time Always 00:00:00
+800A7AA0 0000
+#Infinite & Max Hp
+8009B368 03E7
+8009B36C 03E7
+#Infinite & Max Mp
+8009B36A 03E7
+8009B36E 03E7
+#All Items 
+50000902 0000
+8009B3A0 6363
+#Start In Final Area	
+8009B2F0 00FF

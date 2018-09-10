@@ -1,0 +1,21 @@
+#Always Place First
+8007C508 0001
+#Course Select
+801DC9C8 0707
+#Race As Black Lamborghini
+8007C43A 000C
+#Race As Black Lamborghini Kid
+8007C43A 000D
+#Race As White Angel
+8007C43A 000E
+#Extra Cars 1 Works by giving you a perfect score in the Galaga game. You have to wait all 4 rounds to activate the code!!
+801DE318 0028
+#Extra Cars 2
+801DD208 0001
+#Car Stuck
+8007C368 761E
+8007C448 761E
+#Always Hear The Checkpoint Chim Noise
+8007C368 761E
+8007C3F8 01E6
+

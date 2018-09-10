@@ -1,0 +1,8 @@
+#Player has points
+800756AC 03E7
+#Player has 999 houses
+800F7704 03E7
+#Player has 999 buildings
+800F7708 03E7
+#Computer has always 0 points
+800756AE 0000

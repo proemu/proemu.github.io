@@ -1,0 +1,67 @@
+#George-Codes\Infinite Health
+800D6F86 0064
+#George-Codes\Invincibility
+800D706E 0239
+#George-Codes\High Score
+800D6FA4 0FFF
+800D6FA6 00CF
+#George-Codes\More Power-Mode
+800D7070 0181
+800D70B8 0000
+#George-Codes\Damage Always 100%
+800DC474 0064
+#Scoring Screen\Property Damage
+800BB960 00FF
+#Scoring Screen\Max People
+800D6F9A 00FF
+#Scoring Screen\Max Food
+800D6F9C 00FF
+#Scoring Screen\Max Vehicles
+800D6F9E 00FF
+#Scoring Screen\Max Buddy Bashing
+800D6FAC 00FF
+#Lizzy-Codes\Infinite Health
+800D7152 0064
+#Lizzy-Codes\High Score
+800D7170 0FFF
+800D7172 00CF
+#Lizzy-Codes\Invincibility
+800D723A 0239
+#Lizzy-Codes\Super Strength
+800D723C 0181
+800D7284 0000
+#Lizzy-Codes\Damage Always 100%
+800DC640 0064
+#Scoring Screen\Max Property Damage
+800BBB2C 00FF
+#Scoring Screen\Max People
+800D7166 00FF
+#Scoring Screen\Max Food
+800D7168 00FF
+#Scoring Screen\Max Vehicles
+800D716A 00FF
+#Scoring Screen\Max Buddy Bashing
+800D716E 00FF
+#Ralph-Codes\Infinite Health
+800D731E 0063
+#Ralph-Codes\High Score
+800D733C 0FFF
+800D733E 00CF
+#Ralph-Codes\Invinciblity
+800D7406 0239
+#Ralph-Codes\More Power-Mode
+800D7408 0181
+800D7450 0000
+#Ralph-Codes\Damage Always 100%
+800DC80C 0064
+#Scoring Screen\Max Property Damage
+800BBCF8 00FF
+#Scoring Screen\Max People
+800D7332 00FF
+#Scoring Screen\Max Food
+800D7334 00FF
+#Scoring Screen\Max Vehicles
+800D7336 00FF
+#Scoring Screen\Max Buddy Bashing
+800D733A 00FF
+

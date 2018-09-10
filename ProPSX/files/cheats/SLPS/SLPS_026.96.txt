@@ -1,0 +1,4 @@
+#PLayer 1 999 points
+800EE9D8 03E7 
+#Computer has 0 points
+00EE9F8 0000

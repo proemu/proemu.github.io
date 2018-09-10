@@ -1,0 +1,14 @@
+#Infinite Energy
+3001642A 0002
+#Infinite Lives
+30016428 0005
+#Always Have 99 DNA	
+30016429 0063
+#Infinite Missiles (On Pickup)	
+3001642B 0004
+#Infinite Flame (On Pickup)	
+30016431 00FF
+#Infinite Electro (On Pickup)	
+30016433 00FF
+#Infinite Poison (On Pickup)	
+30016435 00FF

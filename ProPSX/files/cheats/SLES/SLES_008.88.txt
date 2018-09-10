@@ -1,0 +1,17 @@
+#Infinite Energy
+800833E1 03E8
+#Levelselect (Press Select Pad2)	
+D00DBA4A FFFE
+8007AD28 0213
+#All weapons	
+8007ACD8 0506
+8007ACF8 030B
+8007AD08 030F
+8007AD18 0312
+8007AD38 030C
+#Infinite Time	
+800D51D8 270F
+#Right Weapon Don't Overheats
+800838E8 0000
+#Infinite Left Weapon
+80083314 1200

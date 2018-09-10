@@ -1,0 +1,18 @@
+#Infinite Energy Player 1
+800BFB98 005C
+#Infinite Energy Player 2
+800BFDB0 005C
+#Invincible Player 1
+800BFB94 00AA
+#Invincible Player 2
+800BFDAC 00AA
+#Infinite Power Player 1
+80121594 1000
+80121598 1000
+#Infinite Power Player 2
+801215FC 1000
+80121600 1000
+#Infinite Land Mines
+801215B4 0063
+#Infinite Proximity Bombs
+801215B0 0063

@@ -1,0 +1,4 @@
+#Player always 99 points in vs mode
+8017A0B8 0063
+#CPU always 0 points in vs mode
+8017A0BA 0000

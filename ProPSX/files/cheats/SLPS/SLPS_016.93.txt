@@ -1,0 +1,22 @@
+#1P set count 1
+80088208 0001
+#1P set count 2
+80088208 0002
+#1P set count 3
+80088208 0003
+#Choose hidden character
+8009C470 0001
+#Dollar Ball
+800C8AB4 0098967F
+#All items
+5000C001 0000
+300CBA9C 0063
+#All equipment
+50003101 0000
+300CBA6A 0063
+#All Characters
+D01C5824 000B
+801C5824 0001
+#Infinite money  
+800C8AB4 967F
+800C8AB6 0098

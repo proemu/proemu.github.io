@@ -1,0 +1,6 @@
+#Stop timer
+800C5F4C 0000 
+#The end of the race when you press the SELECT button during the race It becomes the first place
+D00CF89C 0001 
+800C6B10 0FFF 
+

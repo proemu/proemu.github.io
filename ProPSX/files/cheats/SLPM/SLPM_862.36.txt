@@ -1,0 +1,12 @@
+#P1 Infinite Health
+800AD7EE 0170
+#P2 Infinite Health
+800AF00E 0170
+#P2 No Health
+800AF00E 0000
+#Unlock All Characters
+300ACA7E 0003
+#Unlock Team Battle & Data Menu
+800ACA84 FFFF 
+800ACA86 007F 
+800ACA88 FFFF

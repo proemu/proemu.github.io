@@ -1,0 +1,11 @@
+#Story Mode Infinite Energy P1
+8004B140 0063 
+8004B000 0063 
+#Infinite Energy P1 Card Battle
+800DCF78 0014
+#No Energy COM1 Card Battle
+800DCF74 0000
+#No Energy COM2 Card Battle
+800DCF7C 0000
+#No Energy COM3 Card Battle
+800DCF80 0000

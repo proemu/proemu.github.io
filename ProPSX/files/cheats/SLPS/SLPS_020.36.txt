@@ -1,0 +1,16 @@
+#Player has 99999 points normal mode
+801FB98C 869F
+801FB98E 0001
+#Opponent 1 has 0 points normal mode
+801FB994 0000
+#Opponent 2 has 0 points normal mode
+801FB990 0000
+#Player has 99999 points story mode
+801FB50C 869F
+801FB50E 0001
+#Opponent 1 has 0 points story mode
+801FB510 0000
+#Opponent 2 has 0 points story mode
+801FB514 0000
+#Opponent 3 has 0 points story mode
+801FB518 0000

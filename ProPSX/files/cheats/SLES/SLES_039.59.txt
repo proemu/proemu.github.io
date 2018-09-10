@@ -1,0 +1,6 @@
+#Infinite Energy P1
+801FEBD0 0AF0
+801FEBD4 0AF0
+#Enemy Energy is Always 0
+801FEC10 0000
+801FEC14 0000

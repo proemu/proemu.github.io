@@ -1,0 +1,8 @@
+#Home Team Score 100 Points	
+800A0214 0064
+#Home Team Score 0 Points	
+800A0214 0000
+#Away Team Score 100 Points 
+800A0234 0064
+#Away Team Score 0 Points 
+800A0234 0000

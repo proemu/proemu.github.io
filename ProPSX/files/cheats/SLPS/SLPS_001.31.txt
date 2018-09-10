@@ -1,0 +1,30 @@
+#Infinite Credits Player 1
+800E6C78 0004
+#Infinite Lifes Player 1
+801BDE8C 0500
+#Power Up Player 1
+801BDE8A 0203
+#Player 1 Invincible
+801BDE80 00FF
+#P1 Infinite Blue Smartbombs
+801BDE92 0101
+801BDE94 0101
+801BDE96 0101
+#P1 Infinite Red Smartbombs
+801BDE92 0202
+801BDE94 0202
+801BDE96 0202
+#Infinite Lifes Player 2
+801BDEF4 0500
+#Power Up Player 2
+801BDEF2 0203
+#Player 2 Invincible
+801BDEE8 00FF
+#P1 Infinite Blue Smartbombs
+801BDEFA 0101
+801BDEFC 0101
+801BDEFE 0101
+#P2 Infinite Red Smartbombs
+801BDEFA 0202
+801BDEFC 0202
+801BDEFE 0202

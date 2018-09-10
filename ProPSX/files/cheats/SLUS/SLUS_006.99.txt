@@ -1,0 +1,6 @@
+#Infinite Health P1 	
+80114272 0258 
+#Infinite Time		
+800F43B4 4649
+#Invincible		
+300F3B94 0063

@@ -1,0 +1,45 @@
+#Everythings Unlocked
+50000502 0000
+80066A40 FFFF
+#P1 Codes\Infinite Health
+D00CDEBC 0090
+800CDEBA 0090
+#P1 Codes\Sudden Death
+D00CDEBA 0090
+800CDEBA 0001
+#P1 Codes\Infinite Stand
+D00CD3D4 0050
+800CD3D2 0050
+#P1 Codes\No Stand
+D00CD3D4 0050
+800CD3D2 0000
+#P1 Codes\Max Super Combo Level
+300D08A2 0009
+#P1 Codes\Infinite Super Combo Gauge
+300D08A1 0068
+#P1 Codes\Never Loses
+300D08E7 0000
+#P1 Codes\Starts With 1 Round Won
+D00D08A2 0001
+300D08A3 0001
+#P2 Codes\Infinite Health
+D00CE24C 0090
+800CE24A 0090
+#P2 Codes\Sudden Death
+D00CE24A 0090
+800CE24A 0001
+#P2 Codes\Infinite Stand
+D00CD764 0050
+800CD762 0050
+#P2 Codes\No Stand
+D00CD764 0050
+800CD762 0000
+#P2 Codes\Max Super Combo Level
+300D08E6 0009
+#P2 Codes\Infinite Super Combo Gauge
+300D08E5 0068
+#P2 Codes\Never Loses
+300D08A3 0000
+#P2 Codes\Starts With 1 Round Won
+D00D08E6 0001
+300D08E7 0001

@@ -1,0 +1,5 @@
+#Infinite energy Character 1  
+80134DA4 03E7
+#Infinite TP Character 1  
+80134DA6 03E7
+ 

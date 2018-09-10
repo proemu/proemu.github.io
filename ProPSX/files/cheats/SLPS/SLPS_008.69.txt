@@ -1,0 +1,10 @@
+#Unlimited Health
+800B4D64 0060
+#All 5 Change Roll
+300B4D6A 0005
+#Infinite Keys
+800A282C 0101
+#Infinite Bombs
+800B4D66 0101
+#Transparent
+300A266C 0001

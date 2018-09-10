@@ -1,0 +1,34 @@
+#Alex (Main Character) Codes\Infinite Hp
+801DBFC0 03E7
+#Alex (Main Character) Codes\Max Hp
+801DBFC2 03E7
+#Alex (Main Character) Codes\Infinite Mp
+801DBFC4 03E7
+#Alex (Main Character) Codes\Max Mp
+801DBFC6 03E7
+#Inf Mp In Battle (All Characters)
+8002E7E6 2400
+#Inf Hp In Battle (All Characters)
+80030660 0055
+#Infinite Money		
+801DC37C FFFF
+#No random battles
+800B8C1A 0003
+#All Movies Open In Rememberizer		
+801DC3AC FFFF
+801DC3AE FFFF
+#Secret Pictures (Press L2+Start)		
+D00B8854 0801
+801DC300 9291
+D00B8854 0801
+801DC302 9493
+D00B8854 0801
+801DC304 9695
+D00B8854 0801
+801DC306 9897
+D00B8854 0801
+801DC308 9A99
+D00B8854 0801
+801DC30A A59B
+D00B8854 0801
+801DC30C B5A7

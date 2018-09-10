@@ -1,0 +1,22 @@
+#Invincible 	
+80087C1E 0300 		
+#Infinite SAMS 	
+800855AE 0004 		
+#Infinite Cash 	
+800855C0 FFFF 		
+#Upgrade Target Computer 	
+800855BC 0004 		
+#Upgrade Engine 	
+800855B6 0004 		
+#Upgrade Track 	
+800855B8 0004 		
+#Upgrade Coolant 	
+800855BE 0004 		
+#Upgrade Reloader 	
+800855BA 0004 		
+#Upgrade Armor 	
+800855AC 0004 		
+#Infinite Air Support 	
+800855B4 0004 		
+#Enemy Targets to Kill = 0 	
+800887D4 0000

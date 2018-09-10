@@ -1,0 +1,5 @@
+#P1 Infinite Lives
+800F0600 0005
+#Infinite Times (Press R2)		
+D00E2BF8 0002
+800E4768 0007

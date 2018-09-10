@@ -1,0 +1,28 @@
+#Infinite Energy
+800A9F78 0063
+#Infinite Blue Ammo
+800AA102 0063
+#Infinite Yellow Ammo
+800AA10A 0063
+##Infinite Grey Ammo
+800AA112 0063
+#Infinite Green Ammo
+800AA11A 0063
+#Have 99 gas bottles
+800ABD1E 0063
+#Level 1
+800A96F4 0000
+#Level 2
+800A96F4 0001
+#Level 3
+800A96F4 0002
+#Level 4
+800A96F4 0003
+#Level 5
+800A96F4 0004
+#Level 6
+800A96F4 0005
+#Level 7
+800A96F4 0006
+#Level 8
+800A96F4 0007

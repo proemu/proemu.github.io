@@ -1,0 +1,6 @@
+#Timer Always 0
+8006AC24 0000
+#Max Score
+8007BCAC FFFF
+#Always Finish First
+3006BA60 0000

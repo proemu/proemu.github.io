@@ -1,0 +1,11 @@
+#Infinite energy Player 1
+800BDB00 0090
+800CD1A0 0090
+800CD1A2 0090
+#P1 Only Needs to Win 1 Round	
+800CD49E 0200
+800CD4A6 0002
+#Player 1 Plays Huitzil	
+800CD140 0B00
+#Player 1 Plays Pyron	
+800CD140 0C00

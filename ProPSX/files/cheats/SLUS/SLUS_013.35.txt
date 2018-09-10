@@ -1,0 +1,4 @@
+#Inf Hp
+300CFA0E 0063
+#Max Hp
+300CFA0F 0063

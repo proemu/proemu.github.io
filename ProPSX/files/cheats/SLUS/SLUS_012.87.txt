@@ -1,0 +1,11 @@
+#All Numbers
+50001B7C 0000
+80053350 003F
+#Race Mode - Infinite Time 	
+80052724 0724
+#Trick Mode - Max Points 	
+8005272C 270F
+#Trick Mode - Point Limit Always 1 	
+80052728 0001
+#Play As A Guy With A Mohawk		
+30054299 0003

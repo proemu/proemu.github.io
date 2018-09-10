@@ -1,0 +1,10 @@
+#Infinite Energy P1
+8008B9B0 0100
+#No Energy P1
+8008B9B0 0000
+#Infinite Energy P2
+800C85C4 0100
+#No Energy P2
+800C85C4 0000
+#Infinite Time
+8008B800 0063

@@ -1,0 +1,66 @@
+#Invincible
+D0072308 004E
+8007230A 1400
+D0072338 004E
+8007233A 1400
+D007710E 2442
+8007710C 0000
+D00724AC 004E
+800724AE 1400
+D0072518 004E
+8007251A 1400
+D00725BC 004E
+800725BE 1400
+#Continuous Shooting Missile system  Please do not use it in a multi-head bullet missile.
+D00719DA 1440
+800719D8 0001
+#Continuous Shooting Machine gun system
+D00727EA 2462
+800727E8 0000
+D00727EA 2462
+800727EA 2402
+#Infinite Missile"
+D0071ACA 2442
+80071AC8 0000
+#Infinite Short-range missile
+D0071C2A 2442
+80071C28 0000
+#Infinite Grand missile
+D0071CCE 2442
+80071CCC 0000
+#Infinite Multi-warhead missile"
+D0071D72 2442
+80071D70 0000
+#Infinite Spread Bomb
+D0071E16 2442
+80071E14 0000
+#Infinite Anti-nano bytes
+D0071EBA 2442
+80071EB8 0000
+#Infinite Plasma beam
+D0071B7A 2442
+80071B78 0000
+#Infinite Satellite beam
+D0071F6E 2442
+80071F6C 0000
+#Infinite Rocket
+D0072036 2442
+80072034 0000
+#Infinite Bomb
+D00720DA 2442
+800720D8 0000
+#Infinite Stealth missile
+D007217E 2442
+8007217C 0000
+#Infinite Play Time
+D0054456 2442
+80054456 2402
+#Infinite Time limit of landing events
+D0054E8E 2442
+80054E8C 0000
+#Search engine (SEARCH) all selectable
+50001F02 0000
+800C0048 0202
+#History information (ARCHIVE) all selectable
+50004B02 0000
+800C00B2 0202

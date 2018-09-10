@@ -1,0 +1,14 @@
+#Infinite Health (Green Energy)
+800DDB3C 0064
+#Infinite Red Energy
+800DDAB2 2328
+#Infinite Yellow Energy		
+800DDAB4 2710
+#Infinite blue energy (Build)
+800DDAB0 2710
+#Infinite Money (For Duplications)
+8001001C 03E7
+#T.O.P.S. Codes All		
+80010014 01F6
+#Collected LCC's All movies open		
+80010096 FFFF

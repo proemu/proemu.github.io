@@ -1,0 +1,5 @@
+#Infinite money (99999)
+80126B84 869F
+80126B86 0001
+#Infinite HP
+80126C16 0063

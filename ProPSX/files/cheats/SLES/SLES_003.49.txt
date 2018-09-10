@@ -1,0 +1,8 @@
+#Infinite Energy
+800BF3A8 00FF
+#Infinite Rockets
+800C1EC0 0063
+#Infinite Homing Missiles
+800C1EBC 0063
+#Infinite Flamethrower
+800C1EB8 00FA

@@ -1,0 +1,5 @@
+#Infinite Energy
+300D3F94 00C8
+#Infinite sphere nerves (99999)
+8015DA44 869F
+8015DA46 0001

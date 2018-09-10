@@ -1,0 +1,17 @@
+#Energia Infinita
+800CEE28 00C8
+#Municion infinita rifle de asalto
+800D42DD 0063
+#Tiempo infinito
+800D4130 00C8
+#Municion Infinita pistola
+800D42CD 0063
+#Municion infinita escopeta
+800D42E5 0063
+#Infinitas cintas de maquina
+800D42E1 0063
+#Municion Arma Infinita (Carlos)
+800D440D 000C
+#Todos los pics en el epilogo
+800D40D6 0008
+

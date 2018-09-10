@@ -1,0 +1,8 @@
+#Infinite abilities points
+800A79E4 0009
+#Infinite proficiency slots
+800A7A04  0009
+#Infinite gold
+8010DF80 270F
+#Infinite energy 
+800AFFA0 000A

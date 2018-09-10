@@ -1,0 +1,5 @@
+#Unlimited Energy/Shield
+8019BA38 0064
+#All Levels All Invincibility
+8003ACFA 0000
+8003ACF8 0000

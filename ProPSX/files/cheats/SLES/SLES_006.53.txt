@@ -1,0 +1,4 @@
+#Infinite Power
+800C5238 0046
+#Infinite Energy
+800C5234 0032

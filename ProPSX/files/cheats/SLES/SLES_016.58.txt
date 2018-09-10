@@ -1,0 +1,6 @@
+#Inf Health Vs Mode
+8016DF04 0200
+#Infinite and max copper
+80186F76 869F
+#Inf Heath Story Mode
+8016DF04 006E

@@ -1,0 +1,10 @@
+#Infinite Energy P1 	
+800185B4 0080
+#1-Hit Death P2 	
+D00186B4 0080
+800186B4 0001
+#POW Always Full P1 	
+800185BE 4000
+#P1 Needs 1 Win to Win 	
+D00185D4 0000
+800185D4 0001 

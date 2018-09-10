@@ -1,0 +1,60 @@
+#Infinite Money\Wimbledon
+8018FF14 E100
+8018FF12 05F5
+#Infinite Money\Manchester United
+8018F41C E100
+8018F41E 05F5
+#Infinite Money\Arsenal
+8018E7EC E100
+8018E7EE 05F5
+#Infinite Money\Aston Villa
+8018E924 E100
+8018E926 05F5
+#Infinite Money\West Ham Utd
+8018FDDC E100
+8018FDDE 05F5
+#Infinite Money\Tottenham Hotspur
+8018FB6C E100
+8018FB6E 05F5
+#Infinite Money\Leicester City
+8018F1AC E100
+8018F1AE 05F5
+#Infinite Money\Newcastle Utd
+8018F68C E100
+8018F68E 05F5
+#Infinite Money\Derby County
+8018EE04 E100
+8018EE06 05F5
+#Infinite Money\Watford
+8018FCA4 E100
+8018FCA6 05F5
+#Infinite Money\Bradford City
+8018EA5C E100
+8018EA5E 05F5
+#Infinite Money\Chelsea
+8018EB94 E100
+8018EB96 05F5
+#Infinite Money\Everton
+8018EF3C E100
+8018EF3E 05F5
+#Infinite Money\Coventry City
+8018ECCC E100
+8018ECCE 05F5
+#Infinite Money\Southampton
+8018F8FC E100
+8018F8FE 05F5
+#Infinite Money\Leeds Utd
+8018F074 E100
+8018F076 05F5
+#Infinite Money\Liverpool
+8018F2E4 E100
+8018F2E6 05F5
+#Infinite Money\Middlesbrough
+801935EC E100
+801935EE 05F5
+#Infinite Money\Sheffield Wednesday
+8018F554 E100
+8018F556 05F5
+#Infinite Money\Sunderland
+8018FA34 E100
+8018FA36 05F5

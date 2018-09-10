@@ -1,0 +1,60 @@
+#Unendlich Zustand
+D0089DE0 0006
+80089DE2 3C00
+#Unendlich Gesundheit .Damit sind auch die Gegner unverwundbar - um sie aber dennoch zu erledigen benutze man den Kopfschuss.
+D0089E28 0008
+80089E2A 3C00
+#Timer Anhalten/Timer Weiter .Timer anhalten mit L1+R1 Timer weiter mit L2+R2
+D0128238 0003
+8005CAC8 FFFF
+D0128238 000C
+8005CAC8 0000
+#Alle Cheats Und Multiplayer-Zeugs Freigeschaltet
+8011F32C FFFF
+8011F32E FFFF
+#Unendlich Munition Nach Aufnahme
+D006481C 0002
+80064820 0000
+#Max Munition-Codes\Schallged‰Mpfte 9Mm
+8012A3AC 0063
+#Max Munition-Codes\9Mm
+8012A3B0 0063
+8012A3B4 0063
+#Max Munition-Codes\M-16
+8012A3B8 0063
+#Max Munition-Codes\Schallged‰Mpfte Hk-5
+8012A3BC 0063
+#Max Munition-Codes\Hk-5
+8012A3C0 0063
+#Max Munition-Codes\Pk-102
+8012A3C4 0063
+#Max Munition-Codes\Schrotflinte
+8012A3C8 0063
+#Max Munition-Codes\Uas-12
+8012A3CC 0063
+#Max Munition-Codes\G-18
+8012A3D0 0063
+#Max Munition-Codes\Biz-2
+8012A3D4 0063
+#Max Munition-Codes\K3G4
+8012A3D8 0063
+#Max Munition-Codes\H11
+8012A3DC 0063
+#Max Munition-Codes\Schallged‰Mpftes Scharfsch¸Tzengewehr
+8012A3E0 0063
+#Max Munition-Codes\Scharfsch¸Tzengewehr
+8012A3E4 0063
+#Max Munition-Codes\Nachtsichtgewehr
+8012A3E8 0063
+#Max Munition-Codes\Armbrust
+8012A3EC 0063
+#Max Munition-Codes\M-79
+8012A3FC 0063
+#Max Munition-Codes\Granate
+8012A400 0063
+#Max Munition-Codes\Nervengasgranate
+8012A404 0063
+#Max Munition-Codes\C4
+8012A408 0063
+#Max Munition-Codes\Tr‰Nengaswerfer
+8012A418 0063

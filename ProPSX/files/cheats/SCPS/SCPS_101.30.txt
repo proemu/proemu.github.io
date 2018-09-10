@@ -1,0 +1,9 @@
+#Have 99 antidotes
+800100C3 0063
+#Have 99 bombs
+800100C2 0063
+#Infinite Catapult
+800100BE 000A
+#Infinite Health
+80089BB2 03E8
+

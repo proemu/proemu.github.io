@@ -1,0 +1,313 @@
+#Infinite Grenades P1
+800B94C6 0F18
+#Infinite Shield P1
+800B94BE 0064
+#Infinite Continues P1
+800BA954 0005
+#Power-Shot Deactivated
+800B94BC 7200
+.Use only one of these Codes.
+#Infinite Grenades P2
+800B94D6 0F18
+#Infinite Shield P2
+800B94CE 0064
+#Infinite Continues P2
+800BA984 0005
+#Power-Shot Deactivated
+800B94CC 7200
+.Use only one of these Codes.
+#Power-Shot Activated
+300B94BD 0072
+.Use only one of these Codes.
+#Always Power-Shooting P1
+800B94C4 7200
+.Use only one of these Codes.
+#Power-Shot Activated
+300B94CD 0079
+.Use only one of these Codes.
+#Always Power-Shooting P2
+800B94D4 7200
+.Use only one of these Codes.
+#No Damage P1 & P2 (Training)
+8008B240 0000
+#All Enemies Broken P1 (Training)
+D008B360 0007
+800BA958 C350
+#All Enemies Broken P2 (Training)
+D008B360 0007
+800BA988 C350
+#Start With High Score P1
+D008B360 0001
+800BA95A 000F
+#Start With High Score P2
+D008B360 0001
+800BA98A 000F
+#All Enemies Broken P1
+800BA968 FFFF
+#All Enemies Broken P2
+800BA998 FFFF
+#Operation Select An Overture
+D008B360 0001
+8008B360 0001
+#Operation Select Uninvited Guests
+D008B360 0001
+8008B360 0002
+#Operation Select A Counter Attack
+D008B360 0001
+8008B360 0003
+#Operation Select To Machine Grove
+D008B360 0001
+8008B360 0004
+#Operation Select Falling Ark
+D008B360 0001
+8008B360 0005
+#Operation Select Inside The Ark
+D008B360 0001
+8008B360 0006
+#Operation Select Training
+D008B360 0001
+8008B360 0007
+#Access Polygon Test
+8008AC88 0002
+#Access Movie Test
+8008AC88 0004
+#Access Audio Test
+8008AC88 0005
+#1P Mode Difficulty: Easy\Sudden Death Level 1 Boss
+D00B8462 03E8
+800B8462 0001
+#1P Mode Difficulty: Easy\Sudden Death Antales 1
+D008B258 041A
+8008B258 0001
+#1P Mode Difficulty: Easy\Sudden Death Antales 2
+D008B258 02BC
+8008B258 0001
+#1P Mode Difficulty: Easy\Low Energy #The Face#
+D008B360 0003
+800B49E0 0000
+#1P Mode Difficulty: Easy\Sudden Death Gigas
+D008B258 0604
+8008B258 0001
+#1P Mode Difficulty: Easy\Sudden Death Ultross
+D008B258 079A
+8008B258 0001
+#1P Mode Difficulty: Easy\Sudden Death Level 5 Boss A
+D00B8552 02BC
+800B8552 0001
+#1P Mode Difficulty: Easy\Sudden Death Level 5 Boss B
+D00B84DA 02BC
+800B84DA 0001
+#1P Mode Difficulty: Easy\Sudden Death Power Source
+D008B360 0006
+800B8552 0001
+#1P Mode Difficulty: Easy\Sudden Death Metalica
+D00B8462 0898
+800B8462 0001
+#2P Mode Difficulty: Easy\Sudden Death Level 1 Boss
+D00B8462 05DC
+800B8462 0001
+#2P Mode Difficulty: Easy\Sudden Death Antales 1
+D008B258 0627
+8008B258 0001
+#2P Mode Difficulty: Easy\Sudden Death Antales 2
+D008B258 041A
+8008B258 0001
+#2P Mode Difficulty: Easy\Low Energy #The Face#
+D008B360 0003
+800B49E0 0000
+#2P Mode Difficulty: Easy\Sudden Death Gigas
+D008B258 0906
+8008B258 0001
+#2P Mode Difficulty: Easy\Sudden Death Ultross
+D008B258 0B67
+8008B258 0001
+#2P Mode Difficulty: Easy\Sudden Death Level 5 Boss A
+D00B8552 041A
+800B8552 0001
+#2P Mode Difficulty: Easy\Sudden Death Level 5 Boss B
+D00B84DA 041A
+800B84DA 0001
+#2P Mode Difficulty: Easy\Sudden Death Power Source
+D008B360 0006
+800B8552 0001
+#2P Mode Difficulty: Easy\Sudden Death Metalica
+D00B8462 0CE4
+800B8462 0001
+#1P Mode Difficulty: Normal\Sudden Death Level 1 Boss
+D00B84DA 0514
+800B84DA 0001
+#1P Mode Difficulty: Normal\Sudden Death Antales 1
+D008B258 04B0
+8008B258 0001
+#1P Mode Difficulty: Normal\Sudden Death Antales 2
+D008B258 0320
+8008B258 0001
+#1P Mode Difficulty: Normal\Low Energy #The Face#
+D008B360 0003
+800B49E0 0000
+#1P Mode Difficulty: Normal\Sudden Death Gigas
+D008B258 06E0
+8008B258 0001
+#1P Mode Difficulty: Normal\Sudden Death Ultross
+D008B258 08B0
+8008B258 0001
+#1P Mode Difficulty: Normal\Sudden Death Level 5 Boss A
+D00B84DA 0384
+800B84DA 0001
+#1P Mode Difficulty: Normal\Sudden Death Level 5 Boss B
+D00B8552 0384
+800B8552 0001
+#1P Mode Difficulty: Normal\Sudden Death Power Source
+D008B360 0006
+800B8552 0001
+#1P Mode Difficulty: Normal\Sudden Death Metalica
+D00B8462 0AF0
+800B8462 0001
+#2P Mode Difficulty: Normal\Sudden Death Level 1 Boss
+D00B84DA 079E
+800B84DA 0001
+#2P Mode Difficulty: Normal\Sudden Death Antales 1
+D008B258 0708
+8008B258 0001
+#2P Mode Difficulty: Normal\Sudden Death Antales 2
+D008B258 04B0
+8008B258 0001
+#2P Mode Difficulty: Normal\Low Energy #The Face#
+D008B360 0003
+800B49E0 0000
+#2P Mode Difficulty: Normal\Sudden Death Gigas
+D008B258 0A50
+8008B258 0001
+#2P Mode Difficulty: Normal\Sudden Death Ultross
+D008B258 0D08
+8008B258 0001
+#2P Mode Difficulty: Normal\Sudden Death Level 5 Boss A
+D00B84DA 0546
+800B84DA 0001
+#2P Mode Difficulty: Normal\Sudden Death Level 5 Boss B
+D00B8552 0546
+800B8552 0001
+#2P Mode Difficulty: Normal\Sudden Death Power Source
+D008B360 0006
+800B8552 0001
+#2P Mode Difficulty: Normal\Sudden Death Metalica
+D00B8462 1068
+800B8462 0001
+#1P Mode Difficulty: Hard\Sudden Death Level 1 Boss
+D00B84DA 05DC
+800B84DA 0001
+#1P Mode Difficulty: Hard\Sudden Death Antales 1
+D008B258 0546
+8008B258 0001
+#1P Mode Difficulty: Hard\Sudden Death Antales 2
+D008B258 0384
+8008B258 0001
+#1P Mode Difficulty: Hard\Low Energy #The Face#
+D008B360 0003
+800B49E0 0000
+#1P Mode Difficulty: Hard\Sudden Death Gigas
+D008B258 07BC
+8008B258 0001
+#1P Mode Difficulty: Hard\Sudden Death Ultross
+D008B258 09C6
+8008B258 0001
+#1P Mode Difficulty: Hard\Sudden Death Level 5 Boss A
+D00B84DA 044C
+800B84DA 0001
+#1P Mode Difficulty: Hard\Sudden Death Level 5 Boss B
+D00B8552 044C
+800B8552 0001
+#1P Mode Difficulty: Hard\Sudden Death Power Source
+D008B360 0006
+800B8552 0001
+#1P Mode Difficulty: Hard\Sudden Death Metalica
+D00B8462 0C80
+800B8462 0001
+#2P Mode Difficulty: Hard\Sudden Death Level 1 Boss
+D00B84DA 08CA
+800B84DA 0001
+#2P Mode Difficulty: Hard\Sudden Death Antales 1
+D008B258 07E9
+8008B258 0001
+#2P Mode Difficulty: Hard\Sudden Death Antales 2
+D008B258 0546
+8008B258 0001
+#2P Mode Difficulty: Hard\Low Energy #The Face#
+D008B360 0003
+800B49E0 0000
+#2P Mode Difficulty: Hard\Sudden Death Gigas
+D008B258 0B9A
+8008B258 0001
+#2P Mode Difficulty: Hard\Sudden Death Ultross
+D008B258 0EA9
+8008B258 0001
+#2P Mode Difficulty: Hard\Sudden Death Level 5 Boss A
+D00B84DA 0672
+800B84DA 0001
+#2P Mode Difficulty: Hard\Sudden Death Level 5 Boss B
+D00B8552 0672
+800B8552 0001
+#2P Mode Difficulty: Hard\Sudden Death Power Source
+D008B360 0006
+800B8552 0001
+#2P Mode Difficulty: Hard\Sudden Death Metalica
+D00B8462 12C0
+800B8462 0001
+#1P Mode Difficulty: Very Hard\Sudden Death Level 1 Boss
+D00B84DA 0708
+800B84DA 0001
+#1P Mode Difficulty: Very Hard\Sudden Death Antales 1
+D008B258 05DC
+8008B258 0001
+#1P Mode Difficulty: Very Hard\Sudden Death Antales 2
+D008B258 03E8
+8008B258 0001
+#1P Mode Difficulty: Very Hard\Low Energy #The Face#
+D008B360 0003
+800B49E0 0000
+#1P Mode Difficulty: Very Hard\Sudden Death Gigas
+D008B258 0898
+8008B258 0001
+#1P Mode Difficulty: Very Hard\Sudden Death Ultross
+D008B258 0ADC
+8008B258 0001
+#1P Mode Difficulty: Very Hard\Sudden Death Level 5 Boss A
+D00B8552 0514
+800B8552 0001
+#1P Mode Difficulty: Very Hard\Sudden Death Power Source
+D008B360 0006
+800B8552 0001
+#1P Mode Difficulty: Very Hard\Sudden Death Metalica
+D00B8462 1130
+800B8462 0001
+#2P Mode Difficulty: Very Hard\Sudden Death Level 1 Boss
+D00B84DA 0A8C
+800B84DA 0001
+#2P Mode Difficulty: Very Hard\Sudden Death Antales 1
+D008B258 08CA
+8008B258 0001
+#2P Mode Difficulty: Very Hard\Sudden Death Antales 2
+D008B258 05DC
+8008B258 0001
+#2P Mode Difficulty: Very Hard\Low Energy #The Face#
+D008B360 0003
+800B49E0 0000
+#2P Mode Difficulty: Very Hard\Sudden Death Gigas
+D008B258 0CE4
+8008B258 0001
+#2P Mode Difficulty: Very Hard\Sudden Death Level 4 Boss
+D008B258 104A
+8008B258 0001
+#2P Mode Difficulty: Very Hard\Sudden Death Level 5 Boss A
+D00B84DA 0866
+800B84DA 0001
+#2P Mode Difficulty: Very Hard\Sudden Death Level 5 Boss B
+D00B8552 0866
+800B8552 0001
+#2P Mode Difficulty: Very Hard\Sudden Death Power Source
+D00B8552 04B0
+800B8552 0001
+#2P Mode Difficulty: Very Hard\Sudden Death Metalica
+D00B8462 1900
+800B8462 0001
+

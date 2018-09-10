@@ -1,0 +1,4 @@
+#Player 1 score = 2
+80125398 0002
+#Enemy (or player 2) always score 0
+80125399 0000

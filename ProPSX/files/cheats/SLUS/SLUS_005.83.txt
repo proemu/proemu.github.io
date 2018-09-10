@@ -1,0 +1,80 @@
+#Infinite Health
+800D71CA 4E20
+#Infinite Armor
+800D73CC 4E20
+#Infinite Air 	
+800D73CE 2EC0
+#All Keys All Levels		
+800D7504 0001
+800D7508 0001
+800D750C 0001
+800D7510 0001
+800D7514 0001
+800D7518 0001
+800D751C 0001
+800D7520 0001
+800D7524 0001
+800D7528 0001
+800D752C 0001
+#Level Select Level 2 	
+800BE570 0001
+#Level Select Level 3
+800BE570 0002
+#Level Select Level 4 	
+800BE570 0003
+#Level Select Level 5 	
+800BE570 0004
+#Level Select Level 6 	
+800BE570 0005
+#Level Select Level 7 	
+800BE570 0006
+#Level Select Level 8 	
+800BE570 0007
+#Level Select Level 9 	
+800BE570 0008
+#Level Select Level 10 	
+800BE570 0009
+#Level Select Level 11 	
+800BE570 000A
+#Level Select Level 12 	
+800BE570 000B
+#Level Select Level 13 	
+800BE570 000C
+#Level Select Level 14 	
+800BE570 000D
+#Level Select Level 15 	
+800BE570 000E
+#Level Select Level 16 	
+800BE570 000F
+#Level Select Level 17
+800BE570 0010
+#Level Select Level 18
+800BE570 0011
+#Level Select Level 19 	
+800BE570 0012
+#Level Select Level 20 	
+800BE570 0003
+#Level Select Level 21 	
+800BE570 0014
+#Level Select Level 22 	
+800BE570 0015
+#Level Select Level 23 	
+800BE570 0016
+#Level Select Level 24 	
+800BE570 0017
+#Level Select Level 25	
+800BE570 0018
+#Level Select Level 26
+800BE570 0019
+#Level Select Level 27	
+800BE570 001A
+#Level Select Level 28 	
+800BE570 001B
+#Level Select Level 29 	
+800BE570 001C
+#Level Select Level 30
+800BE570 001D
+#Unlimited Ammo & Items		
+800C3CC4 0001
+#Kill Last Boss in 1 Hit
+8018EFC2 0000

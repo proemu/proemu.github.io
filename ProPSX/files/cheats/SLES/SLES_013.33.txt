@@ -1,0 +1,18 @@
+#Infinite Health
+800846A6 03E7
+#Infinite Health Drench Level
+800849C6 03E7
+#Infinite Lifes
+8007B5AC 0009
+#All Levels Selectable
+8007B5B8 000E
+#Have 99 Cogs	
+8007B6A0 0063
+#Infinite rockets
+3007B698 0000
+3007B694 000A
+#Infinite Rig-Power	
+8007B880 03FF
+#Infinite Grenades
+3007 B694 0000
+3007 B698 000A

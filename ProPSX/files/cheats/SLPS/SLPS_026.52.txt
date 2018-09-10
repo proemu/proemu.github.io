@@ -1,0 +1,39 @@
+#Infinite & Max HP Main character
+800CD60C 03E7
+800CD240 03E7
+#Infinite & Max MP Main character
+800CD603 0063
+800CD24A 0063
+#Infinite Money
+800CDA7C FFFF
+#All Characters Infinite Sp & Morale Max Up
+50000A18 0000
+#Unlock character & album mode
+800CDB12 FFFF
+800CDB14 FFFF
+800CDB16 FFFF
+800CDB18 FFFF
+800CDB1A FFFF
+800CDB1C FFFF
+800CDB1E FFFF
+800CDB20 FFFF
+800CDB22 FFFF
+800CDB24 FFFF
+800CDB26 FFFF
+800CDB28 FFFF
+800CDB2A FFFF
+300CDB2C 00FF
+300CDB2F 00FF
+#MAX level after one battle 
+8004D82C 0001 
+#MAX funds afte one battle 
+800504FC 0001 
+#MAX immediately reliability
+80058DEC 0001 
+80050594 0001 
+#MAX immediately affection degree
+80058F28 0001 
+#Do not reduce topic point 
+8005B040 000
+#Memories album fully open
+80079C78 0001

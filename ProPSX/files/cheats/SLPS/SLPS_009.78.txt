@@ -1,0 +1,23 @@
+#Player 1 Codes\Infinite Health
+800B82C4 03FF
+#Player 1 Codes\Low Health
+800B82C4 0001
+#Player 1 Codes\No Health
+800B82C4 0000
+#Player 1 Codes\Infinite Power Bar
+800B82BC 01FF
+#Player 1 Codes\No Power Bar
+800B82BC 0000
+#Player 1 Press Square buton and win for KO
+D00B8900 0080
+800B82E8 0003
+#Player 2 Codes\Infinite Health
+800B82C8 03FF
+#Player 2 Codes\Low Health
+800B82C8 0001
+#Player 2 Codes\No Health
+800B82C8 0000
+#Player 2 Codes\Infinite Power Bar
+800B82C0 01FF
+#Player 2 Codes\No Power Bar
+800B82C0 0000

@@ -1,0 +1,28 @@
+#1P bubble does not turn on 
+80136780 0000 
+80136788 0000 
+#Always fall 2P bubble 
+801473C8 FFFF 
+801473D0 FFFF 
+#There is no magic 2P 
+30145C10 0000 
+#Inf. Special Attacks (P1)		
+80134FC8 0003
+#Inf. Special Attacks (P2)		
+80145C10 0003
+#Massive Ojama Puyos (P1)		
+80136780 001E
+80136788 001E
+8013678C 001E
+#Massive Ojama Puyos (P2)		
+801473C8 001E
+801473D0 001E
+801473D4 001E
+#Total Time = 00:00		
+8016E000 0000
+8016E002 0000
+#Unlock All Extras		
+80125838 0001
+8012583C 0001
+50001D04 0000
+80125918 0001

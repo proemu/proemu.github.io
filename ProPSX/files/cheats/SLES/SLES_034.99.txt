@@ -1,0 +1,9 @@
+#P1 Unendlich Nägel 
+D008C004 0000
+3008C004 0001
+#P1 Zeit Angehalten (Drücke L1 & L2)	
+D00ACBBE FAFF
+300ACBBE 0000
+#Starte mit letzte Runde 
+D008A57C 0000
+3008A57C 0016

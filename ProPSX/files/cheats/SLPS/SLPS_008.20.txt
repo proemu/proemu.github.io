@@ -1,0 +1,4 @@
+#Infinite Energy
+800F4E90 0050
+#Infinite Bombs
+800CD3C8 2000

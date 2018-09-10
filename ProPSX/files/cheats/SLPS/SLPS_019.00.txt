@@ -1,0 +1,14 @@
+#Infinite HP Ship in battle
+801E4C7C 270F
+#Infinite Energy
+D0135F1E 0044
+80135F1E 0040
+#Hp
+D0135EBA 0064
+80135EBA 0060
+#White Soldier War One Strike Kill Hand to Hand Combat
+D015BB1A A602
+8015BB1A A600
+#One Strike Kill
+D0136EAE 0043
+80136EAE 0000

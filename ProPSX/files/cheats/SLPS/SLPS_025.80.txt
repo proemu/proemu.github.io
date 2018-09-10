@@ -1,0 +1,20 @@
+#Infinite & Max HP Main character (.Deactivate after defeat enemy)
+801D40F4 03E7
+801D40F6 03E7
+#Infinite & Max EP Main character (.Deactivate after defeat enemy)
+801D40FA 03E7
+#Clear the stage after defeating 1 enemy only
+D001D34E 0521
+8001D34E 1400
+#Holding CP 65535
+80019C16 FFFF
+#Mortal blow / invincible .Press Selct+R1
+D007C152 FEFE
+8003C776 0100
+D007C152 FDFE
+8003C776 0000
+D007C152 FFFE
+8003C776 0109
+#Library fully open
+50003102 0000
+801F7C44 FFFF

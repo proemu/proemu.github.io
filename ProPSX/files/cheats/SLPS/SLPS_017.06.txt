@@ -1,0 +1,10 @@
+#Player 1 Easy Scores
+8019BBA4 000A
+#Player 2 Scores Nothing
+8019BBA2 0000
+#Freeze Timer At 60.0 (Switch Off code As Necessary)
+8019BB90 0E11
+#Have Gallery And All Pictures
+8019BC6A 07FF
+#Have All Hidden Players
+8019BC68 0007

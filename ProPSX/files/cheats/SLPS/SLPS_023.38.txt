@@ -1,0 +1,29 @@
+#Infinite Energy navy mode
+800FD777 3200
+800FD778 0032
+#Unlock
+D01D7884 4042
+801D7884 0042
+#All Support Ability 
+80057174 00FF
+#All Support Ability (Off) Command=L1+L2+R1+R2
+D0057258 000F
+80057174 0000
+#Infinite Time
+80057156 0000
+80057170 0000
+#Select Eddy Item Energy Tank
+8005A748 7209
+#Select Eddy Item M Tank
+8005A748 7309
+#Select Eddy Item Big Energy
+8005A748 7409
+#Select Eddy Item Big Weapons Enegy
+8005A748 7609
+#Select Eddy Item 1 Live
+8005A748 7809
+#Hight Jump Press UP+X
+D0057258 1040
+8005A5C0 C5C0
+
+

@@ -1,0 +1,30 @@
+#Schneller bauen Select drücken während der Bauphase	
+D01BD298 0100
+80029850 0000
+#Alliierte Max Geld	
+D01BD298 0002
+8002A3D4 FFFF
+#Alliierte Max Energie	
+D01BD298 0002
+8002A3F0 03E7
+#Alliierte Alle Spezialwaffen
+50000618 0000
+8002A29A 000F
+#Soviets Max Geld	
+D01BB48C 0002
+8002A798 FFFF
+#Soviets Max Energie	
+D01BB48C 0002
+8002 A7B4 03E7
+#Soviets Alle Spezialwaffen
+50000618 0000
+8002A658 000F
+#Geplänkel Max Geld	
+D01BD298 0002
+8002CD40 FFFF
+#Geplänkel Max Energie	
+D01BD298 0002
+8002CD5C 03E7
+#Geplänkel Alle Spezialwaffen
+50000618 0000
+8002CC00 000F

@@ -1,0 +1,7 @@
+#Hunter Level 3 Storage
+D004F37C 0000
+8004F37C 0002
+#Tokyo Drum Tower 100 Points 
+30055571 0064
+#Highway safari meter needle center 
+800A22F2 0007

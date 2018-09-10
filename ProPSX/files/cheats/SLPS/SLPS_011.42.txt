@@ -1,0 +1,24 @@
+#Infinite Health DIsc 1
+800C25E6 03E8
+#Infinite Bullets Disc 1
+800C82F4 0063
+#Infinite Time
+800C4FC4 0000
+#Infinite Health DIsc 2
+800BE436_03E8 
+#Infinite Bullets Disc 2
+800BE424_0063 
+#All Stage And All MS		
+801FE040 02DE
+#Infinite health disc 1 VS Mode
+800C8306 03E8
+#Infinite gun disc 1 VS Mode
+800C3494  0063
+#yOU can play all the VS CPU FREE & BATTLE Disc 2 
+80063628 FFFF 
+8006362C FFFF 
+8006362E 001F 
+#You can choose all in MOVIE VIEWER Disc 1 
+30063634 000E 
+30063640 0008
+

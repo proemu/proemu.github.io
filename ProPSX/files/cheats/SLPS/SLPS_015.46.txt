@@ -1,0 +1,17 @@
+#Player 1 (in order) Infinite money
+800670DC EA60
+#Player 2 (in order) Infinite money
+80067130 EA60
+#Player 3 (in order) Infinite money
+80067184 EA60
+#Player 4 (in order) Infinite money
+800671D8 EA60
+#Player 1 (in order) No money
+800670DC 0000
+#Player 2 (in order) No money
+80067130 0000
+#Player 3 (in order) No money
+80067184 0000
+#Player 4 (in order) No money
+800671D8 0000
+

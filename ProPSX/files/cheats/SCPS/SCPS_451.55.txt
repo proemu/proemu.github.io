@@ -1,0 +1,45 @@
+#Athletic Land Infinites lives
+8001E050 0002
+#Athletic Land Infinite time 
+8001E055 3A96
+#Knightmare Infinite Lives
+8001E060 0102
+#Highest Score
+8001E056 FFFF
+#Kung Fu 2 Infinite Health
+8001E100 2424
+#Kung Fu 2 Infinite Lives
+D01BEAC6 0020
+3001E055 000A
+#Kung Fu 2 Invincible
+D01BEAC6 0020
+3001E29E 00FF
+#Super Cobra
+#Infinite Lives
+8008FAE6 9C9C
+#Super Cobra Infinite Fuel
+D01BEAC6 0049
+8001E51C 011F
+#Super Cobra Invincible
+D01BEAC6 0049
+8001E50E 0000
+#Twin Bee Infinite Life P1
+D01BEAC6 0053
+3001E070 0099
+#Twin Bee Infinite Life P2
+D01BEAC6 0053
+3001E073 0099
+#Twin Bee Invincible P1
+D01BEAC6 0053
+3001E097 00FF
+#Twin Bee Invincible P2
+D01BEAC6 0053
+3001E098 00FF
+#Gradius 2 Infinite Lives
+8001E200 0102
+#Gradius 2 Invencible
+D01BEAC6 0065
+3001E400 0001
+#Magical trees Infinite Lives 	
+D01BEAC6 0013
+3001E050 0006

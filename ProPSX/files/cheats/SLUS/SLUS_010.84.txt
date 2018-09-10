@@ -1,0 +1,41 @@
+#Stop Timer (Challenge Mode)
+800E798E 2400
+#Unlock Topwater Jerkbait
+800C4DE0 0001
+#Unlock Deep Diving Crankbait Lure
+800C4DF0 0001
+#Unlock Curly Tail Worm Lure
+800C4DFC 0001
+#Unlock Grub Lure
+800C4E00 0001
+#Unlock Tube Bait Lure
+800C4E04 0001
+#Unlock Popper Lure
+800C4E10 0001
+#Unlock Prop Lure
+800C4E18 0001
+#Start On Last Challenge Level
+D00C4D92 0000
+800C4D92 000E
+#Start/Stop Timer - Tournament (Press L1+L2 To Activate & R1+R2 To De-Activate)
+D00BB544 0005
+800E7A12 2400
+D00BB544 0005
+800E7A2E 2400
+D00BB544 000A
+800E7A10 45D8
+D00BB544 000A
+800E7A12 ACC2
+D00BB544 000A
+800E7A2C 45D8
+D00BB544 000A
+800E7A2E ACC2
+#Line Never Breaks
+801148B6 03EB
+#Rick or Mituki Inf Hp
+800A9390 0034
+800A93A4 0034
+#Rick or Mituki Inf Energy
+800E7408 1FFF
+#Rick or Mituki Inf Lnf
+800E740A 0FFF

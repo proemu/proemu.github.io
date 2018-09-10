@@ -1,0 +1,10 @@
+#Have 99999 points  
+800AD118 869F
+800AD11A 0001 
+#Enemy has 0 points  
+800AD0A4 0000 
+#Have 99999 points in vs mode  
+80091770 869F
+80091772 0001 
+#Enemy has 0 points in vs mode  
+80091774 0000 

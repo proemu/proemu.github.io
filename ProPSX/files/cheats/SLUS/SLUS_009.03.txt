@@ -1,0 +1,32 @@
+#P1 Max Score
+8008978E 7FFF
+#P1 No Score
+8008978E 0000
+#P1 Always Have An Any Letter Tile
+30092979 005B
+#P1 Never Has An Any Letter Tile
+30092979 0000
+#P2 Max Score
+800897A4 7FFF
+#P2 No Score
+800897A4 0000
+#P2 Always Have An Any Letter Tile
+30092980 005B
+#P2 Never Has An Any Letter Tile
+30092980 0000
+#P3 Max Score
+800897BA 7FFF
+#P3 No Score
+800897BA 0000
+#P3 Always Have An Any Letter Tile
+30092987 005B
+#P3 Never Has An Any Letter Tile
+30092987 0000
+#P4 Max Score
+800897D0 7FFF
+#P4 No Score
+800897D0 0000
+#P4 Always Have An Any Letter Tile
+3009298E 005B
+#P4 Never Has An Any Letter Tile
+3009298E 0000

@@ -1,0 +1,10 @@
+#Infinite Weapons
+8007362A 0063
+8007362C 0063
+8007362E 0063
+#Infinite Energy
+800734B8 00D5
+#Mission Complete
+80073694 0000
+#Negative View
+800736AE 0140

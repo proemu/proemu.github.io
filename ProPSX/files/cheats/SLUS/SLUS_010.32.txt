@@ -1,0 +1,323 @@
+#Max Offense
+801557E0 03E7
+#Max Defense
+801557E2 03E7
+#Max Speed
+801557E4 03E7
+#Max Brains
+801557E6 03E7
+#Max Hp
+801557F0 270F
+#Max Mp
+801557F2 270F
+#Infinite Hp
+801557F4 270F
+#Infinite Mp
+801557F6 270F
+#Max Bits
+80134EB8 E0FF
+80134EBA 05F5
+#Best Happiness
+8013848A 0064
+#Best Discipline
+80138488 0000
+#Max Item Codes\Slot 1
+3013D492 0063
+#Max Item Codes\Slot 2
+3013D493 0063
+#Max Item Codes\Slot 3
+3013D494 0063
+#Max Item Codes\Slot 4
+3013D495 0063
+#Max Item Codes\Slot 5
+3013D496 0063
+#Max Item Codes\Slot 6
+3013D497 0063
+#Max Item Codes\Slot 7
+3013D498 0063
+#Max Item Codes\Slot 8
+3013D499 0063
+#Max Item Codes\Slot 9
+3013D49A 0063
+#Max Item Codes\Slot 10
+3013D49B 0063
+#Press O To Beat The Game
+D0135450 FFDF
+80134EB4 0003
+#Auto-Kill Most Enemies
+80155874 0000
+801559AC 0000
+80155A14 0000
+80155944 0000
+801558DC 0000
+#Infinite Lives
+80155824 0003
+#Always Have Finish
+8013D65A 0AF1
+#Have All Attacks
+30155800 00FF
+30155801 00FF
+30155802 00FF
+30155803 00FF
+30155804 00FF
+30155805 00FF
+30155806 00FF
+30155807 00FF
+#Have All Medals
+801BDFFA FFFF
+801BDFFC FFFF
+#Press Square To Lay A Pile Of Poop
+D0135450 FF7F
+80138460 FFFF
+#Max Storage Item Codes\Digimushrm
+301BDF58 0063
+#Max Storage Item Codes\Icemushrm
+301BDF59 0063
+#Max Storage Item Codes\Deluxmushrm
+301BDF5A 0063
+#Max Storage Item Codes\Digipine
+301BDF5B 0063
+#Max Storage Item Codes\Blue Apple
+301BDF5C 0063
+#Max Storage Item Codes\Red Berry
+301BDF5D 0063
+#Max Storage Item Codes\Gold Acorn
+301BDF5E 0063
+#Max Storage Item Codes\Big Berry
+301BDF5F 0063
+#Max Storage Item Codes\Sweet Nut
+301BDF60 0063
+#Max Storage Item Codes\Super Veggy
+301BDF61 0063
+#Max Storage Item Codes\Pricklypear
+301BDF62 0063
+#Max Storage Item Codes\Orange Bana
+301BDF63 0063
+#Max Storage Item Codes\Power Fruit
+301BDF64 0063
+#Max Storage Item Codes\Power Ice
+301BDF65 0063
+#Max Storage Item Codes\Speed Leaf
+301BDF66 0063
+#Max Storage Item Codes\Sage Fruit
+301BDF67 0063
+#Max Storage Item Codes\Muscle Yam
+301BDF68 0063
+#Max Storage Item Codes\Calm Berry
+301BDF69 0063
+#Max Storage Item Codes\Digianchovy
+301BDF6A 0063
+#Max Storage Item Codes\Digisnapper
+301BDF6B 0063
+#Max Storage Item Codes\Digitrout
+301BDF6C 0063
+#Max Storage Item Codes\Black Trout
+301BDF6D 0063
+#Max Storage Item Codes\Digi Catfish
+301BDF6E 0063
+#Max Storage Item Codes\Digiseabass
+301BDF6F 0063
+#Max Storage Item Codes\Moldy Meat
+301BDF70 0063
+#Max Storage Item Codes\Happymuahrm
+301BDF71 0063
+#Max Storage Item Codes\Chain Melon
+301BDF72 0063
+#Max Storage Item Codes\Grey Claws
+301BDF73 0063
+#Max Storage Item Codes\Fireball
+301BDF74 0063
+#Max Storage Item Codes\Flamingwing
+301BDF75 0063
+#Max Storage Item Codes\Iron Hoof
+301BDF76 0063
+#Max Storage Item Codes\Mono Stone
+301BDF77 0063
+#Max Storage Item Codes\Steel Drill
+301BDF78 0063
+#Max Storage Item Codes\White Fang
+301BDF79 0063
+#Max Storage Item Codes\Black Wing
+301BDF7A 0063
+#Max Storage Item Codes\Spike Club
+301BDF7B 0063
+#Max Storage Item Codes\Flamingmane
+301BDF7C 0063
+#Max Storage Item Codes\White Wing
+301BDF7D 0063
+#Max Storage Item Codes\Torn Tatter
+301BDF7E 0063
+#Max Storage Item Codes\Electo Ring
+301BDF7F 0063
+#Max Storage Item Codes\Rainbowhorn
+301BDF80 0063
+#Max Storage Item Codes\Rooster
+301BDF81 0063
+#Max Storage Item Codes\Unihorn
+301BDF82 0063
+#Max Storage Item Codes\Horn Helmet
+301BDF83 0063
+#Max Storage Item Codes\Scissor Jaw
+301BDF84 0063
+#Max Storage Item Codes\Fertilizer
+301BDF85 0063
+#Max Storage Item Codes\Koga Laws
+301BDF86 0063
+#Max Storage Item Codes\Waterbottle
+301BDF87 0063
+#Max Storage Item Codes\North Star
+301BDF88 0063
+#Max Storage Item Codes\Red Shell
+301BDF89 0063
+#Max Storage Item Codes\Hard Scale
+301BDF8A 0063
+#Max Storage Item Codes\Blue Crystal
+301BDF8B 0063
+#Max Storage Item Codes\Ice Crystal
+301BDF8C 0063
+#Max Storage Item Codes\Hair Grower
+301BDF8D 0063
+#Max Storage Item Codes\Sunglasses
+301BDF8E 0063
+#Max Storage Item Codes\Metal Part
+301BDF8F 0063
+#Max Storage Item Codes\Fatal Bone
+301BDF90 0063
+#Max Storage Item Codes\Cyber Part
+301BDF91 0063
+#Max Storage Item Codes\Mega Hand
+301BDF92 0063
+#Max Storage Item Codes\Silver Ball
+301BDF93 0063
+#Max Storage Item Codes\Metal Armor
+301BDF94 0063
+#Max Storage Item Codes\Chainsaw
+301BDF95 0063
+#Max Storage Item Codes\Small Spear
+301BDF96 0063
+#Max Storage Item Codes\X Bandage
+301BDF97 0063
+#Max Storage Item Codes\Ray Gun
+301BDF98 0063
+#Max Storage Item Codes\Gold Banana
+301BDF99 0063
+#Max Storage Item Codes\Mysty Egg
+301BDF9A 0063
+#Max Storage Item Codes\Red Ruby
+301BDF9B 0063
+#Max Storage Item Codes\Beetlepearl
+301BDF9C 0063
+#Max Storage Item Codes\Coral Charm
+301BDF9D 0063
+#Max Storage Item Codes\Moon Mirror
+301BDF9E 0063
+#Max Storage Item Codes\Blue Flute
+301BDF9F 0063
+#Max Storage Item Codes\Old Fishrod
+301BDFA0 0063
+#Max Storage Item Codes\Amazing Fishrod
+301BDFA1 0063
+#Max Storage Item Codes\Leomon Stone
+301BDFA2 0063
+#Max Storage Item Codes\Mansion Key
+301BDFA3 0063
+#Max Storage Item Codes\Gear
+301BDFA4 0063
+#Max Storage Item Codes\Rain Plant
+301BDFA5 0063
+#Max Storage Item Codes\Steak
+301BDFA6 0063
+#Max Storage Item Codes\Frig Key
+301BDFA7 0063
+#Max Storage Item Codes\As Decoder
+301BDFA8 0063
+#Max Storage Item Codes\Giga Hand
+301BDFA9 0063
+#Max Storage Item Codes\Noble Mane
+301BDFAA 0063
+#Max Storage Item Codes\Metal Banana
+301BDFAB 0063
+#More Misc. Codes\Have Card No 0+1
+301BDFAC 00FF
+#More Misc. Codes\Have Card No 2+3
+301BDFAD 00FF
+#More Misc. Codes\Have Card No 4+5
+301BDFAE 00FF
+#More Misc. Codes\Have Card No 6+7
+301BDFAF 00FF
+#More Misc. Codes\Have Card No 8+9
+301BDFB0 00FF
+#More Misc. Codes\Have Card No 10+11
+301BDFB1 00FF
+#More Misc. Codes\Have Card No 12+13
+301BDFB2 00FF
+#More Misc. Codes\Have Card No 14+15
+301BDFB3 00FF
+#More Misc. Codes\Have Card No 16+17
+301BDFB4 00FF
+#More Misc. Codes\Have Card No 18+19
+301BDFB5 00FF
+#More Misc. Codes\Have Card No 20+21
+301BDFB6 00FF
+#More Misc. Codes\Have Card No 22+23
+301BDFB7 00FF
+#More Misc. Codes\Have Card No 24+25
+301BDFB8 00FF
+#More Misc. Codes\Have Card No 26+27
+301BDFB9 00FF
+#More Misc. Codes\Have Card No 28+29
+301BDFBA 00FF
+#More Misc. Codes\Have Card No 30+31
+301BDFBB 00FF
+#More Misc. Codes\Have Card No 32+33
+301BDFBC 00FF
+#More Misc. Codes\Have Card No 34+35
+301BDFBD 00FF
+#More Misc. Codes\Have Card No 36+37
+301BDFBE 00FF
+#More Misc. Codes\Have Card No 38+39
+301BDFBF 00FF
+#More Misc. Codes\Have Card No 40+41
+301BDFC0 00FF
+#More Misc. Codes\Have Card No 42+43
+301BDFC1 00FF
+#More Misc. Codes\Have Card No 44+45
+301BDFC2 00FF
+#More Misc. Codes\Have Card No 46+47
+301BDFC3 00FF
+#More Misc. Codes\Have Card No 48+49
+301BDFC4 00FF
+#More Misc. Codes\Have Card No 50+51
+301BDFC5 00FF
+#More Misc. Codes\Have Card No 52+53
+301BDFC6 00FF
+#More Misc. Codes\Have Card No 54+55
+301BDFC7 00FF
+#More Misc. Codes\Have Card No 56+57
+301BDFC8 00FF
+#More Misc. Codes\Have Card No 58+59
+301BDFC9 00FF
+#More Misc. Codes\Have Card No 60+61
+301BDFCA 00FF
+#More Misc. Codes\Have Card No 62+63
+301BDFCB 00FF
+#More Misc. Codes\Have Card No 64+65
+301BDFCC 00FF
+#More Misc. Codes\Have All Digimon On The Chart/All Evolved
+301BE00D 00FF
+801BE00E FFFF
+801BE010 FFFF
+801BE012 FFFF
+301BE014 00FF
+#More Misc. Codes\All Digimon In City
+301557C5 0037
+801557C6 0037
+#More Misc. Codes\Have Key Items
+301BDFD2 00FF
+301BDFD3 00FF
+#More Misc. Codes\Have All Cards
+50002001 0000
+301BDFAC 00FF
+#More Misc. Codes\All Digimon Raised
+50000801 0000
+301BE00D 00FF

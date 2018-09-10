@@ -1,0 +1,8 @@
+#Inf Armor
+801BB1AE 0258
+#Inf Pistola
+8012D672 000F
+#Inf Ammo Rifle Sniper
+8012D6BE 0014
+#Inf Granadas
+8012D6E6 0063

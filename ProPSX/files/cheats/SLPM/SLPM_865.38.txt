@@ -1,0 +1,8 @@
+#You can select the Masters Cup from the press of the select 1P side at the time of the mode select and Press X Button 
+D00E28A0 2538 
+30070000 0001 
+D00710BA 0100 
+30070001 0001 
+D0070000 0101 
+800E28A4 0006 
+80070000 0000 

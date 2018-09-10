@@ -1,0 +1,6 @@
+#Infinites lives
+801C26EC 0009
+#Infinite Mp 999
+801C26EE 03E7
+#Automatically Beat Levels
+8011322E 0000

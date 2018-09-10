@@ -1,0 +1,23 @@
+#Points
+8018C5E8 9298 
+8018C5EA 0098 
+#Item pi exchange 
+3018F268 0001 
+#Jar Manet scan 
+3018F26C 0001 
+#Hyper-Reach bar 
+3018F274 0001 
+#Transfer canceller 
+3018F27C 0001 
+#The · Lv1 crowded sins of silver 
+3018F270 0001 
+#The · Lv2 crowded sins of gold 
+3018F278 0001 
+#The · Lv3 crowded sins of illusion 
+3018F280 0001 
+#All Memorial Open
+800C21F8 0F0F 
+800C21FA 0F0F 
+800C21FC 0303 
+#Can race against the conservative free competition 
+300C20F2 0001 

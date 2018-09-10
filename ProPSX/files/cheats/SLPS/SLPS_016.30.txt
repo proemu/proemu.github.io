@@ -1,0 +1,67 @@
+#Infinite HP Phobos in battle (main character)
+800BDB6A 03E7
+#Infinite & Max HP Phobos (main character)
+80010762 03E7
+80010764 03E7
+#Infinite & Max MP Phobos (main character)
+80010766 270F	
+80010768 270F
+#Infinite money (9999999)
+8001001C 967F
+8001001E 0098
+#Infinite Mp
+D00BA77C 1023
+800BA77E 0040
+#Inf Item
+D00B5B5A 2442
+800B5B58 0000
+#Infinite Mp In Battle
+D002AF8A A466
+8002AF88 0000
+D002AF8A A466
+8002AF8A 0000
+#Infinite ??????????Combat
+D002AF62 A066
+8002AF60 0000
+D002AF62 A066
+8002AF62 0000
+#Items Not Decrease During Combat You have to have two units
+D0025EE0 1023
+80025EE2 0060
+#All Items possession 
+D00B6C3A 1440 
+800B6C2C 00FF 
+D00B6C3A 1440 
+800B6C2E 2402 
+D00B6C3A 1440 
+800B6C32 A062 
+D00B6C3A 1440 
+800B6C42 A464 
+D00B6C3A 1440 
+800B6C38 0001 
+#The number of planets	
+8001074C FFFF
+#Hyper Athletic / clear time / 1st	
+3004FE70 0039 
+3004FE71 0039 
+3004FE73 0039 
+3004FE74 0039 
+3004FE76 0039 
+3004FE77 0039	
+#Hyper Athletic / elapsed time	
+8005771C D2EB 
+8005771E 0000
+Runaway bus / SCORE Max	
+80064F2C FFFF 
+80064F2E 7FFF
+#Playtime	
+8006F0FC 8900
+8006F0FE 0149
+#Ards attacker / SCORE Max	
+80073274 FFFF 
+80073276 7FFF
+#Sugoroku mode / movement number	
+30085868 00FF
+#Interlude views It also affects the mini-games and Shop	
+300EAD4C 001D
+

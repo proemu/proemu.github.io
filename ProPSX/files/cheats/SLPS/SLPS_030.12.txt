@@ -1,0 +1,40 @@
+#Inochiumu 
+800867C0 967F 
+800867C2 0098 
+#Possession Inochiumu	
+80085F70 E100
+80085F72 05F5
+#Thanks gauge MAX 
+3010D7B4 001E 
+#No random batles
+8005E2B4 0000 
+#HP currently	
+80085F7C 03E7
+#LV 99	
+300863F2 0063
+#Less likely to encounter	
+80009010 0000 
+80009012 0000
+#All Krull diary / Musicals	
+300870FF 00FF	
+#All Mini-game apPear	
+300870C1 0020
+#Totokarucho Issue appearance	
+300870D4 0002
+#All Observation notes	
+300870FF 00FF	
+#The number of dolls	
+30087172 00C0
+#The number of dolls	
+30087172 00C0
+#Number of party	
+30087173 0005
+#Thanks gauge	
+3010D7B4 001E
+#Nyanko slip / invincible	
+301CB37E 0010
+#Nyanko slip / TIME	
+801CBE04 12FB
+#Infinite money
+800CA1DC 423F
+800CA1DE 000F

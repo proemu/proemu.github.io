@@ -1,0 +1,7 @@
+#Extra table appearance 
+8007F128 0043 
+#One pitch in the first 1P
+8008705C 0000
+#One pitch in the first 1P Press Square button 
+D01C24BA 7FFF 
+8008705C 0000

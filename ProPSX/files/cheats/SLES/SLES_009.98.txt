@@ -1,0 +1,14 @@
+#Super Street Fighter II Infinite health P1	
+80175134 0090
+80175136 0090
+#Super Street Fighter II No health P2	
+801754A0 0000
+801754A2 0000
+#Super Street Fighter II Turbo Infinite health P1
+80175134 0090
+80175136 0090
+#Super Street Fighter II Play as Akuma	
+80175418 0100
+#Super Street Fighter II Turbo No health P2
+801754A0 0000
+801754A2 0000

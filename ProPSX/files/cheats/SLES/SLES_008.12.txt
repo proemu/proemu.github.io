@@ -1,0 +1,10 @@
+#Infinite Le550
+8013D8B4 0F64
+#Infinite Leurre Passive
+8013D8CC 0003
+80141EAC 0003
+#Infinite Armac
+801410A4 0187
+80141B30 0387
+#Infinite Mantis
+80141F88 0004

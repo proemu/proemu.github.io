@@ -1,0 +1,17 @@
+#Infinite Boost
+D002C12A A642
+8002C128 0000
+D002C1D2 A242
+8002C1D0 0000
+#Infinite Health
+D00ABCB2 0001
+800ABCB2 0004
+#Invulnerability
+800ABAB8 0002
+#All Levels (Hiryu Scenario)
+D00DA086 0400
+800DA086 0600
+#Strider Hien Scenario
+800A8FDA 0001
+#Unlock Level 00	
+300A8FD9 0001

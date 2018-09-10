@@ -1,0 +1,8 @@
+#Infinite Health
+800B9A1C 083C
+#All Weapons
+800C1A50 FFFF
+#Save Anywhere (Press L1 + L2)
+D00B18C0 0005
+800B7EF0 0007
+

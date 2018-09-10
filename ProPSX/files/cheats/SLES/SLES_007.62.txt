@@ -1,0 +1,16 @@
+#Always Come In First
+801E91E0 0001
+#Infinite Checkpoint Time
+801DE894 1693
+#Lap Time 00:00
+801D91DC 0000
+801D91E0 0000
+801D91E4 0000
+#Finished Race When Starting
+801E91E6 0003
+#Fly Through Walls & No 'Course Out'
+801E91A4 0001
+#Have F-16
+801DE68E 000A
+#Have Stealth
+801DE68E 000B

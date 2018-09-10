@@ -1,0 +1,4 @@
+#P1 Infinite Lives
+800AD990 0003
+#P2 Infinite Lives
+800AD992 0003

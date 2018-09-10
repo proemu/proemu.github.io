@@ -1,0 +1,10 @@
+#Unlimited Health Player 1
+800DC434 0002
+800DC436 16A0
+800DC444 0008
+800DC446 16A0
+#Player 1 Unlimited Rush
+800E5EE6 0128
+#No health player 2
+800E61BC 0000  
+800E61BE 0000 

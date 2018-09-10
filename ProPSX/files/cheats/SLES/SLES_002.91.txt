@@ -1,0 +1,18 @@
+#Invincible	  
+800A6D54 0190
+800BB2F8 0190
+#Full Energy	  
+800A80F4 0200
+800BB2FA 0200
+#Infinite Energy P1
+80072678 0188
+#Infinite Energy P2
+800726F4 0188
+#No Energy P2
+800726F4 0000
+#Have all characters
+8003BC14 FFFF
+#Have all characters Alternate 
+8004C63E 2800
+8004A6F8 2403
+8004A6FA FFFF

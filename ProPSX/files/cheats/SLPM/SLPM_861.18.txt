@@ -1,0 +1,21 @@
+#Infinite Hp Player 1 Stage 1
+8007D32C 0100
+#Infinite HP Player 1 Stage 2
+80079BDC 0100
+#Infinite HP Player 1 Stage 3
+80079A04 0100
+#Infinite HP Player 1 Stage 4
+8007BEE4 0100
+#Infinite HP Player 1 Stage 5
+8007B784 0100
+#Infinite HP Player 1 Stage 8
+8007D154 0100
+#Infinite HP Player 1 Stage 9
+80079DB4 0100
+#Infinite HP Player 1 Stage 10
+8007C294 0100
+#Hidden characters added bonus fully open
+80071906 FFFF
+80075B96 00FF
+#Defeat the enemy with a single blow
+8002C7F0 0001 

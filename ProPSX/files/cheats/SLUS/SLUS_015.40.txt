@@ -1,0 +1,9 @@
+#Always 0:00 Time
+8005F5FC 0000
+#Always 1st Place
+800710EC 0001
+#Always On Lap 4
+8005F5F2 0104
+#Infinite Space In Track Editor
+800D5010 03E8
+

@@ -1,0 +1,16 @@
+#P1 Infinite Life 
+800C8EEC 00C8 
+#P1 Infinite Magic
+800C8EEE 0708
+#2P Health 0 Press L2 Button
+D00BF862 0001 
+800C8EEC 0000  
+#Get Special Costumes (Press Triangle & Start)
+D00BF860 0040
+800C8F9C 00FF
+D00BF862 0040
+800C9178 00FF
+
+
+
+

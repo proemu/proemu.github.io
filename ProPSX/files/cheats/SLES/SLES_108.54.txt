@@ -1,0 +1,32 @@
+#Unendlich Cannon
+800F5D10 0031
+#Unendlich Missiles
+800F5D14 000A
+#Unendlich Hyper Missiles
+800F5D18 0031
+#Unendlich Firestreak Missiles
+800F5D1C 0031
+#Unendlich Starburst Missiles
+800F5D20 0031
+#Unendlich Rockets
+800F5D24 0031
+#Unendlich 6000 Rockets
+800F5D28 0031
+#Unendlich Cluster Bombs
+800F5D2A 0031
+#Unendlich Plasma
+800F5D2E 0031
+#Unendlich Laser
+800F5D30 0031
+#Unendlich Epp
+800F5D34 0031
+#Unendlich 6000 Epp
+800F5D36 0031
+#Unendlich Drop Bombs
+800F5D3E 0031
+#Unendlich Supplies
+800F5D40 0031
+#Unendlich Energie (Wenn dieser Code auch aktiviert werden soll (wird wohl...), dann bitte den Code direkt nach dem booten ausschalten und nur waehrend des eigentlichen Spiels wieder einschalten, sonst geht gar nichts)
+801EEEB8 1389
+
+

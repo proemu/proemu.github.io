@@ -1,0 +1,8 @@
+#Always First Place Arcade Mode
+800B131C 0014
+#Current lap 3	
+300AE3FA 0003
+#Current lap 4	
+300AE3FA 0003
+#Current lap 5	
+300AE3FA 0005

@@ -1,0 +1,11 @@
+#Time is 0:00:00
+800B026E 2400
+#Unlock Everything
+D00687B0 4003
+8016ACE8 FFFF
+#Enable  Maintain Speed Off Track
+8006BB08 0001
+#Enable  Rocket Cars
+8006BB08 0002
+#Enable  Turbo Mode
+8006BB08 0100

@@ -1,0 +1,53 @@
+#Max Cash
+80072818 967F
+8007281A 0098
+#Degree of affection Max	
+300750D6 00FF
+#Sai	
+300750DA 0063
+#Not get sick	
+3007516E 0000
+#Won the festival	
+300750F4 0040
+#Degree of affection Alt	
+300757B6 00FF
+#Sai Alt	
+300757BA 0063
+#won the festival Alt	
+300757D4 0040
+#Not get sick Alt
+3007584E 0000
+#Degree of friendship	
+3007712A 00FF
+#Degree of affection alt 2	
+3007712C 00FF
+#Degree of friendship Max	
+3007B37E 00FF
+#Harvesting capacity Max	
+3007B416 00FF
+#Watering capacity MAx	
+3007B418 00FF
+#Care ability Max	
+3007B41A 00FF
+#Physical fitness Max	
+300727D0 006E
+#No fatigue	
+300727D2 0000
+#Number of medals	
+8007281C 967F 
+8007281E 0098
+#The presence of horse	
+80076830 016D 
+#Local horse race / time	
+800BC588 A5DF 
+800BC58A 0001
+#Local horse race / stamina	
+300BE846 00FF
+#Weather Rain	
+3007BA1A 0001
+#Weather Snow	
+3007BA1A 0002
+#Weather typhoon 	
+3007BA1A 0003
+#Weather heavy snow 	
+3007BA1A 0004

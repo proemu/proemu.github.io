@@ -1,0 +1,22 @@
+#Infinite & Max energy
+8018B0CC 0063
+8018B168 0063
+#Infinite & Max MP
+8018B0D0 00C8 
+8018B16C 00C8 
+#Infinite Money
+8018B0EC 869F
+8018B0EE 0001
+#It is not poisoned 
+8018B102 0000 
+#It is not applied to sleep 
+8018B104 0000 
+#Not be confused 
+8018B106 0000 
+#It does not become invisible eyes 
+8018B170 0000 
+#Empirical value 
+8018B0D8 0D40 
+8018B0DA 0003 
+#Movement is not dull 
+3018B0E3 0002 

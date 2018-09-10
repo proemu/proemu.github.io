@@ -1,0 +1,5 @@
+#Infinite money 999999
+80177538 423F
+8017753A 000F
+#Infinite time
+800A04D8 4650

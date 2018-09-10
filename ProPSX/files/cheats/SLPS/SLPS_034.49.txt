@@ -1,0 +1,31 @@
+#Infinites Lives P1
+300C98FB 0063
+#Infinite Bomb P1
+300ED7D4 0063
+#Infinites Bullets P1
+800ED7D6 FFFF
+#Infinites missile weapons P1
+300EDEB1 0063
+#Invincible P1
+800C9E74 0070
+800EDEAA 0030
+D0106FAC 00D6
+80106FB6 1000
+#Infinite Lives P2
+300C9A47 0063
+#Infinite Bomb P2
+300ED7DE 0063
+#Infinite Bullets P2
+800ED7E0 FFFF
+#Infinite missile weapons P2
+300EDED9 0063
+#Invincible P2
+800C9FC0 0070
+800EDED2 0030
+D0106FAC 00D6
+80106FB6 1000
+#Inifinite Time in arcade mode
+800C9B88 3C00
+#Combat School and Another Mission Modes Unlocked
+800D3CF0 0006
+800D3CF2 00FF

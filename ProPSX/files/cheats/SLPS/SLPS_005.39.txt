@@ -1,0 +1,12 @@
+#Infinite Energy P1 	
+801D7E0C 00C8
+#Infinite Energy P2 	
+801D8384 00C8
+#No Energy P2 	
+801D8384 0000
+#After pressing the SELECT button 2P Life 0 
+D01EAAE0 0100 
+801D8384 0000 
+#All bonus characters 
+801EAA50 0101 
+801EAA52 0001 

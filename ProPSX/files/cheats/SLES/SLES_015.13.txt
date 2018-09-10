@@ -1,0 +1,8 @@
+#Always Finish First  
+3006BA60 0000 
+#Max Score  
+8007BCAC FFFF 
+#Time Is Always 0:00:00  
+8006AC24 0000 
+
+

@@ -1,0 +1,8 @@
+#Infinite energy Character 1
+80086A4C 03E7
+#Infinite energy Character 2
+80086AE0 03E7
+#Infinite energy Character 3
+80086C9C 03E7
+#Infinite energy Character 4
+80086DC4 03E7

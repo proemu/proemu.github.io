@@ -1,0 +1,13 @@
+#Have 500 Million Money Credits
+800A139C 1FFF
+800A139E 1FFF
+#Always Have 3 Retries
+300A1399 0003
+#Start On 3rd Lap In Season Mode
+8009F714 0002
+#Start On 5th Lap In Season Mode
+8009F714 0004
+#Have All Classes		
+300A1398 0004
+
+

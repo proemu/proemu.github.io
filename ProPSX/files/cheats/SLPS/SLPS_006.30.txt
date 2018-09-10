@@ -1,0 +1,20 @@
+#Infinite Lives
+801C27C4 000A
+#Infinite Energy
+8015D6D6 6400
+#Infinite Balls
+801B1306 2800
+#Invincibility 
+3015D6FF 0011 
+#Does not decrease the screw 
+3016C744 0063 
+#Infinite special weapons energy 
+301B1307 0028 
+301B130B 0028 
+301B130F 0028 
+301B1313 0028 
+301B1317 0028 
+301B131B 0028 
+301B131F 0028 
+301B1323 0028 
+301B1327 0028

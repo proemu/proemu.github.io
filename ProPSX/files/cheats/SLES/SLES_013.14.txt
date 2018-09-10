@@ -1,0 +1,27 @@
+#Sameluck Raida Codes (Blue Ship)\Invincible
+800BA8C2 0400
+#Sameluck Raida Codes (Blue Ship)\Infinite Shield
+800BAE4A 0303
+#Sameluck Raida Codes (Blue Ship)\Infinite Lives
+800BA8BE 0006
+#Sameluck Raida Codes (Blue Ship)\Red Weapon Higher Level (Missiles)
+300BADF9 0006
+#Sameluck Raida Codes (Blue Ship)\Green Weapon Higher Level (Bombs)
+300BAE29 0003
+#Sameluck Raida Codes (Blue Ship)\Infinite Capture Balls
+300BAE4B 0006
+#Sameluck Raida Codes (Blue Ship)\Special Laser
+800DC8B6 01FF
+#Lutia Feen Codes (Red Ship)\Invincible
+800BAFCE 0400
+#Lutia Feen Codes (Red Ship)\Infinite Shield
+800BB556 0303
+#Lutia Feen Codes (Red Ship)\Infinite Lives
+800BAFCA 0006
+#Lutia Feen Codes (Red Ship)\Red Weapon Higher Level (Missiles)
+300BB505 0005
+#Lutia Feen Codes (Red Ship)\Green Weapon Higher Level (Bombs)
+300BB535 0003
+#Lutia Feen Codes (Red Ship)\Infinite Capture Balls
+300BB557 0006
+

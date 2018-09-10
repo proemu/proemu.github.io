@@ -1,0 +1,20 @@
+#Energy 100%
+800B1390 03E8 
+#Radar 100% 
+800B1420 0064 
+#Shield 100% ' 
+800B1394 03E8 
+#Weapon 100% 
+800B4570 0064 
+#999 Bullet Eritorokuruon
+800B13CC 03E7 
+#999 Bullet Eroshion 
+800B13DC 03E7 
+#999 Bullet Be~eda 
+800B13E0 03E7
+#999 BulletS Wallace cancer
+800B13C4 03E7
+#999 BulletS of Sachs 
+800B13D0 03E7 
+#Not Increase time
+800BB708 0000

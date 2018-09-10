@@ -1,0 +1,27 @@
+#Infinite Time
+800D6A10 0063
+#Infinite Energy P1
+80101F9C 03E8
+#Infinite Energy P2
+801020E0 03E8
+#P1 Infinite Psv
+80101F9E 0190
+#P1 No Psv
+80101F9E 0000
+#P2 Infinite Psv
+801020E2 0190
+#P2 No Psv
+801020E2 0000
+#P1 Never Wins
+80101FB6 0001
+#P2 Never Wins
+801020FA 0001
+#1 Hit Death P1
+D0101F9C 03E8
+80101F9C 0001
+#1 Hit Death P2
+D01020E0 03E8
+801020E0 0001
+#Infinite Time To Select Character
+8011F484 0320
+

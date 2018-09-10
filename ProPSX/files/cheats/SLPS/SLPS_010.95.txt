@@ -1,0 +1,14 @@
+#Infinite Time
+800AEF6C 096C
+#Infinite Domino
+800A205C 03E7
+#Invincible
+80088E7C 0015
+800987E0 05F3
+800AEF6C 05F2
+800B34BE 7BDE
+#All characters can be selected
+D00C452C 0003
+800C452C 001F
+#Infinite Health
+80015146 1000

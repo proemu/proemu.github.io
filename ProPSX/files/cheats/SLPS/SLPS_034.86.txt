@@ -1,0 +1,8 @@
+#Infinite lives Battle formula 
+800D36FC 0005
+#Infinite energy Battle formula
+800D3703 0040
+#Infinites lives Gimmick
+800F32F4 0003
+#Infinite energy Gimmick
+800F3536 0002

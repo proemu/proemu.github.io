@@ -1,0 +1,13 @@
+#Obi Infinite Hp
+800BA908 0064
+#Qui-Gon Infinite Hp
+800BA954 0064
+#Panaka Infinite Hp
+800BA9A0 0064
+#Queen Infinite Hp
+800BA9EC 0064
+#Infinite Sp
+800BA728 0FFF
+800BA90C 0064
+#Freeze Time
+800B1A92 0000

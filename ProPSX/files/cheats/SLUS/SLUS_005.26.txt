@@ -1,0 +1,11 @@
+#Away Team Score 100
+80016580 0064
+#Away Team Score 100
+80016580 0000
+#Home Team Score 100
+80015120 0064
+#Home Team Score 0
+80015120 0000
+#Stat Codes\Infinite Player Points Remaining
+800CB438 00C8
+

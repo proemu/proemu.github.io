@@ -1,0 +1,9 @@
+#Infinite Shield
+800C07C8 1000
+800C07CC 1000
+#Infinite Lives
+800E5AF0 000A
+#Enables All Levels
+800C6C48 0010
+
+

@@ -1,0 +1,16 @@
+#Always Finish First
+300D64E5 0000
+#Inf Maximun Special
+800D6554 0006
+#Unlock All Cups And Tracks
+800986E8 FFFF
+800986F4 FFFF
+800986F8 FFFF
+#Unlock All Characters
+800986F0 FFFF
+800986F2 FFFF
+#Unlock All Movies
+800986FC FFFF
+#All Chalenges Completed
+800986EC FFFF
+800986EE FFFF

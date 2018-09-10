@@ -1,0 +1,11 @@
+#Infinite Repair Set Up Time
+D0075648 0714
+800C64A4 003C
+#Stop Lap Timer Always Win 
+D007B414 07B8
+800C6548 0000
+#Unlock All Tracks Cars Difficulties
+80010098 FFFF
+#Perfect Score/Always Pass Rally School Mode		
+80010358 AAAA
+8001035A AAAA

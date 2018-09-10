@@ -1,0 +1,4 @@
+#Start Race With 9999 Coins
+80120EAC 270F
+#Infinite Weapons (Not Special Attacks)
+801217D0 0003

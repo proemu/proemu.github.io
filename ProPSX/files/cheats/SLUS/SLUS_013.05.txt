@@ -1,0 +1,39 @@
+#Unlock All Characters
+50000902 0000
+800AE958 0101
+#Infinite energy Julio
+80128EF0 0076
+#Infinite energy Gabrielle
+8012CDB4 0076
+#Infinite energy Sergio
+80124A98 0076
+#Infinite energy Mabutu
+8012EB00 0076
+#Infinite energy Greta
+80124A3C 0076
+#Infinite energy Bruno
+80128FC0 0076
+#Infinite energy Alex
+801226F0 0076
+#Infinite energy Damien
+8012C820 0076
+#Infinite energy Butcher
+8011D7C0 0076
+#Infinite energy Shark
+80120114 0076
+#Infinite energy Sam
+8011F464 0076
+#Infinite energy Jet
+801226A0 0076
+#Infinite energy Dragon
+80125CF4 0082
+#Infinite energy Kai
+8011FF9C 0076
+#Infinite energy Clarice
+80133CB4 0076
+#Infinite energy Spike
+8011F6AC 0076
+#Infinite energy Jackal
+8011FC94 0076
+#Infinite energy Cyclops
+80125E10 0090

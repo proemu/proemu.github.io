@@ -1,0 +1,30 @@
+#Infinite Biker's Health
+800D5766 5A5A
+#Infinite Bike Durability
+800D577C 4040
+#Finish The Race 1st
+800D577E 0102
+#Start Racing Before The Cpu Racers
+8005B2A8 006A
+#Max Tko
+800D81F0 FF00
+#Use Super Weapon Press up
+E00D6DE5 0010
+800D5786 FFFF
+#Quit Race & Have All Weapons Press L1+L2 
+D00D6DE4 0005
+800D5782 FFFF
+D00D6DE4 0005
+800D5784 FFFF
+#Only 1 Race To Complete In Grunt Stage
+D00D81C8 0000
+800D81C8 03F6
+#Only 1 Race To Complete In Captain Stage
+D00D81CA 0000
+800D81CA 37FF
+#Max Hits
+800D81F2 00FF
+#Always Win		
+300D577F 0001
+#Infinite Nitro
+300D81EC 000A

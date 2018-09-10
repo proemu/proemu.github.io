@@ -1,0 +1,6 @@
+#Infinite Bombs	
+801A221C 0009
+#Infinite Lives		
+801A2218 0009
+#Invincibility	
+801A2236 0010

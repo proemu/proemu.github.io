@@ -1,0 +1,123 @@
+#Infinite Time
+8002CDB2 3C00
+#Infinite Tries (Training Mode)
+801FAE64 0003
+#P1 Infinite Health
+80031850 0004
+80031852 1080
+#P1 1-Hit Ko!
+80095EA8 0000
+#P1 Low Stamina
+80095EAC 0028
+#P1 Infinite Rumble Power
+80095EB8 00B4
+#P1 Short Rumble Power
+80095EB8 0000
+#P1 Always Have Rumble Power
+80095EBC 0001
+#P2 Infinite Health
+80031850 0004
+80031852 1480
+#P2 1-Hit Ko!
+800966C4 0000
+#P2 Low Stamina
+800966C8 0028
+#P2 Infinite Rumble Power
+800966D4 00B4
+#P2 Short Rumble Power
+800966D4 0000
+#P2 Always Have Rumble Power
+800966D8 0001
+#Infinite Continue Time
+80045216 3C00
+#Infinite Continues
+80033DEA 3C00
+#Championship Mode Codes\Infinite Money Save the game and then uncheck the code
+80097DA8 FFFF
+#Championship Mode Codes\Max Money Save the game and then uncheck the code
+80097DA8 967F
+80097DAA 0098.
+#Championship Mode Codes\Have All Class Champ/Unlock All Characters Save the game and then uncheck the code
+5000114C 0000
+80097DAE 0003
+#Championship Mode Codes\Have Rank Champ (Everyone) Save the game and then uncheck the code
+5000114C 0000
+80097DB0 0000
+#Championship Mode Codes\Have No Fights Left (Everyone) Save the game and then uncheck the code
+5000114C 0000
+80097DB2 0000
+#Championship Mode Codes\Have All Wins (Everyone) Save the game and then uncheck the code
+5000114C 0000
+80097DB4 001E
+#Championship Mode Codes\Have No Losses (Everyone) Save the game and then uncheck the code
+5000114C 0000
+80097DB6 0000
+#Championship Mode Codes\Have 100% Strength (Everyone)Save the game and then uncheck the code
+5000114C 0000
+80097DBC 7FFB
+5000114C 0000
+80097DBE 003E
+#Championship Mode Codes\Have 100% Stamina (Everyone) Save the game and then uncheck the code
+5000114C 0000
+80097DC0 7FFB
+5000114C 0000
+80097DC2 003E
+#Championship Mode Codes\Have 100% Dexterity (Everyone)Save the game and then uncheck the code
+5000114C 0000
+80097DC4 7FFB
+5000114C 0000
+80097DC6 003E
+#Championship Mode Codes\Have 100% Experience (Everyone) Save the game and then uncheck the code
+5000114C 0000
+80097DC8 7FFB
+5000114C 0000
+80097DCA 003E
+#Boris Knokimov Codes\Class Champ
+80097DAE 0003
+#Boris Knokimov Codes\Rank Champ
+80097DB0 0000
+#Boris Knokimov Codes\100% Strength
+80097DBC 7FFB
+80097DBE 003E
+#Boris Knokimov Codes\100% Stamina
+80097DC0 7FFB
+80097DC2 003E
+#Boris Knokimov Codes\100% Dexterity
+80097DC4 7FFB
+80097DC6 003E
+#Boris Knokimov Codes\100% Experience
+80097DC8 7FFB
+80097DCA 003E
+#Butcher Brown Codes\Class Champ
+80097DFA 0003
+#Butcher Brown Codes\Rank Champ
+80097DFC 0000
+#Butcher Brown Codes\100% Strength
+80097E08 7FFB
+80097E0A 003E
+#Butcher Brown Codes\100% Stamina
+80097E0C 7FFB
+80097E0E 003E
+#Butcher Brown Codes\100% Dexterity
+80097E10 7FFB
+80097E12 003E
+#Butcher Brown Codes\100% Experience
+80097E14 7FFB
+80097E16 003E
+#Afro Thunder Codes\Class Champ
+80097E46 0003
+#Afro Thunder Codes\Rank Champ
+80097E48 0000
+#Afro Thunder Codes\100% Strength
+80097E54 7FFB
+80097E56 003E
+#Afro Thunder Codes\100% Stamina
+80097E58 7FFB
+80097E5A 003E
+#Afro Thunder Codes\100% Dexterity
+80097E5C 7FFB
+80097E5E 003E
+#Afro Thunder Codes\100% Experience
+80097E60 7FFB
+80097E62 003E
+

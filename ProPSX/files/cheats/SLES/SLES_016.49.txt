@@ -1,0 +1,73 @@
+#Have All Weapons/Inf Ammo
+800A62D2 0001
+#Unlimited Air
+80098E4E 0708
+#Have all levels when loading a saved game	
+D006DC64 0821
+8006DC64 0003
+D006DC66 0034
+8006DC66 2402
+#Infinite Large medipacks	
+80097214 00FF
+#Infinite Small medipacks	
+80097216 00FF
+#Infinite Savegame crystals	
+80097218 00FF
+#Flares burn eternally	
+80098E5E 0050
+#All secrets / levels	
+800A62CE 00FF
+#Infinite Energy\India - Jungle
+801D2D06 03E8
+#Infinite Energy\India - Temple Ruins
+801DB1C2 03E8
+#Infinite Energy\India - The River Ganges
+801D3976 03E8
+#Infinite Energy\India - Caves Of Kaliya
+8017B49A 03E8
+#Infinite Energy\South Pacific Islands - Coastal Village
+801D6BCA 03E8
+#Infinite Energy\South Pacific Islands - Crash Site
+801DC4CA 03E8
+#Infinite Energy\South Pacific Islands - Madubu Gorge
+801DA8E6 03E8
+#Infinite Energy\South Pacific Islands - Temple Of Puna
+8018DE3E 03E8
+#Infinite Energy\Nevada - Nevada Desert
+801D62E2 03E8
+#Infinite Energy\Nevada - High Security Compound
+801DF682 03E8
+#Infinite Energy\Nevada - Area 51
+801DF3AE 03E8
+#Infinite Energy\London - Thames Wharf
+801E1CCE 03E8
+#Infinite Energy\London - Aldwych
+801D66FE 03E8
+#Infinite Energy\London - Luds Gate
+801E23A6 03E8
+#Infinite Energy\London - City
+801924AE 03E8
+#Infinite Energy\Antarctica - Antarctica
+801D9552 03E8
+#No freeze mode Antarctica	
+8009AD44 0258
+#Infinite Energy\Antarctica - Rx-Tech Mines
+801DC88E 03E8
+#Infinite Body Heat In Water Rx-Tech Mines	
+8009AD30 0258
+#Infinite Energy\Antarctica - Lost City Of Tinos
+801D871E 03E8
+#Infinite Energy\Antarctica - Meteorite Cavern
+801A58C6 03E8 
+#One Hit Knockdown Boss	Meteorite Cavern	
+801A59D6 0000
+#Infinite Energy All Hallows (Secret Level)
+80196BAE 03E8
+#Lara Home Level\Door Under Stairs Stays Open
+801B9396 011D
+#Lara Home Level\Trophy Room Door Stays Open Once Unlocked From Inside
+D11BA300 FFFF
+801BA300 FFFF
+#Spider Lara .Can climb any flat vertical surface
+80098E46 0001
+

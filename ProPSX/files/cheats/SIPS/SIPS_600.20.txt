@@ -1,0 +1,7 @@
+#Inf. Turbos		
+801772FC 0004
+80178768 0004
+#Unlock All Extras		
+80077260 0003
+#Hidden command CODES ENABLED 
+80177264 0001

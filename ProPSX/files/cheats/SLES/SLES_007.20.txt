@@ -1,0 +1,11 @@
+#Level beenden(Drücke L2 & R2 & Start)	
+D008C602 FCF7
+30089E88 0001
+#Unendlich Luft	
+8008C66E 0708
+#Unendlich Fackeln	
+30088C72 0063
+#Unendlich Grosse Medipacks	
+30088C74 0063
+#Unendlich Kleine Medipacks	
+30088C76 0063

@@ -1,0 +1,7 @@
+#No Fuel Consution And Overheating
+8008B4C2 3C00
+8007FA36 3C00
+8008B4C6 3C00
+#Unlock all
+50000B02 0000
+80026FA0 0101

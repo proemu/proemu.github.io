@@ -1,0 +1,22 @@
+#During the race, first place at all times 
+3007 A034 0001 
+#10 pieces of possession Kotobuki coin 
+30079CBC 000A 
+#All Characters and all courses unlock
+30079CB8 000F
+#All Characters Max Field
+800DB580 0005
+800DB582 0005
+800DB584 0005
+800DB586 0005
+800DB588 0005
+#Speed Boost Mode 80 KM Press L2 + R2
+D007956C 0003
+8007AB92 0006
+#Speed Boost Mode 120 KM Press L2 + R2
+D007956C 0003
+8007AB92 0009
+#Lap Timer = 0
+8007A050 0000
+#Always Win Race
+8007A034 0101

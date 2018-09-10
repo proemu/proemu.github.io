@@ -1,0 +1,11 @@
+#All Gallery/All Modes/All Characteres
+80137978 FFFF
+80097CE0 FFFF
+80097CE2 2012
+8013797A 007F
+#Timer Stop
+80079340 0000
+#State Normality
+801685B6 0004
+#State Darkness
+801685B6 2104

@@ -1,0 +1,8 @@
+#Infinite Energy
+800225DA 3400
+#Infinite Lives
+30085D54 0900
+#Infinite Arrows
+30085D57 0009
+#Infinte Dragon Attacks When You Have It
+30085DA8 0063

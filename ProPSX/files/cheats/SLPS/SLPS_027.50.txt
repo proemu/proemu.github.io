@@ -1,0 +1,13 @@
+#Have 999999G
+8009EEDC 423F
+8009EEDE 000F
+#Have 60000 population
+800D4138 EA60
+#Infinite energy in battle main character
+8009DE54 03E7
+#Infinite energy in battle character 2
+8009DFB4 03E7
+#Infinite energy in battle character 3
+8009E114 03E7
+#Infinite energy in battle character 4
+8009E274 03E7

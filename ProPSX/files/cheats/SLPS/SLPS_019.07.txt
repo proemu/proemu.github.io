@@ -1,0 +1,3 @@
+#Have 999999 credits in story mode
+80010010 423F
+80010012 000F

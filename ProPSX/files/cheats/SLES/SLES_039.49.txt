@@ -1,0 +1,5 @@
+#9999 Lebenspunkte P1 
+800EB28C 270F 
+#keine Lebenspunkte P2 
+800EB2AC 0000 
+

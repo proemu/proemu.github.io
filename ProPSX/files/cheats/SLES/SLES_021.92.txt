@@ -1,0 +1,19 @@
+#Heimmannschaft Hat 9
+3007203A 0009
+#Heimmannschaft Hat 0
+3007203A 000'0
+#Gastmannschaft Hat 9
+30074E3A 0009
+#Gastmannschaft Hat 0 
+30074E3A 0000
+#Heimmannschaft Hat Unendlich Auszeiten
+3007203C 0003
+#Heimmannschaft Hat Keine Auszeiten
+3007203C 0000
+#Gastmannschaft Hat Unendlich Auszeiten
+30074E3C 0003
+#Gastmannschaft Hat Keine Auszeiten
+30074E3C 0000
+#Timer ZurüCksetzen Select drücken
+D006DFA6 0001
+30077782 0018

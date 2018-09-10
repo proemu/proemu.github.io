@@ -1,0 +1,32 @@
+#Invincible
+80077988 01F4
+#Infinite Psionic
+80077990 0028
+#Infinite Ammo 18Mm Guns
+80056D5C 0014
+#Infinite Ammo Phase Guns
+80056D60 0014
+#Infinite Hifreq Ammo Phase Guns
+800567D4 0014
+#Infinite Ammo Am Blaster Guns
+80056D70 0014
+#Infinite Ammo Lock On Gun
+80056D68 0014
+#Enable 18Mm Automatic
+80077424 0001
+#Enable Phase Rifle
+8007742A 0001
+#Enable Phase Repeator
+8007742C 0001
+#Enable Lock On Gun
+80077430 0001
+#Enable Am Blaster
+80077434 0001
+#Enable Am Cyclone
+80077438 0001
+#Enable Zodiac
+8007743C 0001
+#Enable Plasma Lance
+80077440 0001
+#Rapid Fire
+800779A8 0000

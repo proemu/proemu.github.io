@@ -1,0 +1,7 @@
+"No Casualties
+800821FE 0000
+"All 300 Modokons Saved
+80082200 012c
+"Invincible
+3007E4AA 0001
+

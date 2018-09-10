@@ -1,0 +1,19 @@
+#Infinite Remaining Creation Points
+801FFDD8 0067
+#Infinite Money
+5000128C 0000
+801498AC 869F
+5000128C 0000
+801498AE 0001
+5000128C 0000
+801498B0 869F
+5000128C 0000
+801498B2 0001
+#Infinite Days (In-Battle)		
+30162FA4 0000
+#Infinite Morale (In-Battle)		
+30162FBC 0064
+#No Max Morale (In-Battle) (Quick Win In-Battle)		
+30162FC0 0000
+#No Morale (In-Battle) (Quick Win In-Battle)		
+30162FBC 0000

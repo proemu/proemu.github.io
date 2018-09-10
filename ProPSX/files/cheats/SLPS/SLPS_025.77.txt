@@ -1,0 +1,10 @@
+#Player has 999900 points
+80161324 270F
+#Opponent 1 has 0 points
+80161528 0000
+#Opponent 2 has 0 points
+8016147C 0000
+#Opponent 3 has 0 points
+801613D0 0000
+#Player has 99 points in hanafuda game
+80063F4C 0063

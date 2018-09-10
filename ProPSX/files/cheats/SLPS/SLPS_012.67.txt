@@ -1,0 +1,19 @@
+#Infinite 1P Lives-Imagefight
+80145014 0003
+#Infinite 1P Lives-Xmultiply
+800C7B72 0003
+@Impact Racing@SLUS-00225
+#Infinite Time
+8013824C 0625
+#Infinite Laser
+8013E554 0000
+#Infinite Front Armor
+800B9E8C 0064
+#Infinite Rear Armor
+800B9E90 0064
+#Infinite Mines (On Pickup)
+800B9E80 0063
+#Infinite Missiles (On Pickup)
+800B9E78 0063
+#Infinite Energy
+8013E524 0320

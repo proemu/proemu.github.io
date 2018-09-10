@@ -1,0 +1,8 @@
+#Infinite Hp For P1
+80075EA0 00C8
+#Infinite Mp For P1
+80075EC0 0040
+#Infinite Hp For P2
+8007616C 00C8
+#Infinite Mp For P2
+8007618C 0040

@@ -1,0 +1,25 @@
+#Max HP 
+801871B0 03E7
+801871B2 03E7 
+#Funds (the stage)
+80187FB4 E100 
+80187FB6 05F5 
+#Funds (savings)
+80187FB8 E100 
+80187FBA 05F5 
+#Appearance at all stages
+80187FBC 0000 
+80187FBE 0000 
+80187FC0 0000 
+80187FC2 0000 
+80187FC4 0000
+#No more time and no more enemies 
+8004A530 0000 
+#Infinite Spirit  
+8004B092 0040 
+8005E016 1400 
+#Level up to enter the battle
+8005DDE6 1400 
+#All Maps S rank
+50000602 0000 
+80187FBC 0000 

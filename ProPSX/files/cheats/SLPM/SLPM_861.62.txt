@@ -1,0 +1,14 @@
+#Away Team Score 9	
+300CB7BF 0090
+#Away Team Score 0	
+300CB7BF 0000
+#Home Team Score 9		
+300CB7BD 0090
+#Home Team Score 0		
+300CB7BD 0000
+#Secret Teams	
+8010A2CA 000F
+#P1 Scores 9
+800B4A2A 900C
+#P2 Scores 9
+800B4A4E 900C

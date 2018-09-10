@@ -1,0 +1,4 @@
+#Infinite Health
+801350A4 0900
+#Infinite Machine Gun Ammo
+801350A2 1000

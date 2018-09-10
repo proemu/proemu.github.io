@@ -1,0 +1,4 @@
+#Infinite Lives
+800815DC 0005
+#Infinite Time
+8007F366 0009

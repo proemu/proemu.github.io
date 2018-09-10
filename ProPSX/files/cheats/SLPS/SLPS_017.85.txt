@@ -1,0 +1,31 @@
+#Infinite Energy
+800849D8 03E7
+80091252 03E7
+800FE300 03E7
+800FEE30 03E7
+#Maximum Energy
+800849F8 03E7
+8009125A 03E7
+#Money and Ichi-ya Max	
+800912E4 E0FF 
+800912E6 05F5
+#Enemy is less likely to appear 	
+80009010 0000 
+80009012 0000 
+30091930 00FF
+#Stage	
+8009124A 0063
+#Current body	
+80091252 03E7
+#Maximum body	
+8009125A 03E7
+#Heart Max	
+800912E8 FFFF
+800912EA 7FFF
+#Card album fully open
+8004295C 0001
+#Art of pre-acquisition Skanda heaven
+300918D8 0002
+#Number of Oni that punish	
+80091958 FFFF 
+8009195A 7FFF

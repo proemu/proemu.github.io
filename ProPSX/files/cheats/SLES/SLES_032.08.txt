@@ -1,0 +1,4 @@
+#Time is always 0
+800772A7 0000
+#Infinite energy
+8007D200 0064

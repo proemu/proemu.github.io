@@ -1,0 +1,10 @@
+#Always First
+80088948 0001
+#Infinite Checkpoint Timer
+80088488 06C5
+#Laps Are 0:00:00
+80088958 0000
+8008895C 0000
+80088960 0000
+
+

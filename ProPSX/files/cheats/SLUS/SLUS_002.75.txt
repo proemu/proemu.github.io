@@ -1,0 +1,29 @@
+#Infinite Money 	
+8013B338 FFFF
+#High Reputation 	
+8013C060 0400
+#Always Play Level 1 	
+300F4B34 0001
+#Always Play Level 2	
+300F4B34 0002
+#Always Play Level 3	
+300F4B34 0003
+#Always Play Level 4	
+300F4B34 0004
+#Always Play Level 5 	
+300F4B34 0005
+#Always Play Level 6 	
+300F4B34 0006
+#Always Play Level 7 	
+300F4B34 0007
+#Always Play Level 8 	
+300F4B34 0008
+#Always Play Level 9 	
+300F4B34 0009
+#Always Play Level 10 	
+300F4B34 000A
+#Always Play Level 11 	
+300F4B34 000B
+#Always Play Level 12 	
+300F4B34 000C
+

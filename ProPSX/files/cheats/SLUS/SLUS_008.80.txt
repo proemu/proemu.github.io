@@ -1,0 +1,10 @@
+#Max Reptor Bars
+800C92FE 00FF
+#Have Max Keys
+800C92F8 00FF
+#Infinite Time (Zero Gees)
+80090262 2400
+#Infinite Battery Power
+80080AA6 2400
+#Infinite Booster Jumps
+300E75B3 0063

@@ -1,0 +1,34 @@
+#Infinite Money
+80065F0C 967F
+80065F0E 0098
+#Max Exp
+80065F10 967F
+80065F12 0098
+80065F14 FFFF
+#Fast Level Up
+8011E3A4 FFFF
+#Enemy Display	
+80061B90 00FF
+#Map display	
+80061B98 00FF
+#Repel enemy	
+80061BA6 00FF
+#Stop enemy	
+80061BB8 00FF
+#God release	
+30066EDF 00FF
+#Win / victory point dedication point	
+8011E3A4 967F 
+8011E3A6 0098
+#Health	Max
+80062267 0080
+#Chushin	
+8006226B 0080
+#Victory	
+8006226C E0FF 
+8006226E 05F5
+#All Arts	
+3006227F 00FF	
+#All Mystery	
+3006228B 00F0	
+

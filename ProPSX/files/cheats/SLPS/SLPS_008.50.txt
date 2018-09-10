@@ -1,0 +1,5 @@
+#Full Life Bar	
+800DDE5A F103
+#Infinite Money	
+800E50A8 423F
+800E50A6 000

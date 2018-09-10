@@ -1,0 +1,12 @@
+#Infinite Health
+800DCAE0 000A
+#Infinite Floating Power
+80097C5C 0078
+#Infinite Lives
+300DCAB1 0003
+#Max Crystals
+300DCAB2 00FF
+#Infinite Continues
+300DCADE 0003
+#All Levels Unlocked
+300DCAAD 000A

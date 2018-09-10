@@ -1,0 +1,14 @@
+#Street Fighter Zero 2 Alpha\Infinite Energy Player 1
+8019624C 0090
+#Street Fighter Zero 2 Alpha\Infinite Energy Player 2
+80196648 0090
+#Street Fighter Zero 2 Alpha\No Energy Player 2
+80196648 0000
+#Street Fighter Zero 2 Alpha\Maximum Super Bar Player 1
+801962B6 0090
+#Street Fighter Zero 2 Alpha\Maximum Super Bar Player 2
+801966B2 0090
+#Street Fighter Zero 2 Alpha\Infinite Original Combo Time Player 1
+80196490 A400
+#Street Fighter Zero 2 Alpha\Infinite Original Combo Time Player 2
+8019688C A400

@@ -1,0 +1,23 @@
+#Infinite energy Main unit
+800FF830 270F
+800FF834 270F
+#Infinite energy 2nd unit
+800FF930 270F
+800FF934 270F
+#Infinite energy 3rd unit
+800FFA30 270F
+800FFA34 270F
+#Infinite energy 4th unit
+800FFAB0 270F
+800FFAB4 270F
+#Infinite energy 5th unit
+800FF9B0 270F
+800FF9B4 270F
+#Scenario can be selected Press Triangle + L2/R2.
+D008538A 0011
+E31AB6E4 0000
+211AB6E4 0001
+D008538A 0012
+E21AB6E4 0014
+201AB6E4 0001
+

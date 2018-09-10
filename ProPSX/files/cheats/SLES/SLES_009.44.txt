@@ -1,0 +1,56 @@
+#Infinite Lives
+801140CC 0009
+#Infinite Rage Meter
+80113CC8 00C0
+#Mid Air Jumps Press the X-button repeatedly and quickly to do the mid air jump
+80113CF8 0002
+#Infinite Special Weapon Energy
+80113D10 FFFF
+#Have Missile Launcher
+80113D0C 0001
+#Have Homing Missiles
+80113D0C 0002
+#Have Flame Thrower
+80113D0C 0003
+#Have Pulse Laser
+80113D0C 0004
+#Have Grenade Launcher
+80113D0C 0005
+#Have All Weapons
+80113CEC 0001
+#Invincible
+80113CE8 0001
+#Weapon Select Push Select + Up for Missile Launcher Push Select + Left for Homing Missile Push Select + Right for Flame Thrower Push Select + Down for Pulse Laser Push Select + L1 for Grenade Launcher
+D0119710 0011
+80113D0C 0001
+D0119710 0081
+80113D0C 0002
+D0119710 0021
+80113D0C 0003
+D0119710 0041
+80113D0C 0004
+D0119710 0401
+80113D0C 0005
+#Sole-View
+80039884 0000
+80039886 0000
+#Frog-View
+800398B8 0000
+800398BA 0000
+#Far-View
+80039970 0000
+80039972 0000
+#No Camerapan
+800399F8 0000
+800399FA 0000
+#Pan Up/Down
+80039A18 0000
+80039A1A 0000
+#Very Near-View
+80039B48 0000
+80039B4A 0000
+#Upside-Down!
+8003A1C4 0000
+8003A1C6 0000
+8003A1C8 0000
+8003A1CA 0000

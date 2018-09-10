@@ -1,0 +1,2 @@
+#Infinite helps in Arcade Mode
+800FF170 0003

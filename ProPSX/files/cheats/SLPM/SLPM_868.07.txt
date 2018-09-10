@@ -1,0 +1,73 @@
+#Enemy always score 0
+800999C2 0000
+#Full count with SELECT + L2 button
+D008AA40 0101
+3009B57C 0002
+D008AA30 0101
+3009B57D 0003
+D008AA30 0101
+3009B57E 0002
+#Supervision Max
+8009769E 00FF
+#Coach Max #
+800976A0 00FF
+#Teammate Max
+800976A2 00FF
+#Omonehatake Max
+800976A8 00FF
+#Shark Island Max
+800976AA 00FF
+#Strength MAX 
+800976D8 03E7
+#Agility MAX 
+800976D1 03E7
+#MAX technology field 
+800976DC 03E7
+#Spirit MAX 
+800976DE 03E7
+#MAX -throw technology 
+800976E0 03E7
+#Breaking ball MAX 
+800976E2 03E7
+#Straight MAX 
+30097664 0007
+#Slider MAX 
+30097666 0007
+#Curve MAX 
+30097668 0007
+#MAX fork 
+3009766A 0007
+#Sinker MAX 
+3009766C 0007
+#Shoot MAX 
+3009766E 0007
+#Tough degree MAX 
+30097646 0063
+#Physical fitness MAX 
+30097648 0063
+#Motivation MAX 
+3009764A 0004
+#Ball speed MAX 
+30099764C 00FF
+#Control MAX 
+30099764E 00FF
+#Stamina MAX 
+300997650 00FF
+#Meet the cursor MAX 
+300997652 0007
+#Power MAX 
+300997654 00FF
+#Running ability MAX 
+300997656 000F
+#Shoulder force MAX 
+300997658 000F
+#Defensive force MAX 
+30099765A 000F
+#The first run number change 
+301FA025 000F
+#The first run distance change 
+301FA026 00FF
+#Two first nunner Max
+301FA027 000A
+#Two eyes flying distance Max
+301FA028 00FF

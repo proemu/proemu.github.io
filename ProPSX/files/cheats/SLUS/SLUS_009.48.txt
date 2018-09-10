@@ -1,0 +1,14 @@
+#Team 1 Score 100 	
+800B5160 0064	
+#Team 1 Score 100 	
+800B5160 0000
+#Team 2 Score 100	
+800B517C 0064
+#Team 2 Score 0	
+800B517C 0000
+#Enable Tournament Mode 	
+8009D00C 0001
+#Enable ABA Ball		
+8009D040 0001
+#Enable Tiny Players		
+8009D000 0001

@@ -1,0 +1,114 @@
+#Unendlich Zeit Pro Zug 1P+2P-Modi
+8019B940 3C00
+#Unendlich Zeit Pro Zug Trainings-Modus
+8019AF04 3C00
+#Unendlich Zeit Pro Zug Deathmodus
+8019CC98 3C00
+#Unendlich Zeit Pro Zug 3P-Modus
+8019CDB8 3C00
+#Unendlich Zeit Pro Zug 4P-Modus
+8019C37C 3C00
+#Zeit Pro Zug Anhalten Mit L2
+D01E5DA6 FEFF
+80086E52 3C00
+#Zeit Pro Zug Weiterlaufen Lassen Mit L1
+D01E5DA6 FBFF
+80086E52 AE42
+#Kein Kasten Um Timer...
+80182B70 0000
+#Keine Hintergrundger‰Usche
+801E5D94 0000
+#P1 Unendlich Alle Waffen
+50004004 0001
+8014B9EC 0002
+#P2 Unendlich Alle Waffen
+50004004 0001
+8014BC04 0002
+#P3 Unendlich Alle Waffen
+50004004 0001
+8014BE1C 0002
+#P4 Unendlich Alle Waffen
+50004004 0001
+8014C034 0002
+#Alle Waffen Unendlich Benutzbar
+8004C85A 3C00
+#Unendlich Energie Wurm 1 P1
+3014AFA0 0064
+#Unendlich Energie Wurm 2 P1
+3014B03C 0064
+#Unendlich Energie Wurm 3 P1
+3014B0D8 0064
+#Unendlich Energie Wurm 4 P1
+3014B174 0064
+#Unendlich Energie Wurm 1 P2
+3014B24C 0064
+#Unendlich Energie Wurm 2 P2
+3014B2E8 0064
+#Unendlich Energie Wurm 3 P2
+3014B384 0064
+#Unendlich Energie Wurm 4 P2
+3014B420 0064
+#Unendlich Energie Wurm 1 P3
+3014B4F8 0064
+#Unendlich Energie Wurm 2 P3
+3014B594 0064
+#Unendlich Energie Wurm 3 P3
+3014B630 0064
+#Unendlich Energie Wurm 4 P3
+3014B6CC 0064
+#Unendlich Energie Wurm 1 P4
+3014B7A4 0064
+#Unendlich Energie Wurm 2 P4
+3014B840 0064
+#Unendlich Energie Wurm 3 P4
+3014B8DC 0064
+#Unendlich Energie Wurm 4 P4
+3014B978 0064
+#Sudden Death Wurm 1 P1 .Select+L1
+D0041ABC FBFE
+3014AFA0 0000
+#Sudden Death Wurm 2 P1 .Select+L1
+D0041ABC FBFE
+3014B03C 0000
+#Sudden Death Wurm 3 P1 .Select+L1
+D0041ABC FBFE
+3014B0D8 0000
+#Sudden Death Wurm 4 P1 .Select+L1
+D0041ABC FBFE
+3014B174 0000
+#Sudden Death Wurm 1 P2 .Select+L2
+D0041ABC FEFE
+3014B24C 0000
+#Sudden Death Wurm 2 P2 .Select+L2
+D0041ABC FEFE
+3014B2E8 0000
+#Sudden Death Wurm 3 P2 .Select+L2
+D0041ABC FEFE
+3014B384 0000
+#Sudden Death Wurm 4 P2 .Select+L2
+D0041ABC FEFE
+3014B420 0000
+#Sudden Death Wurm 1 P3 .Select+R1
+D0041ABC F7FE
+3014B4F8 0000
+#Sudden Death Wurm 2 P3 .Select+R1
+D0041ABC F7FE
+3014B594 0000
+#Sudden Death Wurm 3 P3 .Select+R1
+D0041ABC F7FE
+3014B630 0000
+#Sudden Death Wurm 4 P3 .Select+R1
+D0041ABC F7FE
+3014B6CC 0000
+#Sudden Death Wurm 1 P4 .Select+R2
+D0041ABC FDFE
+3014B7A4 0000
+#Sudden Death Wurm 2 P4 .Select+R2
+D0041ABC FDFE
+3014B840 0000
+#Sudden Death Wurm 3 P4 .Select+R2
+D0041ABC FDFE
+3014B8DC 0000
+#Sudden Death Wurm 4 P4 .Select+R2
+D0041ABC FDFE
+3014B978 0000

@@ -1,0 +1,5 @@
+#Max Exp (Press Select)
+D01FC418 0100
+801FC4E6 0050
+#Max Exp
+801FC4E6 0050

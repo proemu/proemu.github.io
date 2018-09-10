@@ -1,0 +1,8 @@
+#Infinite health Luke
+8009038E 03E7
+#Tons of Maica 	
+8008DD08 0FFF
+#Infinite HP Magic Puppet 1
+800903CA 03E7
+#Infinite health Magic Puppet 2
+80090406 03E7

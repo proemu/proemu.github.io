@@ -1,0 +1,10 @@
+#Infinite Lives
+80094D3E 0004
+#Have All Weapons
+80094D4A 001F
+#Have Max Weapon Level
+80094CE6 0003
+#Weapons Never Overheat
+80094CF8 3000
+#Invincibility	
+80094D6E 0099

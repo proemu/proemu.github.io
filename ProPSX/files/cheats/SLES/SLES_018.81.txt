@@ -1,0 +1,14 @@
+#1942\Infinite Lives
+30069EA1 0005
+#1943\Infinite Health P1
+8008D67E 0144
+#1943\Infinite Health P2
+8008D6FE 0144
+#1943\Infinite Time For Special Weapon
+8008D6CE EE00
+#1943 Kai\Infinite Health P1
+8008FAFE 0144
+#1943 Kai\Infinite Health P2
+8008FB7E 0144
+#1943 Kai\Infinite Time For Special Weapon
+8008FB4E EE00

@@ -1,0 +1,20 @@
+#Unlimited Health
+800B4D64 0060
+#All 5 Change Roll
+300B4D6A 0005
+#Infinite Keys
+800A282C 0101
+#Infinite Bombs
+800B4D66 0101
+#Invincibility 
+300A266C 0001
+#Completely invincible 
+800A262E 0001 
+#Deathblow 
+800B4D66 0003 
+#All movies open
+800A29EE FFFF 
+#Card 
+800A282C 0001 
+#I can transform all 
+800B4D6A 0005

@@ -1,0 +1,18 @@
+#All Weapons
+80018BD2 2400
+80018BE4 03E8
+80018BE6 2402
+#Infinite Ammo
+80022B46 2400
+#Infinite Health
+8005DF06 2400
+#Infinite Lives
+800FF874 0005
+#Infinite Smart Bombs
+8005D45E 2400
+#Invincibility
+800FF31C 0001
+#Have Debug Screen Open
+800FF33C 0001
+#Stage Select
+800FF338 0001

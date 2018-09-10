@@ -1,0 +1,6 @@
+#Inf Energy
+800F361C 03E8
+#Infinite ammo
+800F3630 0190
+#Infinite grenades
+800F3632 001E

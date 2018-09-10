@@ -1,0 +1,37 @@
+#Infinite Money
+800AABB0 0FFF
+#Infinite Hp
+801AE43C 0032
+#Max Hp
+801AE440 0032
+#Infinite Mp
+801DE5A4 0004
+#Max Mp
+801DE5A6 0004
+#Have All Keys
+801DE6A8 0063
+801DE6A8 0032
+801DE6D8 0001
+801DE6DC 0001
+801DE6E0 0001
+#Max Money
+801DE5A8 270F
+#Infinite Gold Bird
+801DE5AE 0063
+#Invincibility
+801AE5F4 0002
+#entering the debug map 
+80010000 FFFF 
+#entering the debug map To switch the screen while holding down the L2 + R2 When the screen blacks out, that you release the button of L2 + R2 other than If the character is stuck, I press L1 + R1 button 
+D01DE7C8 0003 
+801E9E2C 000B 
+D01DE7C8 000C 
+801AE530 021C 
+D01DE7C8 000C 
+801AE542 01D8 
+#A debug mode Pad 2 Select Debug ON / OFF L1 / L2 option menu To start confirmation 
+301DE1B7 0080 
+
+
+
+

@@ -1,0 +1,9 @@
+#Player has 99999 points
+801C71B0 869F
+801C71B2 0001
+#Up enemy has 0 points
+801C71B8 0000
+#Left enemy has 0 points
+801C71BC 0000
+#Right enemy has 0 points
+801C71B4 0000

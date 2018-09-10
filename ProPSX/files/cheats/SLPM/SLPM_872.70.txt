@@ -1,0 +1,12 @@
+#Player 1 Infinite Shield Energy  
+800D1694 0006 
+#Player 1 Max Shots Level 3  
+800D16B6 0200 
+#Player 1 Infinite Sub-Weapon Energy  
+800D16C6 0003 
+#Player 2 Infinite Shield Energy  
+800D1850 0006 
+#Player 2 Max Shots Level 3  
+800D1872 0200 
+#Player 2 Infinite Sub-Weapon Energy  
+800D1882 0003 

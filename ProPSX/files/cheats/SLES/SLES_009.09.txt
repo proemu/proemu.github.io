@@ -1,0 +1,10 @@
+#Infinite money
+800A7CB4 270F
+#Infinite machine gun ammo
+800A5F90 0064
+#Infinite rockets
+800A5F7E0064
+#Infinite Fuel
+800A7E58 0064
+#Inifinite Damage
+800A86E8 0800

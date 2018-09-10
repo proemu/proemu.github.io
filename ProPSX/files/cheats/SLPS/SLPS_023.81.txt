@@ -1,0 +1,37 @@
+#Hp 999
+801929FC 03E7
+801929FE 03E7
+#Mp 999
+80192A00 03E7
+80192A02 03E7
+#Elm 9999
+80194304 270F
+#Stats 999
+801929E8 03E7
+801929E6 03E7
+#Stats 255
+801929EC 00FF
+801929EA FFFF
+#Level 99
+801929E4 6300
+#Level Up
+801929F0 0001
+#MAX money
+80194304 423F 
+80194306 000F 
+#Ruise favorability MAX
+8019443C 7FFF 
+#Wallace favorability MAX
+801944F4 7FFF 
+#Ariosto favorability MAX
+801945AC 7FFF 
+#Elliott favorability MAX
+80194664 7FFF 
+#Zenosu favorability MAX
+8019471C 7FFF 
+#Mischa favorability MAX
+801947D4 7FFF 
+#Karen favorability MAX
+8019488C 7FFF 
+#Julia favorability MAX
+80194944 7FFF

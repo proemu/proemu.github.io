@@ -1,0 +1,6 @@
+#Have 999999999 credit in store
+800AA828 C9FF
+800AA82A 3B9A
+#Have 99.999.999 money in blackjack
+801179AC E0FF
+801179AE 05F5

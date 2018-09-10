@@ -1,0 +1,6 @@
+#Have Spear @1
+800C5528 0009
+#Have Spear @2
+800CA08C 0009
+#Tower Finished
+800CA0A0 00FF

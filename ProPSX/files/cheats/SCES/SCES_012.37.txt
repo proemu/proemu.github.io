@@ -1,0 +1,107 @@
+#Infinite Health Player 1
+800A95E6 0082
+#Infinite Health Player 2
+800AAE72 0082
+#Enable Theatre Mode
+30097EEF 0003
+#Enable All Movies In Theatre
+80097EC0 FFFF
+80097EC2 FFFF
+80097EC4 FFFF
+#Enable Tekken Ball Mode
+30097EEE 0003
+#Enable All Characters
+80097EB8 FFFF
+80097EBA FFFF
+80097EBC FFFF
+#Enable Tiger Characters .To select to fight with Tiger you must select Eddy with START button.
+80097EBC 0382
+#No Health Enemies Tekken Force Mode .This code also effects Player 2 health in other modes.
+800AAE72 0000
+800AC6FE 0000
+#Infinite Time To Choose
+80118764 03FF
+#Infinite Time In Force Mode
+800ADB94 134F
+#No Health P1
+300A95E6 0000
+#No Health P2
+300AAE72 0000
+#1-Hit Death P1
+D00A95E6 008C
+800A95E6 0001
+#1-Hit Death P2
+D00AAE72 008C
+800AAE72 0001
+#P1 Invincible
+800AAADA 1000
+800AAAE0 1000
+800AAAFE 1000
+800AAB04 0000
+#Arcade Mode Stage Select 1
+D00AFA74 0000
+300AFA74 0000
+#Arcade Mode Stage Select 2
+D00AFA74 0000
+300AFA74 0001
+#Arcade Mode Stage Select 3
+D00AFA74 0000
+300AFA74 0002
+#Arcade Mode Stage Select 4
+D00AFA74 0000
+300AFA74 0003
+#Arcade Mode Stage Select 5
+D00AFA74 0000
+300AFA74 0004
+#Arcade Mode Stage Select 6
+D00AFA74 0000
+300AFA74 0005
+#Arcade Mode Stage Select 7
+D00AFA74 0000
+300AFA74 0006
+#Arcade Mode Stage Select 8
+D00AFA74 0000
+300AFA74 0007
+#Arcade Mode Stage Select 9
+D00AFA74 0000
+300AFA74 0008
+#Arcade Mode Stage Select 10
+D00AFA74 0000
+300AFA74 0009
+#Grip Of Death For P1
+800A924A 0017
+#The Glow# For P1
+800A9312 006F
+800A924E 00FF
+#Neon Glow For P1 & P2
+8009E5B4 FFFF
+#Enable Final Stage In Force Mode .This code will only work if Dr. Boskonovitch has NOT been enabled.
+80097EE0 0103
+#P1 is Dr. Boskonovitch
+300ADD24 0013
+#P1 Press L1 To Gain Power P1
+D00A90F8 0004
+200A95E6 0001
+#P1 Press L2 To Lose Power P1
+D00A90F8 0001
+210A95E6 0001
+#P1 Press R1 To Gain Power P2
+D00A90F8 0008
+200AAE72 0001
+#P1 Press R2 To Lose Power P2
+D00A90F8 0002
+210AAE72 0001
+#Hit Opponent Anywhere On Screen (Both Players)
+80047802 2400
+80047772 2400
+80047B1E 2400
+#Cpu's Back Is Always Turned .Using this code, the P2 character's back will always be turned, so he can't hit you.
+300AAB43 0001
+#No Black Backgrounds (For True Ogre Fights).This code will remove the darkness that covers Backgrounds during True Ogre fights.
+300AFA68 0000
+#Play As The Cpu In Arcade Mode .Using this code, the P2 pad will control the opponent in 1P Arcade Mode.
+300AAB41 0000
+
+
+
+

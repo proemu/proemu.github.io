@@ -1,0 +1,16 @@
+#Infinite Health Player One
+800A7116 0320
+#Infinite Health Player Two
+800A71CE 0380
+#Invincible P1	
+800A7160 0003
+#Invincible P2
+800A7218 0003
+#Have All Special Attacks P1
+800A716A 01FF
+50000402 0000
+800A716E 0606
+#Have All Special Attacks P2
+800A7222 01FF
+50000402 0000
+800A7226 0606

@@ -1,0 +1,66 @@
+#Enable Levels
+80094230 3F00
+#Extra Characters
+80094138 FFFF
+#Extra Points
+8007B19C 8800
+#Infinite Checkpoint Time
+8007B19A 04A9
+#Total Time is 0'00'03'
+8007B192 0000
+#Max Skill Bonus Points .For this code, press select to refill your skill bonus with 2 more points.
+D00D27E2 0100
+800A3230 0200
+#Character TJ
+800A31C4 0000
+#Character Jerry
+800A31C4 0001
+#Character Ginger
+800A31C4 0002
+#Character Frankie
+800A31C4 0003
+#Character Sarah
+800A31C4 0004
+#Character Mick
+800A31C4 0005
+#Character Bonobo
+800A31C4 0006
+#Character Shao
+800A31C4 0007
+#Time Limit On
+800A98E8 0001
+#Time Limit Off
+800A98E8 0000
+#Have All Levels
+80094230 3F3F
+#Enable Mirror Mode
+80094110 2BE0
+80094112 0009
+80094114 A3A0
+80094116 000D
+80094118 A5B0
+8009411A 000D
+80094128 3E7E
+8009412A 000D
+80094134 00FF
+80094136 0301
+#Have All Skate Boards
+8009413C FFFF
+8009413E 3FFF
+#Stage Modifier L.A.
+800A315C 0000
+#Stage Modifier N.Y.
+800A315C 0001
+#Stage Modifier Tokyo
+800A315C 0002
+#Stage Modifier Half Pipe
+800A315C 0003
+#Stage Modifier Big Air
+800A315C 0004
+#Stage Modifier Bowl
+800A315C 0005
+#Max Points
+8007B19C FFFF
+8007B19E 00FF
+#Speed Modifier MAX
+8007B298 0FFF

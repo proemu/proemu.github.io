@@ -1,0 +1,54 @@
+#Infinite Hp Character 1-Hero
+80097630 270F
+8009763C 270F
+#Infinite HP Romleth
+80097B88 0134
+#Infinite Hp Character 2
+800976C8 270F
+#Infinite Hp Character 3
+80097760 270F
+#Infinite Hp Character 4
+800977F8 270F
+#Infinite Hp Character 5
+80097890 270F
+#Infinite Hp Character 6
+80097928 270F
+#Infinite Hp Character 7
+800979C0 270F
+#Infinite Hp Character 8
+80097A58 270F
+#Infinite Hp Character 9
+80097AF0 270F
+#Infinite Hp Character 10
+800C4B4E 0046
+#Infinite Hp Character 11
+80097C20 270F
+80097C2C 270F
+#Infinite Hp Character 12
+80097CB8 270F
+#Infinite Hp Character 13
+80097D50 270F
+#Infinite Hp Character 14
+80097DE8 270F
+#Infinite Hp Character 15
+80097E80 270F
+#Infinite Hp Character 16
+80097F18 270F
+#Infinite Money
+800988D0 EA60
+#Press Select To Kill 11 Enemies (DO NOT use during battles where you must #rescue# someone)
+D00DA1B2 FFFE
+80097C20 0000
+D00DA1B2 FFFE
+80097CB8 0000
+D00DA1B2 FFFE
+80097D50 0000
+D00DA1B2 FFFE
+80097DE8 0000
+D00DA1B2 FFFE
+80097E80 0000
+D00DA1B2 FFFE
+80097F18 0000
+D00DA1B2 FFFE
+80097FB0 0000
+D00DA1B2 FFFE

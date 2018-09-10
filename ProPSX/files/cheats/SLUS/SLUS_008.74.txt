@@ -1,0 +1,19 @@
+#Infinites Lives
+80013352 2400
+#Infinites Zzzs
+8001326E 2400
+#Infinite Air
+8002B8CE 2400
+#Infinite Moons	
+8003280E 2400
+#Max Cogs	
+800B06AA 0064
+#Have All Dreamkeys 	
+50000C02 0000
+8009059C FFFF		
+#All Levels Unlocked 	
+50000202 0000
+80090596 FFFF		
+#Have All Winks 	
+50000302 0000
+8009058C FFFF

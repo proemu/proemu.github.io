@@ -1,0 +1,21 @@
+#Language Max
+800C7700 03E7 
+#Arithmetic Max
+800C7702 03E7)
+#Pharmaceutical Max 
+800C7704 03E7 
+#Medicine  Max
+800C7706 03E7 
+#Body surgery Max
+800C7708 03E7 
+#Etiquette Max 
+800C770A 03E7 
+#Ninjutsu Max 
+800C770C 03E7 
+#Ninjutsu practical Max  
+800C770E 03E7
+#CG Gallery 
+300C0AAD 00FF
+300C0ABD 00FF 
+#all theater replay 
+300C0AFF 00FF

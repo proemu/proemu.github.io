@@ -1,0 +1,128 @@
+#Infinite Health The Clearing
+800BCC7A 00A0
+#Infinite Health The Fairy Glade
+800B9BD6 00A0
+#Infinite Health The Marshes of Awakening
+800C5A48 00A0
+#Infinite Health The Bayou
+800BA838 00A0
+#Infinite Time The Walk of Life
+800B39FC 0063
+#Infinite Health Whale Bay
+800B5F70 00A0
+#Infinite Health The Menhir Hills
+800C43DA 00A0
+#Infinite Health The Cave of Bad Dreams
+800BCE76 00A0
+#Infinite Health the Canopy
+800B136A 00A0
+#Infinite Health The Sanctuary of Stone and Fire
+800B96C8 00A0
+#Infinite Health the Echoing Caves
+800C1450 00A0
+#Infinite Health the Precipice
+800BDA14 00A0
+800BDD00 00A0
+#Infinite Health The Sanctuary of Rock and Lava
+800B6CB0 00A0
+#Infinite time The Walk of Power
+800B2BEC 0063
+#Infinite Health Beneath The Sanctuary of Rock and Lava
+800BE55A 00A0
+#Infinite Health Tomb of the Ancients
+800B3C58 00A0
+#Infinite Health the Gloomy Island
+800B7688 00A0
+#Infinite Health the Prision Ship
+800B6BC0 00A0
+#Infinite Health the Crow's Nest
+800BCFFC 00A0
+#Infinite Air		
+D00669E2 A604
+800669E2 A600
+#Have level complete The Clearing	
+D00100D4 4465
+300A6BB0 000A
+#Have level complete The Fairy Glade	
+D00100D4 4465
+300A6BB1 003C
+D00100D4 4465
+300A6BED 0004
+D00100D4 4465
+300A6C05 0002
+#Have level complete The Marshes Of Awakening	
+300A6BB3 0023
+300A6C1F 0002
+#Have level complete The Bayou	
+300A6BB4 002D
+300A6C20 0004
+#Have level complete The Walk Of Life	
+D00100D4 4465
+300A6BB5 001E
+#Have Level Complete Whale Bay	
+D00100D4 4465
+300A6BB6 0023
+D00100D4 4465
+300A6C0A 0002
+#Have level complete The Menhir Hills	
+D00100D4 4465
+300A6BB8 0037
+D00100D4 4465
+300A6BF4 0002
+D00100D4 4465
+300A6C0C 0003
+#Have level complete The Cave Of Bad Dreams	
+D00100D4 4465
+300A6BB9 0041
+#Have level complete The Canopy	
+D00100D4 4465
+300A6BBA 0041
+D00100D4 4465
+300A6BF6 0002
+D00100D4 4465
+300A6C26 0004
+#Have level complete The Sanctuary Of Stone & Fire	
+D00100D4 4465
+300A6BBB 0055
+D00100D4 4465
+300A6C0F 0006
+#Have levels complete The Echoing Caves	
+D00100D4 4465
+300A6BBD 003C
+D00100D4 4465
+300A6BF9 0002
+D00100D4 4465
+300A6C29 0005
+#Have levels complete The Precipice	
+D00100D4 4465
+300A6BBF 0041
+D00100D4 4465
+300A6C13 0004
+D00100D4 4465
+300A6C2B 0001
+#Have levels complete The Sanctuary Of Rock & Lava	
+D00100D4 4465
+300A6BC0 002D
+D00100D4 4465
+300A6C2C 0005
+#Have levels complete The Walk Of Power	
+D00100D4 4465
+300A6BC1 0028
+#Have levels complete Beneath The Sanctuary Of Rock & Lava	
+D00100D4 4465
+300A6BC2 0032
+D00100D4 4465
+300A6C2E 0004
+#Have levels complete Tomb Of The Ancients	
+D00100D4 4465
+300A6BC4 0014
+D00100D4 4465
+300A6C18 0004
+#Have levels complete The Gloomy Island	
+D00100D4 4465
+300A6BC5 0023
+D00100D4 4465
+300A6C00 0002
+D00100D4 4465
+300A6C19 0002
+

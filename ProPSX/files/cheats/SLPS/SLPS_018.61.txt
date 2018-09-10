@@ -1,0 +1,18 @@
+#Inf & Max Energy Character 1
+800F17F4 03E7
+800F17F6 03E7
+#Inf & Max Energy Character 2
+800F188C 03E7
+800F188E 03E7
+#Infinite & Max LP (Energy) Character 3
+800F1924 03E7
+800F1926 03E7
+#Infinite & Max LP (Energy) Character 4 (Girl)
+800F19BC 03E7
+800F19BE 03E7
+#Infinite & Max LP (Energy) Character 5 (Archer Man)
+800F1A54 03E7
+800F1A56 03E7
+#9999999 Gold
+800DEE28 967F
+800DEE2A 0098

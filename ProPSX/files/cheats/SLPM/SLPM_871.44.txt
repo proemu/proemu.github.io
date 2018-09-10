@@ -1,0 +1,12 @@
+#Infinite Lives
+800D8DB4 0009
+#Life Bar
+800D8D84 00C7
+#One Hit To Kill The Final Boss
+800E30DC 0000
+#Unlock One Extra Character
+800D8ECC 0001
+#P2 Infinite Lives
+800D8DB6 0009
+#P2 Life Bar
+800D8D86 00C7

@@ -1,0 +1,9 @@
+#All Characters And Extra Cheats Enabled
+800A3208 FFFF
+800A320A FFFF
+#All Racers Unlocked
+800A320C FFFF
+#All Tracks Unlocked
+800A3210 FFFF
+#Infinite Credits
+3009C1B8 0009

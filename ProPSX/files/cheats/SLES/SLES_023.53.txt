@@ -1,0 +1,14 @@
+#All qualified for challenge
+50000714 0000
+80082AE4 4E20
+#Max overall challenge points	
+8007E3A0 FFFF
+#Start countdown with -10	
+30011974 00F5
+#Start immediately	
+800121AA 3C00
+#Alaska mountain unlocked	
+8007E440 0001
+#Tsering unlocked	
+8007E444 0000
+

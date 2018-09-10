@@ -1,0 +1,33 @@
+#Infinite Hp
+800F83A4 0000
+800F83A6 0010
+#Infinite Sp
+800F83B0 0000
+800F83B2 0002
+#Infinite Lp
+800F83E8 0000
+800F83EA 0010
+#Infinite Gp
+800F83F0 5000
+#Infinite Hp (Alternate Version)
+D007A7A4 0170
+8007A7A6 2400
+#Infinite Lp (Alternate Version)
+D003F3DC 01B4
+8003F3DE 2400
+#Infinite Blaster
+800F83B2 000F
+#Infinite Homing
+800F83B6 000F
+#Infinite Thunder
+800F83BE 000F
+#Infinite Field Guard
+800F83BA 000F
+#Sophia III Mode (Press 'X' at the Main Menu)
+80098CA8 0003
+80098CAA 0004
+80098CB6 0003
+#Infinite Hover	(Turn off before a Boss battle, or the game will freeze during the battle)
+300F83AA 0010		
+#Grasshopper Mode	
+800F8330 04FF	

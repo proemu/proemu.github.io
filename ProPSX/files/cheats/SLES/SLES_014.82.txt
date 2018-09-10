@@ -1,0 +1,26 @@
+#Unendlich Munition
+8006BF98 0000
+#Unendlich Munition FüR Updates
+8006BF90 0000
+#Alle Zonen AnwäHlbar
+8009FBAA 0007
+.Diesen Code nicht im Revierkampf-Modus aktivieren.
+#Alle Zonen Abgeschlossen
+8009F7A4 0008
+.Diesen Code nicht im Revierkampf-Modus aktivieren.
+#Alle 4 Leichten Waffen
+8009C3FE 0004
+#Alle 4 Schweren Waffen
+8009C412 0004
+#Alle 4 Spezial-Waffen
+8009C426 0004
+#Unendlich Panzerung
+80058558 2400
+#Revierkampf Codes\Unendlich Punkte P1 Drücke L2 + R2
+D009FD5A 0030
+801FBF60 00FF
+#Revierkampf Codes\Unendlich Punkte P2 Drücke L2 + R2
+D009FD5E 0030
+801FBF64 00FF
+
+

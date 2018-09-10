@@ -1,0 +1,8 @@
+#Tons of Points 
+D001840C 8005
+800576C2 0FFF
+#Max Money /.With this code, you need to go play a game, quit, then go back to snowboard/in-line skate shop to have lots of money)	
+D00183F0 8006
+80058D74 0FFF 
+#Time Is 0:00:00 	
+8002031E 2400 

@@ -1,0 +1,25 @@
+#Unlock All Sound Effects
+3008323C 00FF
+#Unlock All Gameplay
+3008323E 00FF
+#Unlock All Puck
+30083240 00FF
+#Unlock All Boards
+30083242 00FF
+#Unlock All Nets
+30083244 00FF
+#Unlock All Players
+30083246 00FF
+#Unlock All Arena
+30083248 00FF
+#Unlock All Rewards
+50000702 0000
+3008323C 00FF
+#Blue Player Score 9 	
+800900E8 0009
+#Blue Player Score 0 	
+800900E8 0000
+#Red Player Score 9	
+8009009C 0009
+#Red Player Score 0 	
+8009009C 0000

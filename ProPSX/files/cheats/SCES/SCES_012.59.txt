@@ -1,0 +1,68 @@
+#Infinite Health P1
+80095DF0 00A0
+#No Health P1
+80095DF0 0000
+#1 Hit Death P1
+80095DF0 0001
+#Infinite Health P2
+80095E48 00A0
+#No Health P2
+80095E48 0000
+#1 Hit Death P2
+80095E48 0001
+#Total Run Time 99:59:59
+80095108 FFFF
+#Enable Extra Config
+80094E92 7F40
+#Enable Raidou
+30094E80 0001
+#Enable Ayane
+30094E81 0001
+#Enable Extra Voice\Zack
+80095148 0001
+#Enable Extra Voice\Tina
+8009514A 0001
+#Enable Extra Voice\Jann-Lee
+8009514C 0001
+#Enable Extra Voice\Hayabusa
+8009514E 0001
+#Enable Extra Voice\Kasumi
+80095150 0001
+#Enable Extra Voice\Gen-Fu
+80095152 0001
+#Enable Extra Voice\Bayman
+80095154 0001
+#Enable Extra Voice\Lei-Fang
+80095156 0001
+#Enable Extra Voice\Raidou
+80095158 0001
+#Enable Extra Voice\Ayane
+8009515A 0001
+#Enable Extra Voice\Bass
+8009515C 0001
+#Enable Extra Costumes\Zack
+3009513C 0005
+#Enable Extra Costumes\Tina
+3009513D 000E
+#Enable Extra Costumes\Jann-Lee
+3009513E 0005
+#Enable Extra Costumes\Hayabusa
+3009513F 0005
+#Enable Extra Costumes\Kasumi
+30095140 0005
+#Enable Extra Costumes\Gen-Fu
+30095141 0005
+#Enable Extra Costumes\Bayman
+30095142 0005
+#Enable Extra Costumes\Lei-Fang
+30095143 0005
+#Enable Extra Costumes\Raidou
+30095144 0005
+#Enable Extra Costumes\Ayane
+30095145 000E
+#Enable Extra Costumes\Bass
+80095146 000E
+
+
+
+

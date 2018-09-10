@@ -1,0 +1,16 @@
+#Infinite Energy
+80086F90 1F00
+#Level Select (00-31) enabled Last Level
+D0195F34 0000
+30195F34 0031
+#Cheat & Level Select Menu
+30088910 0001
+#Invincible\On (Press L1 & L2)
+D0088520 0500
+30069CEC 9B4C
+#Invincible\Off (Press R1 & R2)
+D0088520 0A00
+30069CEC 9B08
+
+
+

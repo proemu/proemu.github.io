@@ -1,0 +1,11 @@
+#Freeze Time
+801E8780 0000
+#Start On Lap 2
+D01E85F0 0000
+801E85F0 0002
+#End The Race - Press Select
+D01E84AC 0100
+801E85F0 0063
+#Speed Boost - Press x & Up
+D01E84AC 1040
+801E861C 0BB7

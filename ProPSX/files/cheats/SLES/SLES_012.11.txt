@@ -1,0 +1,8 @@
+#Infinite Balls P1
+D00AABE0 0002
+800AABE0 0001
+#Ballsaver always active
+800AC004 0800
+#Airbag always active
+800AC010 0800
+

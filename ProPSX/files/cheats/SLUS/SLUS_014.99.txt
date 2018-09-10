@@ -1,0 +1,6 @@
+#Enable All Levels 	
+8015C188 0009
+#Puzzle Modifier 00-63 Enabled Last	
+8015C1B8 0063	
+#Always No Steps 	
+8015C1E4 0000

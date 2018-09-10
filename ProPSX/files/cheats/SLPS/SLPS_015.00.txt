@@ -1,0 +1,22 @@
+#Infinite Hearts For P1
+800BDA68 0003
+#Infinite Hearts For P2
+800BDA6A 00063
+#Infinite Bullets P1
+800B2F74 0063
+#Infinite Bullets P2
+800B2F76 0063
+#All Items	
+80050002 0000
+80011E12 270F
+#Infinite Time		
+D00EEB76 F7FF
+800A92CC 0000
+#1P mistake number 0 
+800D2A6C 0000 
+#2P mistake number 0 
+800D2A6E 0000 
+#1P Hits 9999 
+800BAA50 270F 
+#2P Hits 9999 
+800BAA52 270F 

@@ -1,0 +1,7 @@
+#Unlock everything 	
+301FB1FC 0007
+#Start on last lap / place 1st 	
+D012DBC2 8011
+8012DBEA 0002
+#Have 9999 money
+801FB774 270F

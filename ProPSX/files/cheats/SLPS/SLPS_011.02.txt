@@ -1,0 +1,20 @@
+#Health Cheat
+800EE318 0078
+#Mine Cheat
+800DB644 0009
+#Gun Cheat
+80089770 1A1B
+#Ammo 2 Cheat
+800897F4 270E
+#Fully open map 
+800ED0E6 0001 
+#The number of credits 
+800ED10C 0001 
+#Does not decrease ammunition 
+800ED0EC 0001 
+300DB644 0063 
+#You can teleport to the location of all (WARP) in the game load
+800ED112 0001 
+800ED0EA 0001 
+#All Sound Test & Pick level  in the game PAUSED
+8009E7E0 0001 

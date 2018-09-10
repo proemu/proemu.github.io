@@ -1,0 +1,33 @@
+#Infinite Money
+8014C848 EA60
+#Kim
+8014C848 E0FF
+8014C84A 05F5
+#Manager (Next To The Clerk +40 H)Coping Max
+3014C8AC 0063
+#Max Service
+3014C8B4 0063
+#Checkout Max
+3014C8BC 0063
+#Max Customer Service
+3014C8C4 0063
+#Clerk 1 (Next To The Clerk +40 H)Max Service
+3014C8F4 0063
+#Checkout Max
+3014C8FC 0063
+#Max Customer Service
+3014C904 0063
+#Max Cumulative number of visitors 
+8014E870 C9FF
+8014E872 3B9A
+#Max Sales of the head office 
+8014C9E8 CA00
+8014C9EA 3B9A
+#5 star level Head office
+3014CA07 0005
+#5 star level second shop
+3014CD03 0005
+#Plate Length (Assistant To +40 H)Coping Max
+3014C96C 0063
+#Cooking
+3014C98C 0063

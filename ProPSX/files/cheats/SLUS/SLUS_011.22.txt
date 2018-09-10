@@ -1,0 +1,37 @@
+#Unlock All Tracks
+50000502 0000
+800BC042 0101
+#Start On Last Lap 
+E008B4A5 0000
+3008B4A5 0002
+#Max Points
+8008B5D4 967F
+8008B5D6 0098
+#Max Series Points
+800BBF30 0FFF
+#Start/Stop Timer (Press L1+L2 To Start & R1+R2 To Stop) 
+D00AFE68 0005
+800D10EE AF82
+D00AFE68 000A
+800D10EE 2400
+#Unlock 250Cc Class
+300BC05E 0001
+#Unlock 250Cc Custom Class
+300BC05F 0001
+#Unlock Open Class
+300BC060 0001
+#Unlock Mirror Mode
+300BC04E 0001
+#Unlock Arctic
+300BC045 0001
+#Unlock Inca
+300BC048 0001
+#Unlock Japanese Garden
+300BC044 0001
+#Unlock Mars
+300BC04B 0001
+#Unlock Vegas
+300BC04A 0001
+#Unlock Yosemite
+300BC049 0001
+

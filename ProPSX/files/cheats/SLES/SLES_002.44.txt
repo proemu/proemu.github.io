@@ -1,0 +1,6 @@
+#Infinite & Max HP Fist Character
+800BC956 03E7
+800BC958 03E7
+#Infinite & Max MP Fist Character
+800BC95A 0063
+800BC95C 0063

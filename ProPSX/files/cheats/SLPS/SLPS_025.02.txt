@@ -1,0 +1,12 @@
+#Player has 99 points in hanafuda game disconnect after winning the hanafuda game
+8010401E 0063
+#Enemy has always 0 points in hanafuda game disconnect after winning the hanafuda game
+80104020 0000
+#6 time wins/ partner won the L1 + L2 buttons Koi Koi
+D0096156 0005 
+80104024 0006 
+#24 pieces of shooting rights in all press triangle button
+D0096156 0010 
+8007E1EA 1818 
+D0096156 0010 
+8007E1EC 1818 

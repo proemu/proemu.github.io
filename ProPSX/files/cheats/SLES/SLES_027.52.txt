@@ -1,0 +1,22 @@
+#Infinite Money & All Cars And Stages Unlocked
+D009EFF8 9C40
+8009EFF8 21B8
+D009EFF8 21B8
+8009EFFA 0DC8
+#Inf Checkpoint Time
+800471F4 0000
+#Total Time 00:00:00/Always 1st
+80046FFC 0000
+80046FFE 0000
+#Always First (Display)
+30018982 0020
+#Enable Pitbull Cup	
+300A6A70 0001
+#Enable Masters Cup	
+300A6A71 0001
+#Enable Ultimate Cup	
+30096A72 0001
+#Enable Cop Chase Mode	
+300A6A73 0001
+#Enable Challenge Cup	
+800A6A6E 0100

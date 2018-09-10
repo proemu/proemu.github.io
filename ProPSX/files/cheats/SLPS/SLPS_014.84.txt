@@ -1,0 +1,6 @@
+#Infinite Hp
+8005E5B4 001E
+#Infinite Sp
+8005E708 03E7
+#Infinite Missiles
+8005E5BC 0028

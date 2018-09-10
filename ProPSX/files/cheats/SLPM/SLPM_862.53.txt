@@ -1,0 +1,4 @@
+#Enemy always score 0
+8015828A 0000
+#Have 999000 money
+80156616 2706

@@ -1,0 +1,19 @@
+#Infinite Scientists
+800856C8 0063
+#Infinite Component 1
+800856CC 0063
+#Infinite Component 2
+800856D0 0063
+#Infinite Component 3
+800856D4 0063
+#Infinite Health
+80076D70 0400
+#Infinite Power
+80076D74 FFFF
+#Level Select With these codes, start a new game and then abort it, and the codes will work
+30070E95 0001
+#All Ships & Weapons With these codes, start a new game and then abort it, and the codes will work
+30070E96 0001
+#Infinite Shields
+80016174 0000
+8001634C 0000

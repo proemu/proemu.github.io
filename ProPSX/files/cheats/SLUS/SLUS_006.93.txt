@@ -1,0 +1,44 @@
+#P1 Infinite Health	
+80113264 FFFF
+#Battle Mode Codes\Infinite Armor
+80113264 00F9
+#Battle Mode Codes\Infinite Ghosts
+80113210 0003
+#Battle Mode Codes\Infinite Mossles
+801131E8 0003
+#Battle Mode Codes\Infinite Mines
+80113204 0003
+#Battle Mode Codes\Infinite Grenades
+801131F4 0003
+#Battle Mode Codes\Infinite Skip Disk
+80113124 0003
+#Battle Mode Codes\Infinite Shockwave
+801131FC 0003
+#Battle Mode Codes\Infinite Flamethrower
+801131F8 000A
+#Battle Mode Codes\Infinite Torpedoes
+801131E4 0003
+#Enable Big Wave Mode	
+8010D828 0005
+#Enable Chicken Mode	
+800AB018 0001
+#Enable Flipped Tracks	
+800B3598 0001
+#Enable Hong Kong Level	
+800A86C0 0001
+#Enable Loch Ness Level	
+800A86C6 0001
+#Enable RC Boat Mode	
+800AB010 0001	
+#Enable The Amazon Level	
+800A86CC 0001
+#Enable The Bayou Level	
+800A86C2 0001
+#Enable The Bermuda Triangle Level	
+800A86D0 0001
+#Enable The Log Ride Level	
+800A86CE 0001
+
+
+
+

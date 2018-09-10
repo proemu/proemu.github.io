@@ -1,0 +1,2 @@
+#Have 65535 money
+80124286 FFFF

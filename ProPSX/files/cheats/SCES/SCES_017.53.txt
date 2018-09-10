@@ -1,0 +1,14 @@
+#Enable All Stages
+301A5061 0001
+50000302 0000
+801A5062 3F3F
+#Player 1 Always Rockin Cool
+30071EF8 0000
+#Player 2 Always Rockin Cool	
+30071F02 0000
+#All Effect Possession (Press Select)	
+301A504F 003F
+#Have all crowns	
+301A5051 0001
+50000302 0000
+801A5052 3F3F

@@ -1,0 +1,88 @@
+#Unendlich Luft
+80098E4E 0708
+#Level beenden (Drücke L2 & R2 & Start)	
+D009B0C2 FCF7
+300989F4 0001
+#Rotes Blut	
+30031D74 0020
+30031D84 0020
+30031D8C 0098
+30031FC4 0020
+30031FD4 0020
+30031FDC 0088
+#Unendlich Munition & Gegenstände	
+300A62D2 0001
+#Indra Schlüssel
+8009728C 000A
+#Unendlich Speicherkristalle
+8009720A 0063
+#Unendlich Kleine Medipacks	
+80097208 0063
+#Unendlich Grosse Medipacks
+80097206 0063
+#Unendlich Magnesiumfackeln	
+80097204 0063
+#Unendlich Alle Gegenstände	
+50000902 0064
+80097200 0000
+#Unendlich Gesundheit Dschungel	
+801D2FC2 03E8
+#Unendlich Gesundheit Tempel ruine
+801DB47E 03E8
+#Unendlich Gesundheit Der Ganges
+801D3C32 03E8
+#Unendlich Gesundheit Kaliya Höhlen
+8017B756 03E8
+#Unendlich Gesundheit Küstendorf
+801D6E86 03E8
+#Unendlich Gesundheit Absturzstelle
+801DC786 03E8
+#Unendlich Gesundheit Madubu Schlucht
+801DABA2 03E8
+#Unendlich Gesundheit Puna tempel
+8018E0FA 03E8
+#Unendlich Gesundheit Kai an der Themse
+801E1F8A 03E8
+#Unendlich Gesundheit Aldwych
+801D69BA 03E8
+#Unendlich Gesundheit Luds Gate
+801E2662 03E8
+#Unendlich Gesundheit Innenstadt
+8019276A 03E8
+#Unendlich Gesundheit Wüste von Nevada
+801D659E 03E8
+#Unendlich Gesundheit Hochsicherheitstrakt
+801DF93E 03E8
+#Unendlich Gesundheit Area 51
+801DF66A 03E8
+#Unendlich Gesundheit- Antarctica
+801D980E 03E8
+#Unendlich Gesundheit - Rx-Tech Mines
+801DCB4A 03E8
+#Unendlich Gesundheit Die vergessene Stadt Tinnos
+801D89DA 03E8
+#Unendlich Gesundheit Die Höhle des Meteoriten
+801A5B32 03E8
+#Geister-Modus Die Höhle des Meteoriten	
+D00989F0 0013
+301A5B1C 000C
+#Unendlich Gesundheit All Hallows (Secret Level)
+80196E6A 03E8
+#Level beenden (Drücke L2 & R2 & Start)v1.1
+D009B64E FCF7
+30098F68 0001
+#Unendlich Luft v1.1
+800993DA 0708	
+#Unendlich Speicherkristalle v1.1
+30097762 0064
+#Unendlich Grosse Medipacks v1.1
+3009775E 0064
+#Unendlich Magnesiumfackeln v1.1	
+3009775C 0064
+#Unendlich Alle Gegenstände v1,1	
+50000402 0064
+8009775C 0000
+
+
+
+	

@@ -1,0 +1,8 @@
+#Infinite Hp P1
+8018005A 0005
+#Infinite Hp P2
+8018005C 0005
+#Infinite Bomb P1		
+80148E30 0003
+#Infinite Bomb P2		
+80148FF8 0003

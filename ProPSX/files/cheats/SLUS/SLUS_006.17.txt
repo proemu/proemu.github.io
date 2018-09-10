@@ -1,0 +1,35 @@
+#Home Team Always Gains A Extra Point
+30150745 0001
+#Home Team Never Gains A Extra Point
+30150745 0000
+#Away Team Always Gains A Extra Point
+30150744 0001
+#Away Team Never Gains A Extra Point
+30150744 0000
+#10 Points Gained Per Td
+800435E0 000A
+#0 Points Gained Per Td
+800435E0 0000
+#Home Team Score Modifier Codes\1st Quarter 0 Points
+80171F24 0000
+#Home Team Score Modifier Codes\2nd Quarter 0 Points
+80171F28 0000
+#Home Team Score Modifier Codes\3rd Quarter 0 Points
+80171F2C 0000
+#Home Team Score Modifier Codes\4th Quarter 100 Points
+80171F30 0064
+#Home Team Score Modifier Codes\4th Quarter 0 Points
+80171F30 0000
+#Away Team Score Modifier Codes\1st Quarter 0 Points
+80171F40 0000
+#Away Team Score Modifier Codes\2nd Quarter 0 Points
+80171F44 0000
+#Away Team Score Modifier Codes\3rd Quarter 0 Points
+80171F48 0000
+#Away Team Score Modifier Codes\4th Quarter 100 Points
+80171F4C 0064
+#Away Team Score Modifier Codes\4th Quarter 0 Points
+80171F4C 0000
+
+
+

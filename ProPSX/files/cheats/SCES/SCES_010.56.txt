@@ -1,0 +1,8 @@
+#Infinite energy
+8007F5B8 0800
+#Infinite Energy for all Magics
+80044158 0800
+8004415A 3405
+8004415C 0000
+#Level select (00-18)Enabled Last Level
+8007F582 0018

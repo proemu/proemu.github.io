@@ -1,0 +1,21 @@
+#Infinite energy character 1 mission 1
+800819E8 0012
+#Infinite energy character 1 mission 2
+80081A60 0014
+#Infinite energy character 2 mission 2
+80081A24 0014
+#Infinite energy character 3 mission 2
+80081AD8 0014
+#Max level after the battle
+80033D00 0064 
+80033D02 3402 
+#Infinite Moves
+8002F2A6 9264 
+#Infinite Attack
+8002F56C 0000 
+#Infinite Options
+8002F6A0 0000 
+#Infinte bullets 
+80033786 0060 
+#It is not attacked by enemy 
+8003865A 1400 

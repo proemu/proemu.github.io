@@ -1,0 +1,7 @@
+#Enemy has no energy (just hit him once to win)
+801F0B90 0000
+#Second player lost After pressing the SELECT button 
+D00870EC FEFF 
+801F0B90 0000 
+#Infinite HP 1P
+801F0790 00E0

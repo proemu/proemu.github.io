@@ -1,0 +1,6 @@
+#Infinite money	
+800DB934 034A
+#Infinite reserves	
+800E0CB0 0007
+#BLACK AVENGERS Max troops	
+800DBDA0 2000

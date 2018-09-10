@@ -1,0 +1,39 @@
+#Infinite items 
+8001CF24 0000 
+8005784A 1400 
+8005789E 1400
+#Infinite HP
+8001D068 0080 
+8001D06A A603 
+80058A9C 0014 
+80058A9E A4C3
+#Deadly blow 
+8001DDCE AC60 
+8001D2B8 0080 
+8001D2BA AC80
+#Infinite bullets 	
+8001E218 03E7 
+8001E21A 241A 
+8001E226 A45A
+#Maximum life MAX once EX bottle 
+80057666 A4A3 
+800576B2 A4A3 
+800576E2 A4A3 
+8005771A A4A3
+#Hidden Benefits (jukebox songs) Can not hear a song on the scenario, the jukebox, unless they are adapted to be put medals of five.
+8009427C 0003	
+#Hidden benefits (ARMS all) 
+80136714 0101 
+80136716 0101 
+80136718 0101 
+8013671A 0101 
+8013671C 0101 
+8013671E 0101
+#Time key door automatic release 
+D01611DC 40B8 
+801611A8 A620 
+D0167748 40B8 
+80167712 A620	
+#Hidden benefits (ARMS all) (short version) 
+50000602 0000 
+80136714 0101

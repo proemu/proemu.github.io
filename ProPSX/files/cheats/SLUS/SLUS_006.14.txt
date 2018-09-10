@@ -1,0 +1,7 @@
+#Infinite Money
+80012D5C FFFF
+80012D5E 05FF
+#Invincible in battle	
+800834EA 031D 		
+#Infinite Health in Battle
+800834E0 03E7

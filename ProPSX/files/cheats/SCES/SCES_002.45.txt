@@ -1,0 +1,12 @@
+#Infinite Coins
+800DC296 0600
+#All Goodies
+800E4444 0A01
+800E4446 0101
+300E4448 0001
+#Infinite Continues
+800DD0EC 0002
+#Always First
+300DC0EE 0001
+#Infinite Time
+800DD60A 0006

@@ -1,0 +1,2 @@
+#Complete  all the minigameS (.Deactivate after complete the minigame or you complete all the games without playing)
+800F01DA  003C

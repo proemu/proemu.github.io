@@ -1,0 +1,36 @@
+#Infinite Money (60000)
+80174210 EA60
+#Infinite Energy (999)
+8017420A 03E7
+8017420C 03E7
+#Always 100 Possible Fishing Tries?
+8017420E 0064
+#Present location breakwater	
+30174204 0001
+#Present location sandy 	
+30174204 0002
+#Present location rocky fishing spot 	
+30174204 0003
+#Present location coast 	
+30174204 0004
+#Present location Okishima 	
+30174204 0005
+#Present location open ocean 	
+30174204 0006
+#Present location remote island 	
+30174204 0007
+#Present location ghost ship 
+30174204 0008
+#Present location Treasure Island 	
+30174204 0009
+#Present location fishing pond	
+30174204 000A
+#Story mode / character 00 = Koichi 	
+301741E4 0000	
+#Story mode / character 01 = Sachiko	
+301741E4 0001
+#Story mode / Kenichi appearance
+301741E5 0001
+#Fishing mode appeared unrestrained	
+30174203 0001
+

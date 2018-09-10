@@ -1,0 +1,10 @@
+#Infinite energy
+801739E8 5000
+#Infinite grenages
+801740BC 0009
+#Level Select Cheat 	
+8010F54C 0001
+#Invulnerability 	
+8010F54C 0002
+#All Cheats	
+8010F54C 0067

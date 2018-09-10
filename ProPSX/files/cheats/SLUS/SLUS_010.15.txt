@@ -1,0 +1,61 @@
+#3rd Person Action/Adventure Codes Infinite Health		
+80101C94 01F4
+#3rd Person Action/Adventure Codes Invincibility		
+E008C5AD 0001
+800F4804 0001
+#3rd Person Action/Adventure Codes First Person Mode Enabled		
+E008C5AD 0001
+80101BB2 000C
+E008C5AD 0001
+80101BEE 000C
+#3rd Person Action/Adventure Codes  Have All Weapons		
+E008C5AD 0001
+80101D70 00FF
+#3rd Person Action/Adventure Codes Infinite Ammo (All Weapons)		
+D00DD9D4 0144
+800DD9D6 2400
+#Extreme Driving Codes Infinite Health		
+800FA284 01F4
+#Extreme Driving Codes Infinite Nitro		
+E008C5AD 0003
+800FA290 1388
+#Extreme Driving Codes Infinite Time	
+800FC038 647C
+#Extreme Driving Codes Invincibility		
+E008C5AD 0003
+800FA2D4 0001 
+#Extreme Driving Codes  1-Hit To Destroy Cars		
+800DA5EE 2400
+#Extreme Driving Codes 1-Hit To Destroy Cars In Highway 2		
+E008C5AD 0003
+800FB08C 0000
+E008C5AD 0003
+800FB470 0000
+#Extreme Driving Codes Enable Rainy Weather		
+E008C5AD 0003
+8008D910 0001
+#Extreme Driving Codes Have Nitro		
+E008C5AD 0003
+800FA292 0000
+#Sharp Shooting Codes Infinite Health		
+800FA870 01F4
+#Sharp Shooting Codes Invincibility		
+E008C5AD 0002
+800EC4B4 0001
+#Sharp Shooting Codes Enable Auto Reload		
+E008C5AD 0002
+800FA964 0001
+#Sharp Shooting Codes Have All Weapons		
+E008C5AD 0002
+800FA880 00FF
+#Sharp Shooting Codes Infinite Ammo (All Weapons)		
+D00EA7B8 0050
+800EA7BA 2400
+#Debug Menu		
+D008C682 FAFF
+800CCF90 0000
+D008C682 EFFF
+800CCF90 0001
+D008C682 FAFF
+8008CFAC 0004
+

@@ -1,0 +1,4 @@
+#Infinite Lives P1
+800C5CE8 0005
+#Infinite Lives P2
+800CB398 0005

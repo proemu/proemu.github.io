@@ -1,0 +1,16 @@
+#Versus 9999	
+8006F1E0 270F
+#All EX characters purchased	
+3006F1A1 00FF 
+3006F1A3 00FF 
+8006F1A8 FFFF 
+8006F1AA FFFF
+3006F1AC 0007
+#Does not decrease the power gauge 1P 	
+8006D390 4000
+#Does not decrease the power gauge 2P 	
+8006E358 4000
+#Mortal work is put out in the 1P air 	
+8006D3E4 0000
+#Mortal work is put out in the 2P air 	
+8006E3A4 0000

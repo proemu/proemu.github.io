@@ -1,0 +1,20 @@
+#All Levels Unlocked
+30064A84 0019
+#Infinites Lives 
+801A3E74 0063
+#Character Inspector Gadget 
+301A4468 0000
+#Character Penny
+301A4468 0001
+#Character Brain
+301A4468 0002
+#Character Chief Quimby
+301A4468 0003
+#Character MAD Agent
+301A4468 0004
+#Character Spy
+301A4468 0005
+#Character ClOwn
+301A4468 0006
+#Character Cat
+301A4468 0007

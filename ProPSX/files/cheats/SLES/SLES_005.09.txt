@@ -1,0 +1,28 @@
+#Infinite Rockets 	
+800F5298 0026 		
+#Infinite Missiles 	
+800F52B0 0008 		
+#Infinite Guns 	
+800F5280 049A 		
+#Infinite Fuel 	
+800837F2 6400 		
+#Infinite Armour 	
+800836EC 05DC 		
+#Infinite Attempts 	
+80074EC8 0002 		
+#Infinite ECM 	
+800F52C8 0030 		
+#Infinite Sidewinders 	
+800F52C8 0008 		
+#Infinite Fuel Pods 	
+800F52C8 0002 		
+#Access Campaign 1	
+30074EC9 0000
+#Access Campaign 2	
+30074EC9 0001
+#Access Campaign 3	
+30074EC9 0002
+#Access Campaign 4	
+30074EC9 0003
+#Access Campaign 5	
+30074EC9 0004

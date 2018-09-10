@@ -1,0 +1,50 @@
+#Infinite Health
+801ADAA8 270F
+#Maximum Health
+801ADB4C 270F
+#Infinite Mana
+801B5814 270F
+#Maximum Mana
+801B580C 270F
+#Mana Never Decreases
+D00637AC 0148
+800637AE 0000
+#Items\Never Decrease
+D0015C66 AC51
+80015C66 0000
+#Items\Start With Loads Of\Keys on pick-up
+D01B5870 0001
+801B5870 03E7
+#Items\Start With Loads Of\Gems on pick-up
+D01B5874 0001
+801B5874 03E7
+#Items\Start With Loads Of\Orbs on pick-up
+D01B5878 0001
+801B5878 03E7
+#Spells\Have Crossbow At Max
+301B5750 0004
+#Spells\Have Firestorm At Max
+301B5738 0004
+#Spells\Have Lightning At Max
+301B573A 0004
+#Spells\Have Rage At Max
+301B573C 0004
+#Spells\Hace Icy Lightning At Max
+301B573E 0004
+#Spells\Have Magic Shield At Max
+301B5740 0004
+#Spells\Have Healing At Max
+301B5742 0004
+#Spells\Have All At Max
+301B5750 0004
+50000602 0000
+301B5738 0004
+#Weapons\Axe At Max
+301B575A 0004
+#Weapons\Sword At Max
+301B5762 0004
+#Weapons\Hammer At Max
+301B5768 0004
+#Weapons\Shield At Max
+D01B56D0 0008
+301B56D0 000F

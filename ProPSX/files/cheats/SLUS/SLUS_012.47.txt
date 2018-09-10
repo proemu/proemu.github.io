@@ -1,0 +1,9 @@
+#All Cheats On		
+50001002 0000
+800CCFD4 0505
+#Infinite Health		
+800F72CC 0074
+#Level Select	
+300C2B6C 0005
+#Max Bux		
+800FBAC0 270F

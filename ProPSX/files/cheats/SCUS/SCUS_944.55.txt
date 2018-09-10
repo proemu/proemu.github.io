@@ -1,0 +1,148 @@
+#Simulation Disc\A Ton Of Cash
+801D0FC8 E0FF
+801D0FCA 05F5
+#Simulation Disc\Stop Race Timer (Really Helpful In License Tests)
+8002F810 0000
+80046E84 0000
+#Simulation Disc\Gold Licenses B
+801CC760 0400
+801CC804 0400
+801CC8A8 0400
+801CC94C 0400
+801CC9F0 0400
+801CCA94 0400
+801CCB38 0400
+801CCBDC 0400
+801CCC80 0400
+801CCD24 0400
+#Simulation Disc\Gold Licenses A
+801CC0F8 0400
+801CC19C 0400
+801CC240 0400
+801CC2E4 0400
+801CC388 0400
+801CC42C 0400
+801CC4D0 0400
+801CC574 0400
+801CC618 0400
+801CC6BC 0400
+#Simulation Disc\Gold Licenses I-C
+801CBB34 0400
+801CBBD8 0400
+801CBC7C 0400
+801CBD20 0400
+801CBDC4 0400
+801CBE68 0400
+801CBF0C 0400
+801CBFB0 0400
+801CC054 0400
+#Simulation Disc\Gold Licenses I-B
+801CB428 0400
+801CB4CC 0400
+801CB570 0400
+801CB614 0400
+801CB6B8 0400
+801CB75C 0400
+801CB800 0400
+801CB8A4 0400
+801CB948 0400
+801CB9EC 0400
+801CBA90 0400
+#Simulation Disc\Gold Licenses I-A
+801CADC0 0400
+801CAE64 0400
+801CAF08 0400
+801CAFAC 0400
+801CB050 0400
+801CB0F4 0400
+801CB198 0400
+801CB23C 0400
+801CB2E0 0400
+801CB384 0400
+#Simulation Disc\Gold Super License
+801CA758 0400
+801CA7FC 0400
+801CA8A0 0400
+801CA944 0400
+801CA9E8 0400
+801CAA8C 0400
+801CAB30 0400
+801CABD4 0400
+801CAC78 0400
+801CAD1C 0400
+#Simulation Disc\Any Car Can Play Any Circuit (With this code, it allows you to race cars with higher horse power in the lower class circuits. For Example: You can use the Dodge Viper in the first USA Nationals Circuit in the Gran Turismo League)
+D00148E0 000C
+800148E2 1000
+#Simulation Disc\Have All Gold Licenses
+50003CA4 0000
+801CA758 0400
+#Simulation Disc\Max Cash After One Race
+8005E6DA 2400
+#Simulation Disc\Money Never Decreases
+80017A42 2400
+80017D4A 2400
+#Simulation Disc\Start With $99,000,000+
+800107A0 05F5
+800107A2 3C02
+#Simulation Disc\Start With All Gold Licenses (Alternate)
+8005DDBA A270
+#Simulation Disc\All Races Completed/Sim Credits Unlocked (With this code, go compete in GT World League and win. Then the game will say you completed GT. Sim Credits will then be unlocked on Arcade Disc)
+50004402 0000
+801C9458 1111
+#Arcade Disc\Road Tracks Complete/Unlock Arcade Credits/Unlock Extra Cars
+50000A02 0000
+801C93F8 0505
+301C940C 0005
+#Arcade Disc\Unlock All Road Tracks-1P Mode
+800F364E 0083
+#Arcade Disc\Unlock All Rally Tracks-1P Mode
+800F3656 0027
+#Arcade Disc\Unlock All Road Tracks-2P Mode
+800F3658 0015
+#Arcade Disc\Unlock All Rally Tracks-2P Mode
+800F365A 0006
+#Arcade Disc\Unlock All Tracks-Time Trial
+800F3652 0017
+#Arcade Disc\Unlock Ending Credits (Press Select At Credit Screen)
+D01F068A FFFE
+80052580 0001
+D01F068A FFFE
+80052594 0001
+#Both Discs\Quick Win
+D00A99AC 0000
+800A99AC 0002
+801D52CA 0200
+#Both Discs\P1 Nitrous Boost
+D00A9228 4000
+800A99DE 0020
+D00A9228 4000
+800A99DA 0020
+#Both Discs\P1 Auto-Pilot Press L1+R1/L2+R2
+D00A9228 1010
+80000002 4D43
+D00A9228 2020
+80000002 0000
+D0000002 4D43
+800A9B2A 0004
+#Both Discs\P2 Auto-Pilot Press R1+R2/L1+L2
+D00A9228 3000
+80000004 4D43
+D00A9228 0030
+80000004 0000
+D0000004 4D43
+800AA66A 0004
+#Both Discs\2-Player View Toggle
+D00A9228 0001
+801FFA86 0000
+D00A9228 0002
+801FFA86 0100
+#Both Discs\Solid Ghost In Rally
+D01D5476 0002
+801D5476 0001
+#More Misc. Codes\Replay Screen Clear (Simulation Disc)
+D01FFA82 0200
+801FFA82 0300
+#More Misc. Codes\Replay Screen Clear (Arcade Disc)
+D01FFA8A 0200
+801FFA8A 0300
+

@@ -1,0 +1,6 @@
+#Infinite Oxygen 	
+800AC342 0400
+#Infinite HP 	
+800B5796 0600
+#Infinite Oxygen 	
+800AC324 0400

@@ -1,0 +1,22 @@
+#Max Points
+800798D8 9678
+800798DA 00FF
+#Unlock All Stages
+80079886 0700
+#Good Performance Chart
+800798B4 0064
+800798B6 0064
+800798B8 0000
+800798BA 0000
+800798D4 FFFF
+#Watch Fmv Without Shooting Press L1 it will be game over the moment you lift your finger off L1 and you have to start again.
+D00D407A FBFF
+8007D4EC 13F1
+#Watch Fmv Without Shooting
+8007D4EC 13F1
+#Bonus Game\Infinite Bullets
+800745E8 0006
+#Bonus Game\Max Hits
+800898EA 03E7
+#Bonus Game\Never Miss (Perfect)
+800898EE 0000

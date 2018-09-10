@@ -1,0 +1,12 @@
+#Have 999999 money
+8008B8D4 423F
+8008B8D6 000F
+#Levant Maximum Health (999)
+8008C080 03E7
+8008C082 03E7
+#Levant Capture Level 255
+3008C0BC 00FF
+#Levant Attack,Defense,Magic Attack,Magic Defense And Speed All 99
+8008C0A4 6363
+8008C0A6 6363
+3008C0A8 0063

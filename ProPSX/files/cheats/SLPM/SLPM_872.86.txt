@@ -1,0 +1,9 @@
+#Infinite Health 
+300E93F0 000A
+#Views exhaustion	
+300E942C 0063
+#Invincibility	
+300E97A4 0001 
+300E97A8 0000
+
+

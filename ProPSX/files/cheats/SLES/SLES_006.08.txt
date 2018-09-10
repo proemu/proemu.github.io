@@ -1,0 +1,110 @@
+#P1 Infinite Lives
+800DD25C 0009
+#Infinite Continues
+800DF7B2 0009
+#Invincible P1
+8008D458 0001
+#Start With Highscore P1
+D00DD260 0000
+800DD260 FFFF
+#P1 Has Flame Thrower
+E008C6DB 0000
+3008C6DB 0004
+#P1 Has Straight Laser (Red)
+D008D488 8004
+3008C6DC 0009
+.Press L1+Left
+#P1 Has Spread Grenade
+D008D488 2004
+3008C6DC 0008
+.Press L1+Left
+#P1 Has Spread Gun
+D008D488 1004
+3008C6DC 0003
+.Press L1+Up
+#P1 Has Sparkling Laser (Blue)
+D008D488 4004
+3008C6DC 0000
+.Press L1+Down
+#P1 Has Homing Missiles
+D008D488 8008
+3008C6DD 0007
+.Press R1+Left
+#P1 Has Homing Bullets
+D008D488 2008
+3008C6DD 0006
+.Press R1+Right
+#P1 Has Seeking Bullets
+D008D488 1008
+3008C6DD 0005
+.Press R1+Up
+#P1 Has Homing Laser
+D008D488 4008
+3008C6DD 0001
+.Press R1+Down
+#Infinite Lives P2
+800DD284 0009
+#Invincible P2
+8008D520 0001
+#Start With Highscore P2
+D00DD288 0000
+800DD288 FFFF
+#P2 Has Flame Thrower
+E008C6DF 0000
+3008C6DF 0004
+#P2 Has Straight Laser (Red)
+D008D550 8004
+3008C6E0 0009
+.Press L1+Left
+#P2 Has Spread Grenade
+D008D550 2004
+3008C6E0 0008
+.Press L1+Right
+#P2 Has Spread Gun
+D008D550 1004
+3008C6E0 0003
+.Press L1+Up
+#P2 Has Sparkling Laser (Blue)
+D008D488 4004
+3008C6E0 0000
+.Press L1+Down
+#P2 Has Homing Missiles
+D008D488 8008
+3008C6E1 0007
+.Press R1+Left
+#P2 Has Homing Bullets
+D008D488 4008
+3008C6E1 0006
+.Press R1+Right
+#P2 Has Seeking Bullets
+D008D488 1008
+3008C6E1 0005
+.Press R1+Up
+#P2 Has Homing Laser
+D008D488 4008
+3008C6E1 0001
+.Press R1+Down
+#Bamboo Arcade Game\Infinite Ships/Tanks P1
+D008D408 0001
+8008D408 0005
+#Bamboo Arcade Game\Infinite Ammo (Ship) P1
+D008D440 0000
+8008D440 0001
+#Bamboo Arcade Game\Infinite Ammo (Tank) P1
+D008D490 0000
+8008D490 0005
+#Bamboo Arcade Game Max Score P1
+D008C4A8 0000
+8008C4A8 FFFF
+#Bamboo Arcade Game\Infinite Ships/Tanks P2
+D008D4D0 0001
+8008D4D0 0005
+#Bamboo Arcade Game\Infinite Ammo (Ship) P2
+D008D508 0000
+8008D508 0001
+#Bamboo Arcade Game\Infinite Ammo (Tank) P2
+D008D558 0000
+8008D558 0005
+#Bamboo Arcade Game Max Score P2
+D008C4AC 0000
+8008C4AC FFFF

@@ -1,0 +1,20 @@
+#Infinite Health
+800CEA50 00C8
+#All Maps
+300D3EE7 00FE
+300D3EEB 00FE
+#Machine Gun 100%
+800D3EF4 640F
+#Have 10 Slots In Hard Mode
+800D4016 000A
+#Rapid Fire Press R1+R2+X
+D00CE5E8 004A
+800CEA44 1E02
+#Hyper Mode
+800D6304 0002
+#The Real Have All Files
+800D3EE4 FFFF
+800D3EE6 FFFF
+#Start With All Secrets
+800D3CEA FFE0
+

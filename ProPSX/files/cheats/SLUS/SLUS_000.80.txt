@@ -1,0 +1,11 @@
+#Inifnite Mine Traps
+801842C8 0064
+#Infinite Fast Blasters
+801842C0 0280
+#Infinite Energy
+801842A8 0100
+801842B0 0100
+#Infinite Ripstars
+801842C4 0064
+#Infinite Torps
+801842CC 0064

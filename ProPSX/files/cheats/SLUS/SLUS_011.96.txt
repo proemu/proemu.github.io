@@ -1,0 +1,34 @@
+#All Levels Unlocked		
+30097BBB 00FF
+#Max Attack		
+300B3294 0064
+#Max Block		
+300B3291 0064
+#Max Creation Stats		
+50000601 0000
+300B328F 0064
+#Max Pass		
+300B3292 0064
+#Max Serve		
+300B3290 0064
+#Max Set		
+300B3293 0064
+#Max Strength		
+300B328F 0064
+#Points Score 15		
+8004AA84 000F
+#Points Score 21		
+8004AA84 0015
+#Team 1 Never Scores		
+E00B2980 0001
+300B2980 0000
+#Team 1 On Match Point		
+E00B2980 0000
+300B2980 000E
+#Team 2 Never Scores		
+E00B2985 0001
+300B2985 0000
+#Team 2 On Match Point		
+E00B2985 0000
+300B2985 000E
+

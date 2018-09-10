@@ -1,0 +1,68 @@
+#All Album of Memories CG Open
+301E3694 0096
+#Select all possible bonus
+30077A72 0001
+30077A78 00FF
+#Mini game Heart by Heart 1P invincible Alt
+301EBB92 0005
+300C7E9D 000E
+#Mini game Heart by Heart 1P invincible 
+300C7E9D 000E 
+#Mini game Heart by Heart 2P invincible
+300C8159 000E invincible  
+#Mini game Heart by Heart Infinite time 
+301EBBA2 0064
+#Mini game Heart by Heart Infinite credit
+301EBB96 00FF
+#Mini game Heart by Heart All characters available
+301EBB95 0007
+#Mini-games princess witch Infinite people
+300E8752 0008
+#Mini-games princess witch Infinite Bomb
+301114D6 0008
+#Mini-games princess witch Shoot red level MAX
+300D479C 0004
+#Mini-games princess witch Shoot blue level MAX
+300D479E 0004
+#Mini-games princess witch Shoot green level MAX
+300D47A0 0004
+#Mini-games princess witch Invincible
+801114E6 00FF
+#Mini-games Water Survival Infinite Life
+301DEB9B 0004
+#Mini-games O,Triangl , X , Square All characters available
+801C8490 FFFF
+#Lighting 
+301E3695 0018
+#Seri Shang 
+301E3696 0011 
+#Tomoko 
+301E3697 000D
+#Shiho 
+301E3698 0017
+#Aoi 
+301E3699 000E
+#Multi 
+301E369A 0010
+#Kotone 
+301E369B 000B
+#Remyi 
+301E369C 000C
+#Rio 
+301E369D 0009
+#Kaoru Aya 
+301E369E 0007
+#Other 
+301E369F 0004
+#CG achievement rate All 100%
+801E36B0 FFFC 
+801E36B2 FBFF
+801E36B4 EFFF
+801E36B6 FBFF
+801E36B8 FFFF
+801E36BA FFFB
+801E36BC FFFD
+801E36BE BFFB
+801E36C0 F7FF
+801E36C2 DFDF
+301E36C4 0003

@@ -1,0 +1,63 @@
+#Max HP
+800200DC 0384
+80020164 0384
+#Play time 0
+8001EE30 0000
+#Money Max
+80060220 0001
+#Unlimited use blacksmith
+80053D22 1000
+80053E92 0000
+80053EB2 0000
+#Initial capacity value when you enter the dungeon Level 99 
+800200D0 00xx 
+800200D2 240F 
+800200D6 A44F 
+80020158 0063
+#MAX level 
+8003B6DC 0001
+#Not increase play time 
+8001EE30 0000 
+#Enemies defense force zero 
+8003473E 0000 
+#No damage from enemies 
+80032C56 3000 
+80032C6A 3000 
+8003B82E 3000 
+8003B842 3000 
+#No random battles
+80065C0E 3000 
+80066182 3000 
+8006D9F6 1000 
+#100% occurrence Kaishin'noichigeki 
+80032260 0001 
+#Trap becomes visible 
+8003BDA6 1000 
+#I aligned all blank list 
+8005956C 0002 
+8005956E 9043 
+80059572 3463 
+80059574 0002 
+80059576 A043 
+#I aligned all skill list 
+80059910 0001 
+80059912 2403 
+80059916 A043 
+#I aligned all magic list 
+80059CA8 0001 
+80059CAA 2403 
+80059CAE A043 
+#Dungeon of Bashirura / mansion	Dungeon of graveyard
+800FCDE8 0002	
+#Dungeon of Bashirura / mansion	Dungeon of the castle
+800FCDE8 0004
+#Dungeon of Bashirura / mansion	Forest of Illusion
+800FCDE8 0006
+#Dungeon of Bashirura / mansion	Blowing fire mountain 
+800FCDE8 0008
+#Dungeon of Bashirura / mansion Ruins of Toro 
+800FCDE8 000A
+#Dungeon of Bashirura / mansion	Mystery Dungeon
+800FCDE8 000C
+#Dungeon of Bashirura / mansion	House of ordeal
+800FCDE8 0010

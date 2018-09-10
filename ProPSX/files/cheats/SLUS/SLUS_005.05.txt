@@ -1,0 +1,22 @@
+#Infinite Time
+800B2814 001E
+#Always Place First
+800B3388 0000
+#Max Speed
+80101218 0329
+#Car Modifier Beginner Car
+800B2738 0000
+#Car Modifier Advanced Car
+800B2738 0001
+#Car Modifier Expert Car
+800B2738 0002
+#Car Modifier Extreme Car
+800B2738 0003
+#Car Modifier Secret Car A (Bus)
+800B2738 0004
+#Car Modifier Secret Car B
+800B2738 0005
+#Car Modifier Secret Car C (Beetle)
+800B2738 0006
+#Car Modifier Secret Car D
+800B2738 0007

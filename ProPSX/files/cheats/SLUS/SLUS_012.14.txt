@@ -1,0 +1,12 @@
+#Unlock All Characters
+50000C0C 0000
+800D7994 0001
+#Unlock All Levels
+800D79F4 00C8
+#Always Boosted Car 1		
+800C0D26 3C01
+#Start On Last Lap Codes Car 1		
+E00C0D2B 0000
+300C0D2B 0002
+#99 Tournament Points Car 1		
+300BD690 0063

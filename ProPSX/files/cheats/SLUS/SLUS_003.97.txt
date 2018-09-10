@@ -1,0 +1,10 @@
+#Infinte Health Player 1
+801EF64C 03E8
+#No Power P2 [Push Select To Lose Power]
+D008B190 0100
+801EFBAC 0000
+#No power player 2
+801EFBAC 0000	
+#Extra Characters 	
+50003004 0000
+80063320 0001

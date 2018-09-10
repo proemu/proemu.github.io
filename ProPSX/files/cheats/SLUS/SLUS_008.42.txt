@@ -1,0 +1,109 @@
+#Car Park Test Codes\No Damage
+801E35B8 0000
+.Only use this code in Park Test Mode. Save, then turn them off.
+#Car Park Test Codes\Infinite Time
+801E4278 0000
+.Only use this code in Park Test Mode. Save, then turn them off.
+#Car Park Test Codes\Have Burnout Complete
+301E35A0 003C
+.Only use this code in Park Test Mode. Save, then turn them off.
+#Car Park Test Codes\Have Handbrake Complete
+301E35A1 003C
+.Only use this code in Park Test Mode. Save, then turn them off.
+#Car Park Test Codes\Have Slalom Complete
+301E35A2 003C
+.Only use this code in Park Test Mode. Save, then turn them off.
+#Car Park Test Codes\Have 180 Degree Complete
+301E35A3 003C
+.Only use this code in Park Test Mode. Save, then turn them off.
+#Car Park Test Codes\Have 360 Degree Complete
+301E35A4 003C
+.Only use this code in Park Test Mode. Save, then turn them off.
+#Car Park Test Codes\Have Reverse 180 Degree Complete
+301E35A5 003C
+.Only use this code in Park Test Mode. Save, then turn them off.
+#Car Park Test Codes\Have Speed Complete
+301E35A6 003C
+.Only use this code in Park Test Mode. Save, then turn them off.
+#Car Park Test Codes\Have Brake Test Complete
+301E35A7 003C
+.Only use this code in Park Test Mode. Save, then turn them off.
+#Car Park Test Codes\Have Lap Complete
+301E35A8 003C
+.Only use this code in Park Test Mode. Save, then turn them off.
+#Regular Game Codes\No Damage
+8009AEE0 0000
+#Regular Game Codes\Felony Bar Is Empty
+800973C8 0000
+#Regular Game Codes\Stop Timer
+800C6E62 D600
+800C6E64 0F28
+#Regular Game Codes\Enemy Cars Are Dead
+8009D274 5050
+#Regular Game Codes\Nitro Boost (With this code, hold down L1 + X for the Nitro Boost)
+D0096DB4 0044
+8009AE54 FFFF
+#Regular Game Codes\Scare Meter Maxed
+800C6EA0 06A4
+#Regular Game Codes\Bomb Never Blows Up
+80097428 0000
+#Regular Game Codes\Flip Mode (With this code, press L1 + R1 to flip your car in the air till you land back on all four wheels)
+D0096DB4 000C
+8009AD96 012C
+#Misc. Codes\Have All Flags
+800C6C94 0064
+#Misc. Codes\Enable All Tracks
+800964A0 0004
+#Misc. Codes\Enable View Credits Cheat
+800863DC FFFE
+#Misc. Codes\Dirt Track - Start On Last Lap
+D00C6CA8 0000
+800C6CA8 0002
+#Misc. Codes\Cross Town Checkpoint - Only Need 1 Checkpoint
+D00C6C94 0000
+800C6C94 0004
+#Misc. Codes\Invincibility Cheat On
+800964DC 0001
+#Misc. Codes\Immunity Cheat On
+800964E0 0001
+#Misc. Codes\Rear Wheel Cheat On
+8009D59C 0001
+#Misc. Codes\Mini Cheat On
+8009D5A0 0001
+#Misc. Codes\Stilts Cheat On
+8009D5A4 0001
+#Misc. Codes\Low Gravity Mode On
+8009D5A8 0001
+#Misc. Codes\Upside Down Cheat On
+8009D5AC 0001
+#Misc. Codes\Skeleton Mode/Opposite Steer On
+8009D5B0 0001
+#Misc. Codes\Low-Rider Mode
+8009ADAA FFFF
+#No Damage (V.1.1 - Greatest Hits)
+8009B220 0000
+#Stop Timer (V.1.1 - Greatest Hits)
+800C6E62 D600
+800C71A4 0F28
+#All Tracks Beat (V.1.1 - Greatest Hits)
+301E38E0 003C
+301E38E1 003C
+301E38E2 003C
+#Enable All Tracks (V.1.1 - Greatest Hits)
+800967E0 0004
+#Enable Invincibility Cheat (V.1.1 - Greatest Hits)
+80086754 FFFE
+80086756 FFFF
+#Enable No Police/Immunity Cheat (V.1.1 - Greatest Hits)
+8008678C FFFE
+8008678E FFFF
+#Have All Flags (V.1.1 - Greatest Hits)
+800C6FD4 0064
+#Immunity Cheat On (V.1.1 - Greatest Hits)
+80096820 0001
+#Low Felony Meter (V.1.1 - Greatest Hits)
+80097708 0000
+#Unlock All 4 Cities (V.1.1 - Greatest Hits)
+800967E0 0004
+800967F8 0046
+80096814 0001

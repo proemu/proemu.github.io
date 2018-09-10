@@ -1,0 +1,10 @@
+#Unendlich Leben/Energie
+800A9F68 0063
+#Unendlich Munition Blau
+800AA0F2 0063
+#Unendlich Munition Gelb
+800AA0FA 0063
+#Unendlich Munition Grau
+800AA10A 0063
+#Unendlich Munition GrüN
+800AA102 0063

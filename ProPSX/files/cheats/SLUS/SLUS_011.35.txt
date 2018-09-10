@@ -1,0 +1,253 @@
+#No Damage Taken
+D00F6410 1021
+800F6416 2400
+#Max Cash
+80086A80 C9FF
+80086A82 3B9A
+#All Cars Unlocked
+50001F0C 0000
+30041F8C 0001
+#Stop Countdown Timer
+D00EF224 FFF6
+800EF22A 2400
+#Stop Running Timer
+D00EF1B4 001B
+800EF1BE 2400
+#Infinite Fuel
+D00C8B1C 0000
+800C8B22 2400
+#Unlock Time Trial Mode
+30041C68 0001
+#Unlock All Missions
+50000D01 0000
+30041C91 00FF
+#Have All E-Mails
+50001501 0000
+30041CA0 0005
+#Unlock All Items
+50004601 0000
+30042217 0001
+#Unlock All Endings & Movies
+50001301 0000
+30041D0D 0005
+#Unlock 1500
+30041F8C 0001
+#Unlock A156
+30041F98 0001
+#Unlock Revu
+30041FA4 0001
+#Unlock Revu II
+30041FB0 0001
+#Unlock Scooter
+30041FBC 0001
+#Unlock Delivery
+30041FC8 0001
+#Unlock Roadster
+30041FD4 0001
+#Unlock Nsr
+30041FE0 0001
+#Unlock Bz-Van
+30041FEC 0001
+#Unlock Miur
+30041FF8 0001
+#Unlock Tractor
+30042004 0001
+#Unlock Tractor II
+30042010 0001
+#Unlock Fire Eng.
+3004201C 0001
+#Unlock Halli
+30042028 0001
+#Unlock Halli II
+30042034 0001
+#Unlock Y800
+30042040 0001
+#Unlock Y800-Gt1
+3004204C 0001
+#Unlock Ft500
+30042058 0001
+#Unlock Ft500 S
+30042064 0001
+#Unlock Corvy74
+30042070 0001
+#Unlock Cb427
+3004207C 0001
+#Unlock Fery250
+30042088 0001
+#Unlock Wrc
+30042094 0001
+#Unlock N390
+300420A0 0001
+#Unlock N390 Road
+300420AC 0001
+#Unlock Ranger
+300420B8 0001
+#Unlock Lunch Van
+300420C4 0001
+#Unlock Missile
+300420D0 0001
+#Unlock Dragster
+300420DC 0001
+#Unlock G-Tank
+300420E8 0001
+#Unlock Panda
+300420F4 0001
+#Unlock Mission 1
+30041C91 00FF
+#Unlock Mission 2
+30041C92 00FF
+#Unlock Mission 3
+30041C93 00FF
+#Unlock Mission 4
+30041C94 00FF
+#Unlock Mission 5
+30041C95 00FF
+#Unlock Mission 6
+30041C96 00FF
+#Unlock Mission 7
+30041C97 00FF
+#Unlock Mission 8
+30041C98 00FF
+#Unlock Mission 9
+30041C99 00FF
+#Unlock Mission 10
+30041C9A 00FF
+#Unlock Mission 11
+30041C9B 00FF
+#Unlock Mission 12
+30041C9C 00FF
+#Unlock Mission 13
+30041C9D 00FF
+#Unlock Car Wax
+30042218 0001
+#Unlock Extra Gas Tank
+30042219 0001
+#Unlock Fire Extinguisher
+3004221A 0001
+#Unlock Nitro Tank
+3004221B 0001
+#Unlock Cat Charm
+3004221C 0001
+#Unlock Protective Boots
+3004221E 0001
+#Unlock Rocket Glove
+30042226 0001
+#Unlock Self Destruct
+30042227 0001
+#Unlock Drink Holder-A
+30042228 0001
+#Unlock Drink Holder-B
+30042229 0001
+#Unlock Drink Holder-C
+3004222A 0001
+#Unlock Reading Light-A
+3004222B 0001
+#Unlock Reading Light-B
+3004222C 0001
+#Unlock Tissue Holder
+3004222D 0001
+#Unlock Cow-Like Holder
+3004222E 0001
+#Unlock Rain Guard-A
+3004222F 0001
+#Unlock Rain Guard-B
+30042230 0001
+#Unlock Coin Holder-A
+30042231 0001
+#Unlock Coin Holder-B
+30042232 0001
+#Unlock Hawaiian Lei
+30042236 0001
+#Unlock Disco Ball Light
+30042237 0001
+#Unlock Planet Light
+30042238 0001
+#Unlock Dream Catcher-A
+30042239 0001
+#Unlock Dream Catcher-B
+3004223A 0001
+#Unlock Vanilla Scent
+3004223B 0001
+#Unlock Berry Scent
+3004223C 0001
+#Unlock Chocolate Scent
+3004223D 0001
+#Unlock Snake Trash Can
+3004223E 0001
+#Unlock Hazard Trash Can
+3004223F 0001
+#Unlock Walkie-Talkie-M
+30042240 0001
+#Unlock Walkie-Talkie-C
+30042241 0001
+#Unlock Mini Palm Tree-A
+30042242 0001
+#Unlock Mini Palm Tree-B
+30042243 0001
+#Unlock Glass Coating-A
+30042244 0001
+#Unlock Glass Coating-B
+30042245 0001
+#Unlock Speed Flasher-A
+30042246 0001
+#Unlock Speed Flasher-B
+30042247 0001
+#Unlock Remote Strater
+30042248 0001
+#Unlock Vanity Mirror-A
+30042249 0001
+#Unlock Vanity Mirror-B
+3004224A 0001
+#Unlock Steering Wheel
+3004224B 0001
+#Unlock Jumper Cables
+3004224C 0001
+#Unlock Emergency Tool
+3004224D 0001
+#Unlock Feather Duster-A
+3004224E 0001
+#Unlock Feather Duster-B
+3004224F 0001
+#Unlock Seat Covers-A
+30042250 0001
+#Unlock Seat Covers-B
+30042251 0001
+#Unlock Clear Ending W/ Lisa
+30041D0D 0005
+#Unlock Clear Ending Alone
+30041D0E 0005
+#Unlock Failure Ending 1
+30041D0F 0005
+#Unlock Failure Ending 2
+30041D10 0005
+#Unlock Failure Ending 3
+30041D11 0005
+#Unlock Power Up Missile
+30041D12 0005
+#Unlock Power Up G.Tank
+30041D13 0005
+#Unlock Scoot + Lisa
+30041D14 0005
+#Unlock Del. + Lisa
+30041D15 0005
+#Unlock Halli + Lisa
+30041D16 0005
+#Unlock Panda + Lisa
+30041D17 0005
+#Unlock Erasable Panel
+30041D18 0005
+#Unlock Changable Bgm
+30041D19 0005
+#Unlock Adjustable Viewpoint
+30041D1A 0005
+#Unlock Movie 1
+30041D1B 0005
+#Unlock Movie 2
+30041D1C 0005
+#Unlock Movie 3
+30041D1D 0005
+#Unlock Production Staff 1
+30041D1E 0005
+#Unlock Production Staff 2
+30041D1F 0005
+

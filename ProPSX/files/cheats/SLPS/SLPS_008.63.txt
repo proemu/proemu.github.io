@@ -1,0 +1,8 @@
+#Infinite money
+800F268C 423F
+800F268E 000F
+#Infinite energy main character
+800C0E88 0D48
+#Infinite energy last character (girl)
+800C1128 0BB8
+

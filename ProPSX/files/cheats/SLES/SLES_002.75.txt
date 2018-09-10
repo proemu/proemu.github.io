@@ -1,0 +1,9 @@
+#Infinite Ships
+300AD844 0009
+#Infinite Shield Energy
+300AD848 0069
+#Infinite Special Weapon Strength
+300AD846 0069
+#Infinite Missiles
+300AD845 0009
+

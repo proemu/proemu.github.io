@@ -1,0 +1,8 @@
+#Infinite Energy Player 1
+800AD948 03E8
+#Infinite Energy Player 2
+800ADC4C 03E8
+#Special Energy P1
+800AD950 03E8
+#Special Energy P2
+800ADC54 03E8

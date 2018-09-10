@@ -1,0 +1,19 @@
+#Blaster\Infinite Lives
+8006BD26 0003
+#Burger Time\Infinite Lives
+801E20E8 0002
+#Burger Time\Infinite Pepper
+801E311C 0006
+801E20EA 0502
+#Joust 2\Infinite Lives
+8005A058 0700
+#Moon Patrol\Infinite Time
+80128B00 0000
+#Moon Patrol\Infinite Lives
+80128B04 0404
+#Rootbear Tapper\Infinite Lives
+8012624E 0300
+#Splat\Infinite Lives
+80069910 0300
+#Spy Hunter\Infinite Timer
+801115E4 0303

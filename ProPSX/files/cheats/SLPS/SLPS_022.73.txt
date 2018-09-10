@@ -1,0 +1,5 @@
+#Infinite HP
+800422EC 0040 
+8004236E 0040 
+#Infinite Time
+800421A0 0000 

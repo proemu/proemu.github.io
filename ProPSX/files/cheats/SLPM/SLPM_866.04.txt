@@ -1,0 +1,18 @@
+#Nobunaga status MAX Tumultuous Sengoku (1555) 
+300BFE57 0064 
+800BFE58 6464 
+800BFE5A 6464 
+#Nobunaga status MAX Nobunaga siege (1571) 
+300BFD4F 0064 
+800BFD50 6464 
+800BFD52 6464 
+#Market rice and soldiers in the 0.0 Press select + L2 button Market rice and soldiers in the 25.5 Press Select + R2 button 
+D00E9E84 0101 
+800E986C 0000 
+D00E9E84 0102 
+800E986C FFFF 
+#Attacking victory Press select + left button Defensive side victory Presss select + right button 
+D00E9E84 8100 
+800E9618 0001 
+D00E9E84 2100 
+800E9618 0000 

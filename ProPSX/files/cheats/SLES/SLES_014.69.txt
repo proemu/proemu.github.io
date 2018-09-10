@@ -1,0 +1,22 @@
+#Unendlich Leben P1
+80113C34 0063
+#Unendlich Leben P2
+80113C38 0063
+#Unendlich Sonderwaffen P1
+80113C6C FFFF
+#Unendlich Continues P1
+80113A40 0003
+#UnzerstöRbar P1 & P2
+80113EBC 0000
+#Classic Asteroids\Klassisches Asteroids Freigeschaltet
+80113F04 0001
+#Classic Asteroids\Unendlich Leben P1
+80115348 0005
+#Classic Asteroids\UnzerstöRbar P1
+80114468 0000
+8011446A 0000
+#Classic Asteroids\Unendlich Leben P2
+8011534C 0005
+#Classic Asteroids\UnzerstöRbar P2
+8011446C 0000
+8011446E 0000

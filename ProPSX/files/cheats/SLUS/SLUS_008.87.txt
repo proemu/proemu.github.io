@@ -1,0 +1,15 @@
+#Have All Points And Unlock Everything
+50009002 0000
+800B3000 FFFF
+#Inf Health City Streets
+8011698C 03E8
+#Inf Health Desert Base
+801C12FC 03E8
+#Inf Health City Skies
+8010206E 03E8
+#Inf Health Island Base
+801C0CF0 03E8
+#Inf Health Ice Flow
+801338FA 03E8
+#Inf Health Ice Base
+801C1570 03E8

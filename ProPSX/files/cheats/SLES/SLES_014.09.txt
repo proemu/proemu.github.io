@@ -1,0 +1,10 @@
+#Infinite Health	  
+800AA06A 0020
+#Infinite Lives	  
+800AA138 00FF
+#Infinite Blue Phaser Ammo	  
+800AA0EA 00FF
+#Infinite Flame Thrower	  
+800AA0F2 00FF
+#Grenades infinies pour Ike Hawkins	
+800AC8CC FF05

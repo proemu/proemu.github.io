@@ -1,0 +1,11 @@
+#Infinite HP Witch (Main character)
+800AD0D4 001F
+#99999 G
+800AD0F8 869F
+800AD0FA 0001
+#Infinite & MAx HP 	
+800AD0D4 03E7
+800AD0D6 03E7
+#Dungeon rank Max
+300BB930 0022
+

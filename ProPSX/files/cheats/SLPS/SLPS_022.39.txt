@@ -1,0 +1,52 @@
+#Infinite energy level 1
+800D23EE 0082
+#Infinite energy level 2
+800D137E 012C 
+#Infinite energy level 2
+800D137E 012C 
+#Infinite energy level 3
+300D4E2E  012C 
+#Infinite energy level 4
+300D1C26 012C
+#Infinite energy level 5
+300D220E 012C
+#Infinite energy level 6
+300D12FE 012C
+#Infinite energy level 7
+300CF35F 012C
+#Infinite energy level 8
+300D1C76 012C
+#Infinite energy level 9
+300D63C6 012C
+#Infinite energy level 10
+300D1676 012C
+#Infinite energy level 11
+300D3FAE 012C
+#Infinite energy level 12
+300D508E  012C
+#Infinite bullets level 1
+800D2400 0006
+#Infinite bullets level 2
+800D1390 0006
+#Infinite bullets level 3
+800D4E40 0006
+#Infinite bullets level 4
+300D1C38 0006
+#Infinite bullets level 5
+300D2220 0006
+#Infinite bullets level 6
+300D1310 0006
+#Infinite bullets level 7
+300CF370 0006
+#Infinite bullets level 8
+300D1C88 0006
+#Infinite bullets level 9
+300D63D8 0006
+#Infinite bullets level 10
+300D1688 0006
+#Infinite bullets level 11
+300D3FC0 0006
+#Infinite bullets level 12
+300D4E90 0006
+#Unlock All data , & Special Movie & Stage Select 
+3005AA4C 0001 

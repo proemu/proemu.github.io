@@ -1,0 +1,12 @@
+#Infinite Energy Player 1
+8005F08C 0067
+#Infinite Energy Player 2
+8005F26C 0067
+#No Energy Player 2
+8005F26C 0000
+#Full Power Player 1
+8005F04A 3F40
+#Full Power Player 2
+8005F22A 3F40
+#Infinite Time
+80087984 0060

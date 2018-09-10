@@ -1,0 +1,12 @@
+#Infinite Missles
+80088A34 0063
+#Infinite Bullets
+80088A30 03E7
+#Infinite Fuel
+80088A00 0E10
+#Infinite Lives
+80088A1A 0009
+#Lots Of Pts
+80079B50 FFFF
+80079B52 00FF
+

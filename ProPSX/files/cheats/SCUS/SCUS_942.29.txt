@@ -1,0 +1,32 @@
+#P1 Always Place 1st
+800FD190 0100
+#P1 Infinite Turbos
+800FD3D0 0003
+#Have All Boats Unlocked
+800E76FA 0101
+800E76FC 0101
+800E76FE 0101
+#Track Master Code .This code must be on when activating the Unlock Track codes.
+800E76AC 0303
+#Have All Day Tracks Unlocked &Completed
+800E76E0 0606
+800E76E2 0606
+800E76E4 0606
+#Have All Night Tracks Unlocked &Completed
+800E76E6 0606
+800E76E8 0606
+800E76EA 0606
+#Have Fractral Tracks Unlocked &Completed
+800E76F2 0606
+800E76F4 0606
+800E76F6 0606
+#Have All Mirror Tracks Unlocked &Completed
+800E76EC 0606
+800E76EE 0606
+800E76F0 0606
+#Duck Cheat On Don't use the Duck Cheat with any of the Boat or Track codes.
+800E7548 0004
+#Hurracane Boat Cheat On
+800E7AF8 0001
+#P1 All Yellow Bouys
+800FD3C6 0005

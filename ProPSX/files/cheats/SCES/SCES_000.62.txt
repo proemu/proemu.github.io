@@ -1,0 +1,23 @@
+#Infinite Front Shield
+801A2D50 0190
+#Infinite Left Shield
+801A2D52 012C
+#Infinite Right Shield
+801A2D54 012C
+#Infinite Rear Shield
+801A2D56 012C
+#Infinite Rockets
+801B8C56 0064
+#Infinite Lock-On-Rockets
+801B8C58 000A
+#Infinite Screamer-Rocket
+801B8C5A 0018
+#Infinite Plasma
+801B8C5C 0320
+#Infinite Doomsday Bombs
+801B8C60 0001
+#Infinite Blitzbombs
+801B8C62 0001
+#Mg-Cooler
+801B8C54 0000
+

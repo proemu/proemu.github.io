@@ -1,0 +1,15 @@
+#Favorability Max Mina	
+8008E760 FFFF	
+#Favorability Max Rena	
+8008E762 FFFF
+#Favorability Max Lina 	
+8008E764 FFFF
+#Favorability Miko
+8008E766 FFFF
+#Favorability Max St. & Ali	
+8008E768 FFFF
+#Favorability Max Nana & Asag
+8008E76A FFFF
+#CG Gallery All + 02h 	
+8008E828 FFFF 
+8008E8F0 FFFF

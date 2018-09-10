@@ -1,0 +1,6 @@
+#Infinite Money
+D000857C 00FF
+801E26A2 FFFF
+#Infinite Markers
+801E26B8 0009
+

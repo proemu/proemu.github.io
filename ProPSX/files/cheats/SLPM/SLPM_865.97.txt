@@ -1,0 +1,7 @@
+#Max Groove Gauge (P1)	
+8009F9DC 15F0
+#Max Groove Gauge (P2)		
+8009F9DE 15F0
+#Unlock All Songs & Modes
+50000302 0000
+80094044 0000

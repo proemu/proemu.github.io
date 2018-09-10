@@ -1,0 +1,23 @@
+#Takes Zero Moves to Get Rid Of Blocks 	
+8006C804 0000 	
+#Start Near The End Of Each Level 	
+3006C70C 0003
+#Enable Everything 	
+8006C810 FFFF
+8006C6F0 FFFF 		
+#Level 1	
+8006C738 0001
+#Level 2
+8006C738 0002
+#Level 3
+8006C738 0003
+#Level 4	
+8006C738 0004
+#Level 5
+8006C738 0005
+#Level 6	
+8006C738 0006
+#Level 7
+8006C738 0007
+#Level 8
+8006C738 0008

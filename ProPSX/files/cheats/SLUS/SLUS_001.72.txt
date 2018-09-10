@@ -1,0 +1,14 @@
+#Player 1 Infinite Lives
+800DCD48 0005
+#Player 1 Infinite Continues
+8007DA68 0005
+#Player 2 Infinite Lives
+800DCD4A 0005
+#Player 2 Infinite Continues
+8007DA6A 0005
+#Infinite Time
+8007D96E 0086
+#Invincibility P1
+8009714A 0101
+#Invincibility P2
+80097006 0201

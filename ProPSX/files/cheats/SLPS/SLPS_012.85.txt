@@ -1,0 +1,5 @@
+#Have 9999 money
+800F45DC 270F
+#Infinite HP Main unit
+800FE078 03E7
+800E43D0 03E7

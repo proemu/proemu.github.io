@@ -1,0 +1,10 @@
+#Infinite Healing Gold items
+800C2178 0063
+#Infinite Money 60000
+800C1E18 EA60
+#1P infinite energy  
+8013F83C 0D48
+#Encounter rate decrease	
+80099754 0000 
+800B4EC8 0000 
+800B4ECA 0000 

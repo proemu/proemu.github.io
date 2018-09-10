@@ -1,0 +1,47 @@
+#Have 999999999 money
+801CD3E4 C9FF
+801CD3E6 3B9A
+#Fame MAX
+801CD3E8 E0FF 
+801CD3EA 05F5 
+#Pirate level MAX 
+301CD3ED 00FF
+#Infinite cannon balls
+801CD7FC 03E7
+#Infinite ship HP in naval battles
+8018A7DC 00FA
+#Food not decrease
+801CD7B8 0096
+#Hull HP current value MAX
+801CD7F6 270F 
+#Hull HP maximum value MAX
+801CD7F8 270F
+#Attack MAX# 
+301CD7F4 00FF 
+#Steering force MAX# 
+801CD804 270F
+#Hero Physical fitness MAX 
+801CD3FC 03E7 
+#Hero Attack MAX# 
+801CD400 270F 
+#Hero Defense MAX# 
+801CD402 270F 
+#Hero MAX rapidity# 
+801CD404 270F 
+#Second Character Physical fitness MAX 
+801CD454 03E7 
+#Second Character Attack MAX# 
+801CD458 270F 
+#Second Character Defense MAX
+801CD45A 270F 
+#Second Character MAX rapidity 
+801CD45C 270F 
+#Third Character Physical fitness MAX 
+801CD4AC 03E7 
+#Third CharacterAttack MAX
+801CD4B0 270F 
+#Third Character Defense MAX 
+801CD4B2 270F 
+#Third Character MAX rapidity 
+801CD4B4 270F
+

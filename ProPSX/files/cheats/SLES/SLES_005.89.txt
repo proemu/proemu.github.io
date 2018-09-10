@@ -1,0 +1,14 @@
+#Infinite Energy
+8014612E 2880
+#Infinite Health
+8014612C 0078
+#Infinite Spider Bombs
+801460CA 0063
+#Infinite Mines
+801460C6 0063
+#Infinite Medikit
+801460CE 0063
+#Infinite Det-Pak
+801460BE 0063
+#Infinite Batteries
+801460D2 0063

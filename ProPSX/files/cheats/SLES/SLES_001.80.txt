@@ -1,0 +1,4 @@
+#Infinite Energy Player
+8007F5E5 00FA
+#No Energy Opponent
+8007F8D5 0000

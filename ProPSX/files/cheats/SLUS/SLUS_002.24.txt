@@ -1,0 +1,41 @@
+#Invincible	
+80077660 03E7		
+#Unlimited Psionic	
+80077668 0064		
+#Infinite Ammo 18MM Guns	
+80056A94 03E7		
+#Infinite Ammo Phase Guns	
+80056A98 03E7		
+#Infinite HiFreq Ammo Phase Guns	
+80056A9C 03E7		
+#Infinite Ammo AM Blaster Guns	
+80056AA8 03E7		
+#Infinite Ammo Lock On Gun	
+80056AA0 03E7		
+#Enable 18mm Automatic	
+800770FC 0001
+#Always Play Level 1 Training Mission	
+80071518 0001
+#Always Play Level 2 Chemical Factory
+80071518 0002
+#Always Play Level 3 Rooftops	
+80071518 0003
+#Always Play Level 4 Jupiter Station		
+80071518 0004
+#Always Play Level 5 Triton	
+80071518 0005
+#Always Play Level 6 Mars		
+80071518 0006
+#Always Play Level 7 Antarctica		
+80071518 0007
+#Always Play Level 8 IO		
+80071518 0008
+#Always Play Level 9 Reactor 0A		
+80071518 0009
+#Always Play Level 10 Orbiting Habitat		
+80071518 000A
+#Always Play Level 11 Dream		
+80071518 000B
+#Always Play Level 12 Prison		
+80071518 000C
+

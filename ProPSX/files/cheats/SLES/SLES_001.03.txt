@@ -1,0 +1,6 @@
+#Infinite Energy P1
+8006E898 00A7
+#No Energy P2
+8006E8A8 0000
+#Infinite Energy P2
+8006E8A8 00A7

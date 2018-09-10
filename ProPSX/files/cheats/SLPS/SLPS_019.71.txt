@@ -1,0 +1,3 @@
+#Have 999999 money in the story mode
+8004BCE4 423F
+8004BCE6 000F

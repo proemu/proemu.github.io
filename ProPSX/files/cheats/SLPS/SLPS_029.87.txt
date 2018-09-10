@@ -1,0 +1,6 @@
+#Infinite energy boy
+80085874 03E7
+#Infinite energy cat girl
+800859BC 03E7
+#Infinite hp Green Hair Character
+008D19DC 70

@@ -1,0 +1,12 @@
+#All Scenarios can be selected 
+8007560A FFFF 
+#All scenes can be selected 
+D00836AE 1440 
+800836AE 1400 
+D0081126 1040 
+80081126 1400 
+D00811CA 1040 
+800811CA 1400 
+#All course selection possible 
+D008144A 1040 
+8008144A 1400 

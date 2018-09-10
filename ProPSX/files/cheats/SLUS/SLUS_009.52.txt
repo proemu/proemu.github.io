@@ -1,0 +1,32 @@
+#720º\Max Score	
+D01E3DE0 0000
+801E3DE0 FFFF
+#720º\Infinite Cash
+801E3E08 0064
+#720º\Infinite Timer
+801E40FC 007F
+#Klax\P1 Max Score
+80189E60 FFFF
+#Klax\P1 Quick Win (When Counting Klax)
+80189FD8 0000
+#Klax\P1 Infinite Drop Meter
+80189E94 0000
+#Rampage\Infinite Health (All Players)	
+800A4E86 2400
+#Smash TV\P1 Infinite Lives
+801A8C64 0009
+#Smash TV\P2 Infinite Lives	
+801A8C9C 0009
+#Smash TV\Infinite Lives (Both Players)	
+80089E8E 2400
+#Toobin\P1 Max Score	
+D00F9B20 0000
+800F9B20 FFFF
+#Toobin\P1 Infinite Cans	
+300F944A 0006
+#Toobin\P2 Infinite Cans	
+300F944B 0006
+#Toobin\P1 Infinite Patches	
+300F9732 0003
+#Toobin\P2 Infinite Patches	
+300F9733 0003

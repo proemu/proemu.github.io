@@ -1,0 +1,14 @@
+#Strike 2, 0 ball, 2 out in the select + left button 
+D009DC68 7EFF 
+8009D08C 0002 
+D009DC68 7EFF 
+8009C924 0000 
+D009DC68 7EFF 
+8009C798 0002 
+#Strike 0, 3 ball, 0 out in the select + right button 
+D009DC68 DEFF 
+8009D08C 0000 
+D009DC68 DEFF 
+8009C924 0003 
+D009DC68 DEFF 
+8009C798 0000

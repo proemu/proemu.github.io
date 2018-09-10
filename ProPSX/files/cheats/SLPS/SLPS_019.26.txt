@@ -1,0 +1,10 @@
+#Infinite Energy P1
+800B9F40 03E7
+80195198 03E7
+#Infinite Energy P2
+800B9F40 03E7
+80195B4C 03E7
+#Existence flag Selected
+300B9F28 0001
+#Base ERA
+301A916C 0064

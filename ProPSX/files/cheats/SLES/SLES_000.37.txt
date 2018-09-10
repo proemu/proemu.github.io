@@ -1,0 +1,11 @@
+#Infinite Energy
+80130D40 0063
+#Infinite Energy 2
+800E47F4 0063
+#Infinite energy 3
+8010DA5C 0063
+#Infinite Thompson-Ammo
+80130D30 0063
+8010DA4C 0063
+#Infinite Gun-Ammo
+8010DA5E 0006

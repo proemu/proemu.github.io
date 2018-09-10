@@ -1,0 +1,19 @@
+#Unlimited Rockets
+8009ED26 03E7
+#Unlimited Weapons
+8009ED24 03E7
+#Damage = 0
+8009ED30 0000
+#Unlimited Money
+800939E4 FFFF
+800939E6 FFFF
+#Unlock All Planes		
+3009BC72 0001
+#Survival mode 99 Kills	
+8009ED6E 0063
+#Debug ModE On the main menu, press L1+R1 and then press Circle to enter Debug 1
+On the main menu, press L2+R2 and then press Circle to enter Debug 2	
+D00F3DF4 000C
+3000E254 0003
+D00F3DF4 0003
+3000E254 0004

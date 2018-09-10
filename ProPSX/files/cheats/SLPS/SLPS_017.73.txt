@@ -1,0 +1,56 @@
+#Infinite & Max hp Kunoichi
+80010190 03E7
+80010192 03E7
+#Infinite & Max Vigor Kunoichi
+80010194 03E7
+80010196 03E7
+#Infinite money 9999
+80030834 270F
+#Bonus appearance	
+3001015C 0001
+#Memories of bonus / Travel	
+30010101 0001
+#Game hall small bonus 	
+30010171 0001
+#Favorability rating Max	
+800304D0 03E7
+#Chemistry  Sasuke Max	
+800304DC 03E7
+#Compatibility Taichi Max	
+800304E0 03E7
+#Chemistry swordsman Max	
+800304E4 03E7
+#Shooting times	
+800304EC 03E7	
+#Possession Vita Max	
+80030834 967F 
+80030836 0098
+#Number of mini-games / shooting / Ball	Max
+30125478 0014
+#Cat mini game / shooting / White	
+301254B0 000C
+#Cats big and mini games / shooting 	
+301254B1 000C
+#Cat mini game / shooting / gold	
+301254B2 000C
+#Cat small mini-games / shooting 	
+301254B3 000C
+#Mini-games / stamped / remaining time	
+80153AE4 0C30
+#Mini-games / stamped / Otetsuki number of times	
+30153AFC 0003
+#Mini-games / dice / possession Vita	
+801598A4 869F 
+801598A6 0001
+#Mini-games / Sarumawashi / Otetsuki number of times	
+30159938 0003
+#The number of times you hit mini-games / Sarumawashi 	
+30159958 0032
+#Mini-games / Kabuki / remaining time	
+8015A204 03FD
+#Mini-games / Kabuki / rotation speed	
+3015A21C 0063
+#Mini-games / moth / Otetsuki number of times	
+3015DE2C 0003
+#Mini-games / moth / remaining time	
+8015DE74 0709

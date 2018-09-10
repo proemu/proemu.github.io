@@ -1,0 +1,173 @@
+#Infinite Strikes
+30060740 0000
+#1 Strike And You Are Out
+D0060740 0000
+80060740 0002
+#2 Strikes And You Are Out
+D0060740 0000
+80060740 0001
+#Infinite Balls
+30060741 0000
+#1 Ball And You Walk
+E0060741 0000
+30060741 0003
+#2 Balls And You Walk
+E0060741 0000
+30060741 0002
+#3 Balls And You Walk
+E0060741 0000
+30060741 0001
+#Infinite Outs
+30060742 0000
+#1 Out And You Are Out
+D0060742 0000
+30060742 0002
+#2 Outs And You Are Out
+D0060742 0000
+30060742 0001
+#Away Team Score 9
+30060449 0009
+#Away Team Score 0
+30060449 0000
+#Home Team Score 9
+3006043D 0009
+#Home Team Score 0
+3006043D 0000
+#Character Creation Codes\Max Contact Chance
+300F98E0 0064
+#Character Creation Codes\Max Battling Power
+300F9960 0064
+#Character Creation Codes\Max Battling Eye
+300F99E0 0064
+#Character Creation Codes\Max Clutch Ability
+300F9A60 0064
+#Character Creation Codes\Max Running Speed
+300F9AE0 0064
+#Character Creation Codes\Max Reaction Time
+300F9B60 0064
+#Character Creation Codes\Max Fielding Accuracy
+300F9BE0 0064
+#Character Creation Codes\Max Arm Strength
+300F9C60 0064
+#Character Creation Codes\Run's Score Modifier
+801206E8 0064
+#Character Creation Codes\Infinite Draft Points
+8009F7C2 2400
+#Max Store Points\Anaheim Angels
+80198D5C FFFF
+80198D5E 0FFF
+#Max Store Points\Oakland Athletics
+80198D60 FFFF
+80198D62 0FFF
+#Max Store Points\Seattle Mariners
+80198D64 FFFF
+80198D66 0FFF
+#Max Store Points\Texas Rangers
+80198D68 FFFF
+80198D6A 0FFF
+#Max Store Points\Chicago White Sox
+80198D6C FFFF
+80198D6E 0FFF
+#Max Store Points\Cleveland Indians
+80198D70 FFFF
+80198D72 0FFF
+#Max Store Points\Detroit Tigers
+80198D74 FFFF
+80198D76 0FFF
+#Max Store Points\Kanas City Royals
+80198D78 FFFF
+80198D7A 0FFF
+#Max Store Points\Minnesota Twins
+80198D7C FFFF
+80198D7E 0FFF
+#Max Store Points\Baltimore Orioles
+80198D80 FFFF
+80198D82 0FFF
+#Max Store Points\Boston Red Sox
+80198D84 FFFF
+80198D86 0FFF
+#Max Store Points\New York Yankees
+80198D88 FFFF
+80198D8A 0FFF
+#Max Store Points\Tampa Bay Devil Rays
+80198D8C FFFF
+80198D8E 0FFF
+#Max Store Points\Toronto Blue Jays
+80198D90 FFFF
+80198D92 0FFF
+#Max Store Points\Arizona Diamondbacks
+80198D94 FFFF
+80198D96 0FFF
+#Max Store Points\Colorado Rockies
+80198D98 FFFF
+80198D9A 0FFF
+#Max Store Points\Los Angeles Dodgers
+80198D9C FFFF
+80198D9E 0FFF
+#Max Store Points\San Diego Padres
+80198DA0 FFFF
+80198DA2 0FFF
+#Max Store Points\San Francisco Giants
+80198DA4 FFFF
+80198DA6 0FFF
+#Max Store Points\Chicago Cubs
+80198DA8 FFFF
+80198DAA 0FFF
+#Max Store Points\Cincinnati Reds
+80198DAC FFFF
+80198DAE 0FFF
+#Max Store Points\Houston Astros
+80198DB0 FFFF
+80198DB2 0FFF
+#Max Store Points\Milwaukee Brewers
+80198DB4 FFFF
+80198DB6 0FFF
+#Max Store Points\Pittsburgh Pirates
+80198DB8 FFFF
+80198DBA 0FFF
+#Max Store Points\St. Louis Cardinals
+80198DBC FFFF
+80198DBE 0FFF
+#Max Store Points\Atlanta Braves
+80198DC0 FFFF
+80198DC2 0FFF
+#Max Store Points\Florida Marlins
+80198DC4 FFFF
+80198DC6 0FFF
+#Max Store Points\Montreal Expos
+80198DC8 FFFF
+80198DCA 0FFF
+#Max Store Points\New York Mets
+80198DCC FFFF
+80198DCE 0FFF
+#Max Store Points\Philadelphia Phillies
+80198DD0 FFFF
+80198DD2 0FFF
+#Max Store Points\Enable All Rewards
+80054D08 FFFF
+80054D0A FFFF
+#Max Store Points\Enable All Legendary Players
+80054D0C FFFF
+80054D0E FFFF
+#Max Store Points\Enable Extra Stadiums
+80054D10 FFFF
+#Max Store Points\All Teams
+800E54A0 FFFF
+#Max Store Points\P1 Press L1+Select For 0 Strikes
+D00687EC 0401
+30060740 0000
+#Max Store Points\P1 Press L2+Select For 3 Balls
+D00687EC 0101
+30060741 0003
+#Max Store Points\P1 Press L1+L2+Select For 0 Outs
+D00687EC 0501
+30060742 0000
+#Max Store Points\P1 Press R1+Select For 2 Strikes
+D00687EC 0801
+30060740 0002
+#Max Store Points\P1 Press R2+Select For 0 Balls
+D00687EC 0201
+30060741 0000
+#Max Store Points\P1 Press R1+R2+Select For 2 Outs
+D00687EC 0A01
+30060742 0002

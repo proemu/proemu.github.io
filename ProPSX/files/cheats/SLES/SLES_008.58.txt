@@ -1,0 +1,7 @@
+#Infinite Lifes
+8009AF3C 0003
+#Infinite Ammo
+8009AF96 0040
+#Infinite Health
+8009B1EA 0020
+

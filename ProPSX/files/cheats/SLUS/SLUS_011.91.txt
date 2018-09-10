@@ -1,0 +1,8 @@
+#Infinite Health-Jerry
+8006BAFC 03E8
+#Quick Kill-Tom
+8006BF24 0000
+#Have All Levels
+80032610 000E
+#Cheat Mode All levels will be unlocked, you can modify the player health (pause menu), and warp to any level (pause menu).		
+300325FC 0001

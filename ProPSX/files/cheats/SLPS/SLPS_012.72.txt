@@ -1,0 +1,30 @@
+#Scenario all selectable Rikimaru
+30010003 0008 
+#Scenario all selectable Ayame
+30010004 0008
+#It does not shut beneficial to use the art of change
+80037858 0000
+8003785A 0000
+#Do not reduce items in the game
+8003B49C 0000
+8003B94E 0000 
+#Ninja tools all infinite warehouse
+80010010 FFFF
+80010012 FFFF
+80010014 FFFF
+80010016 FFFF
+80010018 FFFF
+8001001A FFFF
+8001001C FFFF
+8001001E FFFF
+80010020 FFFF
+#Heal in Press the Square button
+D00C5008 0080
+300EA73C 0064
+D00C5008 0080
+300EA73E 0064 
+#Heal in press Square button in fourth story Voodoo swastika Professor
+D00C5008 0080
+3011995C 0064
+D00C5008 0080
+3011995E 0064

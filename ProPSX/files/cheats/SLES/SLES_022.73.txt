@@ -1,0 +1,5 @@
+#Infinite HP
+800F83A5 1000
+#Infinite HP Alt 1
+300F83A5 00FF
+

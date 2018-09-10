@@ -1,0 +1,12 @@
+#Team 1 Gets 999 Points
+80065510 03E7
+#Team 1 gets 0 points
+80065510 0000
+#Team 2 Gets 0 Points
+80065520 0000
+#Team 2 gets 99 Points
+80065520 0063
+#Team 1 Infinite Boost
+80078208 002F
+#Team 2 Infinite Boost
+80078528 002F

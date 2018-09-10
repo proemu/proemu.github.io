@@ -1,0 +1,63 @@
+#All Weapons & Ammo
+801907F6 0063
+801907F8 0063
+801907FA 0063
+801907FC 0063
+801907FE 0063
+#Infinite Armor Level 1
+8011062A 0FFF
+#Infinite Armor Level 2
+801085FA 0FFF
+#Infinite Armor Level 3
+80103B16 0FFF
+#Infinite Armor Level 4
+800FE5DA 0FFF
+#Infinite Armor Level 5
+801006EA 0FFF
+#Infinite Armor Level 6
+800F81A6 0FFF
+#Infinite Armor Level 7
+8011977E 0FFF
+#Infinite Armor Level 8
+800F8E0E 0FFF
+#Infinite Armor Level 9
+800FD5C2 0FFF
+#Infinite Armor Level 10
+800FD926 0FFF
+#Infinite Armor Level 11
+80100EEE 0FFF
+#Infinite Armor Level 12
+800F657A 0FFF
+#Mission Cheat Modifier	Mission 2	
+D0020A10 6E45
+30121D67 0001
+#Mission Cheat Modifier	Mission 3	
+D0020A10 6E45
+30121D67 0002
+#Mission Cheat Modifier	Mission 4	
+D0020A10 6E45
+30121D67 0003
+#Mission Cheat Modifier	Mission 5	
+D0020A10 6E45
+30121D67 0004
+#Mission Cheat Modifier	Mission 6	
+D0020A10 6E45
+30121D67 0005
+#Mission Cheat Modifier	Mission 7	
+D0020A10 6E45
+30121D67 0006
+#Mission Cheat Modifier	Mission 8	
+D0020A10 6E45
+30121D67 0007
+#Mission Cheat Modifier	Mission 9	
+D0020A10 6E45
+30121D67 0008
+#Mission Cheat Modifier	Mission 10	
+D0020A10 6E45
+30121D67 0009
+#Mission Cheat Modifier	Mission 11	
+D0020A10 6E45
+30121D67 000A
+#Mission Cheat Modifier	Mission 12	
+D0020A10 6E45
+30121D67 000B

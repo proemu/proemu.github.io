@@ -1,0 +1,8 @@
+#Infinite Money
+80064630 EA60
+#99 synthetic Kaiinochi 
+50001504 0063 
+801F0F82 0000 
+#Kusumida Infinite & Max Hp
+800897C4 270F 
+801F0784 270F 

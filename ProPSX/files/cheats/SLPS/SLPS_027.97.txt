@@ -1,0 +1,45 @@
+#Infinite HP Player 1
+800C5848 270F
+#Money in 999,999
+801CEB58 423F
+801CEB5A 000F
+#All characters can be selected
+801CEB64 FFFF
+#All weapons possession
+801CEB68 FFFF
+801CEB6A FFFF
+#All Items possession
+801CEB6C FFFF
+801CEB6E FFFF
+#All map possession
+801CEB70 FFFF
+#All weapons can be selected
+D0079816 15E0
+80079816 1000
+#Mortal blow / invincible mortal blow SEL + R2
+D00C585C 0101
+80051CAE 0000
+D00C585C 0102
+80051CAE 0060
+D00C585C 0103
+80051CAE 0062
+#Level Select 1
+301CEB63 0001
+#Level Select 2
+301CEB63 0002
+#Level Select 3
+301CEB63 0003
+#Level Select 4
+301CEB63 0004
+#Level Select 5
+301CEB63 0005
+#Level Select 6
+301CEB63 0006
+#Level Select 7
+301CEB63 0007
+#Level Select 8
+301CEB63 0008
+#Level Select 9
+301CEB63 0009
+#Level Select 10
+301CEB63 000A

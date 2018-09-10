@@ -1,0 +1,52 @@
+#Infinite moneyThe Iron Seed 	
+8015A8F8 0000
+8015A8FA 7FFF 		
+#Infinite money Handle On The Breadbasket 	
+8017F66C 0000
+8017F66E 7FFF 		
+#Infinite money Bridging A Nation 	
+8017F2A4 0000
+8017F2A6 7FFF 		
+#Infinite money Silver Boons & The Market Busts 	
+8017B054 0000
+8017B056 7FFF 		
+#Infinite money Crossing The Great Divide 	
+801934E4 0000
+801934E6 7FFF 		
+#Infinite money Birth On The Iron Horse 	
+8017F694 0000
+8017F696 7FFF 		
+#Infinite money Excess On The Orient Express 	
+8018DC5C 0000
+8018DC5E 7FFF 		
+#Infinite money Knitting With Iron 	
+801854EC 0000
+801854EE 7FFF 		
+#Infinite money Next Stop The 20th Century 	
+80194D60 0000
+80194D62 7FFF 		
+#Infinite money The Brenner Pass 	
+8016FB04 0000
+8016FB06 7FFF 		
+#Infinite money When Walls Come Down 	
+80198054 0000
+80198056 7FFF 		
+#Infinite money Croissants Or Crumpets 	
+80195C0C 0000
+80195C0E 7FFF 		
+#Infinite money The Samurai Rides An Iron Horse 	
+80169518 0000
+8016951A 7FFF 		
+#Infinite money Which Way To The Coast ? 	
+80183890 0000
+80183892 7FFF 	
+#Infinite money The People's Train 	
+80187668 0000
+8018766A 7FFF 		
+#Infinite money Dilemma Down Under 	
+8017740C 0000
+8017740E 7FFF 		
+#Infinite money Cape To Cairo 	
+8019128C 0000
+8019128E 7FFF
+

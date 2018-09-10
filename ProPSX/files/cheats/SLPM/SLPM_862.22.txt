@@ -1,0 +1,26 @@
+#Edit Mode Selection
+3001046D 00FF
+#Training Mode All Songs Selection
+8001047C FFFF
+3001047E 00FF
+#All Songs Selection
+800103F0 FFFF
+#All Songs choice possible ARCADE / ARRANGE 
+800103F0 FFFF 
+800103F2 FFFF 
+#Arcade Highscore 999999999
+801F6000 C9FF
+801F6002 3B9A
+#Unlimited Bar For Player 1
+8008CCFA 03E8
+#Unlimited Bar For Player 2
+8008D5E2 03E8
+#SECRET MOOE all items possible choice 
+800103EE 01FF 
+#Become automatic dance mode by pressing 1P, the SELECT button of during play 
+D001004C 0100 
+8008CCE0 0014 
+D001004C 0100 
+8008F018 0007
+#Unlock All Secret Modes Press UP on Song Select Screen to access secret play modes.	
+800103EE 03FF

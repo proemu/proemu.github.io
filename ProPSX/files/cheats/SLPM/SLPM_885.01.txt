@@ -1,0 +1,4 @@
+#Infinite Money (30000)
+800810C6 7530
+#Infinite HP
+800810B9 8800

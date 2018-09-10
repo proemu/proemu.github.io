@@ -1,0 +1,9 @@
+#Infinite Energy
+800B9AED 00EA
+#Infinite Oxygen
+80116F08 0168
+#Have always 99 nets
+80040AB8 0063
+#Have 990000000 money
+8004082C 3380
+8004082E 3B02

@@ -1,0 +1,6 @@
+#Infinite energy Player 1
+801281E4 0101
+#2P Life 0 Press SELECT
+D013F5FA FFFE 
+80128EEC FFFF
+

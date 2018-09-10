@@ -1,0 +1,2 @@
+#Have always 999 energy Player 1
+800C05AC 03E7

@@ -1,0 +1,34 @@
+#Infinite Coins
+80059D6C 03E7
+#Infinite Health
+8008E03C 0160
+8008E03E 2402
+#Max Health
+8008D10C 0160
+8008D10E 2405
+#Infinite Lives
+80093572 2400
+#Have All Sketch Pieces/Tarzan Letters
+80059D3C FFFF
+#Always Have Weapon
+800A5218 0010
+#Infinite Time: Bonus Level
+800A3470 1910
+#Have All Levels/Movies
+50000D02 0000
+30059D73 00FF
+#Have All Levels 100% Complete
+50000D02 0000
+30059D74 0064
+#Infinite Purple Fruit (With these codes, the amounts must be zero when the code is to be activated)
+D005B150 0001
+800A567A 0063
+#Infinite Red Fruit (With these codes, the amounts must be zero when the code is to be activated)
+D005B150 0001
+800A5678 0063
+#Infinite Blue Fruit (With these codes, the amounts must be zero when the code is to be activated)
+D005B150 0001
+800A5676 0063
+#Infinite Fruit On Pick Up
+8009781C 0001
+8009781E 2442

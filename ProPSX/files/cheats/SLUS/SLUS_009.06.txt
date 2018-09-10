@@ -1,0 +1,8 @@
+#Hover Force Infinite Fuel 	
+800C162C 012C 		
+#Hover Force Infinite Laser 	
+800C1634 012C 		
+#Hover Force Infinite H20 	
+800C163C 012C 		
+#Hover Force Max Enemies Killed 	
+800C164C 00FF

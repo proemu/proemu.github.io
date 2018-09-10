@@ -1,0 +1,9 @@
+#Infinite Money
+800CD878 C6C0
+800CD87A 002D
+#Infinite Missiles used only one at a time
+800CD872 1E0A
+#Infinite Nitros used only one at a time
+800CD870 1E01
+#Infinite Clones
+800CD876 0163

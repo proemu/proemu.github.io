@@ -1,0 +1,29 @@
+#Start On Lap 4 (Tournament)
+D011DD30 0000
+8011DD30 0003
+#Start On Lap 2 (Knock-Out)
+D011DD30 0000
+8011DD30 0001
+#Enable Empire City And El Nino
+800FA9E0 003D
+#Enable Nazda C2
+8004392E 0101
+#Enable Ferrari 550 & Diablo
+80043930 0101
+#Enable Jaguar Xjr-15 & Mercedes
+80043932 0101
+#Unlock All Cars & All Bonus & Hidden Tracks
+80125F10 01FF
+#Enables Ferrari 355 F1 (Hot Pursuit Mode)
+8004392C 0101
+#German Language For Police In Hot Pursuit Mode
+800F9F7C 0020
+#French Language For Police In Hot Pursuit Mode
+800F9F7C 0040
+#Spanish Language For Police In Hot Pursuit Mode
+800F9F7C 0080
+#Italian Language For Police In Hot Pursuit Mode
+800F9F7C 0100
+
+
+

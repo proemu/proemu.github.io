@@ -1,0 +1,40 @@
+#Infinite Money
+80129BCC 869F
+80129BCE 0001
+#Infinite Energy Pet 1
+801EF52E 03E7
+80130C88 03E7
+#All illustrations 
+5000B401 0000 
+30170641 0002 
+#Command of the into a friend can be selected Infinite Times
+30152D70 0000 
+30153358 0000 
+#Star Stone 99 
+30129BD4 0063 
+#Infinite & MAx HP 	
+8012DD2E 03E7	
+8012DD30 03E7
+#Infinite & MAx HP 2
+80130C86 03E7
+80130C88 03E7
+#Dungeon destination of ancient ruins 	
+301EF691 0000  
+#Dungeon destination of Altar of dragon 	
+301EF691 0001
+#Dungeon destination of Forest nausea  	
+301EF691 0002
+#Dungeon destination of Marsh hell   	
+301EF691 0003
+#Dungeon destination of Daimeimiya  	
+301EF691 0004
+#Dungeon destination of central desert  	
+301EF691 0005
+#Dungeon destination of Hole Legendary Beast   	
+301EF691 0006
+#Dungeon destination of Forest Makai	
+301EF691 0007
+
+
+ 
+

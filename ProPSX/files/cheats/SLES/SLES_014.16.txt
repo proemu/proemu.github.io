@@ -1,0 +1,20 @@
+#Infinite Potions Distribution
+D011F966 0008
+8018B4A6 2400
+D0120E1E 0008
+8018C95E 2400
+D011E4AE 0008
+80189FEE 2400
+#Infinite Health
+800832BC 0050
+#Always have roman thrown meter full (Throw the roman stage)		
+801BCD28 FFFF
+#Invincible (Action Scenes) Character Flash		
+800832B0 000F
+#Invincible (Roman attacks) Character Flash
+D00341F0 0095
+800341F2 1000
+#Endless Wing Power		
+8007F69C 0063
+#Unlock Cheat Mode		
+8007EAA8 0001

@@ -1,0 +1,22 @@
+#Infinite Standard Missiles
+8016BE7C 0032
+#Infinite Stun Missiles
+80154406 000A
+#Infinite Heat Seeker Missiles
+80154408 0009
+#Infinite Trench Missiles
+8015440A 0009
+#Time Always 00:00:00 (Can't Lose With This Code)		
+800AB4CC 0000
+#Ship Modifier Explorer, Kitty Hawk Class		
+800AB4F0 0000
+#Ship Modifier Viking, Sea Eagle Class		
+800AB4F0 0001
+#Ship Modifier Ranger, Clipper Class		
+800AB4F0 0002
+#Ship Modifier Pioneer, Trieme Class		
+800AB4F0 0003
+#Ship Modifier Mariner, Canaveral Class		
+800AB4F0 0004
+
+ 

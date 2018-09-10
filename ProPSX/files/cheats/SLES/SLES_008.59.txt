@@ -1,0 +1,19 @@
+#Arcade Mode Only Always First Place		
+800CB998 0101
+800552C0 0000
+800552C2 0000
+800552C4 0000
+800552C6 0000
+#Arcade Mode Only Infinite Time		
+800B3838 FFFF
+#Arcade Mode Only Only One Lap to Race		
+800C7266 0005
+#Grand Prix Mode Only Always First Place	
+800D5D40 0101
+8005EEC8 0000
+8005EECA 0000
+8005EECC 0000
+8005EECE 0000
+#Grand Prix Mode Only Only One Lap to Race		
+800C12F6 0005
+

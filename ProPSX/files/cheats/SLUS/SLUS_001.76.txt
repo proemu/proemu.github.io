@@ -1,0 +1,38 @@
+#Disc 3 Always Have Bullet		
+801B4214 0001
+#Disc 3 Always Have Cash		
+801B4394 0001
+#Disc 3	Always Have CIA Card		
+801B4304 0001
+#Disc 3	Always Have Feather		
+801B4364 0001
+#Disc 3	Always Have Kitchen Knife		
+801B41B4 0001
+#Disc 3	Always Have Knife(Butterfly)		
+801B4184 0001
+#Disc 3	Always Have Medal		
+801B4244 0001
+#Disc 3	Always Have Skis		
+801B43C4 0001
+#Disc 3	Always Have Taco		
+801B4334 0001
+#Disc 3	Always Have Vidbook		
+801B4274 0001
+#Disc 3	One hit knocks down Alan & Allen (or you?)		
+801A65FC 0005
+801A703C 0005
+#Disc 3	One hit knocks down Frank		
+8015923C 0007
+#Disc 3	One hit knocks down Sven (or you!)		
+801ED1AC 0005
+#Disc 3	One hit knocks down the Body Builder (or you?)		
+801EE28C 0005
+#Disc 3	One hit knocks down the Caveman (or you?)		
+801EEAFC 0005
+#Disc 3	Take no damage in fight with Frank		
+801592BC 0000
+#Disc 3	Take no damage in fights with Sven, Body Builder and the Caveman		
+801EC93C 0000
+#Disc 3	Take no damage in the fight with Alan & Allen		
+801892FC 0000
+

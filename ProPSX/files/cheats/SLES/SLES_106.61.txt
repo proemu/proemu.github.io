@@ -1,0 +1,9 @@
+#Unendlich Geschosse	
+80110B4E 3C00
+#Laser überhitzen nicht
+E009365C 0080
+801E6A70 04B0
+#Laser überhitzen nicht (Analog-Steuerung)	
+D009365C 0008
+801E6A70 04B0
+	

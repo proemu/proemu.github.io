@@ -1,0 +1,14 @@
+#Asteroids\Infinite Lives P1  
+300F595B 0006 
+#Battlezone\Infinite Lives P1  
+80132E4C 0004 
+#Centipede\Infinite Lives P1  
+3011A93D 0005 
+#Missile Command\Infinite Cities P1  
+3012438C 0006 
+#Super Breakout\Infinite Turns P1  
+800FC2F8 0001 
+#Tempest\Infinite Lives P1  
+30125080 0003 
+
+

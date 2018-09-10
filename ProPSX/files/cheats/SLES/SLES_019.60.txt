@@ -1,0 +1,130 @@
+#Invincible P1
+300D41FA 0000
+#Infinite Time
+80076DE8 1A5E
+#Infinite Money P1
+D0076DEC 2710
+80076DEC D02C
+D0076DEE 0000
+80076DEE 0160
+D0078480 2710
+80078480 D02C
+D0078482 0000
+80078482 0160
+#Press L2 & R2 For All Cars	
+D4000000 0003
+50000F02 0000
+80078484 0101
+#Unlock All Cars	
+50000F02 0000
+80078484 0101
+#One Lap Race/Finish First (3 Lap Race)	
+801BE282 0003
+#Choose Track Slaughter City
+D007844C 0000
+8007844C 0000
+#Choose Track Sands of Crime
+D007844C 0000
+8007844C 0001
+#Choose Track World Of Carnage
+D007844C 0000
+8007844C 0002
+#Choose Track Figure of Hate
+D007844C 0000
+8007844C 0003
+#Choose Track Sad and Insane
+D007844C 0000
+8007844C 0004
+#Choose Track China Krisis (Mission 1)
+D007844C 0000
+8007844C 0005
+#Choose Track Fridge Racer
+D007844C 0000
+8007844C 0100
+#Choose Track Night of the Living Zombie
+D007844C 0000
+8007844C 0101
+#Choose Track Chopping Centre
+D007844C 0000
+8007844C 0102
+#Choose Track Twin Shrieks
+D007844C 0000
+8007844C 0103
+#Choose Track Carma McRay
+D007844C 0000
+8007844C 0104
+#Choose Track Checkpoint Stampede (Mission 2)
+D007844C 0000
+8007844C 0105
+#Choose Track Dragon Slayer
+D007844C 0000
+8007844C 0200
+#Choose Track Maim Street
+D007844C 0000
+8007844C 0201
+#Choose Track Just Deserts
+D007844C 0000
+8007844C 0202
+#Choose Track The Pits
+D007844C 0000
+8007844C 0203
+#Choose Track Avenue of Atrocities
+D007844C 0000
+8007844C 0204
+#Choose Track Car Crusher (Mission 3)
+D007844C 0000
+8007844C 0205
+#Choose Track Chiller
+D007844C 0000
+8007844C 0300
+#Choose Track Evil Zombie
+D007844C 0000
+8007844C 0301
+#Choose Track Slaying the Field
+D007844C 0000
+8007844C 0302
+#Choose Track Town Raider
+D007844C 0000
+8007844C 0303
+#Choose Track Pub Cruel
+D007844C 0000
+8007844C 0304
+#Choose Track Snow Way Out (Mission 4)
+D007844C 0000
+8007844C 0305
+#Choose Track Medieval Massacre
+D007844C 0000
+8007844C 0400
+#Choose Track Downtown Devastation
+D007844C 0000
+8007844C 0401
+#Choose Track Tutan Carnage
+D007844C 0000
+8007844C 0402
+#Choose Track Top gear Thrash
+D007844C 0000
+8007844C 0403
+#Choose Track Terror on the Trails
+D007844C 0000
+8007844C 0404
+#Choose Track Pick-Me-Up (Mission 5)
+D007844C 0000
+8007844C 0405
+#Choose Track Slalom Slayfest
+D007844C 0000
+8007844C 0500
+#Choose Track Rocky Horror
+D007844C 0000
+8007844C 0501
+#Choose Track Halfway to Hell
+D007844C 0000
+8007844C 0502
+#Choose Track Death Valley
+D007844C 0000
+8007844C 0503
+#Choose Track Country Killer
+D007844C 0000
+8007844C 0504
+#Choose Track Desert Storm (Mission 6)
+D007844C 0000
+8007844C 0505

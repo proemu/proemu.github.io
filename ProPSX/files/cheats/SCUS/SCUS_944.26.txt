@@ -1,0 +1,25 @@
+#Unlock Everything (Characters And Tracks)
+50000302 0000
+8008E6EC FFFF
+#Freezes Clock In All Timed Races/Prevents Bosses From Using Power-Ups
+80098830 0000
+#Have All Awards
+8008FBA4 FFFF
+8008FBA6 FFFF
+8008FBA8 FFFF
+8008FBAA FFFF
+8008FBAC FFFF
+8008FBAE FFFF
+8008FBB0 FFFF
+8008FBB2 FFFF
+#Use Nitros Oxide Player 1 (.Press L2 after selcting your character. May not work at all in VS mode for player 1. For Adventure mode, press L1 before entering a portal/challenge. Press L2 before returning to the map. Freezes on some tracks. ? is the character you want to be in Adventure Mode map.)
+D0096AD6 FEFF
+80086E84 000F
+D0096AD6 FBFF
+80086E84 000?
+#Complete adventure mode quickly after visiting one race 	
+50000D02 0000
+8008FF58 FFFF
+#Infinite time	
+80035416 3C00
+

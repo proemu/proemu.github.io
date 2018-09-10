@@ -1,0 +1,37 @@
+#Inf Health Ice Flow
+8013386A 03E0
+#Inf Longbow Ammo
+800B5FA6 000F
+#Inf Health City Skies
+801C01F2 03E0
+#Inf Health Spider Tank
+801CA8F8 03E0
+#Inf Health Jet Boss
+801C9788 03E0
+#Inf Sniper Ammo
+800B5FA8 0008
+#Inf Health City Streets
+801164B0 03E8
+#Inf Health Silo
+801C98DC 03E0
+#Inf Sniper Ammo
+800B5FA8 0008
+#Inf Health Island Base
+801C8E40 03E0
+#999 Power Points
+D00B9F44 FCFF
+800B5E12 03E7
+#Inf Health Toxic Lab
+801C1240 03E0
+#Inf Health Queen Plant
+801C9394 03E0
+#Inf Health Desert Base
+801C12FC 03E0
+#Inf Sonic Gun Ammo
+800B5FAE 00C8
+#Inf Health Hold
+801C8E40 03E0
+#Inf Sonic Gun Ammo
+800B5FAE 00C8
+#Inf Health Skullbot Factory
+801C8A20 03E0

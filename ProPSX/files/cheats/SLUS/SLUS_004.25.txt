@@ -1,0 +1,21 @@
+#Infinite Lives
+D007B35C 0002
+8007B35C 0003
+#Infinite Health
+D0084466 000F
+80084466 0010
+#Infinite Missiles On Pick-Up
+D007B444 0002
+8007B444 0003
+#Moon Jump
+D007C788 0040
+80084492 FFF0
+#Infinite Health Drench Level Codes
+D0084786 0010
+80084786 0011
+#Moon Jump Drench Level Codes
+D007C788 0040
+800847B2 FFF0
+#All Levels Selectables
+80085404 000E
+

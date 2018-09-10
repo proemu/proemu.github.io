@@ -1,0 +1,41 @@
+#Enable all cheats	
+D0033404 00C3
+80033406 2400
+#Mission 1 Infinite health	
+D004C028 0034
+8004C02A 2400
+#Mission 1 Infinite cell phone stunner	
+800B647C 0064
+#Mission 1Infinite Wolfram p2k	
+800B6538 0064
+#Mission 1 Infinite ammo	
+D0038EE0 FFFF
+80038EE0 0000
+D0039358 FFFE
+80039358 0000
+#Mission 1 Infinite cell phone stunner	
+D007CB34 FFFF
+8007CB34 0000
+#Mission 1 Infinite satchel charges	
+D0079E54 FFFF
+80079E54 0000
+#Mission 2 Infinite health	
+D004C02C 0003
+8004C02E 2400
+#Mission 2 Infinite ammo	
+D0039020 FFFF
+80039020 0000
+#Mission 3 Infinite health	
+D004B3D8 0034
+8004B3DA 2400
+#Mission 3 Infinite ammo 
+D00385CC FFFF
+800385CC 0000
+#Mission 4 Max infinite money (Black Jack)	
+8009DCE0 967F
+8009DCE2 0098
+#Mission 5 Infinite telephone bugs	
+300B3C9C 0005
+#Mission 5 Infinite ammo	
+D00389F8 FFFF
+800389F8 0000

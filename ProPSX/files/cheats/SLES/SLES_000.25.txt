@@ -1,0 +1,4 @@
+#Infinite energy
+80108E58 0005
+#Have 99 scarabs
+80108BE2 0063

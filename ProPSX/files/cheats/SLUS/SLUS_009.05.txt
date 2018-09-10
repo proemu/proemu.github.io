@@ -1,0 +1,8 @@
+#Always Catch Fish
+D0079414 0001
+80079414 0004
+#Unlock All Locations
+80078A5C FFFF
+#Unlock All Lures 
+50002402 0000
+80078930 FFFF

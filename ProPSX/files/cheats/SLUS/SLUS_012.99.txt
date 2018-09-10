@@ -1,0 +1,12 @@
+#Infinite Health (Both Rangers)
+8001C2C4 2400
+#Infinite Time
+8002A2E8 2400
+#Main Weapon - Extra Ammo		
+8001B1C4 0001
+#Main Weapon - Infinite Ammo	
+8001B1C8 2400
+#Secondary Weapon - Extra Ammo	
+800200E4 0001
+#Secondary Weapon - Infinite Ammo		
+800200E8 2400

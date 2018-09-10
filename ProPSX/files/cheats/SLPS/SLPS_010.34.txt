@@ -1,0 +1,14 @@
+#Infinite Credits		
+800B9E98 0005
+#Infinite Energy Player 1		
+800E038E 0040
+#Infinite Energy Player 2		
+800E058E 0040
+#Infinite Energy Player 3		
+800E078E 0040
+#Infinite Energy Player 4		
+800E098E 0040
+#Invincible		
+80091070 0001
+#Level Skip (Press L1+L2+R1+R2 while in game to go to the Level Skip screen. Press X to skip a level or Triangle to go back a level)
+80091072 0001

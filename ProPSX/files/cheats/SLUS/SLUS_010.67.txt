@@ -1,0 +1,20 @@
+#Infinite Energy
+800C3386 0190
+#Unlock All Stages in Expert MOde	
+50000702 0000
+800C35A0 FFF
+#Infinite Time	
+801ACF78 0630
+#Have All Levels in Trap License	
+300B8DB7 0006
+#Infinite Mission Ark	
+800B8DB0 270F
+#Press L1 & L2 For No Enemy Health (Top Left Meter)	
+D00C054A 0005
+800BB152 0000
+#Press L1 & L2 For No Enemy Health (Top Right Meter)	
+D00C054A 0005
+800BB21A 0000
+
+
+

@@ -1,0 +1,23 @@
+#Infinite energy
+800797A4 00C8
+#Infinite ammo pistol
+8006EF64 0009
+#Infinite grenades
+800&EF6E 0009
+#Infinite ammo machine gun
+8006EF7C 03E7
+#Infinite ammo sniper rifle
+8006EF94 0064
+#Infinite dinamite
+8006EF5C 0009
+#Open All Missions when loading a saved game
+8006EEC8 001F
+3006EECB 000F
+8006EECC 0F0F
+8006EECE 031F
+8006EED8 0200
+#Sudden Death All Enemies
+D0035B22 0004
+80035B24 0000
+D0035B22 0004
+80035B26 3403

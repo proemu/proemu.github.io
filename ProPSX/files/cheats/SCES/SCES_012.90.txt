@@ -1,0 +1,2 @@
+#Infinite health Player 1
+8006F1B6 00C8

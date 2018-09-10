@@ -1,0 +1,37 @@
+#Infinite money
+80071DE4 967F 
+80071DE6 0098
+#Infinite physical strength
+80071D9A 0064
+#Materials MAX
+800710C4 03E7
+#Fodder MAX
+800710C6 03E7
+#MAX bait fish 
+800710CA 03E7 
+#MAX bait bird
+800710CC 03E7
+#99 pieces in refrigerator, Cabinet, and tool box
+D00FD5FA 1440
+800FD5F8 0001
+D00FD668 0004
+800FD55A 2403
+D00FD668 0004
+800FD668 0063
+#Favorability MAX of dog
+30075D06 00FF
+#Favorability MAX horse
+30075DF2 00FF
+#Favorability MAX of Karen
+80076A84 FFFF 
+#Favorability MAX of Ran
+800771D4 FFFF
+#Favorability MAX of Eryi
+8007757C FFFF 
+#Favorability MAX of Marie
+80077EA0 FFFF
+#Favorability MAX of Potpourri
+80078998 FFFF
+#Ranch total number of shipments MAX
+50001502 0000
+80071550 03E7

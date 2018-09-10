@@ -1,0 +1,87 @@
+#Claire-Codes\Infinite Health
+800C78E2 00FF
+#Claire-Codes\Have Grenade Launcher L1 + Triangle 
+D00C5EDC 0014
+800CC5D0 FF09
+#Claire-Codes\Have Grenade (Fire) L1 + X
+D00C5EDC 0044
+800CC5D0 FF0A
+#Claire-Codes\Have Grenade Launcher (Acid) L1 + Square
+D00C5EDC 0084
+800CC5D0 FF0B
+#Claire-Codes\Have Blow Gun L2 + Triangle
+D00C5EDC 0011
+800CC5D0 FF0C
+#Claire-Codes\Have Colt S.A.A. L2 + X
+D00C5EDC 0041
+800CC5D0 FF0D
+#Claire-Codes\Have Spark Shot L2 + Square
+D00C5EDC 0081
+800CC5D0 FF0E
+#Claire-Codes\Have Sub Machine Gun R2 + Triangle
+D00C5EDC 0012
+800CC5D0 FF0F
+#Claire-Codes\Have Rocket Launcher R2 + X
+D00C5EDC 0042
+800CC5D0 FF11
+#Claire-Codes\Have Gatling Gun R2 + Square
+D00C5EDC 0082
+800CC5D0 FF12
+#Claire-Codes\Ink Ribbons In Crate
+800CC6F8 FF1E
+#Claire-Codes\Small Key In Crate
+800CC6F4 031F
+#Claire-Codes\Red Jewel In Crate
+800CC6F0 0133
+#Claire-Codes\Cord In Crate
+800CC6EC 0156
+#Claire-Codes\Fuse Case In Crate
+800CC6E8 041D
+#Claire-Codes\Serpent Stone In Crate
+800CC6E4 0136
+#Claire-Codes\Jaguar Stone In Crate
+800CC6E0 0137
+#Claire-Codes\Eagle Stone In Crate
+800CC6DC 013A
+#Claire-Codes\Bomb Detonator In Crate
+800CC6D8 0142
+#Claire-Codes\Unicorn Medal In Crate
+800CC6D4 0147
+#Claire-Codes\Eagle Medal In Crate
+800CC6D0 0148
+#Claire-Codes\Wolf Medal In Crate
+800CC6CC 0149
+#Claire-Codes\G Virus In Crate
+800CC6C8 0152
+#Claire-Codes\Special Key In Crate
+800CC6C4 0153
+#Claire-Codes\Cabin Key In Crate
+800CC6C0 0158
+#Claire-Codes\Precinct Key In Crate
+800CC6BC 0159
+#Claire-Codes\Lock Pick In Crate
+800CC6B8 0130
+#Claire-Codes\Lab Card Key In Crate
+800CC6B4 0161
+#Claire-Codes\Master Key In Crate
+800CC6B0 0162
+#Claire-Codes\Platform Key In Crate
+800CC6AC 0163
+#Claire-Codes\Grenade Launcher In Crate
+800CC5FC FF09
+#Claire-Codes\Grenade Launcher (Fire) In Crate
+800CC600 FF0A
+#Claire-Codes\Grenade Launcher (Acid) In Crate
+800CC604 FF0B
+#Claire-Codes\Bowgun In Crate
+800CC608 FF0C
+#Claire-Codes\Colt S.A.A. In Crate
+800CC60C FF0D
+#Claire-Codes\Spark Shot In Crate
+800CC610 FF0E
+#Claire-Codes\Submachine Gun In Crate
+800CC614 FF0F
+#Claire-Codes\Rocket Launcher In Crate
+800CC618 FF11
+
+

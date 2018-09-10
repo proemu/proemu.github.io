@@ -1,0 +1,17 @@
+#Infinite Time
+800DAAF0 0708
+#Total Time is 0'00
+800DAAF4 0000
+#Infinite Restarts
+800D49B2 0002
+#Always In 1st Place
+800DAADA 0001
+#Always Be Hidden Car
+D009393C 48ED
+80093036 0006
+#All Cars Jump
+800CA5BA 0001
+#Hyper Car And Invisible Car
+800CA5BE 0101
+#Have Secret Modes (Main Menu)		
+300CA5B9 0001

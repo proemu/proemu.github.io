@@ -1,0 +1,96 @@
+#Infinite Health
+80072E7E 2400
+#Infinite Air
+8007ADB6 2400
+#99 Lives
+800A8E10 0063
+#Infinite Powerup Time
+8008137E 2400
+#Total 99 Flies
+800A8E18 0063
+#Total 99 Green Palms
+800A8E1C 0063
+#Total 99 Gold Coins
+800A8E20 0063
+#Total 99 Remotes
+800A8E24 0063
+#Have All Special Remotes		
+800AA5EC FFFF
+800AA5EE FFFF
+#Have All Remotes\Totally Scrooged
+300A8DF0 000F
+#Have All Remotes\Clueless In Seattle
+300A8DF1 000F
+#Have All Remotes\Holy Moses!
+300A8DF2 000F
+#Have All Remotes\War Is Heck
+300A8DF3 000F
+#Have All Remotes\The Organ Trail
+300A8DF4 000F
+#Have All Remotes\Cut Cheese Island
+300A8DF5 000F
+#Have All Remotes\Unsolved Mythstories
+300A8DF6 000F
+#Have All Remotes\Red Riding In The Hood
+300A8DF7 000F
+#Have All Remotes\When Sushi Goes Bad
+300A8DF8 000F
+#Have All Remotes\My Three Goons
+300A8DF9 000F
+#Have All Remotes\Superzeroes
+300A8DFA 000F
+#Have All Remotes\Mission Control
+300A8E07 000A
+#Have All Remotes\Lake Flaccid
+300A8E08 0002
+#Have All Remotes\Slappy Valley
+300A8E09 0002
+#Have All Remotes\Funky Town
+300A8E0A 0002
+#Have All Gold Coins\Totally Scrooged
+800A8E6C 000E
+#Have All Gold Coins\Clueless In Seattle
+800A8E6E 000E
+#Have All Gold Coins\Holy Moses!
+800A8E70 000E
+#Have All Gold Coins\War Is Heck
+800A8E72 000E
+#Have All Gold Coins\The Organ Trail
+800A8E74 000E
+#Have All Gold Coins\Cut Cheese Island
+800A8E76 000E
+#Have All Gold Coins\Unsolved Mythstories
+800A8E78 000E
+#Have All Gold Coins\Red Riding In The Hood
+800A8E7A 000E
+#Have All Gold Coins\When Sushi Goes Bad
+800A8E7C 000E
+#Have All Gold Coins\My Three Goons
+800A8E7E 000E
+#Have All Gold Coins\Superzeroes
+800A8E80 000E
+#Have All Gold Coins\Mission Control
+800A8E9A 000E
+#Have All Gold Coins\Lake Flaccid
+800A8E9C 000E
+#Have All Gold Coins\Slappy Valley
+800A8E9E 000E
+#Have All Gold Coins\Funky Town
+800A8EA0 000E
+#Clueless In Seattle Codes\Infinite Health
+800A8E14 0004
+#Clueless In Seattle Codes\Infinite Air
+800B212E 03E7
+#Clueless In Seattle Codes\Infinite Bonus Time
+801A417A 2400
+#Gextreme Sports Codes\Infinite Time
+801207AC 0078
+#Dial 'A' For Arson Codes\Infinite Time
+80129ED4 1532
+#Dial 'A' For Arson Codes\Have 50 Flies
+800A8E18 0032
+#Marsupial Madness Codes\Infinite Time
+80125804 0078
+#Brave Heartless\Infinite Time
+801605BC 1064
+

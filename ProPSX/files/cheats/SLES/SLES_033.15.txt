@@ -1,0 +1,20 @@
+#Infinite Energy 
+800B5C3E 0195
+#Infinite Time
+800B5430 1200
+#Triangulos Infinitos
+800B5C46 0063
+#All Levels & Missions Unlocked	
+50000D01 0000
+300D4D02 007F
+#Infinite Ammo-All Weapons		
+50000802 0000
+800B8E74 0640
+#Infinite Fuel
+800AA940 0900
+#Have All Green People
+800AA334 0005
+800AA398 0005
+
+
+460

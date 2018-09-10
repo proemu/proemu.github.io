@@ -1,0 +1,58 @@
+#Codes For The Guy Codes\Have File Cabinet
+3007FA3C 0001
+#Codes For The Guy Codes\Have Flint Statue
+3007FA48 0001
+#Codes For The Guy Codes\Have Letter
+3007FA58 0001
+#Codes For The Guy Codes\Have Pot
+3007FA60 0001
+#Codes For The Guy Codes\Have Box Of Biscuits
+3007FADC 0001
+#Codes For The Guy Codes\Have Short Wooden Handled Boat Hook
+3007FAE8 0001
+#Codes For The Guy Codes\Have Beer Bottle
+3007FAF0 0001
+#Codes For The Guy Codes\Have Metal Cone
+3007FAF8 0001
+#Codes For The Guy Codes\Have Darts
+3007FB00 0001
+#Codes For The Guy Codes\Have Flask Of Absense
+3007FB04 0001
+#Codes For The Guy Codes\Have Lipstick
+3007FB0C 0001
+#Codes For The Guy Codes\Have Newspaper Clippings
+3007FB1C 0001
+#Codes For The Guy Codes\Have Bank Statement
+3007FB28 0001
+#Codes For The Guy Codes\Have Lucky Piece Of Coal
+3007FB70 0001
+#Codes For The Guy Codes\Have Worm
+3007FC84 0001
+#Codes For The Guy Codes\Have Label
+3007FD08 0001
+#Codes For The Guy Codes\Have Cone 2
+3007FE00 0001
+#Codes For The Guy Codes\Have Screw Housing
+3007FEF8 0001
+#Codes For The Guy Codes\Have Stone
+30080144 0001
+#Codes For The Guy Codes\Have Binoculars
+30080118 0001
+#Codes For The Guy Codes\Have Candy Bar
+30080124 0001
+#Codes For The Guy Codes\Have Obsidian Dagger
+30080130 0001
+#Codes For The Guy Codes\Have Hair Clip
+30080138 0001
+#Codes For The Guy Codes\Have Bag
+3008013C 0001
+#Codes For The Guy Codes\Have Museum Display Cabinet
+30080148 0001
+#Codes For The Guy Codes\Have English Coin
+30080158 0001
+#Codes For The Guy Codes\Have Ammunition Round
+300807D4 0001
+#Codes For The Guy Codes\Have Sunglasses
+3008099C 0001
+#Codes For The Guy Codes\Have Underpants
+800809AC 0001

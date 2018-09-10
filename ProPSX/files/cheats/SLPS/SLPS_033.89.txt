@@ -1,0 +1,14 @@
+#Infinite HP Main character Mission 1
+801F0232 270F
+801F0234 270F
+#Infinite HP Main character Mission 2
+801F037C 270F
+801F037E 270F
+#Infinite HP Main character Mission 3
+801F067E 270F
+801F0680 270F
+#Infinite EP Main Character Mission 2
+801F0308 00F0
+#Have lots of money
+801EE988 869F
+801EE98A 0001

@@ -1,0 +1,25 @@
+#Infinite money
+800E31E0 9999
+800E31E2 0099
+#Infinite Hero HP Y MP in battle
+801082F6 270F
+801082F8 270F
+#Infinite Character 2 HP Y MP in battle
+8010833E 270F
+#Max Lv
+80116290 03E7
+#Max Exp
+801162D4 E0FF
+801162D6 05F5
+#Hero Infinite & Max Hp 9999
+8011627A 270F
+80116280 270F
+#Hero Infinite & Max Mp 9999
+8011627C 270F
+80116282 270F
+#No random battles
+300E30FE 0000
+#Acquisition Cosmo Stone Max	
+800E3102 03E7
+#All items	
+3010D24f 00ff

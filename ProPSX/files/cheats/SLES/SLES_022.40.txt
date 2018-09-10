@@ -1,0 +1,22 @@
+#Unendlich Luft	
+800AB2CE 0708
+#Unendlich Gesundheit
+80051F9C 03E8
+80051F9E 3402
+80051FA0 0022
+80051FA2 A602
+#Level-Anwahl Im Titelbildschirm L1 & L2 & R1 & R2 drücken. Die Geräusche sind normal 
+D00AA0D6 F0FF
+300A6AEF 0002
+#Unendlich Alle Gegenstände
+D00AA0D6 FFFE
+50000302 0063
+800AB3FC 0000
+#Alle Waffen
+D00AA0D6 FFFE
+50000402 0D0D
+800AB3D4 0000
+#Unendlich Munition Für alle Waffen	
+D00AA0D6 FFFE
+50000A02 00FC
+800AB404 0000

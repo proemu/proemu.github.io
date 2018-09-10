@@ -1,0 +1,39 @@
+#Invincibility : on 	
+800AA678 0001
+#Immunity : on 	
+800AA67C 0001
+#Unlock everything 	
+800AA5B0 0028
+#Unlock all cities 	
+D01C1308 F809
+801C130C 0000
+#Infinite damage	
+D001CDB8 0009
+8001CDBA 1043
+#Infinite damage & Sudden Death for other cars	
+D001CDB8 0009
+8001CDBA 1043
+D001CDCC 0003
+8001CDCE 1000
+#Invincibility : on v1.1	
+800AA428 0001
+#Immunity : on v1.1	
+800AA428 0001
+#No felony v1.1
+D004C31C 9568
+8004C326 A4A0
+D004C934 9568
+8004C93E A4A0
+#Unlock everything v1.1	
+800AA360 0028
+#Unlock all cities v1.1	
+D01C1308 F809
+801C130C 0000
+#Infinite damage v1.1	
+D001CDB8 0009
+8001CDBA 1043
+#Infinite damage & Sudden Death for other cars v1.1	
+D001CDB8 0009
+8001CDBA 1043
+D001CDCC 0003
+8001CDCE 1000

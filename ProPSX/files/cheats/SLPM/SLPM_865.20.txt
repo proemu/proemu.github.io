@@ -1,0 +1,5 @@
+#Infinite energy Character 1  
+80020B96 0063 
+#Infinite energy Character Cat  
+80020C62 0063 
+ 

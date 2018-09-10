@@ -1,0 +1,17 @@
+#Infinite Health Lizzie
+801FA196 0044
+#Infinite Health Curtis
+801F9B86 0044
+#Infinite Health Ralph
+801FA31A 0044
+#Infinite Health Ruby
+801F9E8E 0044
+#Infinite Health Boris
+801F9D0A 0044
+#Infinite Health George 
+801FA012 0044
+#Infinite Health Myukus
+801FA49E 0044
+#Infinite Health Harley
+801FA622 0044
+

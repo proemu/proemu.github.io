@@ -1,0 +1,11 @@
+#Does not decrease the time limit 
+D00C5000 FFFF 
+800C5000 0000 
+#Correct answer anything Press Select+L1
+D01FBD7E 0104 
+800C59B6 A040 
+D01FBD7E 0108 
+800C59B6 A045 
+#Album fully opened 
+50002402 0000 
+80010200 0101 

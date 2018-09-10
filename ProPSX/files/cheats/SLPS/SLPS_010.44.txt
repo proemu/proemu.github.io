@@ -1,0 +1,10 @@
+#Infinite Hp P1
+8011A0C8 008C
+#Infinite Hp P2
+8011B420 008C
+#Inf.Special Attack P1
+3010FBC0 0004
+#Inf.Special Attack P2
+3010FBC1 0004
+#Secret Character
+80068C54 0FF7

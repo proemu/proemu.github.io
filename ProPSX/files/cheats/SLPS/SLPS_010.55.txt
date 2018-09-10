@@ -1,0 +1,14 @@
+#Always Have 100 Crystals
+80074964 0064
+#Always Have Saved 6 Gobbos
+8007496C 0006
+#Infinite Lives
+80074FDC 0003
+#Have All 5 Colored Crystals
+80074AC8 001F
+#Always Have Gold Key
+80074AC0 0001
+#Always Have Silver Key
+80074AC4 0001
+#Have All 8 Jigsaw Pieces
+80074E6C 0008

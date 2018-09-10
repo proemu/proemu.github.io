@@ -1,0 +1,24 @@
+#Infinite energy in battle Haru Glory
+80115A16 03E7
+#Infinite energy in battle Shuda
+8011595E 03E7
+#Infinite energy in battle Elie
+80115ACE 03E7
+#Infinite Gold
+800F1628 967F
+800F162A 0098
+#Recovey Hp After Battle
+D0062294 0124
+800622B0 0001
+#No Random Battles
+800F1A56 0000
+#Password Busting Judge
+D00B5E00 1C94
+800B5EC2 1000
+#No Decrease Gauge
+D00674B0 1023
+800674B2 0060
+#Equipment / Weapons 00-36
+300F165A 0036	
+#Nakajima warp destination All
+300F1A6F 00FF

@@ -1,0 +1,74 @@
+#Unendlich Geld	
+8006644C 5276
+8006644E 0004
+#Unendlich TP	
+800A32B8 0000
+800A 32BA 0000
+#Waffen- und Schildmodifizierer Habe Schwert	
+300661B4 001F
+#Waffen- und Schildmodifizierer Habe Bronze-Schwert	
+300661B4 0020
+#Waffen- und Schildmodifizierer	Habe breites Schwert	
+300661B4 0021
+#Waffen- und Schildmodifizierer	Habe Runen-Schwert	
+300661B4 0022
+#Waffen- und Schildmodifizierer	Habe glänzendes Schwert	
+300661B4 0023
+#Waffen- und Schildmodifizierer	Habe steigendes Schwert	
+300661B4 0024
+#Waffen- und Schildmodifizierer Habe Buckler-Schild	
+300661B6 0027
+#Waffen- und Schildmodifizierer	Habe kleinen Schild	
+300661B6 0028
+#Waffen- und Schildmodifizierer	Habe Titan-Schild	
+300661B6 0029
+#Waffen- und Schildmodifizierer	Habe Mithril-Schild	
+300661B6 002A
+#Waffen- und Schildmodifizierer	Habe unnachgiebigen Schild	
+300661B6 002B
+#Waffen- und Schildmodifizierer Habe Valar-Schild	
+300661B6 002C
+#Habe unendlich Wunderkugel	
+30066187 0009
+#Habe unendlich Kräuter	
+30066188 0009
+#Habe unendlich Kompass	
+30066189 0009
+#Habe unendlich Trank	
+3006618A 0009
+#Habe unendlich Elixier	
+3006618B 0009
+#Habe unendlich Heilmittel	
+3006618C 0009
+#Habe unendlich Lorien-Nüsse	
+3006618D 0009
+#Habe unendlich Eru-Trauben	
+3006618E 0009
+#Habe unendlich Runder Schlüssel	
+3006618F 0009
+#Habe unendlich Dreieckiger Schlüssel	
+30066190 0009
+#Habe unendlich  Karte für den Stierkampf	
+30066191 0009
+#Habe unendlich Spiele Darts bei Deadeye Zach!	
+30066192 0009
+#Habe unendlich Gugu-Vogel	
+30066193 0009
+#Habe unendlich Puzzleteil	
+30066198 0009
+#Habe unendlich Elfenring	
+3006619A 0009
+#Habe unendlich SP-Elfring	
+3006619B 0009
+#Habe unendlich Wächterring	
+3006619C 0009
+#Habe unendlich SP-Wächterring	
+3006619D 0009
+#Habe unendlich Amulett	
+3006619E 0009
+#Habe unendlich Element-Ring	
+300661A0 0009
+#Habe unendlich Element-Talisman	
+300661A1 0009
+#Habe unendlich Karmesinroter Umhang	
+300661A2 0009

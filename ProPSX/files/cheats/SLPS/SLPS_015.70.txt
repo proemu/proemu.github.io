@@ -1,0 +1,18 @@
+#Infinite Health P1
+801057A8 0190
+#Infinite Health P2
+80105830 0190
+#2P strength 0 
+80105830 0000
+#Hidden characters available	 
+300736DC 0003
+#Select all Hidden option possible	 
+80091344 FFFF
+#Does not decrease the number of times the card get	 
+800915E8 0063
+#Get all albums 	 
+50000902 0000 
+30091A9C 0063
+#All acquisition card 	
+50006402 0000 
+30091AB2 0063

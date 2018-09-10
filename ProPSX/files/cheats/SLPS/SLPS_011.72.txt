@@ -1,0 +1,8 @@
+#Infinite Lives Player 1
+8004DF68 0002
+#Infinite Lives Player 2
+8004DF6C 0002
+#Infinite Bombs
+8004DFB4 0303
+#Inf Credits
+8004DF80 0009

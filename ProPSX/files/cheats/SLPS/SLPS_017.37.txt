@@ -1,0 +1,22 @@
+#Hero Max Physical fitness
+80113E04 03E7
+80113E06 03E7
+#Hero Max Attack
+80113E08 03E7
+80113E0A 03E7
+#Hero Max Courage
+80113E0C 03E7
+80113E0E 03E7
+#Hero Max Velocity
+80113E10 03E7
+80113E12 03E7
+#Hero Max Hit rate 
+80113E14 03E7
+80113E16 03E7
+#Infinite durability of the ship in artillery duel
+D0058584 0034
+80058586 1400
+#Infinite damage
+8019C6BC 010E
+#Infinite damage second ship
+8019C6BC 0078

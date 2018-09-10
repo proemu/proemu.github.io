@@ -1,0 +1,7 @@
+#Infinite HP
+800B77B0 0064 
+#Infinite Bullets
+800CA764 03E7 
+#All Items possession 
+50002104 0000 
+800CBC4C 0001

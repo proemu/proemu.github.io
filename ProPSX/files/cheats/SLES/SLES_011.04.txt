@@ -1,0 +1,10 @@
+#P1 Infinite Energy
+8014582C 012C
+#P2 Infinite Energy
+80146CA4 012C
+#P1 No Energy
+8014582C 0000
+#P2 No Energy
+80146CA4 0000
+#Infinite Time
+80151910 0DFA

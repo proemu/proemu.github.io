@@ -1,0 +1,14 @@
+#Time is 0:00:00
+80030336 3C00
+#99 Points In Gp-Mode
+8008BEB0 0063
+#Enable All Characters & Tracks In Gp-Mode
+801E929C FFFF
+#Enable All Movies
+801E9298 FFFF
+#Enable All Music
+801E9294 FFFF
+801E9296 FFFF
+#Have All Crowns & Classes
+801E9290 FFFF
+801E9292 FFFF

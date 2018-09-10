@@ -1,0 +1,56 @@
+#Full Power P1
+800A9FAE 0018
+#Easiest Difficulty		
+800C7098 0000
+#Empty Overdrive Gauge (P1)		
+800A9FAE 0000
+#Empty Overdrive Gauge (P2)		
+800AA042 0000
+#Instant 99-Step Combo (P1)		
+E30A9F8E 0000
+300A9F8E 0063
+#Instant 99-Step Combo (P2)		
+E30AA022 0000
+300AA022 0063
+#Max Combo Bonus (P1)		
+300A9F8F 0063
+#Max Combo Bonus (P2)		
+300AA023 0063
+#Max Score (P1)		
+800A9FD0 E0FF
+800A9FD2 05F5
+#Max Score (P2)		
+800AA064 E0FF
+800AA066 05F5
+#Press L1 for Level 3 Gauge (P1)		
+E00CB32C 0004
+800A9FAE 0018
+#Press L1 for Level 3 Gauge (P2)		
+E00CB336 0004
+800AA042 0018
+#Press L2 for Level 1 Gauge (P1)		
+E00CB32C 0001
+800A9FAE 000D
+#Press L2 for Level 1 Gauge (P2)		
+E00CB336 0001
+800AA042 000D
+#Press R1 for Soul Bomb Attack (P1)		
+E00CB32C 0008
+300AA027 0001
+#Press R1 for Soul Bomb Attack (P2)		
+E00CB336 0008
+300A9F93 0001
+#Press R2 for Level 2 Gauge (P1)		
+E00CB32C 0002
+800A9FAE 0013
+#Press R2 for Level 2 Gauge (P2)		
+E00CB336 0002
+800AA042 0013
+#Slow Speed (P1)		
+300A9F8D 0000
+#Slow Speed (P2)		
+300AA021 0000
+#Unlock All Extras		
+50000702 0000
+80058A0C 8787
+80058A1A 0204

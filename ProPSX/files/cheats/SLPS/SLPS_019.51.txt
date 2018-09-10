@@ -1,0 +1,46 @@
+#All Crowns - Grand Prix
+801E9290 FFFF
+#All Class
+801E9292 FFFF
+#Unlock Sound Room Bgm
+801E9294 FFFF
+801E9296 FFFF
+#Unlock Movie
+801E9298 FFFF
+#Unlock Hidden Characters & Courses
+801E929C 037F
+80078166 0FFF
+#Cheat Starting Line Up (P1 press Select & Square)
+D0024EDA 2442
+80024ED8 0001
+#Furiwake Max Points (Press L2+R2)
+D00781F0 0003
+3008A721 0064
+#Fastest 
+3008A722 0063 
+#Accelerated Max 
+3008A723 0063 
+#Grip Max
+3008A724 0063 
+#Drift Max 
+3008A725 0063 
+#AGS Max
+3008A726 0063 
+#Story mode stage selection 1
+301E929F 0001
+#Story mode stage selection 2
+301E929F 0002
+#Story mode stage selection 3
+301E929F 0003
+#Story mode stage selection 4
+301E929F 0004
+#Story mode stage selection 5
+301E929F 0005
+#Story mode stage selection 6
+301E929F 0006
+#Story mode stage selection 7
+301E929F 0007
+#Story mode stage selection 8
+301E929F 0008
+#Story mode points 99 
+301E929E 0063

@@ -1,0 +1,6 @@
+#Have 99 fruits
+800C7958 0063
+#Have 80 fishes
+800C796F 0050
+#Infinite energy
+800CA2C9 0303

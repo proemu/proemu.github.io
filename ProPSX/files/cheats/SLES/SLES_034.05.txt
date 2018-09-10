@@ -1,0 +1,2 @@
+#Enable all cheats
+8006F150 FFFF

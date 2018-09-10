@@ -1,0 +1,9 @@
+#P1 Infinite Energy
+800E5738 0C1C
+800E573A 0C1C
+#P1 Cannot K.O
+800E5748 0000
+#P1 Infinite Punch Power
+800E573E 012F
+#Infinite TP Points At K1 Challenge
+800A80FE 0299

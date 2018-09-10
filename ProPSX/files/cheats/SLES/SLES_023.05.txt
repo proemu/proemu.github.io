@@ -1,0 +1,9 @@
+#P1 Infinite Health
+8007C2BC 0090
+#P1 1 Hit-Kill		
+D007C2BC 0090
+8007C2BC 0001
+#Unlock Hidden Characters & Gallery
+8007B8C4 FFFF
+8007B8C6 FFFF
+8007B8C8 FFFF

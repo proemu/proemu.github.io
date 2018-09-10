@@ -1,0 +1,30 @@
+#Inf. HP P1
+8003B6E8 008F
+#Inf. HP P2
+8003BAE8 008F
+#Max Power Gauge P1
+8003B6EC 008E
+#Max Power Gauge P2
+8003BAEC 008E
+#Max Score P1
+8003B6DC 9999
+8003B6DE 0999
+#Max Score P2
+8003BADC 9999
+8003BADE 0999
+#Play as Juggernaut P1
+3003BE58 000A
+#Play as Juggernaut P2
+3003BE5A 000A
+#Play as Magneto P1
+3003BE58 000B
+#Play as Magneto P2
+3003BE5A 000B
+#Play as Gouki P1
+3003BE58 000C
+#Play as Gouki P2
+3003BE5A 000C
+#Inf. Match Time
+8003BD60 FF99
+#Unlock All Extras
+3003D534 0008

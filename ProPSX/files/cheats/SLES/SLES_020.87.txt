@@ -1,0 +1,8 @@
+#Maximum Money
+80056530 270F
+#Unlimited Time:
+80096FE4 0265
+800820A2 8E42
+#Lap Time is Always 00:00:0:
+80096FDC 0000
+80082082 8E42

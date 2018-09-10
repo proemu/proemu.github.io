@@ -1,0 +1,10 @@
+#P1 Invincible	  
+801DA626 0050
+#P1 No Energy	  
+801DA626 0000
+#P1 Maximum Power	  
+801DA654 1388
+#P2 Invincible	  
+801DAFDA 0050
+#P2 No Energy	  
+801DAFDA 0000

@@ -1,0 +1,11 @@
+#Home Team Score 9 	
+800CD31E 0009
+#Home Team Score 0 	
+800CD31E 0000
+#Away Team Score 9 	
+800CD320 0009
+#Away Team Score 0 	
+800CD320 0000
+#Max Stats at Character Creation 	
+50000B04 0000
+8015C31C 0063

@@ -1,0 +1,13 @@
+#Player has 99900 points
+800F86A8 03E7
+#Enemy 1 has 0 points
+800F86B0 0000
+#Enemy 2 has 0 points
+800F86B4 0000
+#Enemy 3 has 0 points
+800F86AC 0000
+#Maximum money 
+8002D39C 423F 
+8002D39E 000F 
+#Experience maximum value 
+8002D398 03E7

@@ -1,0 +1,9 @@
+#Max HP P1 (Deactivate after sending it)	
+800B3E84 270F
+#P1 Press L1+L2 For Max Circle Attack Battle P1		
+D008D310 0005
+800B3EC4 270F
+#P1 Press L1+L2 For Max Circle Attack Overall P1		
+D008D310 0005
+800B3E86 270F
+

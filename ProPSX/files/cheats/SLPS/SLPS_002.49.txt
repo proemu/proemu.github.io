@@ -1,0 +1,5 @@
+#Infinite Energy Player 1
+8007F8FE 0078
+#Player 2 No Health
+8007F99A 0000
+

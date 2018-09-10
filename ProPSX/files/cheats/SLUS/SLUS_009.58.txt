@@ -1,0 +1,84 @@
+#Instant Level Up To Level 99 In 1 Fight (All Positions-After Battle)  	
+D002BF60 000F
+8002BF62 1000
+D002BFB0 001F
+8002BFB2 2400
+#Infinite Health (1st Position)  in Battle	
+80145BB6 03E7
+#Infinite Health (2nd Position)  in Battle  	
+80145C32 03E7
+#Infinite Health (3rd Position)  in Battle 	
+80145CAE 03E7
+#Infinite Health (4th Position)  in Battle  	
+80145D2A 03E7
+#Infinite Health (5th Position)  in Battle 	
+80145DA6 03E7
+#Infinite Health (6th Position)  in Battle  	
+80145E22 03E7
+#Infinite HP All Positions & 1-Hit Enemy Death in Battle	
+D0041610 0012
+80041614 0033
+D0041610 0012
+80041616 1500
+D0041610 0012
+80041620 0000
+D0041610 0012
+80041612 2402
+D0040DD0 0012
+80040DD4 0033
+D0040DD0 0012
+80040DD6 1500
+D0040DD0 0012
+80040DE0 0000
+D0040DD0 0012
+80040DE2 2402
+#Infinite Rune MP All Positions in Battle	
+D0073B68 1821
+80073B6E 2400
+#Activate McDohl Plotline Without Suikoden 1 Data		
+3006AF6D 0023
+#Always Catch Fish		
+80023FF6 1964
+80024242 19C8
+#Always Climb In Rope Game		
+80024AD8 0006
+#Always Roll A 6		
+80023F62 0006
+#Always Score Triple In Dice Game		
+80023F62 000A
+#Grow All Vegetable And Have All Livestock		
+8006A91C FFFF 
+8006A91E FFFF
+#Have All & Infinite Ingredient For Hai Yo To Cook		
+8016E8F0 0909 
+8016E8F2 0909 
+8016E8F4 0909 
+8016E8F6 0909 
+8016E8F8 0909
+#Have All Blue Print For Guardian Deity		
+8006AA3A FFFF
+#Have All Books In The Library		
+8006AA38 FFFF
+#Have All Recipe		
+8006AA24 FFFF 
+8006AA26 FFFF 
+8006AA28 FFFF 
+8006AA2A FFFF
+#Infinite Items All Slots		
+D0071660 14AF
+80071662 2400
+D0071728 0009
+8007172A 1000
+D00716B0 088A
+800716B2 2400
+#No Random Battles		
+D002566C 0000
+8002566E 0000
+#Put McDohl In 6th Position		
+D006A486 801F
+3006A46A 0052
+#Infinite Money 	
+8006A4F8 FFFF 		
+#Max Money 	
+8006A4F8 423F
+8006A4FA 000F

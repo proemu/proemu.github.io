@@ -1,0 +1,17 @@
+#Point Blank Castle Mode-Codes\P1 Infinite Lives
+800BF328 0009
+#Point Blank Castle Mode-Codes\P2 Infinite Lives
+800BF32A 0009
+#Theme Park Mode Codes\Infinite Lives
+800AAB88 0009
+#Theme Park Mode Codes\Haunted House - Infinite Time
+800B447C 012C
+#Theme Park Mode Codes\Abyss Tours - Max Targets Hits
+D00AAD52 0000
+800AAD52 0063
+#Theme Park Mode Codes\Cosmic Drive - Max Targets Hit
+D00B5088 0000
+800B5088 0063
+#Theme Park Mode Codes\Superbullet Train - Max Targets Hit
+D00B4EFC 0000
+800B4EFC 0FFF

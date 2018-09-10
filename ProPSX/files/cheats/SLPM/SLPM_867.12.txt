@@ -1,0 +1,6 @@
+#Max Points This code will also unlocked all courses
+800EC134 270F
+#Freeze Time
+800F0390 0000
+#Lots Of Cash
+800EC0E0 CA00

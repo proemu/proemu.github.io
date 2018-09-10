@@ -1,0 +1,22 @@
+#Always 1st P1 In Circuit 1
+8017A754 0000
+#Always 1st P1 In Circuit 2
+80155DDC 0000
+#Always 1st P1 In Circuit 3
+8017F01C 0000
+#Only one lap to race	
+30026640 0003
+#Only one lap to race Alt
+D0026640 0001
+30026640 0003
+#Hot dogs don't decrease 	
+3004A7F8 0000
+#Hot dogs don't decrease Alt 	
+D004A7FA A0A2
+3004A7F8 0000
+#Championship points Max	
+80084BE0 0064
+80084BE2 0000
+80084BE4 0000
+#Everythings unlocked	
+80084BF2 FFFF

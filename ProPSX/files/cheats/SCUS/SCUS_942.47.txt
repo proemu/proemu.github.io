@@ -1,0 +1,8 @@
+#Extra Tracks And Cars
+80059BFE 0003
+#Always Place 1st
+800721C0 0001
+#One Lap To Race
+800606BE 0104
+
+

@@ -1,0 +1,7 @@
+#Infinite Lives
+30141451 0005
+#Infinite Time
+801413CA 0B8F
+#Max Score 
+8014893C 270F
+

@@ -1,0 +1,32 @@
+#Extreme Ghostbuster Inf Lives Pl2
+80067734 0063
+#Extreme Ghostbuster Inf Lives  Pl1
+800676A0 0063
+#Extreme Ghostbuster Inf Time
+8006788E 00B4
+#Extreme Ghostbuster Inf Hp Pl2
+80067724 0057
+#Extreme Ghostbuster Inf Hp Pl1
+80067690 0057
+#Have lots of points player 1
+800676A8 FFFF
+#Adventure Game - Infinite Time		
+8006788E 00B4
+#Infinite Lives P1	
+800676A0 0063
+#Infinite Lives P2	
+80067734 0063
+#No Reload P1		
+80067698 0064
+#No Reload P2	
+8006772C 0064
+#Perfect Results P1	
+800676B0 0063
+800676B4 0000
+800676B8 0063
+800676BC 0000
+#Perfect Results P2	
+80067744 0063
+80067748 0000
+8006774C 0063
+80067750 0000

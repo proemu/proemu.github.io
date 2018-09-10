@@ -1,0 +1,15 @@
+#Infinite Energy
+800DE67C 03FF
+#Start On Last Lap
+D00D5AEC 0000
+800D5AEC 0002
+#Unlock All Modes
+800E567C 00FF
+#Unlock Speed Wrench
+300E5668 0001
+#Unlock Tantrum
+300E5669 0001
+#Unlock Nitro Dozer
+300E566A 0001
+#Unlock Super Rebound
+300E566F 0001

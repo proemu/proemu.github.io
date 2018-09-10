@@ -1,0 +1,9 @@
+#In negotiations player always 240
+800CC992 00F0
+#In negotiations player bar always full
+800B7F2C 00FA
+800B7F3C 00FA
+#Opponent in fights energy =0
+800CC54D 0000
+#Player in fights energy =0
+800CC125 00C8

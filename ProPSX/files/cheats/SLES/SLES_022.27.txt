@@ -1,0 +1,13 @@
+#Anzahl Tore Linke Mannschaft 9
+80047E62 0009
+#Anzahl Tore Linke Mannschaft 0
+80047E62 0000
+#Anzahl Tore Rechte Mannschaft 9
+80047E06 0009
+#Anzahl Tore Rechte Mannschaft 0
+80047E06 0000
+#Riesenspieler (Lustig!)
+80047E00 0005
+#Unendlich Creation-Punkte
+8009535A 3C00
+

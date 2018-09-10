@@ -1,0 +1,34 @@
+#Infinite Energy Green Hair Character
+80141BC0 03E7
+#Infinite Energy Main Character
+80141B80 03E7
+#Infinite Energy Blue Hair Character
+80141BA0 03E7
+#Enemy energy is always 0
+80141BE2 0000
+#Picture scroll All 	
+300C1670 00FF
+300C1671 00FF
+300C1672 00FF
+300C1673 00FF
+300C1674 00FF
+300C1675 00FF
+300C1676 00FF
+300C1677 00FF
+300C1678 00FF
+300C1679 00FF
+300C167A 00FF	
+#Beans Dictionary All	
+300C16FF 00FF
+#Ghost level Max	
+300C1538 0063
+#State ghost appearance 	
+300C1539 0040
+#State ghost sealed 	
+300C1539 0080	
+#Ghost gauge Max	
+300C153A 000F
+#PIECE OF MY HEART	
+300C15D3 007F
+#heart to believe Max	
+800C1488 03E8

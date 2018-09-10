@@ -1,0 +1,15 @@
+#Infinite Lives On Quiz Game
+800182A6 0003
+#Infinite 10 Right Answers On Quiz Game
+800182A7 000A
+#Infinite Time 
+800182A0 0385 
+#I seen a picture of all crush cult pair quiz
+800E2FF4 0101
+800E2FF6 0101
+800E2FF8 0101
+800E2FFA 0101
+800E2FFC 0101
+800E2FFE 0101
+#Pictures of CG poem increases
+800E3004 0001

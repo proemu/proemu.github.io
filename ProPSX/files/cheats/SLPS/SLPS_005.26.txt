@@ -1,0 +1,49 @@
+#Inf Soul
+800F9D40 270F
+801123E0 270F
+8013ECC8 270F
+#Inf Hp
+800F9BC4 03E7
+801123F6 03E7
+#250 Ghost
+8011241E 00FA
+#Have 250 Intelligence
+80112406 00FA
+#Have 5 Desire
+8013ED02 0005
+#Have 300 Sense
+80112412 012C
+#Have 300 Power
+801123FE 012C
+#Have 300 App
+8011240A 012C
+#Have 300 Appearance	
+8011240A 012C	
+#Max Flame 	
+80103B36 03E7
+#Max Refrigeration	
+80103B3A 03E7
+#Max Electric shock	
+80103B3E 03E7
+#Max Recovery	
+80103B42 03E7
+#Max Information	
+80103B46 03E7
+#Bonus mode appearance	
+300F9B88 0002	
+#Bonus mode All movies	
+300FA058 00FF
+#Bonus mode All events	
+30104FFF 00FF
+#No random battles
+300F9D39 0000
+#Favorability of HijiriRyo Max	
+300FA0E0 0064
+#Favorability of Erika Max	
+300FA0E8 0064
+#Favorability of Anna Max	
+300FA0EC 0064
+#Favorability of Lylica Max	
+300FA0F0 0064
+#Favorability of Karen Max
+300FA0F8 0064

@@ -1,0 +1,29 @@
+#Max Yan
+8008B66E 0098
+#Kokonmeister-Codes\Max Leer
+8008B8F2 0001
+#Kokonmeister-Codes\Habe Alles Wertvolle
+50000302 0000
+8008B81C FFFF
+#Kokonmeister-Codes\Max Exp
+8008BE16 FFFF
+#Kokonmeister-Codes\Max Hp
+8008BE18 03E7
+8008BE1A 03E7
+#Kokonmeister-Codes\Max Stats
+50000501 0000
+3008BE3C 00FF
+#Kokonmeister-Codes\Max Fangen Stufe
+3008BE54 00FF
+#Kokonmeister-Codes\Volle Liste/Viel Gefangen
+50000E02 0000
+8008BE5C FFFF
+#Infinite money		
+8008B524 FFFF
+#Infinite Usage All Items		
+800AD542 2400
+#SuddenDeath enemies		
+800B14E4 0000
+800B156C 0000
+#50 empties
+8008B7A8 0032

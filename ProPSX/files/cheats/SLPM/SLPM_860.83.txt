@@ -1,0 +1,15 @@
+#Infinite Screws 1
+80078618 0063
+#Infinite Screws 2
+8007861C 0063
+#Infinite Hp
+8007860C 000A
+#Max Point
+80078608 C9FF
+8007860A 3B9A
+#Temperature rise 0
+80078610 0000
+#100 coins
+8007861C 0064
+#Game speed 
+800403C0 0001

@@ -1,0 +1,166 @@
+#Infinite Health
+800B757E 0600
+800B7580 0600
+#Never Get A Cold
+800B7582 0000
+#Infinite Air
+800ACAAC 03E7
+#Radar Not Jammed When Spotted
+800ACA78 0000
+#Never Reload
+800ACA64 0019
+#Never Have Time Bomb In Pocket
+800B5E7E 0000
+#Ghost Mode
+800ACA88 0000
+800ACA8A 0000
+#Have Cigs
+800B5E5A 0001
+#Have Scope
+800B5E5C 0001
+#Have C. Box A
+800B5E5E 0001
+#Have C. Box B
+800B5E60 0001
+#Have C. Box c
+800B5E62 0001
+#Have Night Vision Goggles
+800B5E64 0001
+#Have Thermal Goggles
+800B5E66 0001
+#Have Gas Mask
+800B5E68 0001
+#Have Body Armor
+800B5E6A 0001
+#Have Ketchup
+800B5E6C 0001
+#Have Stealth
+800B5E6E 0001
+#Have Bandana
+800B5E70 0001
+#Have Camera
+800B5E72 0001
+#Have 255 Rations
+800B5E74 03E7
+800B5E8A 03E7
+#Have 255 Medicine
+800B5E76 03E7
+800B5E8C 03E7
+#Have 255 Diazepam
+800B5E78 03E7
+800B5E8E 03E7
+#Have Pal-Key
+800B5E7A 0001
+#Have Level 100 Key Card
+800B5E7C 0064
+#Have Mine Detector
+800B5E80 0001
+#Have Mo-Disc
+800B5E82 0001
+#Have Rope
+800B5E84 0001
+#Have Handker
+800B5E86 0001
+#Have Suppressor Active
+800B5E88 0000
+#Have All Items (Replaces Above Item-Codes)Press L2
+D00AC9CC 0001
+50001202 0000
+800B5E5A 0001
+D00AC9CC 0001
+50000502 0000
+800B5E80 0001
+#Have Socom Pistol
+800B5E32 03E7
+800B5E46 03E7
+#Have Famas
+800B5E34 03E7
+800B5E48 03E7
+#Have Grenades
+800B5E36 03E7
+800B5E4A 03E7
+#Have Nikita
+800B5E38 03E7
+800B5E4C 03E7
+#Have Stinger
+800B5E3A 03E7
+800B5E4E 03E7
+#Have Claymore Mines
+800B5E3C 03E7
+800B5E50 03E7
+#Have C4
+800B5E3E 03E7
+800B5E52 03E7
+#Have Stun-Grenades
+800B5E40 03E7
+800B5E54 03E7
+#Have Chaff Grenades
+800B5E42 03E7
+800B5E56 03E7
+#Have Sniper Rifle
+800B5E44 03E7
+800B5E58 03E7
+#Have Alle Weapons & Ammo Press R2 Use this code or the specified weapon/ammo codes.
+D00AC9CC 0002
+50001402 0000
+800B5E32 03E7
+#Special Mode Codes\All Missions Open
+800E58FC FFFF
+#Special Mode Codes\Vs. 12 Battle All Levels Open & Complete
+800E58FE FFFF
+800E5900 FFFF
+#Special Mode Codes\Ninja All Levels Open & Complete
+800E589C FFFF
+800E589E FFFF
+#Special Mode Codes\Ng Selection All Levels Open & Complete
+800E587E FFFF
+800E5880 FFFF
+#Special Mode Codes\Variety All Levels Open & Complete
+800E591A FFFF
+800E591C FFFF
+#Special Mode Codes\Puzzle All Levels Open & Complete
+800E593A FFFF
+800E593C FFFF
+#Special Mode Codes\Mystery All Levels Open & Complete
+800E594E FFFF
+800E5950 FFFF
+#Special Mode Codes\Vr Mission Complete
+800E5930 1000
+#1 Min. Battle Codes\Vs. Target All Levels Open & Complete
+800E5884 FFFF
+800E5886 FFFF
+#1 Min. Battle Codes\Vs. Enemy All Levels Open & Complete
+800E586C FFFF
+800E586E FFFF
+#Sneak Mode - No Weapons\Practice All Levels Opened
+800E5830 FFFE
+#Sneak Mode - No Weapons\Time Attack All Levels Opened
+800E5848 FFFE
+#Sneak Mode - Socom\Practice All Levels Opened
+800E5800 FFFE
+#Sneak Mode - Socom\Time Attack All Levels Opened
+800E5818 FFFE
+#Weapon Mode - Time Attack\All Weapons, All Levels Opened
+800E581A 8FE0
+800E581C 3E0F
+800E581E F0F8
+800E5820 0F8F
+800E5822 F83E
+#Weapon Mode - Practice\All Weapons, All Levels Opened
+800E5802 8FE0
+800E5804 3E0F
+800E5806 F0F8
+800E5808 0F8F
+800E580A F83E
+#Advanced Mode - Time Attack\All Weapons, All Levels Opened
+800E584A 8FE0
+800E584C 3E0F
+800E584E F0F8
+800E5850 0F8F
+800E5852 F83E
+#Advanced Mode - Practice\All Weapons, All Levels Opened
+800E5832 8FE0
+800E5834 3E0F
+800E5836 F0F8
+800E5838 0F8F
+800E583A F83E

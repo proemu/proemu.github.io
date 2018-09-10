@@ -1,0 +1,16 @@
+#Infinite Hp
+800F5EF6 4000
+#Stop Grand Prix Timer
+80107398 0C00
+#Always Place First
+800F5EBA 0001
+#Have All Gold Training Medals & Unlock Cat Hopping Mode		
+800F5B66 FF01
+#Race As Aiko		
+800A1E92 0005
+#Race As Jack		
+800A1E92 0007
+#Race As Ryo		
+800A1E92 0006
+#Race As Yuki		
+800A1E92 0004

@@ -1,0 +1,4 @@
+#Always Have Pointer
+D0053208 0002
+80053208 0082
+

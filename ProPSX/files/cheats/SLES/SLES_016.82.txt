@@ -1,0 +1,58 @@
+#Unlimited air		
+80098E4E 0708
+#Infinite Savegame crystals
+800971E4 0063
+#Infinite Energy\India - Jungle	
+801D2F8E 03E8
+#Infinite Energy\India - Temple Ruins
+801DB40A 03E8
+#Infinite Energy\India - The River Ganges
+801D3C1E 03E8
+#Infinite Energy\India - Caves Of Kaliya
+8017B6E2 03E8
+#Infinite Energy\South Pacific Islands - Coastal Village
+801D6DD2 03E8
+#Infinite Energy\South Pacific Islands - Crash Site
+801DC702 03E8
+#Infinite Energy\South Pacific Islands - Madubu Gorge
+801DAA06 03E8
+#Infinite Energy\South Pacific Islands - Temple Of Puna
+8018E086 03E8
+#Infinite Energy\London - Thames Wharf
+801E1F7A 03E8
+#Infinite Energy\London - Aldwych
+801D6946 03E8
+#Infinite Energy\London - Luds Gate
+801E260A 03E8
+#Infinite Energy\London - City
+801926FE 03E8
+#Infinite Energy\Nevada - Nevada Desert
+801D653E 03E8
+#Infinite Energy\Nevada - High Security Compound
+801DF8CA 03E8
+#Infinite Energy\Nevada - Area 51
+801DF5F6 03E8
+#Infinite Energy\Antarctica - Antarctica
+801D978E 03E8
+#Infinite Body Heat In Water Antarctica
+8009AF78 0258
+#Infinite Energy\Antarctica - Rx-Tech Mines
+801DCAD6 03E8
+#Infinite Body Heat In Water Rx-Tech Mines	
+8009AF78 0258
+#Infinite Energy\Antarctica - Lost City Of Tinos
+801D8966 03E8
+#Infinite Energy\Antarctica - Meteorite Cavern
+801A5B0E 03E8
+#One Hit Knockdown Boss	Meteorite Cavern	
+801A5C1E 0000
+#Infinite Energy All Hallows (Secret Level)
+80196DF6 03E8
+#Have All Special Items	
+800974C0 000C
+#Infinite Flares		
+80097438 7FFF
+
+
+
+

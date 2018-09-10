@@ -1,0 +1,12 @@
+#invincible. 
+8007C460 0001 
+#Hostage becomes invincible, I will not kill. 
+8007C478 0001 
+#No Locked Doors 
+8007C488 0001 
+#Stage mission all 14 types 
+8007C464 0001 
+#All Items 
+8007C45C 0001 
+#All map 
+8007C484 0001

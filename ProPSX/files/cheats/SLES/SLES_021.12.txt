@@ -1,0 +1,29 @@
+#1st character Infinite HP 	
+801F6990 03E7 		
+#1st character Infinite LP 	
+301F6998 00FF
+#2nd character Infinite HP 	
+801F6B80 03E7
+#3rd character Infinite HP 	
+801F6D70 03E7
+#4th character Infinite HP 	
+801F6F60 03E7
+#A lot of money 	
+8004B322 2A00
+#SuddenDeath enemies 	
+801F7150 0000
+801F7340 0000
+801F7530 0000
+801F7720 0000
+#Enable the whole story 	
+50002202 0000
+800101EC 0202
+#No battles		
+D0018856 FFFD
+80018000 0030
+D0018856 FFFE
+80018000 0000
+D0018856 FFFB
+80053C56 1000
+D0018856 FFFD
+80053C56 1040

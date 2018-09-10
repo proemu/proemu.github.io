@@ -1,0 +1,26 @@
+#Infinite air
+801F3819 0249
+#Infinite air 	
+D00CD260 0080
+800CD260 0000
+D00CD260 0080
+800CD262 0000
+D00CD210 FFFF
+800CD210 0001 		
+#Infinite lives 	
+D00CCAEC D870
+800CCAEC 0000
+D00CCAEC D870
+800CCAEE 0000 	
+#Invincible 	
+D01F3998 0001
+301F3998 0000 		
+#Time 00:00:00 	
+D119B818 0000
+8019B818 0000
+#Time Attack Mode Timer stopped 	
+000D421C 0000 		
+#Time Attack Mode All levels unlocked 	
+8019B6B8 03FF 		
+#Time Attack Mode All levels complete 	
+8019B730 03FF

@@ -1,0 +1,9 @@
+#Infinite Lives
+80097B2C 0064
+#Invincible
+80097B1C 0003
+#Infinite Gold Flies
+80097AF8 0063
+#Infinite Energy
+80097B1C 0003
+

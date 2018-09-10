@@ -1,0 +1,19 @@
+#Infinite Money
+80195F18 FFFF
+80195F1A 00FF
+#1 shop	Popularity Max	
+30195D98 0064
+#1 shop Cleaning Max
+30196850 0064
+#1 shop Security Max
+30196854 0064
+#1 shop Correspondence Max
+30196858 0064
+#Second shop Popularity Max
+3019E1E0 0064
+#Second shop Cleaning Max
+3019EC98 0064
+#Second shop Security Max
+3019EC9C 0064
+#Second shop Correspondence Max
+3019ECA0 0064

@@ -1,0 +1,31 @@
+#Infinite Energy P1 Level 1
+800A53FE 0063
+#Infinite Energy P1 Level 2
+800A425E 0063
+#Infinite Energy P1 Level 3
+800A954E 0063
+#Energy Enemy is 0
+800A31EE 0001
+#Unlock All Extra Modes
+30030F4F 0001
+#Infinite Health (Both Players)
+80060F4A 2400
+#Infinite Timer
+8007714C 003C
+#Infinite Timer (Alternative)
+80045B7A 2400
+#Start On Final Stage
+80030EC6 0008
+#Unlock All Characters 
+50000601 0000
+30030EDD 0001
+#Unlock All Levels 
+50000401 0000
+30030F09 0001
+#P1 Only Needs 1 Win 	
+E0030EB7 0000
+30030EB7 0001
+#P1 Quick Win		
+80060F3C 0003
+80060F3E 1480
+80060F4A 2400

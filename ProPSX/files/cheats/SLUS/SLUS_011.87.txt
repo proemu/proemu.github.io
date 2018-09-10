@@ -1,0 +1,30 @@
+#Infinite Health
+D00C3E84 0124
+800C3E86 2400
+#Infinite Ammo
+D0039AC4 0024
+80039AC6 2400
+#Infinite Lives
+D0039B98 0014
+80039B9A 2400
+#Have All Weapons
+50000804 0000
+3009E97F 0081
+#Infinite Lives (Alternate)
+8009E968 0009
+#Have Amulett	
+3009E997 0081
+#Have Double Pistols	
+3009E987 0081
+#Have Dynamite	
+3009E993 0081
+#Have Golden Sword	
+3009E99B 0081
+#Have Machete	
+3009E983 0081
+#Have Machine Gun	
+3009E98F 0081
+#Have Shotgun	
+3009E98B 0081
+#Have Torch	
+3009E97F 0081

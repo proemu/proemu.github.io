@@ -1,0 +1,43 @@
+#Infinite Lifes
+801E4D50 0060
+#Infinite Health
+801F6200 0002
+#Mega Glove-Power
+800AE9C8 0D0D
+#1-Hit Death Bosses/Enemies		
+801491BC 0001
+801491BE 2402
+8019AB68 0000
+8019AB6A 2403
+801763A0 0000
+801763A2 2402
+8017DC88 0000
+8017DC8A 2402
+8014D500 0000 
+8014D502 2402
+801927E8 0000
+801927EA 2402
+#All Levels Unlocked/Electoons Freed
+301C3365 0006
+50001014 0000
+801C3378 0601
+50000714 0000
+301C34B8 0001
+#Invincible		
+301F61E2 004D
+D01F7EDA FFFE
+301F61E2 00FF
+#Pause For Max Health & Lives		
+8013519A 2400
+#Skip Level (Triangle+Circle)		
+D01F7EDA CFFF
+301F7A48 0001
+#Power Codes Press Select+Circle For All Powers (Reverse Mode/O is Run)	
+D01F7EDA DFFE
+801F43D0 028F
+#Power Codes Press Select+Left For All Powers (Super Helicopter/O is Run)		
+D01F7EDA FF7E
+801F43D0 018F
+#Power Codes Press Select+Right For All Powers (Helicopter/O is Magic Seed)		
+D01F7EDA FFDE
+801F43D0 01C7

@@ -1,0 +1,6 @@
+#Have 2 Out Of 3 Puzzles Completed In Story Mode
+800E6BE0 0002
+#Enable Debug Menu		
+30086AA8 0000
+D0086FF8 0100
+30086FBC 0000

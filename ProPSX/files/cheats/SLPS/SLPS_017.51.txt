@@ -1,0 +1,36 @@
+#Infinite money
+8010D7E8 869F
+8010D7EA 0001
+#Infinite HP in battle Elie (.activate the code only during battles)
+801B2A74 03E7
+801B2A76 03E7
+#Infinite MP in battle Elie (.activate the code only during battles)
+801B2A78 03E7
+801B2A7A 03E7
+#Fundage
+8010F5E0 869F
+8010F5E2 0001
+#Recipes And Fill All 99 Items
+D004BB2E 1440
+8004BB2C 0001
+#Looking At The Completed Book Items Items
+D004BB2E 1440
+8004BB2C 0001
+#Workshop Will Clean Up
+800E3F5C 0000
+#Max Popular Status Other Than Companionship
+800CC52E 0000
+D00335FE 1040
+800335FC 0001
+#Elie Popularity Overnight 100
+D003340E 1040
+8002240C 0001
+#Bonus appearance	
+801FFB64 0000 
+801FFB66 0000
+#Center theater appearance	
+301FF8EF 0001
+#Character set appearance	
+301FFFFF 0001
+#Word message appearance	
+301FF9FF 0001

@@ -1,0 +1,17 @@
+#1P Team 1st Member Infinite Health
+80069CD0 0006
+#1P Team 2nd Member Infinite Health
+80069DA8 0006
+#1P Team 3rd Member Infinite Health
+80069E80 0006
+#1P Team 4th Member Infinite Health
+80069F58 0006
+#Enemy wiped out Press L2 button
+D008BCB0 0001
+8006A1F6 FFFF
+D008BCB0 0001
+8006A2CE FFFF
+D008BCB0 0001
+8006A3A6 FFFF
+D008BCB0 0001
+8006A47E FFFF

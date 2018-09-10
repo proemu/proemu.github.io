@@ -1,0 +1,7 @@
+#Infinite money
+800F3CAA 03E7
+800F3CAC 270F
+#Time always 0
+8009CBC8 0000
+#Super Speed	
+8009CB6A 0001

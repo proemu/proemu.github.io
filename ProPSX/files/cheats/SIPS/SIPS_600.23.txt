@@ -1,0 +1,9 @@
+#Infinite time in arcade mode 
+D0038E2E 3C01 
+80038E32 8C22 
+#MAX speed on the button + X button when pressed Arcade mode 
+D00BD140 6000 
+800C71E8 FFFF 
+#MAX speed on the button + X button when pressed Time Attack mode 
+D00BD140 6000 
+800C1A4C FFFF 

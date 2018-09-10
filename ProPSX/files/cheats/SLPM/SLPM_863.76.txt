@@ -1,0 +1,18 @@
+#Money does not decrease even doing construction, agriculture, commercial 
+8002C5B4 0060 
+#Infinite  Hyoro 
+8002C6F2 0060 
+#It does not reduce supplies of all, even doing the army, transportation, diplomatic and between persons and trafficking 
+8001B21E 0040 
+#During the war Does not decrease morale 
+801BCD8E 0060 
+#During the war Does not decrease soldier 
+801BB7E6 0060 
+#During the war Deadly blow 
+8001BB7ED 0000 
+#All characters common Not reduce combat 
+80084FBE 0060 
+#All characters common Does not decrease political 
+80084E82 0060 
+#All characters common It does not decrease Chibo 
+800850FA 0060

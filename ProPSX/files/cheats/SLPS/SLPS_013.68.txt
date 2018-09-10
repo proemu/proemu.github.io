@@ -1,0 +1,40 @@
+#Infinite hp character 1
+800BF924 03E7
+800BF926 03E7
+#Infinite MP character 1
+801015B4 03E7
+801015B6 03E7
+#Infinite hp character 2
+800BF990 03E7
+800BF992 03E7
+#Infinite hp character 3
+800BF9FC 03E7
+800BF9FE 03E7
+#Infinite energy robot 
+800BEBA4 03E7
+800BEBA6 03E7
+#HP Robot Battle / enemy 0	
+800BEF04 0000
+#Gold-999999
+8009C8B4 423F
+8009C8B6 000F
+#The Genie Battle added IQ and Battle in configuration	
+3009C681 0001
+#It is not the battle even hit the enemy	
+3009C8B2 0001
+#Story number 2	
+3009C90C 0002
+#Story number 3
+3009C90C 0003
+#Story number 4
+3009C90C 0004
+#Story number 5
+3009C90C 0005
+#Story number 6
+3009C90C 0006
+#Story number 7
+3009C90C 0007
+#Story number 8	
+3009C90C 0008
+#Story number 9	
+3009C90C 0009

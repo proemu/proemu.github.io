@@ -1,0 +1,11 @@
+#Home Team Score 9 	
+800CCFD6 0009	
+#Home Team Score 0 	
+800CCFD6 0000
+#Away Team Score 9 	
+800CCFD8 0009
+#Away Team Score 0 	
+800CCFD8 0000
+#Infinite Creation Points 	
+80159578 008E
+8015BFB0 01C2

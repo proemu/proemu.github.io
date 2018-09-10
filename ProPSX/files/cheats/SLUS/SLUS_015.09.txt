@@ -1,0 +1,13 @@
+#Infinite Time		
+800DAC58 0000
+#Story Mode/Opponent Select	
+D0098518 0001
+800C0014 0003
+#Enable Debug Menu		
+30098156 0000
+D0098518 0100
+300984F8 0000
+#Infinite Items	
+800E72AC 7464
+#Infinite Power	
+800E7270 6B10

@@ -1,0 +1,15 @@
+#Have 9999999 gold
+800D8014 967F
+800D8016 0098
+#Infinite HP in battle main character
+800EC064 03E7
+800EC068 03E7
+#Infinite SP in battle main character
+800EC075 03E7
+800EC079 03E7
+#Infinite HP in battle 2nd character - Mary
+800EC810 03E7
+800EC814 03E7
+#Infinite HP in battle 3rd character - Los
+800ECFBC 03E7
+800ECFC0 03E7

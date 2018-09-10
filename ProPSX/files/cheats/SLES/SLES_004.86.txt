@@ -1,0 +1,50 @@
+#Unendlich Luft
+801DE24E 0708
+#Level Beenden Press L2+X
+D008A19E BEFF
+300877C8 0001
+#Unendlich Energie\Die Kavernen
+D00877C4 0001
+80176A82 03E8
+#Unendlich Energie\Die Stadt Vilcabamba
+D00877C4 0002
+80181652 03E8
+#Unendlich Energie\Das Verlorene Tal
+D00877C4 0003
+80194AF6 03E8
+#Unendlich Energie\Das Grab Von Qualopec
+D00877C4 0004
+8017692A 03E8
+#Unendlich Energie\St. Francis' Folly
+D00877C4 0005
+80188656 03E8
+#Unendlich Energie\Das Kolosseum
+D00877C4 0006
+8018EE86 03E8
+#Unendlich Energie\Der Palast Des Midas
+D00877C4 0007
+8019D676 03E8
+#Unendlich Energie\Die Zisterne
+D00877C4 0008
+801ABAF2 03E8
+#Unendlich Energie\Das Grab Des Tihocan
+D00877C4 0009
+801A05CE 03E8
+#Unendlich Energie\Die Stadt Khamoon
+D00877C4 000A
+801821BA 03E8
+#Unendlich Energie\Der Obelisk Von Khamoon
+D00877C4 000B
+80189872 03E8
+#Unendlich Energie\Das Heiligtum Des Scion
+D00877C4 000C
+8018F32A 03E8
+#Unendlich Energie\Natlas Katakomben
+D00877C4 000D
+8019F0CA 03E8
+#Unendlich Energie\Atlantis
+D00877C4 000E
+8019C6D6 03E8
+#Unendlich Energie\Die Grosse Pyramide
+D00877C4 000F
+801A331A 03E8

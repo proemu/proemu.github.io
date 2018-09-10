@@ -1,0 +1,51 @@
+#Circus Charlie Codes\P1 Infinite Lives
+800EDCE8 0003
+#Circus Charlie Codes\Infinite Timer
+800EDD64 0705
+#Gyruss Codes\P1 Infinite Lives
+800F50E8 2403
+#Gyruss Codes\P2 Infinite Lives
+800F5108 2403
+#Pooyan Codes\P1 Infinite Lives
+800F43F0 0503
+#Pooyan Codes\Kill 1 Guy A Level (Both Players)
+800F43E8 0100
+#Road Fighter Codes\P1 Cars Passed Modifier
+800EEB9A 00FF
+#Road Fighter Codes\Infinite Fuel (Both Players)
+800EEB96 FFFF
+#Roc 'n Rope Codes\P1 Infinite Lives
+800F0BA8 0002
+#Roc 'n Rope Codes\Invincible P1
+800F0CA8 0002
+#Scramble Codes\P1 Infinite Lives
+800EFBF0 0002
+#Scramble Codes\Infinite Fuel
+800EFBEC F500
+#Shao Lin's Road Codes\P1 Infinite Lives
+800EE560 0003
+#Shao Lin's Road Codes\Infinite Damage (Both Players)
+800EEBE8 0000
+#Shao Lin's Road Codes\Kill 1 Guy A Level (Both Players)
+800EE56E 0194
+#Super Cobra Codes\P1 Infinite Fuel
+800F3BEC EC00
+#Super Cobra Codes\P1 Infinite Lives
+800F3BF0 0003
+#Time Pilot Codes\P1 Infinite Lives
+800F67E8 0103
+#Time Pilot Codes\P2 Infinite Lives
+800F67F8 0103
+#Time Pilot Codes\Kill Main Guy Only To Win
+800F67EA 0000
+#Time Pilot Codes\P1 & P2 Invincibility
+300F62E8 00FF
+#Yie Ar Kung-Fu Codes\P1 Infinite Lives
+800F0F18 020B
+#Yie Ar Kung-Fu Codes\P2 Infinite Lives
+800F0F48 020B
+#Yie Ar Kung-Fu Codes\Infinite Health (Both Players)
+D30F0B72 0000
+800F0B74 0008
+#Yie Ar Kung-Fu Codes\Opponents Health At No Hits (Both Players)
+800F0C7A 0000

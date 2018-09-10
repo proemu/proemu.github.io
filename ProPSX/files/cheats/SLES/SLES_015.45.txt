@@ -1,0 +1,11 @@
+#Infinite Repair-Time (Trophy) Press Select & Start
+D00AD462 FFF6
+800D1850 0000
+#10 Race-Points Press L1 & L2 & R1 & R2
+D00AD462 F0FF
+3009E31B 000A
+#Maximum Score
+D009D90C 0000
+8009D90C 03E7
+E009D913 0000
+3009D913 00FF

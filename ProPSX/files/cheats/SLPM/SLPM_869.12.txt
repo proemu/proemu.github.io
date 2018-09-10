@@ -1,0 +1,53 @@
+#Raycrisis Encroachment at 0%	
+800D97FC 0000
+#RaycrisisInf. Lives		
+300DDFE7 0009
+#Raycrisis Inf. Special Attacks		
+300DC186 0010
+#Raycrisis Invincible		
+300DDFE5 0000
+#Raycrisis Max Laser Power		
+300DDFF0 0018
+#Raycrisis Max Score		
+800DC17C C9FF
+800DC17E 3B9A
+#Raycrisis Max Weapon Power		
+300DDFEC 0006
+#Raycrisis Unlock All Modes		
+300B4B6A 0020
+300B4B71 0020
+300B4B72 0004
+#Raystorm Inf. Continues		
+300A5000 0009
+#Raystorm Inf. Lives (P1)		
+800B1DB4 0005
+#Raystorm Inf. Lives (P2)		
+800B4218 0005
+#Raystorm Inf. Special Attacks (P1)		
+800B1DE2 1000
+#Raystorm Inf. Special Attacks (P2)		
+800B4246 1000
+#Raystorm Invincible (P1)		
+800B4170 00FF
+#Raystorm Invincible (P2)		
+800B65D4 00FF
+#Raystorm Max Laser Power (P1)		
+800B1DC0 0008
+800B1DCA 0003
+800B1DE0 0000
+#Raystorm Max Laser Power (P2)		
+800B4224 0008
+800B422E 0003
+800B4244 0000
+#Raystorm Max Score (P1)		
+800AB7B4 E0FF
+800AB7B6 05F5
+#Raystorm Max Score (P2)		
+800AB7BC E0FF
+800AB7BE 05F5
+#Raystorm Max Weapon Power (P1)		
+800B1DB6 0006
+#Raystorm Max Weapon Power (P2)		
+800B421A 0006
+#Raystorm Unlock All Modes		
+300A54A0 003F

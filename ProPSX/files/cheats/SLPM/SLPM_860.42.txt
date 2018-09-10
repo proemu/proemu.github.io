@@ -1,0 +1,9 @@
+#Infinite Lives P1
+800A7578 0003
+#Infinite Lives P2
+800A7579 0003
+#Invincible P1
+800A776C 0000
+#Invincible P2
+800A779C 0000
+

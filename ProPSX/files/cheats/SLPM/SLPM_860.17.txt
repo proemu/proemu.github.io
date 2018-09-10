@@ -1,0 +1,36 @@
+#Gold 999999
+801999A8 423F 
+801999AA 000F
+#Mini-game cup game In the middle is always medal
+D001E8DE 0043 
+3001E8C8 0001
+#Infinite & Max HP 1 person in battle
+80197776 03E7
+80197774 03E7
+#Infinite & Max HP 2 person in battle
+801977CA 03E7
+801977C8 03E7
+#Infinite & Max HP 3 person in battle
+8019781E 03E7
+8019781C 03E7
+#Infinite & Max HP 4 person in battle
+80197872 03E7
+80197870 03E7
+#Infinite & Max HP 5 person in battle
+801978C6 03E7
+801978C4 03E7
+#Infinite & Max HP 6 person in battle
+8019791A 03E7
+801979A8 03E7
+#Does not decrease during combat HP
+D00FD334 1023 
+800FD336 0040
+#Enemy death blow Blow in L1, is usually in the R1.
+D0007572 FBFF 
+800FD33A A460 
+D0007572 F7FF 
+800FD33A A462
+#The picture filled all of Ivanov
+301B8037 00FF
+
+

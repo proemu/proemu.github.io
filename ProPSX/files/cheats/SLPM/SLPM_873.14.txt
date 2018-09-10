@@ -1,0 +1,6 @@
+#Enable characters profiles  
+800D1154 3FFF 
+#Enable all Characters  
+300D1298 001E 
+#select stage 0-8 (?00-08)  
+300D1036 000? 

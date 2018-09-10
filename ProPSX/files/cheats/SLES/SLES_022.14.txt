@@ -1,0 +1,11 @@
+#Adventure Mode\Infinite Lives
+30142D65 0003
+#Adventure Mode\Max Score
+80142D5A 0001
+#Adventure Mode\Unlock All Levels & Max Score
+50003504 0000
+801420CC FFFF
+#Classic Mode\Infinite Lives
+E010F5F0 0002
+3010F5F0 0003
+

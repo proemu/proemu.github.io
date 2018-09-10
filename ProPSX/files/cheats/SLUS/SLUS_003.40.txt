@@ -1,0 +1,40 @@
+#Infinite HP 	
+800A37E2 6464
+#Infinite Gold 	
+800A3868 FFFF
+#Infinite MP		
+800A3860 FFFF
+#Always Have Amulet & Evil Crown	
+8009F67E 0101
+#Always Have Antidotes & Savepoints	
+8009F65C 0101
+#Always Have Black Orb & Map2	
+8009F684 0101
+#Always Have Boots	
+8009F668 0001
+#Always Have Contract & Last Key	
+8009F676 0101
+#Always Have Cure	
+8009F670 0001
+#Always Have Earring & Mantle	
+8009F67A 0101
+#Always Have Evil Jewel & Sword	
+8009F672 0101
+#Always Have Herbs	
+8009F666 0101
+#Always Have Iron Key	
+8009F65E 0001
+#Always Have Letter & Dardstone	
+8009F67C 0101
+#Always Have Mask & Hourglass	
+8009F680 0101
+#Always Have MP Gain & Sanity	
+8009F664 0101
+#Always Have Skill Gem & Necklace	
+8009F662 0101
+#Always Have Skull Key & Map	
+8009F682 0101
+#Always Have Speed & Armor Gems	
+8009F660 0101
+#Always Have Tiara	
+8009F678 0001

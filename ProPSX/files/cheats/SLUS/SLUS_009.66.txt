@@ -1,0 +1,5 @@
+#Max Score	
+800CAEB8 FFFF
+#Enable All Stages
+800D7FCC 0100
+800D7FCE 002C

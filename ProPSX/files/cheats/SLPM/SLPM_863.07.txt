@@ -1,0 +1,14 @@
+#Life 5 
+300CCFC0 0005 
+#Crystal 255 
+300CCFC1 00FF 
+#Gold 255 
+300CCFC2 00FF 
+#Infinite Energy 
+80086804 1000 
+#Infinite Armor 
+80086806 1000 
+#Infinite Stealth 
+80086808 0696 
+#Infinite NITRO 
+80086814 0800

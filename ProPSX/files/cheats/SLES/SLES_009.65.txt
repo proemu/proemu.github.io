@@ -1,0 +1,10 @@
+#Infinite Energy
+800ACB3E 0004
+#Infinite Lives
+800ACB3C 0403
+#Any password unlocks all levels		
+8006BFAA 2400
+#GodMode		
+80050FF2 1000
+#GodMode level 14		
+800BA70E 0000

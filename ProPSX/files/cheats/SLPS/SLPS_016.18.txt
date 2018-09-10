@@ -1,0 +1,7 @@
+#Infinite Bt Bullets
+D00B9C32 2462
+800B9C30 0000
+#No Enemy Press X and Circle together
+801BA628 0000
+D0095252 0060
+801BA628 0FFF

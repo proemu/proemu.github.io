@@ -1,0 +1,112 @@
+#Invincible P1+P2
+8008FCA0 0001
+#Levelselect (1P-Mode) Turkey butt - Faire game
+D0098F2C 0000
+30098F2C 0000 
+#Levelselect (1P-Mode) Turkey butt - Turkey shoot
+D0098F2C 0000
+30098F2C 0001 
+#Levelselect (1P-Mode) Turkey butt - Search and destroy
+D0098F2C 0000
+30098F2C 0002 
+#Levelselect (1P-Mode) Turkey butt - Homecoming
+D0098F2C 0000
+30098F2C 0003 
+#Levelselect (1P-Mode)  A Clone of your own - There goes the neighborhood
+D0098F2C 0000
+30098F2C 0004 
+#Levelselect (1P-Mode) A Clone of your own - Warehouse run
+D0098F2C 0000
+30098F2C 0005 
+#Levelselect (1P-Mode)  A Clone of your own - Mother lovin' spoonful
+D0098F2C 0000
+30098F2C 0006 
+#Levelselect (1P-Mode) Close encounters of the bovine kind - The visitors return
+D0098F2C 0000
+30098F2C 0007 
+#Levelselect (1P-Mode) Close encounters of the bovine kind - One mother of a ship
+D0098F2C 0000
+30098F2C 0008 
+#Levelselect (1P-Mode) Close encounters of the bovine kind - Blow the core
+D0098F2C 0000
+30098F2C 0009 
+#Levelselect (1P-Mode) Something wicked this way clunks - Seismic rumble
+D0098F2C 0000
+30098F2C 000A
+#Levelselect (1P-Mode) Something wicked this way clunks - Nuts and boltz
+D0098F2C 0000
+30098F2C 000B 
+#Levelselect (1P-Mode) Some disassembly required - Toy rampage
+D0098F2C 0000
+30098F2C 000C 
+#Levelselect (1P-Mode) Some disassembly required - Parking problem
+D0098F2C 0000
+30098F2C 000D 
+#Levelselect (1P-Mode) Some disassembly required - Batteries included
+D0098F2C 0000
+30098F2C 000E
+#Score P1
+D0098EE0 0000
+80098EE0 190C
+#Enable All Multi-Player Characters
+80098570 FFFF
+30098572 0001
+#Infinite Dodgeballs P1
+300872B6 0064
+#Infinite Ammo Toilet Plunger Gun P1
+300872CE 0064
+#Infinite Terence And Phillip Dolls P1
+3008732E 0064
+#Infinite Ammo For The Sponge Dart Gun P1
+30087306 0064
+#Infinite Ammo For Warpo Ray P1
+30087356 0064
+#Infinite Sniper Chicken Ammo P1
+3008737E 0064
+#Infinite Cows (For The Cow Launcher) P1
+300873CE 0064
+#Infinite Health P1
+800A55C0 0800
+#Max Wins P1
+300A1568 00FF
+#Time Stretched  Press Up+Select
+E0098C61 0011
+80098530 2312
+#Time Shortened P1 .Press Down+Select
+E0098C61 0041
+80098530 0000
+#Infinite Dodgeballs P2
+3008741E 0064
+#Infinite Ammo Toilet Plunger Gun P2
+30087446 0064
+#Infinite Terence And Phillip Dolls P2
+30087496 0064
+#Infinite Ammo For The Sponge Dart Gun P2
+3008746E 0064
+#Infinite Ammo For Warpo Ray P2
+300874BE 0064
+#Infinite Sniper Chicken Ammo P2
+300874E6 0064
+#Infinite Cows (For The Cow Launcher) P2
+30087536 0064
+#Infinite Health P2
+800A56C0 0800
+#Time Stretched P2
+E0098C63 0011
+80098530 2312
+.Press Up+Select
+#Time Shortened P2 .Press Down+Select
+E0098C63 0041
+80098530 0000
+#Infinite Alien Dancing Gizmo's P1
+800873A6 000A
+#Instant Bazooka Foams For Dart Gun P1
+8009FEF0 0005
+#Infinite Armour
+800A14E4 0180
+#Rapid Fire
+E0098C60 0010
+8009FFE8 0003
+#Big Jump
+E0098C60 0040
+800A5606 0000

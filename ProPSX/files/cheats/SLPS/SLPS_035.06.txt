@@ -1,0 +1,11 @@
+#1P Infinite Hp 
+80060968 2710
+#1P Infinite gauge technology secrets
+8006096C 03E8 
+#2P Infinite Hp
+80060AA4 2710 
+#2P No Hp
+80060AA4 0000
+#Enable all characters
+8005BAC8 0FFF 
+8005BACA 0018 

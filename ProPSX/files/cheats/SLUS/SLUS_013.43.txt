@@ -1,0 +1,61 @@
+#Inf Time
+800F360C 0FFF
+#Inf Money
+800D0468 FFFF
+#Inf Credits
+800CB988 0003
+#Press Select To Complete Level
+D00CC620 0100
+800CB980 0001
+D00CC620 0100
+800C80B8 0001
+#Press Select To Complete In License Test
+D00CC620 0100
+800CB980 0001
+D00CC620 0100
+800C7E20 0001
+#Always Perfect Score Overall
+8013D444 0064
+#Max Money 	
+800D0468 C9FF
+800D046A 3B9A
+#Have All Items 	
+800D046C FFFF
+800D046E FFFF 		
+#Max Accumulated Wages 	
+800CBC10 C9FF
+800CBC12 3B9A
+#License test codes Press Select To Complete Level 	
+D00CC620 0100
+800CB980 0001
+D00CC620 0100
+800C7E20 0001 		
+#License test codes Levels Don't End When You Hit Too Many Things 	
+800C7E48 0064 		
+#License test codes No Demerit Marks 	
+8013D438 0000 		
+#License test codes No Other Demerit Marks 	
+8013D43C 0000 		
+#License test codes Always Perfect Overall Score 	
+8013D444 0064 		
+#Finish License Test For Perfect Score Codes Knocking Down Poles 	
+300CFB98 0064 		
+#Finish License Test For Perfect Score Codes Parking 	
+300CFB99 0064 		
+#Finish License Test For Perfect Score Codes Driving Parking 	
+300CFB9A 0064 		
+#Finish License Test For Perfect Score Codes Scooping Sand 	
+300CFB9B 0064 		
+#Finish License Test For Perfect Score Codes Scooping Certain Volume Sand 	
+300CFB9C 0064 		
+#Finish License Test For Perfect Score Codes Digging Deep Hole 	
+300CFB9D 0064 		
+#Finish License Test For Perfect Score Codes Flat A Sand Mountain 	
+300CFB9E 0064 		
+#Finish License Test For Perfect Score Codes Bury A Long Hole 	
+300CFB9F 0064 		
+#Finish License Test For Perfect Score Codes Breaking Rocks 	
+300CFBA0 0064 		
+#Finish License Test For Perfect Score Codes Carrying Goods 	
+300CFBA1 0064
+

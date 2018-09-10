@@ -1,0 +1,29 @@
+#Infinite Health T-Wrex
+8007F048 03E8
+8007F04A 03E8
+#Always First Race
+D00BDB10 0001
+300BDB10 0005
+#All Cheats Unlocked
+3005B180 003F
+#Fire At Dr Smith Laboratory No Damage
+800BB6A1 0000
+#Fire At Dr Smith Laboratory No Damage (Press L2 & Select)
+D006AE2E FBFE
+800BB6A0 0000
+#Infinite Water
+D006AE2E BFFF
+300BB290 00D9
+#Terrorist Bomb Threat Infinite Time
+800B94E0 0C00
+#Arrest Kidnap Gang No Kidnapper's Escape
+D00BCE6C 0001
+300BCE6C 0000
+#Arrest 40 Kidnap Gang
+800BCE6E 0028
+#Catch The Plane Tension Always Zero
+D006AE2E 7FFF
+800BE804 0000
+#Racing School Win Inmediately (Press select)
+D006AE2E FFFE
+300BD9E4 0005

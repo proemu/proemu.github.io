@@ -1,0 +1,34 @@
+#Infinite Health\Level 1
+800B873A 00FA
+#Infinite Health\Level 2
+800C0032 00FA
+#Infinite Health\Level 3
+800C1F0A 00FA
+#Infinite Health\Level 3 Civil Man
+800C0CA6 00FA
+#Infinite Health\Level 3 Civil Woman
+800C185A 00FA
+#Infinite Health\Level 4
+800BA89E 00FA
+#Infinite Health\Level 5
+800B79B6 00FA
+#Infinite Health\Level 6
+800BAA46 00FA
+800BB2A2 00FA
+#Infinite Health\Level 7
+800B26CE 00FA
+#Inf Ammmo 48
+800B728E 7508
+#Inf 9Mm Ammo
+800B7272 F708
+#Infinite Flamethrower
+800B72B0 00C8
+#Infinite Ammo	
+8002DD3E 2400
+#Infinite Electroshock
+8002DE3E 2400
+#Protected
+800261E0 2400	
+#Protected fire sphere	
+8002C85C 2400
+		

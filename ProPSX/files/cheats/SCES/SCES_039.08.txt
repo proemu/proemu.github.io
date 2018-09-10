@@ -1,0 +1,11 @@
+#Lives
+800A038E 0063
+800C794A 0063
+#Health
+800BF0C8 001E
+#99 Stars
+800C79A6 0063
+#Infinite cherry bombs (on pickup)
+800C794E 0009
+#Infinite air (underwater)
+800C7947 0047

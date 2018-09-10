@@ -1,0 +1,239 @@
+#Unlock Cheats In Cheat Menu Codes\Unlock All Features Simply press R1+L1 repeatedly at the menu select screen to load cheat menu! This Code unlocks all secret characters in the game.plus more!
+8007A0F0 07FF
+8007A0F2 1000
+#Unlock Cheats In Cheat Menu Codes\Unlock All Modes Simply press R1+L1 repeatedly at the menu select screen to load cheat menu! This Code unlocks all secret characters in the game.plus more!
+8007A0F4 3FFF
+8007A0F6 2000
+#Player Creation Codes\Infinite Attributes Points
+800B64F4 0000
+#Player Creation Codes\Max Strength
+800B6280 0032
+#Player Creation Codes\Max Toughness
+800B6282 0032
+#Player Creation Codes\Max Speed
+800B6284 0032
+#Player Creation Codes\Max Recovery
+800B6286 0032
+#Player Creation Codes\Max Charisma
+800B6288 0032
+#Player Creation Codes\Create Topless Female Wrestler (Parental Advisory-17+)
+800B4AD8 0001
+800B4ADA 0F06
+800B6018 0005
+#Player Creation Codes\All Never Stunned
+800B498A 2400
+#Player Creation Codes\P1 Invulnerable
+800BC5B8 0000
+800BC5BA 240D
+800BBD44 0008
+800BBD46 11B0
+800BBD4A 2400
+800B5BB4 0000
+800B5BB6 240D
+800B5BBC 0008
+800B5BBE 11B3
+#Player Creation Codes\P2 Invulnerable
+800BC5B8 0001
+800BC5BA 240D
+800BBD44 0008
+800BBD46 11B0
+800BBD4A 2400
+800B5BB4 0001
+800B5BB6 240D
+800B5BBC 0008
+800B5BBE 11B3
+#Player Creation Codes\P3 Invulnerable
+800BC5B8 0002
+800BC5BA 240D
+800BBD44 0008
+800BBD46 11B0
+800BBD4A 2400
+800B5BB4 0002
+800B5BB6 240D
+800B5BBC 0008
+800B5BBE 11B3
+#Player Creation Codes\P4 Invulnerable
+800BC5B8 0003
+800BC5BA 240D
+800BBD44 0008
+800BBD46 11B0
+800BBD4A 2400
+800B5BB4 0003
+800B5BB6 240D
+800B5BBC 0008
+800B5BBE 11B3
+#Player Creation Codes\All Invulnerable
+800BBD4A 2400
+800B4778 004C
+800B477A 1000
+#Player Creation Codes\P1 Cant Be Pinned
+800B5C04 0000
+800B5C06 2419
+800B4A80 0004
+800B4A82 1279
+#Player Creation Codes\P2 Cant Be Pinned
+800B5C04 0001
+800B5C06 2419
+800B4A80 0004
+800B4A82 1279
+#Player Creation Codes\P3 Cant Be Pinned
+800B5C04 0002
+800B5C06 2419
+800B4A80 0004
+800B4A82 1279
+#Player Creation Codes\P4 Cant Be Pinned
+800B5C04 0003
+800B5C06 2419
+800B4A80 0004
+800B4A82 1279
+#Player Creation Codes\All Cant Be Pinned
+800B4A80 0004
+800B4A82 1000
+#Player Creation Codes\P1 Pinned Quickly
+800B5C04 0000
+800B5C06 2419
+800B4A80 0005
+800B4A82 1279
+#Player Creation Codes\P2 Pinned Quickly
+800B5C04 0001
+800B5C06 2419
+800B4A80 0005
+800B4A82 1279
+#Player Creation Codes\P3 Pinned Quickly
+800B5C04 0002
+800B5C06 2419
+800B4A80 0005
+800B4A82 1279
+#Player Creation Codes\P4 Pinned Quickly
+800B5C04 0003
+800B5C06 2419
+800B4A80 0005
+800B4A82 1279
+#Player Creation Codes\All Pinned Quickly
+800B4A80 0005
+800B4A82 1000
+#Slow Motion
+8005F2B4 F23C
+#Hyper Mode
+800610F8 F32C
+#Bootup Increase
+800612A0 0000
+#Infinite Match Time
+80077C24 0A80
+#Infinite Outer Ring Time
+800B43C2 2400
+#v1.1 Infinite Outer Ring Time
+800B59A6 2400
+#v1.1 Unlock All Features Simply press R1+L1 repeatedly at the menu select screen to load cheat menu! This Code unlocks all secret characters in the game.plus more!
+8007B6C0 07FF
+8007B6C2 1000
+%NOTE1
+#v1.1 Unlock All Modes Simply press R1+L1 repeatedly at the menu select screen to load cheat menu! This Code unlocks all secret characters in the game.plus more!
+8007B6C4 3FFF
+8007B6C6 2000
+%NOTE1
+#v1.1 Unlock Cheats In Cheat Menu Codes\Infinite Attributes Points
+800B7B14 0000
+#v1.1 Unlock Cheats In Cheat Menu Codes\All Never Stunned
+800B5F6E 2400
+#v1.1 Unlock Cheats In Cheat Menu Codes\P1 Invulnerable
+800BDBA0 0000
+800BDBA2 240D
+800BD32C 0008
+800BD32E 11B0
+800BD332 2400
+800B7198 0000
+800B719A 240D
+800B71A0 0008
+800B71A2 11B3
+#v1.1 Unlock Cheats In Cheat Menu Codes\P2 Invulnerable
+800BDBA0 0001
+800BDBA2 240D
+800BD32C 0008
+800BD32E 11B0
+800BD332 2400
+800B7198 0001
+800B719A 240D
+800B71A0 0008
+800B71A2 11B3
+#v1.1 Unlock Cheats In Cheat Menu Codes\P3 Invulnerable
+800BDBA0 0002
+800BDBA2 240D
+800BD32C 0008
+800BD32E 11B0
+800BD332 2400
+800B7198 0002
+800B719A 240D
+800B71A0 0008
+800B71A2 11B3
+#v1.1 Unlock Cheats In Cheat Menu Codes\P4 Invulnerable
+800BDBA0 0003
+800BDBA2 240D
+800BD32C 0008
+800BD32E 11B0
+800BD332 2400
+800B7198 0003
+800B719A 240D
+800B71A0 0008
+800B71A2 11B3
+#v1.1 Unlock Cheats In Cheat Menu Codes\All Invulnerable
+800BD332 2400
+800B5D5C 004C
+800B5D5E 1000
+#v1.1 Unlock Cheats In Cheat Menu Codes\P1 Cant Be Pinned
+800B71E8 0000
+800B71EA 2419
+800B6064 0004
+800B6066 1279
+#v1.1 Unlock Cheats In Cheat Menu Codes\P2 Cant Be Pinned
+800B71E8 0001
+800B71EA 2419
+800B6064 0004
+800B6066 1279
+#v1.1 Unlock Cheats In Cheat Menu Codes\P3 Cant Be Pinned
+800B71E8 0002
+800B71EA 2419
+800B6064 0004
+800B6066 1279
+#v1.1 Unlock Cheats In Cheat Menu Codes\P4 Cant Be Pinned
+800B71E8 0003
+800B71EA 2419
+800B6064 0004
+800B6066 1279
+#v1.1 Unlock Cheats In Cheat Menu Codes\All Cant Be Pinned
+800B6064 0004
+800B6066 1000
+#v1.1 Unlock Cheats In Cheat Menu Codes\P1 Pinned Quickly
+800B71E8 0000
+800B71EA 2419
+800B6064 0005
+800B6066 1279
+#v1.1 Unlock Cheats In Cheat Menu Codes\P2 Pinned Quickly
+800B71E8 0001
+800B71EA 2419
+800B6064 0005
+800B6066 1279
+#v1.1 Unlock Cheats In Cheat Menu Codes\P3 Pinned Quickly
+800B71E8 0002
+800B71EA 2419
+800B6064 0005
+800B6066 1279
+#v1.1 Unlock Cheats In Cheat Menu Codes\P4 Pinned Quickly
+800B71E8 0003
+800B71EA 2419
+800B6064 0005
+800B6066 1279
+#v1.1 Unlock Cheats In Cheat Menu Codes\All Pinned Quickly
+800B6064 0005
+800B6066 1000
+#v1.1 Unlock Cheats In Cheat Menu Codes\Create Topless Female Wrestler (Parental Advisory-17+)
+800B60F8 0001
+800B60FA 0F06
+800B7638 0005
+#v1.1 Unlock Cheats In Cheat Menu Codes\Invisible Cage In Cage Matches
+800790C8 0000
+#v1.1 Unlock Cheats In Cheat Menu Codes\Fake Cage In Other Matches
+800790C8 0001
+#v1.1 Unlock Cheats In Cheat Menu Codes\Super Ridiculous Code .Use Steve Austin In Training And Press L2
+D007D9A2 FEFF
+80105B64 0001

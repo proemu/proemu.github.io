@@ -1,0 +1,25 @@
+#Infinite Energy
+80071FB2 0050
+#Infinite Smart Bomb
+80071FA8 0009
+#Infinite Money
+80071F64 E0FF
+80071F66 05F5
+#Infinite Mystery Item
+80071F84 E0FF
+80071F86 05F5
+#Have Silver Key
+80071F94 0001
+#Infinite Extra Lives
+80071F8C 0009
+#Power Up
+80071F90 0004
+#Have Gold Key
+80071F88 0001
+#Level select
+D006D5B6 FFFE
+801331B4 0001
+#Sudden Death boss	
+D006C2AA 0080
+8006C2AA 000A
+

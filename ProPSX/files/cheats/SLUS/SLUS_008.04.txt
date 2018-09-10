@@ -1,0 +1,26 @@
+#Infinite Continues
+800B6BAC 0005
+#Max Score
+8008CEE0 E0FF
+8008CEE2 05F5
+#Infinite Time
+800B2D54 0A50
+#Infinite Health
+8008CC04 0015
+800B76B6 7BDE
+#Bruce Unlocked		
+300B3764 0001
+#Always Play Level Phat Tony's Casino
+800B2D98 0001
+#Always Play Level Shop Til' You Drop
+800B2D98 0002
+#Always Play Level Grandpa's In The House
+800B2D98 0003
+#Always Play Level Tripping In The Park
+800B2D98 0004
+#Always Play Level Fun Park Massive
+800B2D98 0005
+#Always Play Level No One Can Stop Mr.Domino
+800B2D98 0006
+
+

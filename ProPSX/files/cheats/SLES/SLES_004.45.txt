@@ -1,0 +1,160 @@
+#Die Hard\Infinite Energy
+801CEB46 000C
+801CE9DE 000C
+#Die Hard\Infinite Bullets
+801CEB4A 000F
+801CE9E2 000F
+#Die Hard\Infinite Smoke Grenades
+801CEB4C 000F
+801CE9E4 000F
+#Die Hard\Infinite Lives
+801D5930 0009
+#Die Hard\Infinite Flash Bang Grenades
+801CEB4E 000F
+801CE9E6 000F
+#Die Hard\Infinite Grenades
+801CEB50 000F
+801CE9E8 000F
+#Die Hard\Infinite Time Set 1
+D01CFB36 028C
+801CFB36 0300
+D01CFC9E 028C
+801CFC9E 0300
+D01D00D6 028C
+801D00D6 0300
+D01CFE06 028C
+801CFE06 0300
+D01D023E 028C
+801D023E 0300
+D01D0946 028C
+801D0946 0300
+D01CFF6E 028C
+801CFF6E 0300
+#Die Hard\Infinite Time Set 2
+D01D03A6 028C
+801D03A6 0300
+#Die Hard\Weapon Modifier M60 Machine Gun (0-6)
+D11CEB48 000?
+801CEB48 0006
+#Die Hard\#The Saint#-Mode On (.Press L1 & L2)
+D00A6BD0 0005
+801C5794 0001
+#Die Hard\#Hit-And-Fly#-Mode On (Press L1 & R1)
+D00A6BD0 000C
+801C5788 0001
+#Die Hard\#Weightwatchers#-Mode On (Press L1 & R2)
+D00A6BD0 0006
+801C5786 0001
+#Die Hard\Start With High Score
+D01D58FC 0000
+801D58FC FFFF
+D01D58FE 0000
+801D58FE FFFF
+#Die Hard\Last Level Select (00-16)
+D00A6B60 0000
+800A6B60 0016
+#Die Hard\Bonus-Level Select (.Use Together With Level Select Code.)
+D00A6B60 0019
+800A6D3C 0019
+$03 Bonuslevel 4
+$08 Bonuslevel 8
+$0D Bonuslevel 12
+$12 Bonuslevel 16
+$16 Bonuslevel 19
+#Die Hard\Reverse Mode
+801C5792 0001
+#Die Hard\Hold Select To Levitate
+E00A6BE5 0001
+801CEA82 0081
+#Die Hard\Invincible
+801CEBA6 0051
+#Die Hard\Rapid Fire (Pistol)
+8005C93E 3C00
+#Die Hard\Faster Grenade Throwing
+8005DAF2 3C00
+#Die Hard 2 - Die Harder\Infinite Rockets
+800B95C0 000F
+#Die Hard 2 - Die Harder\Infinite Grenades
+800B9758 000F
+#Die Hard 2 - Die Harder\Infinite Lives
+D00B95B0 0004
+800B95B0 0005
+#Die Hard 2 - Die Harder\Infinite Ammo
+801FA0F6 000E
+#Die Hard 2 - Die Harder\Skeleton-Mode On (Press Select & L1)
+D00B9660 0104
+800112BE 0001
+#Die Hard 2 - Die Harder\Dwarfs & Giants-Mode On (Press Select & L2)
+D00B9660 0101
+800112BC 0001
+#Die Hard 2 - Die Harder\Map-Editor On (Press Select Select & Start)
+D00B9660 0900
+800112B0 0001
+#Die Hard 2 - Die Harder\All Innocents Saved
+800B96F8 0000
+#Die Hard 2 - Die Harder\Start With High Score
+D00B9364 FFFF
+800B9364 FFFF
+D00B9364 FFFF
+800B9366 FFFF
+#Die Hard 2 - Die Harder\Stop Timer 
+801D41A0 0ABE
+#Die Hard 2 - Die Harder\Stop Timer (Press L1 & L2)
+D00B9660 0005
+801D41A0 0ABE
+#Die Hard 2 - Die Harder\Weapon Modifier AK-47 (0-7)
+801FA114 0007
+#Die Hard 2 - Die Harder\ Last Level Select (0-7)
+D00B9660 000A
+800B9B60 0007
+#Die Hard With A Vengeance\Infinite Turbos
+800B83B4 0009
+#Die Hard With A Vengeance\Infinite Time
+801D86FC 61E0
+801D87FC 61E0
+801D88FC 61E0
+801D89FC 61E0
+801D8AFC 61E0
+801D8BFC 61E0
+#Die Hard With A Vengeance\Infinite Lives
+800B8154 0009
+#Die Hard With A Vengeance\All Bomb Cars Dies Faster
+D01D1E70 0004
+801D1E70 0000
+D01D2A70 0004
+801D2A70 0000
+D01D3270 0004
+801D3270 0000
+D01D3670 0004
+801D3670 0000
+D01D3A70 0004
+801D3A70 0000
+#Die Hard With A Vengeance\Full Safety Margin
+801D9598 0000
+#Die Hard With A Vengeance\No Damage At 100 %
+800B85C4 0000
+#Die Hard With A Vengeance\Start With High Score
+D00B7ED0 0000
+800B7ED0 FFFF
+D00B7ED2 0000
+800B7ED2 FFFF
+#Die Hard With A Vengeance\#Goliath#-Mode On (Press L1)
+D01D3E26 0004
+800112DA 0001
+#Die Hard With A Vengeance Last Level (0-F)
+D00B8614 0000
+800B8614 000F
+#Die Hard With A Vengeance\Debug Mode (Press Select to open the Debug Mode, L2+R2 to deactivate)
+D00B81CC 0100
+800B78FE 0001
+D00B81CC 0003
+800B78FE 0000
+#Die Hard With A Vengeance\Press Circle For Jump Boost
+8002B9C8 3C00
+8002B9CA 3C00
+#Die Hard With A Vengeance\Infinite Time (All Levels)
+800511FC 3C00
+
+
+
+

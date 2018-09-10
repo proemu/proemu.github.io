@@ -1,0 +1,12 @@
+#P1 Infinite Energy
+800C9944 00C8
+#Have All Characters
+800E34B4 0010
+800E34F4 0001
+#P2 1-Hit Death	
+D00C9B20 00C8
+800C9B20 0001
+
+
+
+

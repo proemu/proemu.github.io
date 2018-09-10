@@ -1,0 +1,12 @@
+#Infinite Energy Lead Player P1	
+80067EF0 0030 
+#Infinite Energy Helper 1 P1	
+80067F5C 001C
+#Infinite Energy Helper 2 P1	
+80067FC8 0023
+#Infinite Energy Helper 3 P1	
+80068034 001C
+#Infinite Magic	
+80066E12 0055
+#Start of Final Round	
+80067028 0006

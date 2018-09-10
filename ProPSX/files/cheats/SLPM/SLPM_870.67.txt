@@ -1,0 +1,4 @@
+#Crazy Climber\Infinite Lives
+800458B0 0005
+#Crazy Climber '85\Infinite Lives
+80048730 0005

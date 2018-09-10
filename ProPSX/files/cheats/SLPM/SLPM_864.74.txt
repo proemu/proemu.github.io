@@ -1,0 +1,12 @@
+#Free play can be selected Sakurako 
+30056F6B 0001 
+#Free play can be selected Kana 
+30056F6C 0001 
+#Free play can be selected Haruka 
+30056F6D 0001 
+#Adding a bonus mode Sakurako 
+30056F6E 0001 
+#Adding a bonus mode Kana 
+30056F6F 0001 
+#Adding a bonus mode Haruka 
+30056F70 0001

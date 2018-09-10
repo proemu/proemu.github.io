@@ -1,0 +1,14 @@
+#Infinite Energy P1
+800E63E2 0075
+#No energy P2
+300E724A 0000
+#99999 CR in Arena Mode
+800E9974 869F
+800E9976 0001
+#All of the skills in Arena Mode 
+800E9970 270F 
+#Special Power Always On
+800E625A 4C00
+#All Hidden characters availables
+300D4124 0002
+

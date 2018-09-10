@@ -1,0 +1,8 @@
+#Infinite Energy P1
+8019F5A6 FFFF
+#Infinite Energy P2
+8019F77E FFFF
+#Infinite Time
+8018D430 99D4
+
+

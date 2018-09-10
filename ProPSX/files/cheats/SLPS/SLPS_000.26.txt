@@ -1,0 +1,39 @@
+#1-Hit Death Bosses/Enemies		
+8014CB1C 0001
+8014CB1E 2402
+801A0CCC 0000
+801A0CCE 2403
+80178D5C 0000
+80178D5E 2402
+80180BE4 0000
+80180BE6 2402
+80150E18 0000
+80150E1A 2402
+80198994 0000
+80198996 2402
+#All Levels Unlocked/Electoons Freed		
+301C03D9 0006
+50001014 0000
+801C03EC 0601
+50000714 0000
+301C052C 0001
+#Invincible		
+301EAAE6 004D
+D01EBAEE FFFE
+301EAAE6 00FF	
+#Pause For Max Health & Lives		
+8013859A 2400
+#Press Select For 99 Tings		
+D01EBAEE FFFE
+301D5BBA 0063
+#Skip Level (Triangle+Circle)		
+D01EBAEE CFFF
+301EB5BC 0001
+#Power Codes Press Select+Circle For All Powers (Reverse Mode/O is Run)		
+D01EBAEE DFFE
+801E9444 028F
+#Power Codes Press Select+Left For All Powers (Super Helicopter/O is Run)		
+D01EBAEE FF7E
+801E9444 018F
+#Power Codes Press Select+Right For All Powers (Helicopter/O is Magic Seed)	
+801E9444 01C7

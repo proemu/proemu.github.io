@@ -1,0 +1,10 @@
+#Team 1 Starts With 100 Points
+D0092CCC 0000
+8009CCCC 0064
+#Team 1 Can't Score Points
+80092CCC 0000
+#Team 2 Starts With 100 Points
+D0092CD0 0000
+8009CCD0 0064
+#Team 2 Can't Score Points
+80092CD0 0000

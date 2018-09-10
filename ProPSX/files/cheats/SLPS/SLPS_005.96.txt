@@ -1,0 +1,34 @@
+#Infinite Energy Robot
+8009573C 0DAC
+800C0388 0DAC
+800F0E34 0DAC
+#Infinite money 9999999
+800B3410 967F
+800B3412 0098
+#Experience value MAX 
+800B3424 E0FF 
+800B3426 05F5 
+#Brawn MAX 
+800F0E16 03E7 
+#Wisdom MAX 
+800F0E18 03E7 
+#Mental strength MAX 
+800F0E1A 03E7 
+#Endurance MAX 
+800F0E1C 03E7 
+#Dexterity MAX 
+800F0E1E 03E7 
+#Strength MAX 
+800F0E28 03E7 
+#Sensitive force MAX 
+800F0E2A 03E7 
+#Armor thickness MAX 
+800F0E2C 03E7 
+#Instantaneous force MAX 
+800F0E2E 03E7 
+#Ego MAX 
+800F0E30 03E7 
+#Blood volume MAX 
+800B31F4 FFFF 
+#Water MAX 
+800B3220 FFFF

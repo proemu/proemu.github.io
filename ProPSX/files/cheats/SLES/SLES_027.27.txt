@@ -1,0 +1,11 @@
+#Infinite Practice Points
+80088ED0 0001
+#Always 2 Killer Punches P1
+80089FFE 0002
+#Always 2 Killer Punches P2
+8008AFDA 0002
+#Infinite Killer Punches
+8006C8A0 0000
+#Amount Of Loss At Life-Powerbar Max
+8002AC50 00FF
+8002AC52 2403

@@ -1,0 +1,9 @@
+#Infinite Funds
+800DF38C 86A0 		
+#Always On Turn 1
+800DF37C 0001
+800DF380 0001
+#Unit 1 Ammo Modifier
+80134B7E 0063		
+#Unit 1 Fuel Modifier
+80134B80 009B

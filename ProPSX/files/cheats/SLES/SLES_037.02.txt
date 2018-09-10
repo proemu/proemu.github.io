@@ -1,0 +1,25 @@
+#Infinite time
+800A02D0 3A98
+#Have 99999 points
+800A45EC 869F
+800A45EE 0001
+#Unlock Stage 2
+8007B564 0000
+#Unlock Stage 3
+8007AE0C 0000
+#Unlock Stage 4
+8007AA60 0000
+#Special Bar Max	
+800A4BCC 3EFF
+#Tito's challenge Collect one shell to finish Challenge 1
+D007E660 0001
+3007E660 0006
+#Tito's challenge Collect one shell to finish Challenge 2
+D007E6C0 0001
+3007E6C0 0006
+#Tito's challenge Collect one shell to finish Challenge 3
+D007E720 0001
+3007E720 0006
+#Tito's challenge Collect one shell to finish Challenge 4
+D007E780 0001
+3007E780 0006

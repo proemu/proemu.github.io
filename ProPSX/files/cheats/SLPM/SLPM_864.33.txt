@@ -1,0 +1,14 @@
+#Money Max
+80155F86 270F 
+#Strength point Max
+801DF802 03E7 
+#Agility point Max
+801DF804 03E7
+#Technical field point Max
+801DF806 03E7 
+#Mental point Max
+801DF808 03E7 
+#Throw technique point Max
+801DF80A 03E7 
+#Batting point Max 
+801DF80C 03E7

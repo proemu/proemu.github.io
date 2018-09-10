@@ -1,0 +1,8 @@
+#No Laptime
+800C3E58 0000
+#No Repairing Time
+8001BD44 0000
+#Unlock Bonus Cars
+800C556C 1FFF
+#Unlock All Tracks
+800C556E 01FF

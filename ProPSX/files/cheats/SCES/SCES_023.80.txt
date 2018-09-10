@@ -1,0 +1,69 @@
+#Gran Turismo Disc - Auto Pilot P1 (Press R1 & R2 & Triangle Pad 2 before race starts)	
+D01F0CEC E5FF
+801D5976 0001
+#Gran Turismo Disc - Auto Pilot P1 alternate (Press R1 & R2 & Triangle Pad 2 before race starts)
+801D5976 0001
+#Infinite Money
+801D1598 E0FF
+801D159A 05F5
+#Have Gold B Licence
+50000AA4 0000
+301CCD31 0004
+#Have Gold A Licence
+50000AA4 0000
+301CC6C9 0004
+#Have Gold International c Licence
+50000AA4 0000
+301CC061 0004
+#Have Gold International B Licence
+50000AA4 0000
+301CB9F9 0004
+#Have Gold International A Licence
+50000AA4 0000
+301CB391 0004
+#Have Special Licence
+50000AA4 0000
+301CAD29 0004
+#Unlock Extra Tracks And Cars In Arcade Mode
+50000A02 0000
+801C99C8 0505
+301C99DC 0005
+#Hold L2 To Drive Through Scenery
+E00A95E4 0080
+800A96CC 0006
+E00A95E4 0080
+800A9CE4 0006
+#Stop Race Timer
+8002F894 0000
+80046F44 0000
+#Start On Lap 4
+E00A9CEC 0000
+300A9CEC 0004
+#Begin The Game With A Lot Of Money
+800107A2 3C02
+800107A0 05F5
+#Unlock All Tracks 1P/2P Any Road, Time Trial Etc, More Than 130...
+800F3992 0083
+800F3996 0017
+800F399A 0027
+800F399C 0015
+800F399E 0006
+#Turbo Arcade Disc Press R3
+D00A956C 4000
+800A9D1E 0020
+D00A956C 4000
+800A9D22 0020
+#Ending Unlocked (Push Select in the Play Movie Screen)
+D01C97DA FFFE
+80052714 0001
+#Unlock One Half Of The Reverse Track (use the Quick won race-codes for the other half)
+50000A20 0000
+80050B8C 0001
+#Unlock All Licences In 1 Code
+8005DE8A A270
+#Unlock All Tracks (112% Complete)
+50004402 0000
+801C9A28 1111
+#Play Any Race With Any Car In Simulation Mode
+D0014908 000C
+8001490A 1000

@@ -1,0 +1,22 @@
+#Have always 10 luck points
+800898C3 1000
+#LPMAX LPUP at once 
+D001F3FA 1040 
+8001F3FA 1000 
+#LP does not decrease even choose LP consumption choices 
+D001F10E 00A0 
+8001F10E 0000 
+#To choose forcibly even if not enough LP consumption choices LP 
+D001BAE8 1821 
+8001BAEE A2C2 
+#Clear flag ON (SPECIAL selectable) 
+301D022E 0001 
+#100% recovery rate CG GALLERY 
+801D0230 0101 
+#100% recovery rate * PAR2 later only CG GALLERY 
+50004502 0000 
+801D0230 0101 
+#Dedicated recovery rate 100% * XT CG GALLERY 
+B0450002 0000 
+801D0230 0101 
+

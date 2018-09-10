@@ -1,0 +1,15 @@
+#All In Trash Mode Unlocked
+50002101 0000
+800B68AD 0001
+#1 Billion Dollars
+800B6F7C CA00
+800B6F7E 3B9A
+#Trade-In Value 1 Billion Dollars
+800B6F88 CA00
+800B6F8A 3B9A
+#Infinite Bike Durability
+8010EEAA 7F7F
+#Infinite Biker Health
+8010EE72 8080
+#Unlimited Nitro Speed For Any Bike		
+800D677C 0000

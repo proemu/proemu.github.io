@@ -1,0 +1,8 @@
+#Infinite Health
+800A8734 00C8
+#Ammo Won't Decrease
+D006FD9C 0002
+8006FD98 0000
+#OK Status		
+800A8736 0000
+

@@ -1,0 +1,193 @@
+#Unlock Everything Enter a menu in world tour first, then go back and everything will be open. Save on MC and deactivate the code
+50002204 0000
+80159040 0001
+50002204 0000
+80159042 0000
+#Opponents Frozen Press select while the race is loading
+D00DE2FA FFFE
+80057C1A 2A00
+#Inf Boost
+D00281FE 00E5
+80028200 0000
+D00281FE 00E5
+80028202 0000
+D002826A 0002
+8002826C 0000
+D002826A 0002
+8002826E 0000
+#Speed Championship\250Ccm\Sachsenring\Start At Last Lap/Always First
+D010E7F4 FF00
+3010E7F4 0002
+#Speed Championship\250Ccm\Sachsenring\Always Good Grip
+D017D456 0100
+8017D456 0000
+D017D456 0200
+8017D456 0000
+#Speed Championship\250Ccm\Sachsenring\300 Points
+D010E7F4 FF00
+8010E7C0 012C
+#Speed Championship\250Ccm\Suzuka\Start At Last Lap/Always First
+D0111D48 FF00
+30111D48 0002
+#Speed Championship\250Ccm\Suzuka\Always Good Grip
+D01949BE 0100
+801949BE 0000
+D01949BE 0200
+801949BE 0000
+#Speed Championship\250Ccm\Suzuka\600 Points
+D0111D48 FF00
+80111D14 0258
+#Speed Championship\250Ccm\Isle Of Man Road\Start At Last Lap/Always First
+D010DDB8 FF00
+3010DDB8 0003
+#Speed Championship\250Ccm\Isle Of Man Road\900 Points
+D010DDB8 FF00
+8010DD84 0384
+#Speed Championship\250Ccm\Eastern Creek\Start At Last Lap/Always First
+D010EED0 FF00
+3010EED0 0002
+#Speed Championship\250Ccm\Eastern Creek\Always Good Grip
+D018471E 0100
+8018471E 0000
+D018471E 0200
+8018471E 0000
+#Speed Championship\250Ccm\Eastern Creek\1200 Points
+D010EED0 FF00
+8010EE9C 04B0
+#Speed Championship\500Ccm\Sachsenring\Start At Last Lap/Always First
+D010E7C0 FF00
+3010E7C0 0002
+#Speed Championship\500Ccm\Sachsenring\Always Good Grip
+D017D43E 0100
+8017D43E 0000
+D017D43E 0200
+8017D43E 0000
+#Speed Championship\500Ccm\Sachsenring\300 Points
+D010E7C0 FF00
+8010E78C 012C
+#Speed Championship\500Ccm\Suzuka\Start At Last Lap/Always First
+D0111D14 FF00
+30111D14 0002
+#Speed Championship\500Ccm\Suzuka\Always Good Grip
+D01949A6 0100
+801949A6 0000
+D01949A6 0200
+801949A6 0000
+#Speed Championship\500Ccm\Suzuka\600 Points
+D0111D14 FF00
+80111CE0 0258
+#Speed Championship\500Ccm\Isle Of Man Road\Start At Last Lap/Always First
+D010DD70 FF00
+3010DD70 0003
+#Speed Championship\500Ccm\Isle Of Man Road\900 Points
+D010DD70 FF00
+8010DD3C 0384
+#Speed Championship\500Ccm\Eastern Creek\Start At Last Lap/Always First
+D010EE98 FF00
+3010EE98 0002
+#Speed Championship\500Ccm\Eastern Creek\Always Good Grip
+D0184706 0100
+80184706 0000
+D0184706 0200
+80184706 0000
+#Speed Championship\500Ccm\Eastern Creek\1200 Points
+D010EE98 FF00
+8010EE64 04B0
+#Speed Championship\500Ccm\Isle Of Man Hills\Start At Last Lap/Always First
+D010C098 FF00
+3010C098 0002
+#Speed Championship\500Ccm\Isle Of Man Hills\1500 Points
+D010C098 FF00
+8010C064 05DC
+#Cross Championship\125Ccm\Barcelona\Start At Last Lap/Always First
+D0107C58 FF00
+30107C58 0005
+#Cross Championship\125Ccm\Barcelona\300 Points
+D0107C58 FF00
+80107C24 012C
+#Cross Championship\125Ccm\Usa Park\Start At Last Lap/Always First
+D0114068 FF00
+30114068 0002
+#Cross Championship\125Ccm\Usa Park\600 Points
+D0114068 FF00
+80104034 0258
+#Cross Championship\125Ccm\Stade De France\Start At Last Lap/Always First
+D01089E0 FF00
+301089E0 0003
+#Cross Championship\125Ccm\Stade De France\900 Points
+D01089E0 FF00
+801089AC 0384
+#Cross Championship\125Ccm\Reygades\Start At Last Lap/Always First
+D01115B8 FF00
+301115B8 0001
+#Cross Championship\125Ccm\Reygades\1200 Points
+D01115B8 FF00
+80111584 04B0
+#Cross Championship\250Ccm\Barcelona\Start At Last Lap/Always First
+D0107A30 FF00
+30107A30 0005
+#Cross Championship\250Ccm\Barcelona\300 Points
+D0107A30 FF00
+801079FC 012C
+#Cross Championship\250Ccm\Usa Park\Start At Last Lap/Always First
+D0114008 FF00
+30114008 0002
+#Cross Championship\250Ccm\Usa Park\600 Points
+D0114008 FF00
+80103FD4 0258
+#Cross Championship\250Ccm\Stade De France\Start At Last Lap/Always First
+D01087CC FF00
+301087CC 0003
+#Cross Championship\250Ccm\Stade De France\900 Points
+D01087CC FF00
+80108798 0384
+#Cross Championship\250Ccm\Reygades\Start At Last Lap/Always First
+D0111570 FF00
+30111570 0001
+#Cross Championship\250Ccm\Reygades\1200 Points
+D0111570 FF00
+8011153C 04B0
+#Cross Championship\250Ccm\Belo Horizonte\Start At Last Lap/Always First
+D0107058 FF00
+30107058 0004
+#Cross Championship\250Ccm\Belo Horizonte\1500 Points
+D0107058 FF00
+80107024 05DC
+#World Tour Championship\Isle Of Man Town\Start At Last Lap/Always First
+D010D414 FF00
+3010D414 0003
+%NOTE
+#World Tour Championship\Isle Of Man Town\1200 Points
+D010D414 FF00
+8010D3E0 04B0
+%NOTE
+#Dragster Race\1st Track\Start At Last Lap/Always First
+D010AA04 FF00
+3010AA04 0006
+#Dragster Race\1st Track\Always Good Grip
+D0160076 0200
+80160076 0000
+#Dragster Race\2nd Track\Start At Last Lap/Always First
+D0110F7C FF00
+30110F7C 0001
+#Dragster Race\2nd Track\Always Good Grip
+D017C02E 0200
+8017C02E 0000
+#Freestyle/ Trial\Timer Stopped
+D005697A 0050
+8005697C 0000
+#Freestyle/ Trial\Hide Stopwatch
+D00526BA 0C01
+800526BA 3400
+#Traffic\Start At Last Lap/Always First
+D010E864 FF00
+8010E864 0001
+#Hide Map
+D00525E8 00A8
+800525E8 FFFF
+#Good Grip On Sand
+D00304BA A222
+800304BA A220
+#Good Grip On Grass
+D00304EA A222
+800304EA A220

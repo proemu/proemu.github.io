@@ -1,0 +1,14 @@
+#CG all Nagamori MizuhoKei 
+800E85B0 3FFF 
+#CG all Nanase Rumi 
+800E85B2 0FFF 
+#CG all Shiina cocoon 
+800E85B4 07FF 
+#CG all Shimizu Natsuki 
+800E85B6 03FF 
+#CG all Kozuki Mio 
+800E85B8 7FFF 
+#CG all Kawana Misaki 
+800E85BA 7FFF 
+#CG all Satomura Akane 
+800E85BC 3FFF

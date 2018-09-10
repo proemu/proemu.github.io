@@ -1,0 +1,16 @@
+#Detana! Twinbee\Infinite Lives P1 & 2
+800AC50C 0303
+#Detana! Twinbee\Infinite Barrier P1
+8007FC00 0009
+8007FC02 0040
+#Detana! Twinbee\Infinite Barrier P2
+8007FC20 0009
+8007FC22 0040
+#Twinbee Yahho\Infinite Lives P1
+801D695A 0002
+#Twinbee Yahho\Infinite Lives P2
+801D698A 0002
+
+
+
+

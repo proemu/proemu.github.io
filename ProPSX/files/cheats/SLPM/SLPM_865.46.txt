@@ -1,0 +1,17 @@
+#Always 1st
+800A7C76 0101
+#Infinite Time
+800A7DAC 0D1F
+#Max Credits
+800B5EA4 FFFF
+#Total Time 00:00:00
+50000404 0000
+800B68A8 0000
+#Total Laps 4
+800A7C40 0004
+#Total Laps 5
+800A7C40 0005
+#Total Laps 6
+800A7C40 0006
+
+

@@ -1,0 +1,35 @@
+#Hp 999
+8011DC4C 03E7
+8011DC4A 03E7
+#Mp 999
+800AEC5A 03E7
+800AEB3E 03E7
+#Gold 9999
+800AEAD8 270F
+#Skill 999
+800AEA84 03E7
+#Exp. 9999999
+800AEB9C 869F
+800AEB9E 0001
+#Level 99
+8011DC64 6300
+#Stats 999
+8011DC4E 03E7
+8011DC50 03E7
+8011DC52 03E7
+8011DC54 03E7
+#Light Gauge Max
+800AEC24 2000
+#All items 99
+50005402 0000
+800C0060 6363
+#Number of key elements	
+300AEBD6 007F
+#possible learning technique Sword emergence	
+301142BF 0040
+#possible learning technique Sword dance	
+301142BF 0080
+#possible learning technique Sword attack	
+301142BF 0100	
+#Blacksmith appearance	
+801142D5 0041

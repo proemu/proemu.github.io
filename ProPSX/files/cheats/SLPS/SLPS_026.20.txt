@@ -1,0 +1,17 @@
+#Infinite Life P1 Strider 1
+30062ACA 0063
+#Infinite Time Strider 1
+D004C226 8007
+80062C02 00F0
+D008F97E 2442
+8008F97C 0000
+#1P & 2P invincible 
+80062C26 005A 
+#Infinite Time Strider 1 Alt
+D008F97E 2442 
+8008F97C 0000 
+#Unlock Extras Color Change Option & Stage Select	
+D004D3A4 0000
+8004D3A4 0001
+D004D436 0000
+8004D436 0001

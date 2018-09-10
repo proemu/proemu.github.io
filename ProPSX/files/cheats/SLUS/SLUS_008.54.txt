@@ -1,0 +1,12 @@
+#Infinite Hp
+8008BD40 0064
+#Infinite Money
+8008B594 FFFF
+#Inf Hp In Battle
+8008BD40 03E7
+#All enemies At 0 HP - 1st PosItion		
+800B1314 0000
+#Infinite items all positions	
+800AD1A8 0063
+800AD1AA 2402
+800AD1AE A042

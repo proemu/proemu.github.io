@@ -1,0 +1,28 @@
+#Infinite Time
+80079956 783B
+#Always Place First
+80079972 0001
+#Secret Car Select .With this code, hold L1+UP For Secret Car @1, hold L2+UP For Secret Car @2, hold R1+UP For Secret Car @3,hold R2+UP For Secret Car @4, then Select Any Car!
+D006F264 0410
+8006EDA8 000A
+D006F264 0110
+8006EDA8 000B
+D006F264 0810
+8006EDA8 000C
+D006F264 0210
+8006EDA8 000D
+#Unlock Secret Cars
+80064712 0B0A
+80064714 0D0C
+#Unlock Secret Tracks
+80064748 0604
+8006474A 0807
+8006474C 0A09
+#Points Max
+8007F1C2 FFFF
+#Unlock Slime (Hidden)	
+30064717 000F
+#Unlock Hovercraft (Hidden)		
+30064716 000E
+#Nitro Boost (press R1)		
+30067385 0001

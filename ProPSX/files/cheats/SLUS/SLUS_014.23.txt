@@ -1,0 +1,18 @@
+#Inf Health P1
+83F67047 0080
+#Infinite Time 	
+8007C532 0078
+#P1 Max Chemical X 	
+8009E2BA 0003
+#P2 Infinite Health 	
+8009E2E0 0080
+#P2 Max Chemical 	
+8009E2E2 0003
+#P1 Needs 1 Win To Win		
+D009E2B0 0000
+8009E2B0 0001
+#1-Hit Death P2		
+D009E2E0 0080
+8009E2E0 0001
+#No Health P2	
+8009E2E0 0000

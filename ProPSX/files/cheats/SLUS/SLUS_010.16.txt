@@ -1,0 +1,9 @@
+#Infinite Ammo (All Weapons)
+800454AA 2400
+#Infinite Health
+8008FE04 00FF
+#Unlock All Missions		
+8008FA8C 00FF
+8008FB10 FFFF
+#DIRECTORSCUT Password		
+3008FA94 0001

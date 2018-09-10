@@ -1,0 +1,196 @@
+#Infinite Energy All Levels
+80028D44 03E8
+80028D46 3404
+80028D48 0022
+80028D4A A444
+#Infinite Air All Levels
+801DE092 0708
+#Have All Guns All Levels
+800887BC 0007
+50000504 0040
+800887F4 803C
+80088808 82FC
+8008880C 82BC
+#Gold Lara All Levels
+801DE0A0 FFFF
+#Infinite Ammo All Levels
+801DE124 03E7
+801DE130 03E7
+801DE13C 176F
+#All Items All Levels
+50000602 0000
+800887C8 03E7
+#Infinite Energy
+80176A82 03E8
+#Infinite Energy
+801768C6 03E8
+#Infinite Energy Level 1-3
+800881D0 03E8
+80194AF6 03E8
+#Infinite Energy Level 4
+8017692A 03E8
+#Infinite Energy Level 5
+800881D0 03E8
+80188656 03E8
+#Infinite Energy Level 6
+800881D0 03E8
+8018EE86 03E8
+#Infinite Energy Level 7
+800881D0 03E8
+8019D676 03E8
+#Infinite Energy Level 8
+800881D0 03E8
+801ABAF2 03E8
+#Infinite Energy Level 9
+800881D0 03E8
+801A05CE 03E8
+#Infinite Energy Level 10
+801821BA 03E8
+#Infinite Energy Level 11
+800881D0 03E8
+80189872 03E8
+#Infinite Energy Level 12
+800881D0 03E8
+8018F32A 03E8
+#Infinite Energy Level 13
+800881D0 03E8
+8019F0CA 03E8
+#Infinite Energy Level 14
+8019C6D6 03E8
+#Infinite Energy Level 15
+800881D0 03E8
+801A331A 03E8
+#Infinite Shotgun Shells
+801DE2F8 03E8
+#Infinite Magnum Rounds
+801DE2E0 03E8
+#Infinite Uzi Rounds
+801DE2EC 03E8
+#Infinite Shotgun Shells
+801DE258 001D
+#Magnum-Clips=00Xx
+800887CA 00FF
+#Uzi-Clips=00Xx
+800887CC 00FF
+#Big Medi-Kits=00Xx
+800887CE 00FF
+#Shotgun Shells=00Xx
+801DE13C 00FF
+#Infinite Big Medi-Kits
+8002C3D0 0000
+#Infinite Shotgun Shells
+8003369C 0000
+#Level Select 1
+80027F38 0000
+800876F8 0001
+#Level Select 2
+80027F38 0000
+800876F8 0002
+#Level Select 3
+80027F38 0000
+800876F8 0003
+#Level Select 4
+80027F38 0000
+800876F8 0004
+#Level Select 5
+80027F38 0000
+800876F8 0005
+#Level Select 6
+80027F38 0000
+800876F8 0006
+#Level Select 7
+80027F38 0000
+800876F8 0007
+#Level Select 8
+80027F38 0000
+800876F8 0008
+#Level Select 9
+80027F38 0000
+800876F8 0009
+#Level Select 10
+80027F38 0000
+800876F8 000A
+#Level Select 11
+80027F38 0000
+800876F8 000B
+#Level Select 12
+80027F38 0000
+800876F8 000C
+#Level Select 13
+80027F38 0000
+800876F8 000D
+#Level Select 14
+80027F38 0000
+800876F8 000E
+#Level Select 15
+80027F38 0000
+800876F8 000F
+#All levels unlocked when loading a saved game V 1.1
+70028930 0821
+80028930 0013
+70028932 0032
+80028932 2402
+#Have all weapons and medi-kits V 1.1	
+800887BC 0008
+#Infiinite Oxigen V 1.1 
+80033EA2 2400
+#Infinite health V 1.1 Level 1	
+801768C6 03E8
+#Infinite health V 1.1 Level 2
+80181496 03E8	
+#Infinite health V 1.1 Level 3
+8019493A 03E8
+#Infinite health V 1.1 Level 4
+8017676E 03E8	
+#Infinite health V 1.1 Level 5	
+8018849A 03E8
+#Infinite health V 1.1 Level 6	
+8018ECCA 03E8
+#Infinite health V 1.1 Level 7	
+8019D4BA 03E8
+#Infinite health V 1.1 Level 8	
+801AB936 03E8
+#Infinite health V 1.1 Level 9	
+801A0412 03E8
+#Infinite health V 1.1 Level 10	
+80181FFE 03E8
+#Infinite health V 1.1 Level 11	
+801896B6 03E8
+#Infinite health V 1.1 Level 12	
+8018F16E 03E8
+#Infinite health V 1.1 Level 13
+8019EF0E 03E8	
+#Infinite health V 1.1 Level 14	
+8019C51A 03E8
+#Infinite health V 1.1 Level 15	
+801A315E 03E8
+#Level Select V1.1 1
+300876FC 0001
+#Level Select V1.1 2
+300876FC 0002
+#Level Select V1.1 3
+300876FC 0003
+#Level Select V1.1 4
+300876FC 0004
+#Level Select V1.1 5
+300876FC 0005
+#Level Select V1.1 6
+300876FC 0006
+#Level Select V1.1 7
+300876FC 0007
+#Level Select V1.1 8
+300876FC 0008
+#Level Select V1.1 9
+300876FC 0009
+#Level Select V1.1 10
+300876FC 000A
+#Level Select V1.1 11
+300876FC 000B
+#Level Select V1.1 12
+300876FC 000C
+#Level Select V1.1 13
+300876FC 000D
+#Level Select V1.1 14
+300876FC 000E
+#Level Select V1.1 15
+300876FC 000F

@@ -1,0 +1,30 @@
+#Invincible
+800DB8D4 0001
+#Enroachment 100%
+800D70E6 0064
+#Max Score
+800D9A6C 369A
+800D9A6E C9FF
+#Quick Round Divider Bar
+800D9A76 0010
+#Infinite Lives
+300DBAAF 0002
+#Max Score
+800D9C8C C9FF
+800D9C8E 3B9A
+#Always Have Round Divider
+800D9C96 0010
+#Have Max Lockons
+800DBAB8 001A
+#Unlock Art Gallery
+800B26BA 0001
+800BDDE0 000B
+#100% Enchroachment
+800D7306 0064
+800D730C 0064
+#The addition of items to the GAME CONFIGURATION OPTION MODE within .After reviewing an item is present has been added on the OPTION screen, make the save, please start the game OFF the code.
+300B2476 0020 
+300B247D 0020 
+#ART GALLERY fully opened GAMERULE & MATERIAL within
+300B247E 0004
+

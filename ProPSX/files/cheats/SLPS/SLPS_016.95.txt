@@ -1,0 +1,16 @@
+#Enemy Team Scores = 0
+801E2C2A 0000
+#Press L1 To Set Player 1 Score To Zero
+D0198B40 0008
+801E2C2A 0000
+#Press R1 To Set Player 2 Score To Zero
+D0198B40 0004
+801E2C28 0000
+#Press L2 To Set Player 1 Score To 14
+D0198B40 0002
+801E2C2A 000F
+#Press R2 To Set Player 2 Score To 14
+D0198B40 0001
+801E2C28 000F
+#Unlock All Hidden Teams And Secret Modes
+801E2BB2 0400

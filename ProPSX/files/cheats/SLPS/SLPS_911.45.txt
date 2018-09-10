@@ -1,0 +1,14 @@
+#Infinite energy Player 1 stage 2  
+800E4D84 00C8 
+#Infinite energy Player 1 stage 3  
+800F1154 00C8 
+#Infinite energy Player 1 stage 4  
+800E5218 00C8 
+#Infinite energy Player 1 stage 5  
+800F1784 00C8 
+#Infinite energy Player 1 stage 6  
+800E4D08 00C8 
+#Infinite energy Player 1 stage 7 & 8  
+800CEBE8 00C8 
+#Infinite energy Player 1 stage 9 (Final Stage)  
+800F4D64 00C8 

@@ -1,0 +1,32 @@
+#Polygon Farm Stop Timer
+800B589C 22E2
+#Polygon Farm Have All Sheep
+D00B58A4 0000
+800B58A4 001E
+#Polygon Farm Max Bonus
+D00B58A8 0000
+800B58A8 FFFF
+#Village Fete Stop Timer
+800B797C 22E2
+#Village Fete Have All Sheep
+D00B7984 0000
+800B7984 001E
+#Village Fete Max Bonus
+D00B7988 0000
+800B7988 FFFF
+#Lost In Space  Timer
+800BC054 22A8
+#Lost In Space Have All Sheep
+D00BC05C 001E
+800BC05C 001E
+#Lost In Space Max Bonus
+D00BC05E 0000
+800BC05E FFFF
+#Jurassic Level Stop Timer
+800B5F1C 30A3
+#Jurassic Level Ave All Sheeps
+D00B5F24 0000
+800B5F24 001E
+#Jurassic Level Max Bonus
+D00B5F28 0000
+800B5F28 FFFF

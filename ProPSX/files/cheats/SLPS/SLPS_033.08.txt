@@ -1,0 +1,3 @@
+#Quick Win - Press L1 Wait till you're in first position only then press L1 to finish the race.
+D0197D4A FBFF
+80196F18 0004

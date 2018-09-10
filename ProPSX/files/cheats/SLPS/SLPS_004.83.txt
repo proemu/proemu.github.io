@@ -1,0 +1,9 @@
+#Infinite Hp Character 1
+800C4E96 0063
+#Infinite & Max Sp Character 1
+800C4E97 0063
+#Infinite HP character boy with a hat
+800C4F92 0063
+#Infinite Money (60000)
+800D1850 EA60
+

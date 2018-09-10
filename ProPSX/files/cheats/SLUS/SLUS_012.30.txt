@@ -1,0 +1,10 @@
+#Unlock All Classses
+80086E68 000F
+#Unlock All Tracks
+80086E6C 0FFF
+#Max Money
+800DCF84 03E8
+#Lap Timer Always 00:00:00
+8006F22C 0041
+#Freeze Cpu
+8004D27E 2400

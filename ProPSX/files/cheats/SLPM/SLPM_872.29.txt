@@ -1,0 +1,35 @@
+#Infinite energy first character  
+8007A766 2710 
+#Main Character POW=100  
+8007A768 2710 
+#Main Character ATN=100  
+8007A76A 2710 
+#Main Character INT=100  
+8007A76C 2710 
+#Main Character VIT=100  
+8007A76E 2710 
+#Main Character OFE=100  
+8007A770 2710 
+#Main Character DEF=100  
+8007A772 2710 
+#Infinite energy second character  
+8007A8E6 2710 
+#Have 99 of each peice picked up  
+8007CC2E 6363
+8007CC30 6363
+8007CC32 6363
+3007CC34 0063 
+#9999 water  
+8007B75A 270F 
+#9999 food  
+8007B75C 270F 
+#9999 fuel  
+8007B75E 027F 
+#Explorer (Man With Hat) Infinite Hp  
+8007AEE6 2710 
+#Hostess Girl Infinite Hp  
+8007AD66 2710 
+#Short Blue Hair Girl Infinite Hp  
+8007AA66 2710 
+#Brown Long Hair Girl Infinite Hp  
+8007ABE6 2710 

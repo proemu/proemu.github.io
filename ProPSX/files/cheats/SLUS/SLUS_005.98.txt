@@ -1,0 +1,14 @@
+#Infinite Lives
+80095310 0009
+#Infinite Health
+80095314 0004
+#Invincible
+800A039C 001D
+#Infinite time
+80140C88 1388
+#Have All Collectables	
+80095318 0063
+8009531C 0062
+80095320 0062
+#MEGA CHEAT!		
+800975DC 00FF

@@ -1,0 +1,36 @@
+#Home Team Score 9
+800D09BE 0009
+#Home Team Score 0
+800D09BE 0000
+#Away Team Score 9
+800D09C0 0009
+#Away Team Score 0
+800D09C0 0000
+#All Goals For Home Team
+80055298 0000
+8005529A 2484
+#All Goals For Away Team
+80055298 0002
+8005529A 2484
+#Character Creation Codes\Max Skating
+8012F098 0063
+#Character Creation Codes\Max Speed
+8012F144 0063
+#Character Creation Codes\Max Shot Power
+8012F1F0 0063
+#Character Creation Codes\Max Shooting Accuracy
+8012F29C 0063
+#Character Creation Codes\Max Passing Ability
+8012F348 0063
+#Character Creation Codes\Max Puck Handling
+8012F3F4 0063
+#Character Creation Codes\Max Endurance
+8012F4A0 0063
+#Character Creation Codes\Max Aggression
+8012F54C 0063
+#Character Creation Codes\Max Checking
+8012F5F8 0063
+#Character Creation Codes\Max Offensive Awareness
+8012F6A4 0063
+#Character Creation Codes\Max Defensive Awareness
+8012F750 0063

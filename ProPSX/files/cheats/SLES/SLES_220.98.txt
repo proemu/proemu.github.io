@@ -1,0 +1,17 @@
+#Vulgus\Infinite Lives P1
+800AAD04 0005
+#Vulgus\Infinite Lives P2
+800AACE4 0005
+#Vulgus\Infinite Missiles
+800AACEA 1505
+#Son Son\Infinite Lives P1
+3011AAE4 0005
+#Son Son\Infinite Lives P2
+3011AAE5 0005
+#Higemaru\Infinite Lives
+800A5768 0005
+#Exed Eyes\Infinite Energy
+8010F010 AD00
+#Exed Eyes\Infinite Bombs
+D010E040 0002
+8010E040 0003

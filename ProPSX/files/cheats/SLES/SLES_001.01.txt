@@ -1,0 +1,28 @@
+#Infinite Energy
+8009A784 03E7
+#Infinite Charge Granades
+8009A5EC 03E7
+#Infinite Pulse-Laser
+8009A5E4 03E7
+#Infinite Gun-Ammo
+8009A78A 03E7
+#Infinite Rifle-Ammo
+8009A78E 03E7
+#Infinite Flamethrower
+8009A5E6 03E7
+#Infinite Pulse-Laser
+8009A5E0 03E7
+#Infinite Smart Gun
+8009A5E8 03E7
+#Infinite Batteries
+8009A5EE 03E7
+#Rifle Equipped
+8008F8D2 0001
+#Flamethrower Equipped
+8008F8DE 0001
+#Pulse-Laser Equipped
+8008F8D6 0001
+#Smart Gun Equipped
+8008F8DA 0001
+#Rapid Firing
+8009A5BA 0001

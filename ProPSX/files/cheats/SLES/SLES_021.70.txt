@@ -1,0 +1,33 @@
+#P1 Infinite Lives
+800A57C8 0303
+#Infinite Lives P2	
+800A5B38 0404
+#Infinite Lives P3	
+800A5EA8 0404
+#Infinite Lives P4		
+800A6218 0404
+#Registers A 16 Hit Combo
+800A57E4 0010
+#Always Have Special Power Ability
+800A57C6 A000
+#P1 Infinite health	
+800A57C4 A000
+#P2 Infinite health	
+800A5B34 A000
+#P3 Infinite health
+800A5EA4 A000
+#P4 Infinite health
+800A6214 A000
+#Sanctuary , Videoplayer, Artwork & Gamemodes unlocked 
+D01EA61A 0001
+301EA61A 00FF
+#Unlock All characters	
+801EA1BC FFFF
+801EA1BE 001F
+#Unlock All Extras		
+801EA1BC FFFF
+301EA1BE 001F
+801EA1C0 FFFF
+50002D01 0000
+301EA438 00FF
+301EA4A4 00FF

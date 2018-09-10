@@ -1,0 +1,8 @@
+#Infinite Money P1
+8008E9CA 0098
+#Infinite Money P2
+8008EB72 0098
+#Infinite Money P3
+8008ED1A 0098
+#Infinite Money P4
+8008EEC2 0098

@@ -1,0 +1,27 @@
+#Infinite Money
+80180360 9676
+80180362 0098
+#Ship 1 Codes\Now Hp 65535
+801365C8 FFFF
+#Ship 1 Codes\Max Hp 65535
+800D6E30 FFFF
+#Ship 1 Codes\Now En 999
+801365CA 07CE
+#Ship 1 Codes\Max En 999
+800D6E2E 07CE
+#Ship 1 Codes\Max Act
+300D6E34 0063
+#Ship 1 Codes\Max Def
+300D6E35 0031
+#Ship 2 Codes\Now Hp 65535
+801365D0 FFFF
+#Ship 2 Codes\Max Hp 65535
+800D6DB0 FFFF
+#Ship 2 Codes\Now En 999
+801365D2 07CE
+#Ship 2 Codes\Max En 999
+800D6EAE 07CE
+#Ship 2 Codes\Max Act
+300D6EB4 0063
+#Ship 2 Codes\Max Def
+300D6EB5 0031

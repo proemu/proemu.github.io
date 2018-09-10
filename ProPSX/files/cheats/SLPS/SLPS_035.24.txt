@@ -1,0 +1,30 @@
+#All gALLERIES + 01h 
+30010123 00FF 
+30010176 00FF
+#Degree of kindred Max Karen	
+30010896 00FF	
+#Degree of kindred Max Spike	
+30010898 00FF
+#Degree of kindred Max Mamoru	
+3001089A 00FF
+#Degree of kindred Max Sakuya	
+3001089c 00FF
+#Degree of kindred Max Hinako	
+3001089E 00FF
+#Degree of kindred Max Temari	
+300108A0 00FF
+#Degree of kindred Max Snow White	
+300108A2 00FF
+#Degree of kindred Max Lingling	
+300108A4 00FF
+#Degree of kindred Max Chikage 
+300108A6 00FF 
+#Degree of kindred Max Spring singing
+300108A8 00FF 
+#Degree of kindred Max Yotsuba 
+300108AA 00FF 
+#Degree of kindred Max The ???
+300108AC 00FF 
+
+
+

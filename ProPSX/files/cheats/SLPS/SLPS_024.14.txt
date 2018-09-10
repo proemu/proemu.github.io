@@ -1,0 +1,36 @@
+#Infinite energy
+80075E80 0032
+80075E88 0028
+80075E8C 0028
+80075E84 003C
+#Infinite money 99999
+80076724 869F
+80076726 0001
+#Point 1000 
+8007C2B0 03E8 
+#Get experience value 9999 
+800DE6F8 270F 
+#Speeding up 
+D003A7B8 FFE9 
+8003A7B8 0001 
+#We attack the head parts always
+80075E50 0000
+#Immediate action
+80075E64 0000
+80075E68 0000
+#Head parts remaining number MAX
+80075E6C 03E7
+#Damage MAX
+80075F14 7FFF
+#"Head parts fully open
+5000FF01 0000
+30077220 0063
+#Left arm parts fully open
+5000FF01 0000
+30077320 0063
+#Right arm parts fully open
+5000FF01 0000
+30077420 0063
+#Leg parts fully open
+5000FF01 0000
+30077520 0063

@@ -1,0 +1,15 @@
+#Infinite Health P1	
+801FB884 03E8
+801FB888 03E8			
+#Infinite Health P1 Partner	
+801FC394 03E8
+801FC398 03E8				
+#No Health P2	
+801FBE0C 0000
+801FBE10 0000
+#Enable all Characters
+50006001 0000
+3007A0A1 0001
+#Enable all Might Meters
+50003604 0000
+8007A180 6307

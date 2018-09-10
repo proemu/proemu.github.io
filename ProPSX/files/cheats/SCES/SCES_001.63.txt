@@ -1,0 +1,8 @@
+#Infinite Lives
+800B037C 0003
+#Infinite Marbles
+800AFFC4 000A
+#Invincible
+800AFBF0 0033
+#Level Select 		
+300AFF34 0001

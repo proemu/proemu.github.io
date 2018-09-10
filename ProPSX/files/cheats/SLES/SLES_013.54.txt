@@ -1,0 +1,20 @@
+#Infinite Continues
+800B65D4 0005
+#Infinite Time
+800B277C 096C
+#Infinite Health
+8008C62C 0015
+800B70DE 7BDE 
+#Always Play Level Phat Tony's Casino
+800B27C0  0001
+#Always Play Level Shop Til' You Drop
+800B27C0  0002
+#Always Play Level Grandpa's In The House
+800B27C0  0003
+#Always Play Level Tripping In The Park
+800B27C0  0004
+#Always Play Level Fun Park Massive
+800B27C0  0005
+#Always Play Level No One Can Stop Mr.Domino
+800B27C0  0006
+

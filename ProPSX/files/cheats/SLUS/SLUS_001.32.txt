@@ -1,0 +1,4 @@
+#Infinite Prestige P1
+800EDB84 07D0
+#Infinite Turns Remaining
+80089A90 0A00

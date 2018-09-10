@@ -1,0 +1,7 @@
+#Always 1st
+8010450C 0000
+80104524 0000
+#Infinite Damage
+801024DC 1F99
+#Infinite Checkpoint time
+80104508 0063

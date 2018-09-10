@@ -1,0 +1,8 @@
+#100 Punkte Heimmannschaft
+800911BC 0064
+#0 Punkte Heimmannschaft
+800911BC 0000
+#100 Punkte Gastmannschaft
+8009FD5C 0064
+#0 Punkte Gastmannschaft
+8009FD5C 0000

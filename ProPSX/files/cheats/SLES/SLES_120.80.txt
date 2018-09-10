@@ -1,0 +1,110 @@
+#Save Anywhere
+80070B02 0100
+#Have Infinite Money
+80078334 0FFF
+80078336 5F5E
+#Squall Codes\Hit Points At 9999
+80077CB8 270F
+80077CBA 270F
+#Squall Codes\Str/Vit At Maximum
+80077CC2 FFFF
+#Squall Codes\Mag/Spr At Maximum
+80077CC4 FFFF
+#Squall Codes\Spd/Luck At Maximum
+80077CC6 FFFF
+#Squall Codes\Level 100
+80077CBC E100
+80077CBE 5F5E
+#Squall Codes\Have All Magic
+50002002 0001
+80077CC8 6301
+#Quistis Codes\Hit Points At 9999
+80077E80 270F
+80077E82 270F
+#Quistis Codes\Str/Vit At Maximum
+80077E8A FFFF
+#Quistis Codes\Mag/Spr At Maximum
+80077E8C FFFF
+#Quistis Codes\Spd/Luck At Maximum
+80077E8E FFFF
+#Quistis Codes\Level 100
+80077E84 E100
+80077E86 5F5E
+#Quistis Codes\Have All Magics
+50002002 0001
+80077E90 6321
+#Seifer Codes\Hit Points At 9999
+80078048 270F
+8007804A 270F
+#Seifer Codes\Str/Vit At Maximum
+80078052 FFFF
+#Seifer Codes\Mag/Spr At Maximum
+80078054 FFFF
+#Seifer Codes\Spd/Luck At Maximum
+80078056 FFFF
+#Seifer Codes\Level 100
+8007804C E100
+8007804E 5F5E
+#Seifer Codes\Have All Magics
+50002002 0001
+80078058 6301
+#Zell-Codes\Hit Points At 9999
+80077D50 270F
+80077D52 270F
+#Zell-Codes\Str/Vit At Maximum
+80077D5A FFFF
+#Zell-Codes\Mag/Spr At Maximum
+80077D5C FFFF
+#Zell-Codes\Spd/Luck At Maximum
+80077D5E FFFF
+#Zell-Codes\Level 100
+80077D54 E100
+80077D56 5F5E
+#Zell-Codes\Have All Magics
+50002002 0001
+80077D60 6329
+#Selphie-Codes\Hit Points At 9999
+80077FB0 270F
+80077FB2 270F
+#Selphie-Codes\Str/Vit At Maximum
+80077FBA FFFF
+#Selphie-Codes\Mag/Spr At Maximum
+80077FBC FFFF
+#Selphie-Codes\Spd/Luck At Maximum
+80077FBE FFFF
+#Selphie-Codes\Level 100
+80077FB4 E100
+80077FB6 5F5E
+#Selphie-Codes\Have All Magics
+50002002 0001
+80077FC0 6301
+#Rinoa-Codes\Hit Points At 9999
+80077F18 270F
+80077F1A 270F
+#Rinoa-Codes\Str/Vit At Maximum
+80077F22 FFFF
+#Rinoa-Codes\Mag/Spr At Maximum
+80077F24 FFFF
+#Rinoa-Codes\Spd/Luck At Maximum
+80077F26 FFFF
+#Rinoa-Codes\Level 100
+80077F1C E100
+80077F1E 5F5E
+#Rinoa-Codes\Have All Magics
+50002002 0001
+80077F28 6301
+#Irvine-Codes\Hit Points At 9999
+80077DE8 270F
+80077DEA 270F
+#Irvine-Codes\Str/Vit At Maximum
+80077DF2 FFFF
+#Irvine-Codes\Mag/Spr At Maximum
+80077DF4 FFFF
+#Irvine-Codes\Spd/Luck At Maximum
+80077DF6 FFFF
+#Irvine-Codes\Level 100
+80077DEC E100
+80077DEE 5F5E
+#Irvine-Codes\Have All Magics
+50002002 0001
+80077DF8 6301

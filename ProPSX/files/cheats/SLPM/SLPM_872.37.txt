@@ -1,0 +1,15 @@
+#Infinite money
+801CB15C 423F
+801CB15E 000F
+#Main character (Kalin) Infinite & Max HP
+801EA4A4 03E7
+801EA4A6 03E7
+#Main character (Kalin) Infinite & Max MP
+801EA4A8 03E7
+801EA4AA 03E7
+#Second Character Infinite & Max HP
+801EA520 03E7
+801EA522 03E7
+#Second Character Infinite & Max MP
+801EA524 03E7
+801EA526 03E7

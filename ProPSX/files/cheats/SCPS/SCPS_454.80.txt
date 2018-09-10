@@ -1,0 +1,14 @@
+#Infinite Life
+800E73DE 012C 
+#Ammo in the magazine
+800E7408 1383 
+#Infinite Energy
+800E7404 FFFF 
+800E7406 0FFF 
+#Rick OR Mituki Infinite Hp
+800A9390 0034
+800A93A4 0034
+#Rick OR Mituki Infinite Eng
+800E7408 1FFF
+#Rick OR Mituki Infinite Lnf/Npm
+800E740A 0FFF

@@ -1,0 +1,8 @@
+#Infinite Shield P1
+800D7D4C 2000
+#Infinite Dokuro-Stone P1
+800CBF8C 0063
+#Infinite Shield P2
+800D7DCC 2000
+#Infinite Dokuro-Stone P2
+800CBF90 0063

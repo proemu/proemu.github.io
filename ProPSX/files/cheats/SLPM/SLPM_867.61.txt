@@ -1,0 +1,14 @@
+#All Tables
+800A836C 0008
+#Timer Frozen
+800A8228 0000
+#Player 1 Starts With 6 Goals
+D00A8340 0000
+300A8340 0006
+#Player 1 Has 2 Sets Won
+D00A8334 0000
+300A8334 0002
+#Player always score = 15
+800A8340 000F
+#Opponent score = 0
+800A8344 0000

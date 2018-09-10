@@ -1,0 +1,19 @@
+#Inf Health P1
+800ECE54 00A0
+#Secret Characters Modifier - Original Mode Inar
+800D16A6 000C
+#Secret Characters Modifier - Original Mode Sasurai
+800D16A6 000D
+#Secret Characters Modifier - Original Mode Mamano
+800D16A6 000E
+#Secret Characters Modifier - Original Mode Seiken
+800D16A6 000F
+#Secret Characters Modifier - Original Mode Chimena
+800D16A6 0010
+#Secret Characters Modifier -Story Mode  Wise
+800D16A6 0005
+#Secret Characters Modifier -Story Mode  Lamille
+800D16A6 0005
+#Secret Characters Modifier -Story Mode  Rekka
+800D16A6 0007
+

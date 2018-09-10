@@ -1,0 +1,14 @@
+#God mode	
+800B53C0 00FF		
+#Enable debug menu
+800B 54EA 0200
+#Infinite Health All levels (After pressing several buttons on the Joypad Duke`s health will be filled up. Try it!)
+D00EC988 0001
+800EC95A FF00
+D00EC988 0000
+800EC95A 0000
+#Finish level successful (Press L1 & L2)	
+D00B6172 0005
+300EC952 0001
+#Weapon-in-hand-modifier (0-8)
+300EC91C 0008

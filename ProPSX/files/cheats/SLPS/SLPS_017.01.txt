@@ -1,0 +1,46 @@
+#War Wolf\Infinite Bombs
+D0035C3C 0B8C
+80035BF2 0040
+#War Wolf\Infinite Life
+D00413B0 0547
+80041320 0000
+#War Wolf 2\Infinite Time
+D0035C10 5D84
+301E8212 0009
+#War Wolf 2\P1 Invincible
+301E8442 007F
+#War Wolf 2\P1 Max Bombs
+301E842E 0009
+#War Wolf 2\P1 Infinite Hp
+801E8426 2000
+#War Wolf 2\P1 Infinite Power
+301E843A 0009
+#War Wolf 2\P1 All Weapons Selected. (.Press Triangle+L2 = Flame Triangle+R2 = spread gun Triangle+L1 = guncon Triangle+R1 = fastest gun)
+D00CE6E0 0011
+301E8437 0001
+D00CE6E0 0012
+301E8437 0002
+D00CE6E0 0014
+301E8437 0003
+D00CE6E0 0018
+301E8437 0000
+#War Wolf 2\P2 Invincible
+301E84FA 007F
+#War Wolf 2\P2 Max Bombs
+301E84E6 0009
+#War Wolf 2\P2 Infinite Hp
+801E84DE 2000
+#War Wolf 2\P2 Infinite Power
+301E84F2 0009
+#War Wolf 2\P2 All Weapons Selected. (.Press Triangle+L2 = Flame Triangle+R2 = spread gun Triangle+L1 = guncon Triangle+R1 = fastest gun)
+D00CE700 0011
+301E84EF 0001
+D00CE700 0012
+301E84EF 0002
+D00CE700 0014
+301E84EF 0003
+D00CE700 0018
+301E84EF 0000
+#Gun Smoke\Infinite Life
+D00345E0 2850
+800345DC 0000

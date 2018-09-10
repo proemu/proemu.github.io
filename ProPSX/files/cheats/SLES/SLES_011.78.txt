@@ -1,0 +1,5 @@
+#Stopwatch 00:00:00 / Always First
+800470D2 AC80
+#Start with 50.000 points / Always first		
+D0114370 0000
+80114370 C350

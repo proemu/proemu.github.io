@@ -1,0 +1,18 @@
+#Infinite Health P1
+80099350 0001
+#No Health P1
+80099350 0000
+#Infinite Health P2
+80099354 0001
+#No Health P2
+80099354 0000
+#Stop Timer
+8009E1EC 0064
+#Infinite Credits
+80098658 0009
+#X-Tra Damage P1
+80099358 0001
+#X-Tra Damage P2
+8009935C 0001
+#Continues No Limit
+800986C4 000A

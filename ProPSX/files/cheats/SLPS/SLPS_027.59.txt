@@ -1,0 +1,30 @@
+#No stress
+80051164 0000
+#Running 999
+80051144 03E7
+#Strengh 999
+80051148 03E7
+#Computer 999
+8005114C 03E7
+#Communications 999
+80051150 03E7
+#Pilot mecha 999
+80051154 03E7
+#Virtual Reality 999
+80051158 03E7
+#Flight Simulator 999
+8005115C 03E7
+#Gravity simulator 999
+80051160 03E7
+#Overall ranking	
+30051122 0063
+#Event clear number of times	
+3005112D 0063
+#POINTS 99	
+3005112E 0063
+#Clear state All characters becomes clear state	
+300527AF 00FF
+#Male version Gallery / Age	
+300527FF 00FF	
+#Female version Gallery / Age	
+300527BF 00FF	

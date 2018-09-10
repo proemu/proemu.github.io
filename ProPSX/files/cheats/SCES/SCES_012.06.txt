@@ -1,0 +1,18 @@
+#Player 1 Infinite HP Stage vs Plague
+8001EBB0 0190
+#Player 1 Infinite HP Stage vs Finkster & Mckrieg
+8001E930 0190
+#Player 1 Infinite HP Stage vs Hecklar & Nephira 
+8001ECF0 0190
+#Player 1 Infinite HP Stage vs Mongwan
+8001F330 0190 
+#Player 1 Infinite HP Stage vs Vanguard & Orion
+8001F1F0 0190
+#Player 1 Infinite HP Stage vs Mongoro
+8001EE30 0190
+#Player 1 Infinite HP Stage vs Syn
+8001EF70 0190 
+#Player 1 Infinite HP Stage vs Kronn 
+8001B1F0 0190
+#Kronn  HP 0
+8001AE30 0000

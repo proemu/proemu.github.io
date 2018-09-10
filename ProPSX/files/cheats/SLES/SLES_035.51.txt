@@ -1,0 +1,5 @@
+#Have 2450 credits banked (Press Select & R1)		
+D007A92C 0801
+800A4610 0992
+#Infinite time		
+8007A970 2316

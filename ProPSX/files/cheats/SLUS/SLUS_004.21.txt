@@ -1,0 +1,10 @@
+#Infinite Health Leon	
+800C7E7A 00C8
+#Have All Events Done 	
+50007D02 0000
+800CC95A FFFF
+#Save anywhere  press L1 and X and have 1 ink ribbon	
+D00C646C 0044
+800CC5C8 E5B0
+D00C646C 0044
+800CC5CA 8004

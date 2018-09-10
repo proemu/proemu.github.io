@@ -1,0 +1,14 @@
+#Infinite Energy P1
+8003219E 00A6
+#P1 Always Has Full Aggressor
+80032698 00CC
+#All Treasure Open No Matter What Destiny You Pick
+8003363C 000B
+#P2 No Energy		
+80032316 0000
+#Stage Select is ON		
+8003C940 0001
+#Infinite Health P1 (Version 1.1)
+80032146 00A6
+#P1 Always Has Full Aggressor (Version 1.1)
+80032646 00CC

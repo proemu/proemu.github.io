@@ -1,0 +1,17 @@
+#Have 99999 money
+80162D20 869F
+80162D22 0001
+#Max Ramen Sell
+801E1280 423F
+801E1282 000F
+#All Items 
+50004F02 0000
+801E1A70 0101
+#Charged tasting number 9999 soup
+8008A6B8 270F
+#Charged in the number of tasting 9999 fixture
+8008A6BA 270F
+#If you raise the noodles while pressing the SELECT button, so the best boiled
+D008A368 0100
+8008A4B4 008E
+

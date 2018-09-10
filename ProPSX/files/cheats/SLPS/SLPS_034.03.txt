@@ -1,0 +1,6 @@
+#Infinites lives Destroy Objects
+8003E7C6 0003
+#Infinite health
+8003E768 03E8
+#Infinites lives obstacle race
+8003E7C2 0003

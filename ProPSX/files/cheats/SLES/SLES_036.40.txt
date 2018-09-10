@@ -1,0 +1,30 @@
+#Infinite time car minigame	
+801EDF20 FFFF
+#Infinite time	dog minigame	
+800AD7AC 270F
+#Have all of the objects to put in the paintings L1+R1 to activate or L1 to deactivate if you want to watch the movie bonus		
+80079664 0000
+80079666 0000
+80079668 0007
+8007966A 1447
+D01CBC5A F3FF
+80079664 0003
+D01CBC5A F3FF
+80079666 3402
+D01CBC5A F3FF
+80079668 0078
+D01CBC5A F3FF
+8007966A A4A2
+D01CBC5A FBFF
+80079664 0000
+D01CBC5A FBFF
+80079666 3402
+D01CBC5A FBFF
+80079668 0078
+D01CBC5A FBFF
+8007966A A4A2
+#Start with 99 films taken	
+80078C1A 2400
+#Stop timer level take the mole		
+80067BC8 0000
+

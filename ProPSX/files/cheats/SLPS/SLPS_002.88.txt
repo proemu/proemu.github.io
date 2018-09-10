@@ -1,0 +1,8 @@
+#Infinite Money 60000
+80047CC0 EA60
+#Infinite Energy Character 1
+800E0078 03E7
+#Infinite Energy Character 2
+800E00F4 03E7
+#Infinite Energy Character 3
+800E0170 03E7

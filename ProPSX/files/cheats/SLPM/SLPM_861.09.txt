@@ -1,0 +1,28 @@
+#Infinite HP 1st Character in battle
+801255B2 03E7
+#Infinite Morale 1st Character in battle
+801255B6 270F
+#Infinite MP 1st Character in battle
+801255B6 03E7
+#Infinite HP 2nd Character in battle
+80125656 03E7 
+#Infinite MP 2nd Character in battle
+8012565A 03E7
+#Infinite HP 3rd Character in battle
+801256FA 03E7
+#Infinite MP 3rd Character in battle
+801256FE 03E7
+#Quick Level Up
+800F63BC FFFF
+#Infinite Money
+800FD700 FFFF
+#Max Money 	
+800FD700 967F 
+800FD702 0098
+#All Mystery	
+300FD4FF 00FF	
+#I remember all mystery	
+800FD4FC FFFF 
+300FD4FE 00FF
+#No random battles
+301280DC 0000

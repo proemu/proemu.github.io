@@ -1,0 +1,10 @@
+#Have All Cars
+D009CF7C 0006
+8009CF80 0018
+D009CF38 73EA
+8009CF3E 0017
+#Max Points 
+3001B20D 00FFF
+#Stop Timer/Always Place 1st You need to turn off the code to let the time goes up a little bit before the race ends as the champ mode does not accept 00:00:00 as your time
+800F6FB4 06EC
+

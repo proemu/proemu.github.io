@@ -1,0 +1,4 @@
+#Max energy Battleship
+801E2355 004E
+#Infinite Battleship HP
+801AA64C 2710

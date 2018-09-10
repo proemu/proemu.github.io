@@ -1,0 +1,13 @@
+#Vida Infinita
+80127D44 0032
+#Dinero Infinito
+800A8D94 270F
+801EB834 270F
+#99 Halcones Dorados
+801EB83A 0063
+#Tener Siempre Una Llave
+800C8D84 0001
+801EB934 0001
+#Magia Infinita
+800A828C 0001
+801EB830 0001

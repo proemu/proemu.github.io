@@ -1,0 +1,14 @@
+#Infinite money
+8004F0D4 2710
+#Knockout mode P1 scores always 999 points 
+D106A772 0000
+8006A776 03E7
+#League Player Manager P1 scores always 999 points 	
+D1069566 0000
+80069566 03E7
+#League team Manager P1 scores always 999 points 	
+D10699CA 0000
+800699CA 03E7
+#Cup P1 scores always 999 points 	
+D1069102 0000
+80069102 03E7

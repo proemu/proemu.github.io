@@ -1,0 +1,7 @@
+#Max Money
+80110002 7FFF
+#Max Member
+80110006 5FFF
+#Subscriber total of 20 million people 
+80110004 9400 
+80110006 7735

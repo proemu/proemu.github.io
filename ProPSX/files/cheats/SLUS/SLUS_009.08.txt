@@ -1,0 +1,312 @@
+#Save Anywhere
+80070652 0100
+#Max Gil
+80077E84 967F
+80077E86 0098
+#No Random Battles
+80078DF8 000C
+#In-Battle Codes 1st Position Infinite Health
+80078892 270F
+#In-Battle Codes 2nd Position Infinite Health
+80078A62 270F
+#In-Battle Codes 3rd Position Infinite Health
+80078C32 270F
+#In-Battle Codes Infinite Magic (All Characters)
+800AF486 2400
+#In-Battle Codes 1st Position Infinite Health Gf
+80078738 270F
+#In-Battle Codes 2nd Position Infinite Health Gf
+80078908 270F
+#In-Battle Codes 3rd Position Infinite Health Gf
+80078AD8 270F
+#Guardian Forces Codes\Alexander Codes\Unlock It
+30077681 0001
+#Guardian Forces Codes\Alexander Codes\Infinite Hp
+80078DB0 270F
+#Guardian Forces Codes\Alexander Codes\Max Hp
+80078DB2 270F
+#Guardian Forces Codes\Alexander Codes\Max Exp
+80078DB4 E0FF
+80078DB6 05F5
+#Guardian Forces Codes\Alexander Codes\Level 99
+80078DB8 0063
+#Guardian Forces Codes\Bahamut Codes\Unlock It
+30077709 0001
+#Guardian Forces Codes\Bahamut Codes\Infinite Hp
+80078DC8 270F
+#Guardian Forces Codes\Bahamut Codes\Max Hp
+80078DCA 270F
+#Guardian Forces Codes\Bahamut Codes\Max Exp
+80078DCC E0FF
+80078DCE 05F5
+#Guardian Forces Codes\Bahamut Codes\Level 99
+80078DD0 0063
+#Guardian Forces Codes\Brothers Codes\Unlock It
+300774E9 0001
+#Guardian Forces Codes\Brothers Codes\Infinite Hp
+80078D68 270F
+#Guardian Forces Codes\Brothers Codes\Max Hp
+80078D6A 270F
+#Guardian Forces Codes\Brothers Codes\Max Exp
+80078D6C E0FF
+80078D6E 05F5
+#Guardian Forces Codes\Brothers Codes\Level 99
+80078D70 0063
+#Guardian Forces Codes\Cactuar Codes\Unlock It
+3007774D 0001
+#Guardian Forces Codes\Cactuar Codes\Infinite Hp
+80078DD4 270F
+#Guardian Forces Codes\Cactuar Codes\Max Hp
+80078DD6 270F
+#Guardian Forces Codes\Cactuar Codes\Max Exp
+80078DD8 E0FF
+80078DDA 05F5
+#Guardian Forces Codes\Cactuar Codes\Level 99
+80078DDC 0063
+#Guardian Forces Codes\Carbuncle Codes\Unlock It
+30077571 0001
+#Guardian Forces Codes\Carbuncle Codes\Infinite Hp
+80078D80 270F
+#Guardian Forces Codes\Carbuncle Codes\Max Hp
+80078D82 270F
+#Guardian Forces Codes\Carbuncle Codes\Max Exp
+80078D84 E0FF
+80078D86 05F5
+#Guardian Forces Codes\Carbuncle Codes\Level 99
+80078D88 0063
+#Guardian Forces Codes\Cerberus Codes\Unlock It
+3007763D 0001
+#Guardian Forces Codes\Cerberus Codes\Infinite Hp
+80078DA4 270F
+#Guardian Forces Codes\Cerberus Codes\Max Hp
+80078DA6 270F
+#Guardian Forces Codes\Cerberus Codes\Max Exp
+80078DA8 E0FF
+80078DAA 05F5
+#Guardian Forces Codes\Cerberus Codes\Level 99
+80078DAC 0063
+#Guardian Forces Codes\Diablos Codes\Unlock It
+3007752D 0001
+#Guardian Forces Codes\Diablos Codes\Infinite Hp
+80078D74 270F
+#Guardian Forces Codes\Diablos Codes\Max Hp
+80078D76 270F
+#Guardian Forces Codes\Diablos Codes\Max Exp
+80078D78 E0FF
+80078D7A 05F5
+#Guardian Forces Codes\Diablos Codes\Level 99
+80078D7C 0063
+#Guardian Forces Codes\Doomtrain Codes\Unlock It
+300776C5 0001
+#Guardian Forces Codes\Doomtrain Codes\Infinite Hp
+80078DBC 270F
+#Guardian Forces Codes\Doomtrain Codes\Max Hp
+80078DBE 270F
+#Guardian Forces Codes\Doomtrain Codes\Max Exp
+80078DC0 E0FF
+80078DC2 05F5
+#Guardian Forces Codes\Doomtrain Codes\Level 99
+80078DC4 0063
+#Guardian Forces Codes\Eden Codes\Unlock It
+300777D5 0001
+#Guardian Forces Codes\Eden Codes\Infinite Hp
+80078DEC 270F
+#Guardian Forces Codes\Eden Codes\Max Hp
+80078DEE 270F
+#Guardian Forces Codes\Eden Codes\Max Exp
+80078DF0 E0FF
+80078DF2 05F5
+#Guardian Forces Codes\Eden Codes\Level 99
+80078DF4 0063
+#Guardian Forces Codes\Ifrit Codes\Unlock It
+30077461 0001
+#Guardian Forces Codes\Ifrit Codes\Infinite Hp
+80078D50 270F
+#Guardian Forces Codes\Ifrit Codes\Max Hp
+80078D52 270F
+#Guardian Forces Codes\Ifrit Codes\Mgx Exp
+80078D54 E0FF
+80078D56 05F5
+#Guardian Forces Codes\Ifrit Codes\Level 99
+80078D58 0063
+#Guardian Forces Codes\Leviathan Codes\Unlock It
+300775B5 0001
+#Guardian Forces Codes\Leviathan Codes\Infinite Hp
+80078D8C 270F
+#Guardian Forces Codes\Leviathan Codes\Max Hp
+80078D8E 270F
+#Guardian Forces Codes\Leviathan Codes\Max Exp
+80078D90 E0FF
+80078D92 05F5
+#Guardian Forces Codes\Leviathan Codes\Level 99
+80078D94 0063
+#Guardian Forces Codes\Pandemona Codes\Unlock It
+300775F9 0001
+#Guardian Forces Codes\Pandemona Codes\Infinite Hp
+80078D98 270F
+#Guardian Forces Codes\Pandemona Codes\Max Hp
+80078D9A 270F
+#Guardian Forces Codes\Pandemona Codes\Max Exp
+80078D9C E0FF
+80078D9E 05F5
+#Guardian Forces Codes\Pandemona Codes\Level 99
+80078DA0 0063
+#Guardian Forces Codes\Quezacotl Codes\Unlock It
+300773D9 0001
+#Guardian Forces Codes\Quezacotl Codes\Infinite Hp
+80078D38 270F
+#Guardian Forces Codes\Quezacotl Codes\Max Hp
+80078D3A 270F
+#Guardian Forces Codes\Quezacotl Codes\Max Exp
+80078D3C E0FF
+80078D3E 05F5
+#Guardian Forces Codes\Quezacotl Codes\Level 99
+80078D40 0063
+#Guardian Forces Codes\Shiva Codes\Unlock It
+3007741D 0001
+#Guardian Forces Codes\Shiva Codes\Infinite Hp
+80078D44 270F
+#Guardian Forces Codes\Shiva Codes\Max Hp
+80078D46 270F
+#Guardian Forces Codes\Shiva Codes\Max Exp
+80078D48 E0FF
+80078D4A 05F5
+#Guardian Forces Codes\Shiva Codes\Level 99
+80078D4C 0063
+#Guardian Forces Codes\Siren Codes\Unlock It
+300774A5 0001
+#Guardian Forces Codes\Siren Codes\Infinite Hp
+80078D5C 270F
+#Guardian Forces Codes\Siren Codes\Max Hp
+80078D5E 270F
+#Guardian Forces Codes\Siren Codes\Max Exp
+80078D60 E0FF
+80078D62 05F5
+#Guardian Forces Codes\Siren Codes\Level 99
+80078D64 0063
+#Guardian Forces Codes\Tonberry Codes\Unlock It
+30077791 0001
+#Guardian Forces Codes\Tonberry Codes\Infinite Hp
+80078DE0 270F
+#Guardian Forces Codes\Tonberry Codes\Max Hp
+80078DE2 270F
+#Guardian Forces Codes\Tonberry Codes\Max Exp
+80078DE4 E0FF
+80078DE6 05F5
+#Guardian Forces Codes\Tonberry Codes\Level 99
+80078DE8 0063
+#All Level 1-7 Cards
+300786a0 ffff
+300786a1 ffff
+300786a2 ffff
+300786a3 ffff
+300786a4 ffff
+30078658 ffff
+30078659 ffff
+3007865a ffff
+3007865b ffff
+3007865c ffff
+3007865d ffff
+3007865e ffff
+3007865f ffff
+30078660 ffff
+30078661 ffff
+30078662 ffff
+30078663 ffff
+30078664 ffff
+30078665 ffff
+30078666 ffff
+30078667 ffff
+30078668 ffff
+30078669 ffff
+3007866a ffff
+3007866b ffff
+3007866c ffff
+3007866d ffff
+3007866e ffff
+3007866f ffff
+30078670 ffff
+30078671 ffff
+30078672 ffff
+30078673 ffff
+30078674 ffff
+30078675 ffff
+30078676 ffff
+30078677 ffff
+30078678 ffff
+30078679 ffff
+3007867a ffff
+3007867b ffff
+3007867c ffff
+3007867d ffff
+3007867e ffff
+3007867f ffff
+30078680 ffff
+30078681 ffff
+30078682 ffff
+30078683 ffff
+30078684 ffff
+30078685 ffff
+30078686 ffff
+30078687 ffff
+30078688 ffff
+30078689 ffff
+3007868a ffff
+3007868b ffff
+3007868c ffff
+3007868d ffff
+3007868e ffff
+3007868f ffff
+30078690 ffff
+30078691 ffff
+30078692 ffff
+30078693 ffff
+30078694 ffff
+30078695 ffff
+30078696 ffff
+30078697 ffff
+30078698 ffff
+30078699 ffff
+3007869a ffff
+3007869b ffff
+3007869c ffff
+3007869d ffff
+3007869e ffff
+3007869f ffff
+#All Level 8-10 Cards
+800786C6 FFFF
+800786C8 FFFF
+300786CA 0001
+300786A5 00F0 
+300786A6 00F0 
+300786A7 00F0 
+300786A8 00F0 
+300786A9 00F0 
+300786AA 00F0 
+300786AB 00F0 
+300786AC 00F0 
+300786AD 00F0 
+300786AE 00F0 
+300786AF 00F0 
+300786B0 00F0 
+300786B1 00F0 
+300786B2 00F0 
+300786B3 00F0 
+300786B4 00F0 
+300786B5 00F0 
+300786B6 00F0 
+300786B7 00F0 
+300786B8 00F0 
+300786B9 00F0 
+300786BA 00F0 
+300786BB 00F0 
+300786BC 00F0 
+300786BD 00F0 
+300786BE 00F0 
+300786BF 00F0 
+300786C0 00F0 
+300786C1 00F0 
+300786C2 00F0 
+300786C3 00F0 
+300786C4 00F0
+300786C5 00F0

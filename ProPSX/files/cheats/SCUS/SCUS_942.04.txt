@@ -1,0 +1,6 @@
+#Infinite Energy
+8007F050 0800
+#Infinite Magic Level
+8007F052 270F
+#Start New game On Level(00-18) Enabled Last
+8007F01A 0018

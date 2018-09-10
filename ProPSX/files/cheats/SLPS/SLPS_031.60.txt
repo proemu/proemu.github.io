@@ -1,0 +1,13 @@
+#The number of stages Last (01-59)	
+3008FFB9 0059	
+#Infinite TIME	
+8015C372 0A8C
+#Infinite LIFE	
+3015C3F9 0003
+#Rucksack avaliable	
+301654901 0001 
+#Mode appeared thoroughly	
+301654C2 005A
+#COMBO Max	
+801654CC 967F
+301654CE 0098

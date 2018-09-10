@@ -1,0 +1,41 @@
+#Infinites continues
+800EEC08 0009
+#Infinite Ammo P1 & P2		
+80081D9C 0000
+80081D9E 0000
+#Infinite Bombs P1 & P2	
+80081780 0000
+80081782 0000
+#Infinite Lives P1 & P2		
+80081500 0000
+80081502 0000
+#Always Play Level Gettin' Started		
+80056538 0001
+#Always Play Level Smashing Pacifists		
+80056538 0002
+#Always Play Level Goin' Underground		
+80056538 0003
+#Always Play Level Keep Cool		
+80056538 0004
+#Always Play Level Gettin' Hot		
+80056538 0005
+#Always Play Level Make Some Noize		
+80056538 0006
+#Always Play Level Hear No Evil		
+80056538 0007
+#Always Play Level Saving Clones		
+80056538 0008
+#Always Play Level Cheb's Island		
+80056538 0009
+#Always Play Level The House On The Hill		
+80056538 000A
+#Always Play Level Bunsen And The Labs		
+80056538 000B
+#Always Play Level Kickin' Some Ass		
+80056538 000C
+#Always Play Level Happy?End		
+80056538 000D
+#Cheat Modifier All Cheats	
+800A57F4 003F 
+#Fwank Unlocked		
+3005659C 0080

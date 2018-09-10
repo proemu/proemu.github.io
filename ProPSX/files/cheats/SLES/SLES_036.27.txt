@@ -1,0 +1,10 @@
+#have 9999 points in Dance mini game stage 3
+80194810 270F
+#Have 12000 points in Dance mini game final stage
+80194814 2EE0
+#Infinite spray
+801310F5 0100
+
+
+
+

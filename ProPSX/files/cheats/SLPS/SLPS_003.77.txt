@@ -1,0 +1,18 @@
+#MAX Gold
+801B1E34 967F 
+801B1E36 0098 
+#Infinite HP 
+8002A18A 0040
+#Infinite MP
+8002DAB2 0040 
+8002DBE4 0040 
+#Experience value MAX After defeat the enemy 
+80029DB6 1400 
+#POWER gauge MAX 
+8002D8D6 1400 
+8002D8F2 A020 
+#MAGIC gauge MAX 
+8002FC96 1400 
+#Physical strength, intelligence MAX 
+801B1E24 03E7 
+801B1E30 0004 

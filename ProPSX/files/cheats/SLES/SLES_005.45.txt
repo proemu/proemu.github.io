@@ -1,0 +1,4 @@
+#No Damage
+8012DA38 55F0
+#Infinite Grenades
+80124804 0004

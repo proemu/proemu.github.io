@@ -1,0 +1,5 @@
+#Opponent always has 0 points
+8012CE94 0000
+#Player has always 99 points
+8012B010 0063
+

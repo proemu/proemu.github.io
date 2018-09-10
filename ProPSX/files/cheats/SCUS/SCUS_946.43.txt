@@ -1,0 +1,12 @@
+#All Movies Open
+800F32C6 001F
+#Have All Skills
+800F32B2 000F
+#Infinite Feathers
+800F32AE 270F
+#Infinite Health
+800F32AA 000A
+#Infinite Pixie Dust
+800F32AC 0006
+#Max Hearts
+800F32B0 000A

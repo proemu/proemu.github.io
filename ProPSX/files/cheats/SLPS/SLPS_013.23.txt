@@ -1,0 +1,44 @@
+#The Legend Of Hero 1\First Character Infinite & Max HP 
+80115760 270F  
+8011575C 270F 
+#The Legend Of Hero 1\First Character Infinite & Max MP
+80115768 270F  
+80115764 270F 
+#The Legend Of Hero 1\Second Character Infinite & Max HP 
+801157CC 270F  
+801157C8 270F 
+#The Legend Of Hero 1\Second Character Infinite & Max MP
+801157D4 270F  
+801157D0 270F 
+#The Legend Of Hero 1\First Character Infinite HP & MP in Battle 
+801661AC 270F  
+801661B4 270F
+#The Legend Of Hero 1\Second Character Infinite HP & MP in Battle 
+80166218 270F  
+80166220 270F
+#The Legend Of Hero 1\All Character Fast Level Up
+80115774 FFFF
+801157E0 FFFF
+8011584C FFFF
+801158B8 FFFF
+#The Legend Of Hero 1\Infinite Money
+801086B8 E0FF
+801086BA 05F5
+#The Legend Of Hero 2\First Character Infinite & Max HP 
+800F0FF0 270F  
+800F0FEC 270F 
+#The Legend Of Hero 2\Second Character Infinite & Max HP 
+800F105C 270F  
+800F1058 270F 
+#The Legend Of Hero 2\First Character Infinite HP in Battle
+8013D674 270F 
+#The Legend Of Hero 2\Second Character Infinite HP in Battle
+8013D6E0 270F 
+#The Legend Of Hero 2\Infinite Money
+800E4134 E0FF
+800E4136 05F5
+#The Legend Of Hero 2\All Character Fast Level Up
+800F1004 FFFF
+800F1070 FFFF
+800F1148 FFFF
+800F10DC FFFF

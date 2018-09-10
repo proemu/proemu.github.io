@@ -1,0 +1,11 @@
+#Max Gold Tickets
+8008591C 03E7
+#Max Red Tickets
+8008591A 03E7
+#Have All Prizes
+80085910 1FFF
+#Infinite Time
+80085394 0013
+#Infinite Sleep Chucky Chan
+80077BC8 0005
+

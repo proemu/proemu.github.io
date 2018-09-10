@@ -1,0 +1,14 @@
+#Infinite Lives
+300D1BDD 0001
+#Infinite Health
+800D1BDE 0303
+#Infinite Health (Alternate)
+8004B78A 2400
+#Invincible
+800D1BE4 3900
+#Enable All Cheats		
+8009564A 2400
+#Have All Cards		
+300C29D0 0001
+300C29F4 0001
+

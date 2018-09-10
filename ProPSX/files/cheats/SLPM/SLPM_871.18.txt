@@ -1,0 +1,4 @@
+#Frisky Tom\Infinite Lives
+8008456E 0005
+#Tom's Strike Back\Infinite Lives
+80085196 0005

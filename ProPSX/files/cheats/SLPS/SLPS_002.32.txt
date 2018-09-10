@@ -1,0 +1,4 @@
+#Infinite Credits
+80011EC8 EA60
+#Infinite Energy On Battle
+8018F33A 0190

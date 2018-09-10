@@ -1,0 +1,8 @@
+#Infinite Energy In Battle
+800CD49C 00C8
+#SP gauge MAX
+800CD4A4 012C 
+#No more frustrating gauge 
+800CD468 0000 
+#All Gallery open
+80094482 FFFF

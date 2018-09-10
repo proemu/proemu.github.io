@@ -1,0 +1,186 @@
+#Time 00:00:00
+D0042BD4 15F4
+80042BD4 0000
+D0042BD4 15F4
+80042BD6 0000
+#Infinite Hp
+D011FA2E 8011
+8011FA58 03E7
+#Max Hp
+D011FA2E 8011
+8011FA5A 03E7
+#Infinite Mp
+D011FA2E 8011
+8011FA5C 03E7
+#Max Mp
+D011FA2E 8011
+8011FA5E 03E7
+#'Risk' Always Zero
+3011FA60 0000
+#Save anywhere		
+D0109FA0 4E63
+80109FAA 2400
+#Moonjump
+D003FF5A 7FFF
+801203C2 FDF9
+#'Body' Always Excellent
+3012006C 00C8
+#'Right Arm' Always Excellent
+3011FEB4 00C8
+#'Left Arm' Always Excellent
+3011FDD8 00C8
+#'Head' Always Excellent
+3011FF90 00C8
+#'Legs' Always Excellent
+30120148 00C8
+#Super Strength
+D011FA2E 8011
+8011FA62 270F
+#Max Strength
+D011FA2E 8011
+8011FA64 270F
+#Super Intelligence
+D011FA2E 8011
+8011FA66 270E
+#Max Intelligence
+D011FA2E 8011
+8011FA68 270E
+#Super Agility
+D011FA2E 8011
+8011FA6A 270F
+#Max Agility
+D011FA2E 8011
+8011FA6C 270F
+#Activate teleportation spell (from magic menu)		
+80061BC4 0105	
+#Enable all teleport locations 	
+50001202 0000
+80061C66 0101
+#Max Item-Codes\Slot 1
+300614EA 0064
+#Max Item-Codes\Slot 2
+300614EE 0064
+#Max Item-Codes\Slot 3
+300614F2 0064
+#Max Item-Codes\Slot 4
+300614F6 0064
+#Max Item-Codes\Slot 5
+300614FA 0064
+#Max Item-Codes\Slot 6
+300614FE 0064
+#Max Item-Codes\Slot 7
+30061502 0064
+#Max Item-Codes\Slot 8
+30061506 0064
+#Max Item-Codes\Slot 9
+3006150A 0064
+#Max Item-Codes\Slot 10
+3006150E 0064
+#Max Item-Codes\Slot 11
+30061512 0064
+#Max Item-Codes\Slot 12
+30061516 0064
+#Max Item-Codes\Slot 13
+3006151A 0064
+#Max Item-Codes\Slot 14
+3006151E 0064
+#Max Item-Codes\Slot 15
+30061522 0064
+#Max Item-Codes\Slot 16
+30061526 0064
+#Max Item-Codes\Slot 17
+3006152A 0064
+#Max Item-Codes\Slot 18
+3006152E 0064
+#Max Item-Codes\Slot 19
+30061532 0064
+#Max Item-Codes\Slot 20
+30061536 0064
+#Max Item-Codes\Slot 21
+3006153A 0064
+#Max Item-Codes\Slot 22
+3006153E 0064
+#Max Item-Codes\Slot 23
+30061542 0064
+#Max Item-Codes\Slot 24
+30061546 0064
+#Max Item-Codes\Slot 25
+3006154A 0064
+#Max Item-Codes\Slot 26
+3006154E 0064
+#Max Item-Codes\Slot 27
+30061552 0064
+#Max Item-Codes\Slot 28
+30061556 0064
+#Max Item-Codes\Slot 29
+3006155A 0064
+#Max Item-Codes\Slot 30
+3006155E 0064
+#Max Item-Codes\Slot 31
+30061562 0064
+#Max Item-Codes\Slot 32
+30061566 0064
+#Max Item-Codes\Slot 33
+3006156A 0064
+#Max Item-Codes\Slot 34
+3006156E 0064
+#Max Item-Codes\Slot 35
+30061572 0064
+#Max Item-Codes\Slot 36
+30061576 0064
+#Max Item-Codes\Slot 37
+3006157A 0064
+#Max Item-Codes\Slot 38
+3006157E 0064
+#Max Item-Codes\Slot 39
+30061582 0064
+#Max Item-Codes\Slot 40
+30061586 0064
+#Max Item-Codes\Slot 41
+3006158A 0064
+#Max Item-Codes\Slot 42
+3006158E 0064
+#Max Item-Codes\Slot 43
+30061592 0064
+#Max Item-Codes\Slot 44
+30061596 0064
+#Max Item-Codes\Slot 45
+3006159A 0064
+#Max Item-Codes\Slot 46
+3006159E 0064
+#Max Item-Codes\Slot 47
+300615A2 0064
+#Max Item-Codes\Slot 48
+300615A6 0064
+#Max Item-Codes\Slot 49
+300615AA 0064
+#Max Item-Codes\Slot 50
+300615AE 0064
+#Max Item-Codes\Slot 51
+300615B2 0064
+#Max Item-Codes\Slot 52
+300615B6 0064
+#Max Item-Codes\Slot 53
+300615BA 0064
+#Max Item-Codes\Slot 54
+300615BE 0064
+#Max Item-Codes\Slot 55
+300615C2 0064
+#Max Item-Codes\Slot 56
+300615C6 0064
+#Max Item-Codes\Slot 57
+300615CA 0064
+#Max Item-Codes\Slot 58
+300615CE 0064
+#Max Item-Codes\Slot 59
+300615D2 0064
+#Max Item-Codes\Slot 60
+300615D6 0064
+#Max Item-Codes\Slot 61
+300615DA 0064
+#Max Item-Codes\Slot 62
+300615DE 0064
+#Max Item-Codes\Slot 63
+300615E2 0064
+#Max Item-Codes\Slot 64
+300615E6 0064

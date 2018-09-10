@@ -1,0 +1,4 @@
+#Zero Casualties
+800B3D50 0000
+#Invincibility
+30082286 0001

@@ -1,0 +1,4 @@
+#Player 1 Always Bowls 300
+80195E1C 012C
+#Infinite Tries In Story Mode
+80195E28 0002

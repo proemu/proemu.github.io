@@ -1,0 +1,31 @@
+#Character 1 - 9999
+80070EB8 270F
+#All Characters/All Stages/All Box
+80070770 FFFF
+80070772 FFFF
+80070774 FFFF
+80070776 FFFF
+80070778 FFFF
+8007077A FFFF
+8007077C FFFF
+8007077E FFFF
+80070780 FFFF
+80070782 FFFF
+#Bingo book all display 
+30070778 00FE 
+30070779 003F 
+30070782 0010 
+#Treasure BOX all display 
+80070770 FFFF 
+80070772 FFFF 
+80070774 FFFF 
+30070776 00FF 
+#Hidden mode appearance In the main menu Ninjutsu mentor Form mini-game appearance. In story mode re not Ki-hen" Kinohamaru Edition appearance. 
+3007077B 00FF 
+3007077C 00FF 
+#Naruto Hen whole story appearance 
+30070738 0009 
+#Zabuza whole story appearance 
+30070739 0002 
+#KOnohamaru ed all talk emergence 
+3007073A 0005 

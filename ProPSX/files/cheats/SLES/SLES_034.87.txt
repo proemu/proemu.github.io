@@ -1,0 +1,18 @@
+#Have 99 Diamonds Level 1
+80151AC0 0063
+#Infinite Energy Level 1
+80151AB8 000B
+#Infinite energy Level 2
+80152D8C 000C
+#Have All Hostages Rescued Level 1
+80151ACC 0003
+#Have all hostages rescued level 2
+80152DA0 0004
+#Have 76 diamonds level 2
+80152D94 004C
+#Infinite energy level 3
+801455E0 000C
+#Have all hostages rescued level 3
+801455F4 0005
+#Have 85 diamonds level 3
+801455E8 0055

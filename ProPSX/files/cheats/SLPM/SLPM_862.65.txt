@@ -1,0 +1,17 @@
+#P1 Never Game Over
+80102C88 2710
+#P2 Never Game Over
+80102C8C 2710
+#Excite gauge does not decrease		 
+8003BB70 0000
+#Automatic performance 1P	 
+300FB39A 0002
+#Automatic Perfomance 2P	 
+300FB39B 0002
+#Open Secret Mode - Edit
+300FB454 0001
+#All Songs In The Free Mode & Trainig
+800FB45C FFFF
+800FB45E FFFF
+800FB460 FFFF 
+800FB462 03FF

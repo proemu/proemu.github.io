@@ -1,0 +1,89 @@
+#Infinite Health
+8008FC0C 0196
+8008FC1C 00FF
+#Infinite Ammo
+301F5812 0063
+#Infinite Fire Extinguisher
+301F5820 00FF
+#Infinite Teaser
+301F5832 0064
+#Infinite Blue Spray
+301F5852 0064
+#Infinite Time
+8008FD7C 00FF
+#Infinite Masks
+301F5822 0063
+#Infinite Ammo After Pickup
+80045446 3C00
+#Level select Lundkwist-Base
+D008F894 0000
+3008F894 0000
+#Level select Submarine Harbor
+D008F894 0000
+3008F894 0001
+#Level select The Embassy
+D008F894 0000
+3008F894 0002
+#Level select The Camp
+D008F894 0000
+3008F894 0003
+#Level select KGB-HQ
+D008F894 0000
+3008F894 0004
+#Level select Security corridor
+D008F894 0000
+3008F894 0005
+#Level select Sewer
+D008F894 0000
+3008F894 0006
+#Level select On the Run
+D008F894 0000
+3008F894 0007
+#Level select On the Run II
+D008F894 0000
+3008F894 0008
+#Level select Fire Alarm
+D008F894 0000
+3008F894 0009
+#Level select The Interrogation
+D008F894 0000
+3008F894 000A
+#Level select Serum
+D008F894 0000
+3008F894 000B
+#Level select Medical Room
+D008F894 0000
+3008F894 000c
+#Level select Rooftops
+D008F894 0000
+3008F894 000D
+#Level select Terminal Room
+D008F894 0000
+3008F894 000E
+#Level select Escape the Roof
+D008F894 0000
+3008F894 000F
+#Level select Waterloo Station
+D008F894 0000
+3008F894 0010
+#Level select IGV
+D008F894 0000
+3008F894 0011
+#Level select IGV II
+D008F894 0000
+3008F894 0012
+#Level select On the Roof
+D008F894 0000
+3008F894 0013
+#Level select Submarine Harbor
+D008F894 0000
+3008F894 0014
+#Level select Tunnel
+D008F894 0000
+3008F894 0015
+#Level select The Base
+D008F894 0000
+3008F894 0016
+#Level select Gunboat
+D008F894 0000
+3008F894 0017 

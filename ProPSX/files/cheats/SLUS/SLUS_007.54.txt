@@ -1,0 +1,50 @@
+#Always Have Guide
+80192EFC 0080
+#Elapsed Time Is Always 0
+80167BC0 0000
+#P1 Always Gets Bubbles
+80192F76 0007
+#P1 Never Gets Bubbles
+80192F76 0000
+#P2 Always Gets Bubbles
+80192E32 0007
+#P2 Never Gets Bubbles
+80192E32 0000
+#New Tarot Reading Menu (Options)
+80167A70 0101
+#Ura Puzzle Mode (Different Set Of Games)
+80167A96 0001
+#Talk Demo (Options) (.Must Have All Characters & Tarot Reading Codes In For It To Work)
+80167A48 0001
+#Enable Character Modifier Codes\Bub
+30187D2C 0001
+#Enable Character Modifier Codes\Al Kanet
+30187D2D 0001
+#Enable Character Modifier Codes\Marino
+30187D2E 0001
+#Enable Character Modifier Codes\Kurol
+30187D2F 0001
+#Enable Character Modifier Codes\Tamtam
+30187D30 0001
+#Enable Character Modifier Codes\Cleon
+30187D31 0001
+#Enable Character Modifier Codes\G
+30187D32 0001
+#Enable Character Modifier Codes\Bramb
+30187D33 0001
+#Enable Character Modifier Codes\Develon
+30187D34 0001
+#Enable Character Modifier Codes\Gigant
+30187D35 0001
+#Enable Character Modifier Codes\Madam Luna
+30187D36 0001
+#Enable Character Modifier Codes\Dreg
+30187D37 0001
+#Enable Character Modifier Codes\Woolen
+30187D38 0001
+#Enable Character Modifier Codes\Packy
+30187D39 0001
+#Enable Character Modifier Codes\Monsta
+30187D3A 0001
+#Enable Character Modifier Codes\Maita
+30187D3B 0001

@@ -1,0 +1,27 @@
+#Enable Crystal Cup
+801295D0 0001
+#Enable Diamond Cup
+801295D2 0001
+#Enable Zenith Cup & Mirror Mode
+801295D4 0001
+#Enable All Tracks
+801295D6 0001
+#Enable Challenge Mode
+801F58D4 0001
+#Enable Cobra Challenge
+801F58D6 0001
+#Enable Cheetah Challenge
+801F58D8 0001
+#Enable Panther Challenge
+801F58DA 0001
+#Enable Super Challenge
+801F58DC 0001
+#Enable Scorpion Car
+801F72FA 0001
+#Enable Cobra Car
+801F72FC 0001
+#Enable Cheetah Car
+801F72FE 0001
+#Enable Panther Car
+801F7300 0001
+

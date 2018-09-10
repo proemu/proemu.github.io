@@ -1,0 +1,16 @@
+﻿#Habe 99 Filme & Bonus
+D0078CD0 0004
+80078CD0 0505
+#Habe alle Gegenstände
+D0072C40 0005
+80072C40 0000
+#Fang den grossen Fisch Guter Fang (Drücke L1 & L2)
+D01ECDA2 FAFF
+50000304 0009
+8009FF8C 0000	
+#Gegen die Zeit Unbegrenzt Zeit (Drücke L1 & L2)
+D01EDFB2 FAFF
+800AD774 0700	
+#Hol die Sporttasche Unbegrenzt Zeit (Drücke L1 & L2)	
+D01C64B2 FAFF
+801EE030 0800

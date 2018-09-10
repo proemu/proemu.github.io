@@ -1,0 +1,21 @@
+#Infinite Time (All Missions) 	
+80065EBC DDF8 		
+#Infinite Health (All Missions) 	
+D00254C0 0039
+800254C6 2400 		
+#Infinite Ammo-All Guns (All Missions) 	
+D002676C 0000
+8002676E 2400 		
+#Infinite Supply-Plastic (All Missions) 	
+D0032FB8 013A
+80032FBA 2400 		
+#Infinite Grenades (All Missions) 	
+D0032F08 0000
+80032F0A 2400 		
+Start/Stop Timer .Press L1 & L2 to start the timer & press R1 & R2 to stop it.	
+D0065CDE 0005
+80015ED4 9CDC
+D0065CDE 0005
+80015ED6 AF83
+D0065CDE 000A
+80015ED6 2400 	

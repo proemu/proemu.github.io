@@ -1,0 +1,9 @@
+#Enable Sexy Character
+D01FFE48 0000
+301FFE48 0004
+#Infinite Energy
+800BED84 03E8
+#Infinite Strengh
+800BED70 2710
+#Enemy Have 0 Keys
+800F52C2 0000

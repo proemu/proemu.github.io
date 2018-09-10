@@ -1,0 +1,7 @@
+#Infinite fuel
+800F1E8E 0019
+#Infinite ammo
+800F1EAA 0028
+#Infinite energy
+80082196 0016
+

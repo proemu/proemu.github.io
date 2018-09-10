@@ -1,0 +1,17 @@
+#Player 1 Infinite Health
+801E8FDE 0068
+801EE276 0068
+#Player 2 Infinite Health
+801E8FFE 0068
+801EE366 0068
+#Player 1 Infinite Lives
+301E8EF7 000F
+#Player 2 Infinite Lives
+301E8EF8 000F
+#Freeze Timer
+801E8F6E 0002
+801E8F70 3C00
+#Freeze Timer (Boss)
+801E8F9E 6400
+#Credit MAX
+801E8214 0063

@@ -1,0 +1,46 @@
+#Athletic Land Infinite Time 
+3001E055 0039 
+#Athletic Land Infinite Lives
+3001E050 0004 
+#Magical tree Infinite Lives 
+3001E050 0006
+#Yie Ar Kung-Fu II: The Emperor Yie-Gah Infinite Health
+8001E100 2424
+#Yie Ar Kung-Fu II: The Emperor Yie-Gah Infinite Lives
+3001E055 000A 
+#Yie Ar Kung-Fu II: The Emperor Yie-Gah Invincible only boss battles 
+3001E29E 00FF
+#Knightmare Infinite Lives
+3001E060 000A 
+#Super Cobra Invincibility 
+8001E50E 0000 
+#Super Cobra Infinite fuel 
+D01BEAC6 0049 
+8001E51C 011F 
+#Super Cobra Infinite Lives
+3001E050 0006 
+#Twinbee Completely invincible (shared) 
+D01BEAC6 0053 
+8001E078 0000 
+D01BEAC6 0053 
+3001E08D 0001 
+D01BEAC6 0053 
+3001E08E 0001 
+#Twinbee Invincible (1P) You die if you take the black bell.
+D01BEAC6 0053 
+3001E097 00FF 
+#Twinbee Invincible (2P) You die if you take the black bell.
+D01BEAC6 0053 
+3001E098 00FF  
+#Twinbee Infinite Lives (1P) 
+D01BEAC6 0053 
+3001E070 0099 
+#Twinbee Infinite Lives (2P) 
+D01BEAC6 0053 
+3001E073 0099 
+#Gradius 2 Invincibility 
+D01BEAC6 0065 
+3001E400 0001 
+#Gradius 2 Infinite Lives
+3008FAE4 000A 
+ 

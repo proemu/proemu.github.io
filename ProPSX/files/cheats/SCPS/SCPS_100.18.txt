@@ -1,0 +1,20 @@
+#Infinite Coins		
+800DB976 0300
+#Infinite Continues		
+800DC7CC 0003
+#Infinite Super Shield		
+800DB988 011E
+#Repeat Use Same Item		
+800E2E9C 0007
+#Select Any Vehicle (Wait on Selection Screen)		
+8008BB5C 0105
+8008BB68 0106
+8008BB74 0107
+#Always Have Fire Bomb		
+800E2E80 0001
+#Always Have Pandora's Box		
+800E2E80 000A
+#Always Have Super Shield		
+800E2E80 000C
+#Always Have Wonder Clock		
+800E2E80 000E

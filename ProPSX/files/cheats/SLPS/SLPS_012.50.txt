@@ -1,0 +1,78 @@
+#Room design	
+3010A7AD 0007
+#Growth Baby 	
+3010A7B5 0000 
+#Growth Baby 2	
+3010A7B5 0001
+#Growth Baby 3	
+3010A7B5 0002
+#Growth Children	
+3010A7B5 0003
+#Growth Adult	
+3010A7B5 0004
+#Growth Adult 2	
+3010A7B5 0005
+#Age 99	
+3010A7B6 0063
+#Physical fitness Max	
+3010A7BC 0063
+#Intelligence Max	
+3010A7BD 0063
+#Sex Male	
+3010A7C6 0001
+#Sex Female	
+3010A7C6 0002
+#Relay / war	
+3011A327 00FF
+#Relay / wins	
+3011A328 00FF
+#Raising an army / war	
+3011A329 00FF
+#Raising an army / wins	
+3011A32A 00FF
+#Contest / war	
+3011A32B 00FF
+#Contest / wins	
+3011A32C 00FF
+#Shuffle game / per	
+300D64AC 0005
+#Shuffle game / off	
+300D64B0 0005
+#Timing hammer / stamina +	
+300D64DC 0005
+#Timing hammer / intelligence +	
+300D64E0 0005
+#Timing hammer / physical fitness -	
+300D64E4 0005
+#Timing hammer / intelligence -	
+300D64E8 0005
+#Timing hammer / Ska	300D64EC 0005
+#Balloons balloons catch / red	
+300D6594 0014
+#Balloons balloons catch / green	
+300D6598 0014
+#Balloons balloons catch / yellow	
+300D659C 0014
+#Tamagotchi race / participation	
+3010A390 00FF
+#Tamagotchi will Yusho race 	
+3010A391 00FF
+#Tamagotchi relay / participation	
+3010A392 00FF
+#Yusho Tamagotchi will relay 	
+3010A393 00FF
+#Red and white raising an army battle / participation	
+3010A394 00FF
+#Let Yusho raising an army battle red and white 	
+3010A395 00FF
+#Beauty Contest / Participation	
+3010A396 00FF
+#Let Yusho Beauty Contest 
+3010A397 00FF
+#The number of graves of Memorial Centre	
+3011A314 00F3
+#Blue stone	
+3011A5DC 00FF
+#Film	
+3011A5DD 00FF
+

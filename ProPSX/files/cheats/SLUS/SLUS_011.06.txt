@@ -1,0 +1,27 @@
+#Start On Last Lap/Always First
+D00912F4 0000
+800912F4 0003
+#Stop Timer
+8008D1F4 0000
+#Max Lucky Fairies
+80083278 0008
+#Infinite Gold Speed Coins (On Pickup)
+80064CD6 2400
+#Have Max Coins
+80064D10 001E
+#Have Max Trophies
+8005F9E4 0008
+8005F9E6 2415
+#Adventure Mode Codes\Unlock All Levels
+8008344C 1FBF
+#Adventure Mode Codes\Unlock Everything
+50000D20 0000
+80083450 0303
+50000D20 0000
+80083452 0800
+#Adventure Mode Codes\Infinite Gold Speed Coins
+80083270 FFFF
+#Adventure Mode Codes\Infinite Lucky Fairies
+80083278 FFFF
+#Adventure Mode Codes\Trophy Collection Challenge Max
+80083270 000F

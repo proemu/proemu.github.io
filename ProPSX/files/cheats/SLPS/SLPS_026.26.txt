@@ -1,0 +1,11 @@
+#Inf Energy Player 1
+80189208 0002
+#Inf Lives Player 1
+801891E4 0003
+#Inf Energy Player 2
+80189270 0002
+#Inf Lives Player 2
+8018924C 0003
+#Inf Time
+8010F98C 26AA
+8010F990 26AC

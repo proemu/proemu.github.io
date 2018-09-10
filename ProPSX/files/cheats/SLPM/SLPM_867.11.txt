@@ -1,0 +1,28 @@
+#All CG Gallery open
+800F5636 0FFF
+800F563A 01FF
+800F563E 01FF
+800F5642 00FF
+800F5646 003F
+800F564A 007F
+800F564E 003F
+800F5652 001F
+800F5656 000F
+#Max Intimacy Spirit
+800F55B4 00FF
+#Max Intimacy Charlotte
+800F55B6 00FF
+#Max Intimacy Shifone
+800F55B8 00FF
+#Max Intimacy Tear
+800F55BA 00FF
+#Max Intimacy Camellia
+800F55BC 00FF
+#Max Intimacy Ririru
+800F55BE 00FF
+#Max Intimacy Rose
+800F55C0 00FF
+#Max Intimacy Anne
+800F55C2 00FF
+#Max Intimacy Sandra
+800F55C4 00FF

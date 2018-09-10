@@ -1,0 +1,20 @@
+#Infinite Lives
+8010D210 0009
+#Extra Lives
+800174C8 0001
+#Start On Level 1	
+300D5510 0000
+#Start On Level 2	
+300D5510 0001
+#Start On Level 3	
+300D5510 0002
+#Start On Level 4	
+300D5510 0003
+#Start On Level 5	
+300D5510 0004
+#Start On Level 6	
+300D5510 0005
+#Start On Level 7	
+300D5510 0006
+#Start On Level 8	
+300D5510 0007

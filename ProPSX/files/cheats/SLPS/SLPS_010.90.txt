@@ -1,0 +1,5 @@
+#Infinite Energy & Max Energy Main Character
+80122BA0 0063
+801236CC 0063
+#Enemy Energy is 1 Deactivate after see that the energy level is 1
+80122C24 0001

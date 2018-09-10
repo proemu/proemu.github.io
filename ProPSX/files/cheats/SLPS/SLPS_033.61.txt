@@ -1,0 +1,25 @@
+#Inf & Max Health Inuyasha 998
+800D0426 03E7
+800D0446 03E7
+#Inf Magic Inuyasha 999
+800D0428 03E7
+800D0448 03E7
+#Infinite HP Inuyasha in battle
+800CCEF4 03E7
+800CCF14 03E7
+#Infinite & Max HP Kagome in battle
+800CCFF0 03E7
+800CD010 03E7
+#Infinite MP Kagome in battle
+800CCFF2 0063
+#Infinite & Max MP Inuyasha in battle
+800CCEF6 0063
+800CCF16 0063
+#Fragments of Four Souls 
+800B64E4 006c
+#Enemy does not come out	
+300B65D0 0000
+#Homeless anywhere	
+300B660C 0001
+#Mica possible at any time	
+300D2750 00C2

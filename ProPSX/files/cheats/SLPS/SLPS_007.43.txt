@@ -1,0 +1,14 @@
+#Infinite Health 
+801CB598 0078 
+#Infinite Magic 
+801CB59E 0190 
+801CB5A0 0190 
+#Infinite items 
+80042FAE 3C00 
+#Walk through the wall 
+80029B82 3C00 
+80029B90 3C00 
+80029B9A 3C00 
+80029BAA 3C00 
+#Dark Diary All Open - New game ---> Dark diary All Open
+300A87BC 0001 

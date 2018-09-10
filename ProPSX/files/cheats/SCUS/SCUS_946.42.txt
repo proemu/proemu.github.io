@@ -1,0 +1,36 @@
+#Endless Health
+801504A0 04FB
+#Endless Lives
+80160F8C 0003
+#Endless Battery Attack Power
+80151E88 2A30
+#Endless Environment Weapon
+80151EBC 0003
+#Unlock All Characters 	
+50000504 0000
+301D1E3C 0001
+#Stage Modifier Buster's Lanes	
+80189BA0 0000
+#Stage Modifier Holiday Havoc	
+80189BA0 0001
+#Stage Modifier Gridiron Gore	
+80189BA0 0002
+#Stage Modifier Carn-O-Maul	
+80189BA0 0003
+#Stage Modifier Minigolf Mayhem	
+80189BA0 0004
+#Stage Modifier Easy Death Oven	
+80189BA0 0005
+#Stage Modifier Shock Therapy	
+80189BA0 0006
+#Stage Modifier Meat Your Maker	
+80189BA0 0000
+#Stage Modifier Now Slaying	
+80189BA0 0000
+#Stage Modifier Playground Peril	
+80189BA0 0000
+#Stage Modifier Treetop Rumble	
+80189BA0 0000
+
+
+

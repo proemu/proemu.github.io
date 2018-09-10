@@ -1,0 +1,14 @@
+#One coin == 50 coins	
+8004FB18 0032
+8004FB1A 2402
+#One perl == 5 perls	
+800509E4 0005
+800509E6 2402
+#Ariel\Melody's life always full		
+800E769C 0064
+#Erik's health at 255	
+8015E2D0 00FF
+#Morgana's life at 0		
+80177AC8 0000
+#Ursula's life at 0		
+801CD5F4 0000

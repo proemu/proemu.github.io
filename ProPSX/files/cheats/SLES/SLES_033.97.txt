@@ -1,0 +1,5 @@
+#Alle Charakter freigeschaltet	
+50000C08 0000
+300D82EC 0001
+#Habe 200 Soldaten / alle Level freigeschaltet
+800D0834 000C

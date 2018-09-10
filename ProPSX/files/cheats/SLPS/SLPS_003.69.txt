@@ -1,0 +1,15 @@
+#Infinite energy Player 1 (If the game freezes deactivate code and send it after being hit)
+8008C73C 0064
+#Life enemy 0
+8008C7B0 0000 
+#Trick enemy OFF 
+8008C7E0 FFFF 
+8008C7E2 FFFF 
+8008C7E4 FFFF 
+8008C7E6 FFFF 
+8008C7E8 FFFF 
+#P1 Life / yell PRESS (Select) 
+D0073FF8 0100 
+8008C73C 0060 
+D0073FF8 0100 
+8008C744 0060 

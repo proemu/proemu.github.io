@@ -1,0 +1,19 @@
+#Beyond The Beyond Inf Hp P1
+801149D4 03E7
+801149D6 03E7
+#Beyond The Beyond Tont Inf Hp
+80114C7C 03E7
+80114C7E 03E7
+#Beyond The Beyond Samson Inf Hp
+80114B6C 03E7
+80114B6E 03E7
+#Beyond The Beyond Percy Inf Hp
+80114AE4 03E7
+80114AE6 03E7
+#Beyond The Beyond Annie Inf Hp
+80114A5C 03E7
+80114A5E 03E7
+#Infinite Money
+80103884 FFFF
+#No Random Enemy Encounters
+801FFE02 0100

@@ -1,0 +1,8 @@
+#Infinite Health
+D00C53B4 0124
+800C53B6 2400
+#Infinite Lives
+8009FC20 000A
+#Infinite Ammo / All Weapons
+50000804 0000
+8009FC36 81FF

@@ -1,0 +1,11 @@
+#Infinite Money
+800F026C 869F
+800F026E 0001
+#Infinite Tp P1
+800F014C 270F
+#Infinite Mp P1
+800F014E 270F
+#Infinite Tp P2
+800F214C 270F
+#Infinite Mp P2
+800F214E 270F

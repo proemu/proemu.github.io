@@ -1,0 +1,6 @@
+#Inf Continues Player 2
+80060BD8 0009
+#Inf Continues Player 1
+80060B4C 0009
+#Inf Time
+80060A84 176F

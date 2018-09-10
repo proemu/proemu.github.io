@@ -1,0 +1,13 @@
+#Infinite & Max HP Character 1
+800BECAE 03E7
+800BECB2 03E7
+#Infinite & Max HP Character 2
+800BEED6 03E7
+800BEEDA 03E7
+#Infinite & Max HP Character 3
+800BF0FE 03E7
+800BF102 03E7
+
+
+
+

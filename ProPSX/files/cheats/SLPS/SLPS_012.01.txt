@@ -1,0 +1,21 @@
+#Infinite & Max HP Jurio
+800C05F8 03E7
+800C05FA 03E7
+#Infinite & Max VP Jurio
+800C0630 03E7
+#LV 99 Jurio
+300C05FC 0063
+#Infinite & Max HP Chris
+800C0640 03E7
+800C0642 03E7
+#Infinite & Max VP Chris
+800C0678 03E7
+#Max Exp For 1st Character
+800C0610 FFFF
+#Max Exp For 2nd Character
+800C0658 FFFF
+#Infinite Money
+800C11D4 FFFF
+800C11D6 00FF
+
+

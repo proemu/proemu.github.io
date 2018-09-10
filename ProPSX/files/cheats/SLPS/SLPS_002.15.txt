@@ -1,0 +1,5 @@
+#Infinite energy
+80068A08 012C
+80068DC0 012C
+#Infinite bullets
+80062AB0 000A

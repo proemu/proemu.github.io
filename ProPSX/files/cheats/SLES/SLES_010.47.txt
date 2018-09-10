@@ -1,0 +1,14 @@
+#Infinite energy Jay
+800DFA7C 0064
+#Infinite energy Elle
+800DEE68 0064
+#Infinite energy Kay
+800E5DA8 0064
+#Infinite Ammo
+80085514 0000
+#Infinite Health Packs
+80059CA0 0000
+#Infinite Small Med Kits
+80059CD4 0000
+#MIB Mission Archive		
+30037BE0 0004

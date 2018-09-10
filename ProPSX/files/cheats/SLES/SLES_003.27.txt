@@ -1,0 +1,19 @@
+#Checkpoint Time Infinite
+80095814 05DC
+#Infinite Energy
+8003747C 0000
+80037490 0000
+800374EC 0000
+80037584 0000
+#Vector-mode Only one lap to race / always first
+30039B64 0002
+#Vector-mod Instant win 
+30039B64 0003
+#Rapier-mode Only one lap to race / always first 
+30039B64 0004
+#Rapier-mode Instant win 
+30039B64 0005
+#Phantom- & Piranha-mode Only one lap to race / always first 
+30039B64 0005
+#Phantom- & Piranha-mode Instant win 	
+30039B64 0006

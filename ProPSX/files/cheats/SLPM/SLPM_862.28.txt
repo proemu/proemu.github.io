@@ -1,0 +1,30 @@
+#Circus Charlie Infinite Lives P1		
+300C7590 0005
+#Circus Charlie Infinite Lives P2		
+300C7610 0005
+#Gyruss Infinite Lives	
+300CE930 0004
+#Kung-fu Infinite Health	
+800CA39C 0008
+#Pooyan Infinite Lives	
+300CDC18 0005
+#Rock'n Rope Infinite Lives	
+800CA3D0 0005
+#Scramble Infinite Lives P1	
+800C9458 0005
+#Scramble Infinite Lives P2	
+800C9498 0005
+#Scramble Unlimited Fuel	
+300C9415 00FF
+#Shao-lin's Road Infinite Lives	
+800C7D88 0005
+#Super Contra Infinite Fuel	
+300CD415 00FF
+#Super Contra Infinite Lives P1	
+800CD458 0005
+#Super Contra Infinite Lives P2	
+800CD498 0005
+#Time Pilot Infinite Lives P1	
+300D0020 0005
+#Time Pilot Infinite Lives P2		
+300D0030 0005

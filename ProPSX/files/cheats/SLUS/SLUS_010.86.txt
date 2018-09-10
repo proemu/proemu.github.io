@@ -1,0 +1,43 @@
+#Unlock All Levels
+80068DA6 FFFF
+#Have All Levels Completed
+80068DA8 FFFF
+#Max Score/Population
+801FBF0E2 01FF
+#Never Record Retries
+800CF864 0000
+#Infinite Time to Shoot
+801FBDC4 0004
+801FBE20 0000
+#Max Population Maroon Forest
+80068DB2 01FF
+#Max Population Good Luck Field
+80068DB6 01FF
+#Max Population Hillside Village
+80068DBA 01FF
+#Max Population Mount Base
+80068DBE 01FF
+#Max Population Gechtmogiv
+80068DC2 01FF
+#Max Population Plus Wisteria
+80068DC6 01FF
+#Max Population Riverfront
+80068DCA 01FF
+#Max Population Shach
+80068DCE 01FF
+#Max Population Bang-Cheng
+80068DD2 01FF
+#Max Population Blackwood
+80068DD6 01FF
+#Max Population Shing-Shee
+80068DDA 01FF
+#Max Population Le Hikat
+80068DDE 01FF
+#Max Population All Levels
+50000C04 0000
+80068DB2 01FF
+Arcade Mode Codes
+#Max Score P1
+801DCC46 01FF
+#Max Score P2
+801DBF56 01FF

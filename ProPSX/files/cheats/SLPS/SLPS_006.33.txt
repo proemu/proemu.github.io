@@ -1,0 +1,8 @@
+#All Items In Inventory	
+80084A7C FFFF
+80084A7E FFFF
+#Complete Map		
+50001802 0000
+80084A88 0101
+#Unlock All Doors		
+80084A84 FFFF

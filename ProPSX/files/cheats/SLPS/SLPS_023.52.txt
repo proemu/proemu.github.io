@@ -1,0 +1,35 @@
+#99999 G
+800DE194 869F
+800DE196 0001
+#Infinite & Max HP & mp
+800DE138 03E7
+800DE13C 03E7
+800DE140 03E7
+800DE144 03E7
+#Level 99
+800DE158 0063
+800DE15C 0063
+800DE160 0063
+800DE164 0063
+#All Weapons / Jewel
+800DE1EE FFFF 
+800DE1F0 FFFF
+800DE1F2 FFFF 
+#Favorability Max Artina	
+800DE1AC FFFF
+#Favorability Max Elle	
+800DE1AE FFFF
+#Favorability Max Lyra	
+800DE1B0 FFFF
+#Favorability Max The main dish	
+800DE1B2 FFFF
+#Favorability Max Miu	
+800DE1B4 FFFF
+#Favorability Max Claire	
+800DE1B6 FFFF
+#Favorability Max Mel 	
+800DE1B8 FFFF
+#Favorability Max The Risutin	
+800DE1BA FFFF
+
+

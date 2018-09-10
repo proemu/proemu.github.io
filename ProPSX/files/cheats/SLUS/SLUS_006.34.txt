@@ -1,0 +1,16 @@
+#Unlimited Lives
+800765E4 0003
+#Crystals O' Plenty
+80076660 00FF
+#Unlimited Simple Jump Gummy
+80076670 0002
+#Unlimited Double Jump Gummy
+80076674 0002
+#Unlimited Long Jump Gummy
+8007666C 0002
+#Unlimited Clockwork Gobbos
+8007667C 0002
+#Always Have Key	
+80076B54 0001
+#Enable Cheat Menu (Press L2 + R2)	
+8006FF88 0001

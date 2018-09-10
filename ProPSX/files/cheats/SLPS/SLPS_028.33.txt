@@ -1,0 +1,10 @@
+#Infinite energy character 1 (main character)  
+800E9178 03E7
+8015DC21 03E7 
+#Infinite energy character 2  
+800E9174 03E7
+8015DE2D 03E7 
+#Infinite energy character 3 (girl)  
+800E916c 03E7
+8015DE2D 03E7 
+ 

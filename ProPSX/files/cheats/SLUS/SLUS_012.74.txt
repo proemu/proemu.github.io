@@ -1,0 +1,6 @@
+#Unlock Everything
+50000F02 0000
+800934C8 0000
+#Infinite Creation Points
+D01FFEB0 0001
+801FFEB0 0063

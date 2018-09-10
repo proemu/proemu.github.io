@@ -1,0 +1,18 @@
+#Suddendeath .Press L1 & L2 when own team battles, press R1 & R2 when enemies' team battles.
+800A205C 0000
+D002C922 FAFF
+800A205E 3403
+D002C922 F5FF
+800A205E 0000
+#More Time .Press L1 & R1
+D002C922 F3FF
+80029180 0F00
+#Less Time .Press L2 & R2 The battling team instantly changes.
+D002C922 FCFF
+80029180 FF00
+#Inf Ammo & Items
+800A4144 0000
+800A4146 0000
+#Max Promotionpoints
+8002B5CE 03E7
+

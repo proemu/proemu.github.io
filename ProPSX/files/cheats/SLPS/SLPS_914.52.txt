@@ -1,0 +1,5 @@
+#Infinite money (60000)  
+800EA210 EA60
+#Infinite MP  
+800EA2FA 0032
+ 

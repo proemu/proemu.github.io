@@ -1,0 +1,6 @@
+#Infinite energy Carrot (.Deactivate after being hit and enable it again after that.)
+80080CC8 0064
+#Infinite energy Marron (.Deactivate after being hit and enable it again after that.)
+80080CC9 0064
+#Infinite energy Tira (.Deactivate after being hit and enable it again after that.)
+80080CCA 0064

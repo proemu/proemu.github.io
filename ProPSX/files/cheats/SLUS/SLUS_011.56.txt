@@ -1,0 +1,34 @@
+#In Battle Infinite Hp (Position 1-Front)
+D00EDD70 FE9C
+800EDD74 E0FF
+D00EDD70 FE9C
+800EDD76 05F5
+#In Battle Infinite Hp (Position 2-Top)
+D00EE42C 09AC
+800EE430 E0FF
+D00EE42C 09AC
+800EE432 05F5
+#In Battle Infinite Hp (Position 3-Bottom)
+D00EEAE8 0074
+800EEAEC E0FF
+D00EEAE8 0074
+800EEAEE 05F5
+#In Battle Infinite Hp (Position 4-Back)
+D00EF1A4 0160
+800EF1A8 E0FF
+D00EF1A4 0160
+800EF1AA 05F5
+#Save Anywhere
+301F6274 0011
+#Max Evaluation Points
+801F6264 270F
+#Max Materialize Points		
+801F5F80 FFFF
+801F5F82 7FFF
+#Voice Collection 100%	
+50005F02 0000
+80060A04 FFFF
+#Open Seraphic Gate (Main Menu)
+8005E422 0011
+#Infinite Time (Brahm Castle)
+801E5C4C 3B03

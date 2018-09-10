@@ -1,0 +1,64 @@
+#P1 Always Have Guide
+D0056B88 0002
+80056B88 0082
+#P2 Always Have Guide
+D0056B8C 0002
+80056B8C 0082
+#Infinite Continue Time
+80056E4C 0009
+#P1 Max Score
+8009D790 9999
+#P2 Max Score
+8009D87C 9999
+#P1 Character Bub
+800AC440 0000
+#P1 Character Musashi
+800AC440 0001
+#P1 Character Pulichio
+800AC440 0002
+#P1 Character Malissa
+800AC440 0003
+#P1 Character Chinkula
+800AC440 0004
+#P1 Character Luna Luna
+800AC440 0005
+#P1 Character Jack
+800AC440 0006
+#P1 Character Sonic Blast Man
+800AC440 0007
+#P1 Character Little Boy in Dragon Costume
+800AC440 0008
+#P1 Character Giant Green Dragon 
+800AC440 0009
+#P1 Character Monkey
+800AC440 000A
+#P1 Character The Furbee's
+800AC440 000B
+#P2 Character Bub
+800AC442 0000
+#P2 Character Musashi
+800AC442 0001
+#P2 Character Pulichio
+800AC442 0002
+#P2 Character Malissa
+800AC442 0003
+#P2 Character Chinkula
+800AC442 0004
+#P2 Character Luna Luna
+800AC442 0005
+#P2 Character Jack
+800AC442 0006
+#P2 Character Sonic Blast Man
+800AC442 0007
+#P2 Character Little Boy in Dragon Costume
+800AC442 0008
+#P2 Character Giant Green Dragon 
+800AC442 0009
+#P2 Character Monkey
+800AC442 000A
+#P2 Character The Furbee's
+800AC442 000B
+#Extra Worlds
+80056CE8 0001
+#Infinite Time	
+80056E46 0009

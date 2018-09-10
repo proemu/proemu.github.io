@@ -1,0 +1,8 @@
+#Cpu Always Loses Turn
+800E1544 0000
+#Have Maximum Cue Shot Power
+800BA54C 000B
+#Have Maximum Player's Technique
+800BA550 000C
+#Have Maximum Player's Mentality
+800BA554 000B

@@ -1,0 +1,18 @@
+#2 Sec Gametime
+800A9C08 0028
+#65.535.000 Money
+800A9970 FFFF
+#Unlimited Energy P1
+800AC890 00FF
+#Unlimited Energy P2
+800AC8AA 00CD
+#P1 Always Win
+800ACA50 00C7
+#P1 Unlimited Psycho Power
+800AC89A 6666
+#Always Get 12 Points
+80142D54 000C
+#Able To Upgrade Your Gloves
+50002C02 0000
+800ACA6C 03E7
+

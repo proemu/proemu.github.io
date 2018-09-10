@@ -1,0 +1,232 @@
+#Infinite Health
+800705A8 0003
+#Infinite Lives
+8006C784 0004
+#Gem's Worth Max
+D0036EC0 C71C
+80036EB4 00FF
+D0036EC0 C71C
+80036EB6 2442
+D0036EC0 C71C
+80036EB8 00??
+D0036EC0 C71C
+80036EBA 2463
+#Press L1 For Moon Jump
+D007143A FBFF
+11070330 0100
+#Have All Eggs Codes\Sunrise Spring Home
+30070300 001F
+#Have All Eggs Codes\Sunny Villa
+30070301 003F
+#Have All Eggs Codes\Cloud Spires
+30070302 003F
+#Have All Eggs Codes\Molten Crater
+30070303 003F
+#Have All Eggs Codes\Seashell Shore
+30070304 003F
+#Have All Eggs Codes\Mushroom Speedway
+30070305 0007
+#Have All Eggs Codes\Sheila's Alp
+30070306 0007
+#Have All Eggs Codes\Buzz's Dungeon
+30070307 0001
+#Have All Eggs Codes\Midday Garden Home
+30070309 001F
+#Have All Eggs Codes\Icy Peak
+3007030A 003F
+#Have All Eggs Codes\Enchanted Towers
+3007030B 003F
+#Have All Eggs Codes\Spooky Swamp
+3007030C 003F
+#Have All Eggs Codes\Bamboo Terrace
+3007030D 003F
+#Have All Eggs Codes\Country Speedway
+3007030E 0007
+#Have All Eggs Codes\Sgt. Byrd's Base
+3007030F 0007
+#Have All Eggs Codes\Spike's Arena
+30070310 0001
+#Have All Eggs Codes\Crawdad Farm
+30070308 0001
+#Have All Eggs Codes\Spider Town
+30070311 0001
+#Have All Eggs Codes\Starfish Reef
+3007031A 0001
+#Have All Eggs Codes\Bugbot Factory
+30070323 0001
+#Have All Eggs Codes\Evening Lake Home
+30070312 001F
+#Have All Eggs Codes\Frozen Altars
+30070313 003F
+#Have All Eggs Codes\Last Fleet
+30070314 003F
+#Have All Eggs Codes\Firewords Factory
+30070315 003F
+#Have All Eggs Codes\Charmed Ridge
+30070316 003F
+#Have All Eggs Codes\Honey Speedway
+30070317 0007
+#Have All Eggs Codes\Bentley's Outpost
+30070318 0007
+#Have All Eggs Codes\Scorch's Pit
+30070319 0001
+#Have All Eggs Codes\Midnight Mountain Home
+3007031B 001F
+#Have All Eggs Codes\Crystal Islands
+3007031C 003F
+#Have All Eggs Codes\Desert Ruins
+3007031D 003F
+#Have All Eggs Codes\Haunted Tomb
+3007031E 003F
+#Have All Eggs Codes\Dino Mines
+3007031F 003F
+#Have All Eggs Codes\Harbor Speedway
+30070320 0007
+#Have All Eggs Codes\Agent 9's Lab
+30070321 0007
+#Have All Eggs Codes\Sorceress' Lair
+30070322 0001
+#Max Gems Codes\Sunrise Spring Home
+80071A10 0190
+#Max Gems Codes\Sunny Villa
+80071A14 0190
+#Max Gems Codes\Cloud Spires
+80071A18 0190
+#Max Gems Codes\Molten Crater
+80071A1C 0190
+#Max Gems Codes\Seashell Shore
+80071A20 0190
+#Max Gems Codes\Mushroom Speedway
+80071A24 0190
+#Max Gems Codes\Sheila's Alp
+80071A28 0190
+#Max Gems Codes\Buzz's Dungeon
+80071A2C 0190
+#Max Gems Codes\Midday Garden Home
+80071A34 0190
+#Max Gems Codes\Icy Peak
+80071A38 01F4
+#Max Gems Codes\Enchanted Towers
+80071A3C 01F4
+#Max Gems Codes\Spooky Swamp
+80071A40 01F4
+#Max Gems Codes\Bamboo Terrace
+80071A44 01F4
+#Max Gems Codes\Country Speedway
+80071A48 0190
+#Max Gems Codes\Sgt. Byrd's Base
+80071A4C 01F4
+#Max Gems Codes\Spike's Arena
+80071A50 0190
+#Max Gems Codes\Crawdad Farm
+80071A30 00C8
+#Max Gems Codes\Spider Town
+80071A54 00C8
+#Max Gems Codes\Starfish Reef
+80071A78 00C8
+#Max Gems Codes\Bugbot Factory
+80071A9C 00C8
+#Max Gems Codes\Evening Lake Home
+80071A58 0190
+#Max Gems Codes\Frozen Altars
+80071A5C 0258
+#Max Gems Codes\Last Fleet
+80071A60 0258
+#Max Gems Codes\Firewords Factory
+80071A64 0258
+#Max Gems Codes\Charmed Ridge
+80071A68 0258
+#Max Gems Codes\Honey Speedway
+80071A6C 0190
+#Max Gems Codes\Bentley's Outpost
+80071A70 0258
+#Max Gems Codes\Scorch's Pit
+80071A74 0190
+#Max Gems Codes\Midnight Mountain Home
+80071A7C 0190
+#Max Gems Codes\Crystal Islands
+80071A80 02BC
+#Max Gems Codes\Desert Ruins
+80071A84 02BC
+#Max Gems Codes\Haunted Tomb
+80071A88 02BC
+#Max Gems Codes\Dino Mines
+80071A8C 02BC
+#Max Gems Codes\Harbor Speedway
+80071A90 0190
+#Max Gems Codes\Agent 9's Lab
+80071A94 02BC
+#Max Gems Codes\Sorceress' Lair
+80071A98 0190
+#Unlock Level Codes\Sunrise Spring Worlds & Sunrise Spring Home
+30071FB0 0001
+#Unlock Level Codes\Sunny Villa
+30071FB1 0001
+#Unlock Level Codes\Cloud Spires
+30071FB2 0001
+#Unlock Level Codes\Molten Crater
+30071FB3 0001
+#Unlock Level Codes\Seashell Shore
+30071FB4 0001
+#Unlock Level Codes\Mushroom Speedway
+30071FB5 0001
+#Unlock Level Codes\Sheila's Alp
+30071FB6 0001
+#Unlock Level Codes\Buzz's Dungeon
+30071FB7 0001
+#Unlock Level Codes\Midday Gardens Worlds & Midday Garden Home
+30071FB9 0001
+#Unlock Level Codes\Icy Peak
+30071FBA 0001
+#Unlock Level Codes\Enchanted Towers
+30071FBB 0001
+#Unlock Level Codes\Spooky Swamp
+30071FBC 0001
+#Unlock Level Codes\Bamboo Terrace
+30071FBD 0001
+#Unlock Level Codes\Country Speedway
+30071FBE 0001
+#Unlock Level Codes\Sgt. Byrd's Base
+30071FBF 0001
+#Unlock Level Codes\Spike's Arena
+30071FC0 0001
+#Unlock Level Codes\Sparx Worlds & Crawdad Farm
+30071FB8 0001
+#Unlock Level Codes\Spider Town
+30071FC1 0001
+#Unlock Level Codes\Starfish Reef
+30071FCA 0001
+#Unlock Level Codes\Bugbot Factory
+30071FD3 0001
+#Unlock Level Codes\Evening Lake Worlds & Evening Lake Home
+30071FC2 0001
+#Unlock Level Codes\Frozen Altars
+30071FC3 0001
+#Unlock Level Codes\Last Fleet
+30071FC4 0001
+#Unlock Level Codes\Firewords Factory
+30071FC5 0001
+#Unlock Level Codes\Charmed Ridge
+30071FC6 0001
+#Unlock Level Codes\Honey Speedway
+30071FC7 0001
+#Unlock Level Codes\Bentley's Outpost
+30071FC8 0001
+#Unlock Level Codes\Scorch's Pit
+30071FC9 0001
+#Unlock Level Codes\Midnight Mountain Worlds & Midnight Mountain Home
+30071FCB 0001
+#Unlock Level Codes\Crystal Islands
+30071FCC 0001
+#Unlock Level Codes\Desert Ruins
+30071FCD 0001
+#Unlock Level Codes\Haunted Tomb
+30071FCE 0001
+#Unlock Level Codes\Dino Mines
+30071FCF 0001
+#Unlock Level Codes\Harbor Speedway
+30071FD0 0001
+#Unlock Level Codes\Agent 9's Lab
+30071FD1 0001
+#Unlock Level Codes\Sorceress' Lair
+30071FD2 0001

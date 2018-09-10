@@ -1,0 +1,12 @@
+#Infinite Lives 	
+800EB68E 0063
+#Infinite Health 	
+800C766E 0003
+#Max Drubloons 	
+800C4980 03E7
+#Max Crystals 	
+800EB6BC 0063
+#Max Special 	
+800C766E 0803
+#Infinite Time 	
+800EEA04 7000

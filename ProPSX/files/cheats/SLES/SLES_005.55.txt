@@ -1,0 +1,10 @@
+#Infinite Armor	
+800E8076 0064
+#Infinite Shield
+800E807A 0064
+#Infinite Helmet
+800E807E 0064
+#Infinite Health
+800C838C 0064
+800E8070 0064
+8015DDA4 0064

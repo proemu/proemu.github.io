@@ -1,0 +1,64 @@
+#Max No. Of Win For P1
+801CDD28 0063
+#Max No. Of Win For P2
+801CDD2C 0063
+#All Gallery Unlock
+801CDD1C FFFF
+801CDD1E 0003
+#The large fall 2P
+8003D370 1000
+8003D372 3082
+8003D376 1440
+8003D378 004E
+8003D386 AC80
+#Easy Difficulty level
+801CDD3C 0000
+#1P Mode: Arle Starts @ Extra Stage vs. Carbuncle	
+D01CDB00 0001
+801CDB00 000E
+#1P Mode: Arle Starts @ Final Stage vs. Satan
+D01CDB00 0001
+801CDB00 000D
+#1P Mode: Schezo Starts @ Extra Stage vs. Carbuncle	
+D01CDB00 0001
+801CDB00 0009
+#1P Mode: Schezo Starts @ Final Stage vs. Satan	
+D01CDB00 0001
+801CDB00 0008
+#Endless Mode: Max Level (P1)		
+801CDDFC 0063
+#Get 1 Sun Puyo per Turn (P1)		
+80120DE0 0001
+#Get 1 Sun Puyo per Turn (P2)		
+80121210 0001
+#Massive Ojama Puyos (P1)		
+80120D94 001E
+#Massive Ojama Puyos (P2)		
+801211C8 001E
+#Max Score (P1)		
+801CDDE4 E0FF
+801CDDE6 05F5
+#Max Score (P2)		
+801CDDE8 E0FF
+801CDDEA 05F5
+#Nazo Puyo Mode: All Clear		
+50000D01 0000
+301D42A0 00FF
+#No Ojama Puyos (P1)		
+80120D94 0000
+#No Ojama Puyos (P2)		
+801211C8 0000
+#No Sun Puyos (P1)		
+80120DE0 0000
+#No Sun Puyos (P2)		
+80121210 0000
+#No Warning Puyos (P1)		
+801060C8 0000
+#No Warning Puyos (P2)		
+801060CC 0000
+#Unlock All Extras		
+801CDD1C FFFF
+801CDD1E 0003
+801CDD24 FFFF
+801CDD26 07FF
+801CDD98 0079

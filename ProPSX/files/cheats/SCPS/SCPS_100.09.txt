@@ -1,0 +1,16 @@
+#Infinite Shields
+800FAB18 0002
+#Max. Vulcan Weapon Power
+800F12A0 0002
+#Max. Laser Weapon Power
+800F12A2 0002
+#Max. A-Break Weapon Power
+800F12A4 0002
+#Max. Ray-B Weapon Power
+800F12A6 0002
+#Infinite BgrïS
+800FAB10 0005
+#Infinite Ships
+800F0F20 00FF
+#Invincibility
+800F58BE 0003

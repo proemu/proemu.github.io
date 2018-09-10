@@ -1,0 +1,13 @@
+#No change player turn in story mode  
+800D527C 0000 
+#Does not increase speed mode time 
+800D52C0 0000 
+800D52C2 0000 
+#Pocket Game All Characters Unlocked 
+800B13F0 000A 
+800B13F4 0009 
+800B1400 0009
+#Pocket Game Hidden table Unlock 
+800B1358 0007 
+800B135C 0006 
+800B1368 0006 

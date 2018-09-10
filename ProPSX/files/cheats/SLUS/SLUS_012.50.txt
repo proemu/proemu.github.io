@@ -1,0 +1,46 @@
+#Inf Credits
+8007307E 040B
+#Unlock All Levels
+50000802 0000
+8005F110 0101
+#Unlock All Levels Alt
+8005F110 0101
+8005F112 0101
+8005F114 0101
+8005F116 0101
+8005F118 0101
+8005F11A 0101
+8005F11C 0101
+8005F11E 0101
+#Unlock All Galleries
+50000B0C 0000
+8006B3FA 0A04
+#Start on Last Level (Arcade) 	
+D0073240 0000
+80073240 0063
+#Baby Bot-Gallery Completed 	
+8006B3FA 0A04 		
+#Lemon-Gallery Completed 	
+8006B412 0A04 		
+#Nips-Gallery Completed 	
+8006B41E 0A04 		
+#Booger-Gallery Completed 	
+8006B42A 0A04 		
+#Gilly-Gallery Completed 	
+8006B436 0A04 		
+#Poppy-Gallery Completed 	
+8006B442 0A04 		
+#Wigsey-Gallery Completed 	
+8006B44E 0A04 		
+#Aqualad-Gallery Completed 	
+8006B45A 0A04 		
+#Innit - Gallery Completed 	
+8006B466 0A04 		
+#Baby - Gallery Completed 	
+8006B470 0A04
+#Moolamb - Gallery Completed 	
+8006B406 0A04
+#Unlock All Characters
+3006DF45 0001
+3006DF4D 0001
+3006DF4E 0001

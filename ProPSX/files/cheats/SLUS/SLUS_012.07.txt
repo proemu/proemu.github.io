@@ -1,0 +1,4 @@
+#Infinite Health
+8001A276 2400
+#Stop Timer
+8006CF1C 0000

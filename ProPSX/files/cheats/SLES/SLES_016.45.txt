@@ -1,0 +1,8 @@
+#Player 1 Score 9 Goals
+800F44FC 0009
+#Player 1 Score 0 Goals
+800F44FC 0000
+#Player 2 Score 9 Goals
+800F44F8 0009
+#Player 2 Score 0 Goals
+800F44F8 0000

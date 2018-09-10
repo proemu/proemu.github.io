@@ -1,0 +1,50 @@
+#Infinite Time
+80198CD4 22A9
+#Infinite health Player 1
+80198D0A 00B6
+#Infinite Continues
+801B6910 0005
+#2P Life = 0
+301A4EEA 0000
+#Grand Battle 9999
+801B6FE8 270F
+#Bingo Card 9999
+8019B760 270F
+#Secret Sound
+801B6960 FFE0
+801B6962 0FFE
+#Max Card
+8019B760 FFFF
+#1P Special Moves level 3
+30198D1C 0003 
+#1P invincible (Invincible) 
+D0198CEA 0000 
+30198D0A 00FF 
+D0198CEA 0000 
+30198EE0 00FF 
+D0198CEA 0000 
+30199434 00FF 
+D0198CEA 0000 
+301A422E 00FF 
+#1P deathblow all-you-can-eat 
+D0198CEA 0000 
+30198D1C 0003 
+#2P HP 0
+30198D56 0000 
+#All characters selectables and treasures
+801B6964 FFFF 
+301B6966 00FF 
+#The system adds voice and fully open to options
+801B6958 FFFF 
+301B695A 00FF 
+#Voice of treasure fully open mode character
+801B6950 FFFF 
+301B6952 00FF 
+#Treasure Theater mode fully open
+801B695C FFFF 
+301B695E 00FF 
+#Treasure Gallery fully open mode 
+801B6960 FFFF 
+801B6962 FFFF 
+#Visual adventure full open 
+301B6FE8 00AB

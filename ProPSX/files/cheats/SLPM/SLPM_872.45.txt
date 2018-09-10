@@ -1,0 +1,9 @@
+#Infinite HP boy  
+800DD99C 03E7
+800DD99E 03E7
+#Infinite HP man with helmet  
+800DD9B8 03E7
+800DD9BA 03E7
+#Infinite HP girl  
+800DD9D4 03E7
+800DD9D6 03E7

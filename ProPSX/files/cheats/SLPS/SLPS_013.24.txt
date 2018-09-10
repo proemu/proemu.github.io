@@ -1,0 +1,11 @@
+#Money Max
+80018024 FFFF
+#Horse Stamina
+30010070 0063
+#Horse Speed
+3001006F 0063 
+#Leading force 
+3001006E 0063
+#Length of Sueashi 
+30010071 0063
+

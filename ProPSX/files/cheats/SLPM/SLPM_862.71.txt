@@ -1,0 +1,12 @@
+#All Weapons	
+80018BD2 2400
+80018BE4 03E8
+80018BE6 2402		
+#Infinite Bullets	
+80022B46 2400		
+#Invincible	
+8005DF06 2400		
+#Infinite Lives	
+800FF874 0005		
+#Infinite Special Bomb	
+8005D45E 2400

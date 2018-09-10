@@ -1,0 +1,8 @@
+#Infinite Attemps
+8014E030 0009
+#Infinite Time
+8014A984 001E
+#No Blue Balls		
+3014E029 0000
+#No Goldfish		
+3014E028 0000

@@ -1,0 +1,17 @@
+#Infinite HP in battle 1 Position
+80078DA2 270F
+#Infinite HP in battle 2 Position
+80078F72 270F
+#Infinite HP in battle 3 Position
+80079142 270F
+#Infinite HP in battle G.F. 1 Position
+80078C48 270F
+#Infinite HP in battle G.F. 2 Position
+80078E18 270F
+#Infinite HP in battle G.F. 3 Position
+80078FE8 270F
+#Infinite money
+80078394 D02C
+80078396 0160
+#No random battles
+80079308 000C

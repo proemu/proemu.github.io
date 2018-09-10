@@ -1,0 +1,6 @@
+#Infinite Energy
+800BDB0E 03E7
+800BDB18 03E7
+#Infinite Gold
+800BF0AC FFFF
+

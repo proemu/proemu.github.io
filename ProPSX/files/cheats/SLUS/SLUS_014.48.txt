@@ -1,0 +1,10 @@
+#Infinite Health P1 - Worm 1
+801A4F8E 00064
+#Infinite Health P1 - Worm 2
+801A69B6 0064
+#Infinite Health P1 - Worm 3
+801A3566 00064
+#Infinite Health P1 - Worm 4
+801A83FE 0064
+#Infinite Turn Time
+301A039D 00FF

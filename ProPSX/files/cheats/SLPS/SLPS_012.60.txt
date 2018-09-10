@@ -1,0 +1,24 @@
+#Infinite energy in battle
+80144578 005C
+#All Trading Cards 
+800FF770 000F
+800FF772 000F 
+#All Trading Cards Alternate 
+800FF770 0005
+800FF772 0005
+#Max dance 
+801C504C 270F
+#Max Acting 
+801C504E 270F
+#Max Sing 
+801C5050 270F
+#Max Talent 
+801C5052 270F
+#Max Physical fitness 
+801C5054 270F
+#Max Degree of reliability 
+801C5056 270F
+#No Fatigue 
+801C5058 0000
+#No Stress 
+801C505A 0000

@@ -1,0 +1,55 @@
+#Unendlich Leben
+D009E978 0103
+80048B84 2400
+#Unendlich Munition
+D009E978 0103
+8007BD84 2400
+#Gehe Durch TüRen
+D006FF6A 0C01
+8006FF6A 2400
+#Unendlich Energie Level 1
+800E09B2 0064
+%NOTE2
+#Unendlich Energie Level 2
+800F6E92 0064
+%NOTE2
+#Unendlich Energie Level 3
+800E8132 0064
+%NOTE2
+#Unendlich Energie Level 4
+800E7182 0064
+%NOTE2
+#Unendlich Energie Level 5
+800EB182 0064
+%NOTE2
+#Unendlich Energie Level 6
+800EEAA2 0064
+%NOTE2
+#Unendlich Energie Level 7
+800FA2E2 0064
+%NOTE2
+#Unendlich Energie Level 8
+800E11D2 0064
+%NOTE2
+#Unendlich Energie Level 9
+800E9A72 0064
+%NOTE2
+#Unendlich Energie Level 10
+800D7232 0064
+%NOTE2
+#Unendlich Energie Level 11
+800EA3C2 0064
+%NOTE2
+#Unendlich Energie Level 12
+800F5A82 0064
+%NOTE2
+#Unendlich Energie Level 13
+800F8982 0064
+%NOTE2
+#Unendlich Energie Level 14
+80145DD2 0064
+%NOTE2
+#2-Player-Mode\Unendlich Energie P1
+8010A332 0032
+#2-Player-Mode\Unendlich Energie P2
+801071B2 0032

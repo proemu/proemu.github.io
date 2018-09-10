@@ -1,0 +1,6 @@
+#Infinite medikits
+80198B74 0009
+#Infinite ammo
+80198B6C 0009
+#Infinite time
+8008BB30 270F

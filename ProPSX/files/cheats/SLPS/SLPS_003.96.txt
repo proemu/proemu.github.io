@@ -1,0 +1,6 @@
+#Infinite Homing Missiles
+8009884C 0004
+#Infinite Mines
+80098850 0008
+#Infinite Turbos
+80098844 0004

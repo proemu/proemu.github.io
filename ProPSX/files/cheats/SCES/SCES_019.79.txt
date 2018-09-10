@@ -1,0 +1,24 @@
+#Have 160 points in championship mode - Hakkinen
+80010E5E 00A0
+#Racetime 00:00:00
+D0050492 AC22
+30050492 0020
+#No time wasted pole & pitstop	
+D006D176 A622
+8006D176 A620
+#Always good grip	
+D00AA966 A646
+800AA966 A640
+#Start with last race	
+D0010700 00FF
+30010701 000F
+#View outro	
+D0010700 00FF
+80010700 1010
+#Championship won Team McLaren Mika Häkkinen	
+D00A3C5E 0001
+30010E5C 0096
+#Championship Won Team Ferrari Michael Schumacher	
+D00A3C5E 0001
+30010E60 0096
+

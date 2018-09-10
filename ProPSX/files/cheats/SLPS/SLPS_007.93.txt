@@ -1,0 +1,8 @@
+#Player has 999900 points
+8008DC70 270F
+#Opponent 1 has 0 points
+8008DC7C 0000
+#Opponent 2 has 0 points
+8008DC78 0000
+#Opponent 3 has 0 points
+8008DC74 0000

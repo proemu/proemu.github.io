@@ -1,0 +1,32 @@
+#Rudy Infinite Hp In Battle (Only use agains final enemies and deactivate after defeat the enemy or the game will crash)
+80165E8C 270F
+#Jack Infinite Hp In Battle (Only use agains final enemies and deactivate after defeat the enemy or the game will crash)
+80166064 270F
+#Cecilia Infinite Hp In Battle (Only use agains final enemies and deactivate after defeat the enemy or the game will crash)
+8016623C 270F
+#Rudy\Infinite Hp 
+800DE0F0 270F
+#Rudy\Infinite Mp
+800DE0F4 270F
+#Jack\Infinite Hp
+800DE124 270F
+#Jack\Infinite Mp
+800DE128 270F
+#Cecilia\Infinite Hp
+800DE158 270F
+#Cecilia\Infinite Mp
+800DE15C 270F
+#Misc\Infinite Gellas
+800DE4DC FFFF
+#Misc\Freeze Time
+800DDF58 4612
+#Infinite Mp In Battle All Characters (Only use agains final enemies and deactivate after defeat the enemy or the game will crash)
+8009CBDE 2400
+8006ED3E 2400
+80047162 2400
+#Max / infinite gella		
+800DE394 967F
+800DE396 0098
+#No random battles		
+80064678 0000
+8006467A 0000

@@ -1,0 +1,16 @@
+#Max Score
+8007BC1C FFFF
+#Track USA
+800A07D8 0000
+#Track Switzerland
+800A07D8 0001
+#Track Japan
+800A07D8 0002
+#Track Scotland
+800A07D8 0003
+#Track Germany
+800A07D8 0004
+#Track France
+800A07D8 0005
+#Time Is Always 0:00:00
+8006AB94 0000

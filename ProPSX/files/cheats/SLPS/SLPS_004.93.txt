@@ -1,0 +1,5 @@
+#Infinite Energy
+800F3EE4 0096
+#Infinite Power
+800A33CA 0031
+

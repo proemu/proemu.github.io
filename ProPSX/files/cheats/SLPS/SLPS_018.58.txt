@@ -1,0 +1,7 @@
+#Enemy has 0 points
+80095BA0 0000
+800E5F5C 0000
+#player has 20 points
+80095B6C 0014
+800E5F28 0014
+

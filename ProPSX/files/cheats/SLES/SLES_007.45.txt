@@ -1,0 +1,66 @@
+#Primary Weapons\Trojax
+30086742 0001
+800866FC 8000
+#Primary Weapons\Pyrolite
+30086743 0001
+800866FE 8000
+#Primary Weapons\Beamlaser
+30086744 0001
+80086602 8000
+#Primary Weapons\Orbit Pulsar
+8008672E 0001
+#Primary Weapons\Transpulse
+30086741 0001
+#Primary Weapons\Suss Gun
+30086745 0001
+80086700 8000
+#Primary Weapons\Pulsar
+800866FC 8000
+#Secondary Weapons\Infinite Mug
+80086746 0507
+#Secondary Weapons\Infinite Solaris
+80086748 000F
+#Secondary Weapons\Infinite Gravgon
+8008674C 000F
+#Secondary Weapons\Infinite Scatter
+3008674A 000F
+#Secondary Weapons\Infinite Purge
+8008674E 000F
+#Secondary Weapons\Infinite Pine
+30086750 000F
+#Secondary Weapons\Infinite Mfrl
+3008674D 000F
+#Secondary Weapons\Infinite Quantum
+30086751 000F
+#Secondary Weapons\Infinite Titan
+3008674B 000F
+#Secondary Weapons\Infinite Shield
+800866F4 1000
+#Secondary Weapons\Infinite Hull
+800866F6 1000
+#Secondary Weapons\Infinite Bikes
+300CCEB0 00FF
+#Secondary Weapons\Infinite Crystals
+300CCEB1 00FF
+#Secondary Weapons\Infinite Powerpods
+80086720 00FF
+@Foxhunt@SLUS-00000
+#Disc One Codes\Always Have Vidbook
+801EDA24 0001
+#Disc One Codes\Always Have Kitchen Knife
+801EEE24 0001
+#Disc One Codes\Always Have Taco
+801EE564 0001
+#Disc One Codes\Always Have Cia Card
+801EF004 0001
+#Disc One Codes\Always Have Knife
+801EF1E4 0001
+#Disc One Codes\Always Have Bullet
+801EEC44 0001
+#Disc One Codes\Always Have Skis
+801EC544 0001
+#Disc One Codes\Always Have Feather
+801EE294 0001
+#Disc One Codes\Always Have Medal
+801EEB54 0001
+

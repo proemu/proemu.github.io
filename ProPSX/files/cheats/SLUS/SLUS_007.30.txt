@@ -1,0 +1,15 @@
+#Infinite Lives
+800AA698 6300
+#Infinite Stars
+800B05E4 03E7
+#Infinite Penguins (Level 2)
+800920CC 003C
+#Activate Cheat Invincibility
+8009AEC4 0400
+#Activate Cheat Enable Level Select
+8009AEC4 0004
+#Activate Cheat Upside Down Mode
+8009AEC4 0100
+#Activate Cheat Jelly Mode
+8009AEC4 0800
+

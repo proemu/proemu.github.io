@@ -1,0 +1,14 @@
+#Number Of Points P1 100
+30091BFC 0064
+#Number Of Points P1 0
+30091BFC 0000
+#Number Of Points P2 100
+300919C8 0064
+#Number Of Points P2 0
+300919C8 0000
+#Infinite Shot Clock
+80091812 04BC
+#Infinite Rest Points Select+L1
+D00917EE 0104
+80101510 0063
+

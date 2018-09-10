@@ -1,0 +1,12 @@
+#Dig Dug\Infinite Lives
+8012544C 0003
+#Phozon\Infinite Lives
+80168D90 0302
+#Galaxian\Infinite Lives
+8010EC5C 0003
+#Ms. Pacman\Infinite Lives
+801359A8 0003
+#Pole Position 2\Infinite Time
+80135548 7800
+#The Tower Of Druaga\Infinite Lives
+8016664A 0003

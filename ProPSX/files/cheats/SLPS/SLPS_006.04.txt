@@ -1,0 +1,3 @@
+#Infinite HP Main Character
+801564D8 00FF
+

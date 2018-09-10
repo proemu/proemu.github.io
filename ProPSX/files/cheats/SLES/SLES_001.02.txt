@@ -1,0 +1,40 @@
+#Invincible
+80069F4C 0001
+#First Person view
+80069F4C 0001
+#Give clues
+80069F4C 0004
+#Level Select (Pause game for it; X and Triangle to toggle it; press Start to load level; L1 to increase milliseconds; L2 to increase seconds)
+80069F4C 0008
+#Infinite Batteries
+300D2913 0064
+#Infinite Coins
+300D2912 0064
+#Infinite Health For Batman, Batgirl & Robin
+8009AB74 0000
+#Infinite Health For Vehicles
+801E312E 00FA
+#Robin Codes Have All Weapons
+800CF5C8 FFFF
+#Robin Codes Have Infinite Boost
+800CF5C2 0606
+#Robin Codes Have Max Speed
+800CF5C0 9632
+#Batman Codes Have All Tools
+800CF50A 0F0F
+800CF50C FFFF
+#Batman Codes Have All Weapons
+800CF508 FFFF
+#Batman Codes Have Infinite Boost
+800CF502 0606
+#Batman Codes Have Max Speed
+800CF500 9632
+#Batgirl Codes Have All Tools
+800CF56A 0F0F
+800CF56C FFFF
+#Batgirl Codes Have All Weapons
+800CF568 FFFF
+#Batgirl Codes Have Infinite Boost
+800CF562 0606
+#Batgirl Codes Have Max Speed
+800CF560 9632

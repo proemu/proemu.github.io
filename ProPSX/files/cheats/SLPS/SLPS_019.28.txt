@@ -1,0 +1,35 @@
+#Infinite energy boy
+80085872 03E7
+80085874 03E7
+#Stats 	Max Boy
+80085864 03E7
+80085866 03E7
+80085868 03E7
+8008586A 03E7
+#Infinite energy cat girl
+800859BC 03E7
+#Important item all
+301831FF 00FF
+#Profile Lodi Light 	
+801834A2 0002
+#Profile Daisy Light 	
+801834A2 0004
+#Profile Hazel nut Albero 	
+801834A2 0008
+#Profile Violet Meer 	
+801834A2 0010
+#Profile root Pisutiru  	
+801834A2 0000
+#Profile R-7 	
+801834A2 0040
+#Profile Orchid Grace  	
+801834A2 0080
+#Profile anemone 	
+801834A2 0100
+#Profile Mantis root 	
+801834A2 0200
+#Profile Lady Bird Rouge	
+801834A2 0400
+
+
+

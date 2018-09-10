@@ -1,0 +1,21 @@
+#Have All Silver and Colored Gems 	
+8006CC28 FFFF
+8006CC2A FFFF
+8006CC2C FFFF
+8006CC2E FFFF 		
+#Have All Crystals (Combine the 'Have all Crystals' code with the 'Have all Silver and Colored Gems' to access the real ending wherein you destroy the Cortex Vortex. The 'Have all Crystals' code still requires you to defeat each boss in order for you to enter the Warp Rooms. (<less<)	Combine the 'Have all Crystals' code with the 'Have all Silver and Colored Gems' to access the real ending wherein you destroy the Cortex Vortex. The 'Have all Crystals' code still requires you to def each boss in order for you to enter the Warp Rooms)	
+8006CDA4 FFFF
+8006CDA6 FFFF
+8006CDA8 FFFF 	
+#Always Have Aku Aku Mask (Warp Room)	
+8006CBD4 0200
+#L2 for Invincible Enabled, R2: for Invincible Disabled	
+D0069922 FEFF
+8001CE8E 2400
+D0069922 FDFF
+8001CE8E 0C00
+#L2: Enable Invincibility. R2: Disable Invincibility [Version 2]	
+D0069922 FEFF
+8003944A 2400
+D0069922 FDFF
+8003944A 0C00

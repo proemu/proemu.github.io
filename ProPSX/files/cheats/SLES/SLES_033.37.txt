@@ -1,0 +1,4 @@
+#P1 Cash = 9999	
+8004BA38 270F
+#Hole in one P1	
+8004AFF6 0001

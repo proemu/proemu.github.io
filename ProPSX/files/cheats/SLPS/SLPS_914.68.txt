@@ -1,0 +1,9 @@
+#Have 99999 points  
+80095598 869F
+8009559A 0001 
+#Opponent 1 has 0 points  
+800955B8 0000 
+#Opponent 2 has 0 points  
+800955D8 0000 
+#Opponent 3 has 0 points  
+800955F8 0000 

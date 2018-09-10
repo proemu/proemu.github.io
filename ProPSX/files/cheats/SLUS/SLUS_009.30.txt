@@ -1,0 +1,6 @@
+#Infinite Lives
+8006EF38 0004
+#Infinite Health		
+80085CA4 012C
+#Infinite Magic Spells (All Upon Pick-Up)
+8006EF30 0064

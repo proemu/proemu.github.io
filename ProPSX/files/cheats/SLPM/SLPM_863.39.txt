@@ -1,0 +1,37 @@
+#Infinite Money
+80130CD4 03E7 
+#Infinite Hp & Mp 1st Character
+80130530 03E7 
+80130532 03E7 
+8013054A 03E7 
+8013054C 03E7  
+#Infinite Hp & Mp 2nd Character	
+80130568 03E7
+8013056A 03E7
+80130582 03E7
+80130584 03E7
+#Bonus appearance	
+800D72F8 0001
+#Diary story number / introductory chapter of the journey	
+300D7388 005E
+#Diary story number / chapter 1
+300D7388 005F
+#Diary story number / chapter 2
+300D7388 0060	
+#Diary story number / chapter 3
+300D7388 0061
+#Diary story number / chapter 4
+300D7388 0062
+#Money in hand	
+80130E04 423F 
+80130E06 000F
+#God Beast gauge in combat	
+300D75D4 0014
+#Gender bonus woman	
+300D71D4 0000 
+#Gender bonus man	
+300D71D4 0001
+#Maximum HP	
+80130660 03E7
+#Maximum MP	
+80130662 03E7

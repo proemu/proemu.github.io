@@ -1,0 +1,4 @@
+#Inf Hp Player 1
+800B2120 0064
+#Inf Hp Player 2
+800B213C 0064

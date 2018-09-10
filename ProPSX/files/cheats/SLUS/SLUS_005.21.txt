@@ -1,0 +1,6 @@
+#Lap Time is 00:00:000
+800BF2FC 0000
+#One Lap Needed To Finish Race
+800BF27A 0009
+#Always Place First
+800BF2A8 0101

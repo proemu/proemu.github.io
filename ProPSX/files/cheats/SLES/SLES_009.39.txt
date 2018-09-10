@@ -1,0 +1,25 @@
+#Infinite health P1
+301D6E0C 00C8
+#1-Hit Kill P1 0		
+D01D6E0C 00C8
+301D6E0C 0001
+#Needs only one win to proceed P1
+301D441E 0002
+#Infinite health P2
+301D8334 00C8
+#No health P2	
+301D8334 0000
+#Expert mode Completed	
+50001302 0000
+801EA030 FFFF
+#Expert Mode Points
+801EC718 FFFF
+#Stop Timer
+801D441C 2D63
+#Unlock All Movies
+801D4444 FFFF
+801D4446 FFFF
+#Unlock Bonus Characters
+801EA062 77FD
+#Unlock Bonus Game
+801EA316 6101

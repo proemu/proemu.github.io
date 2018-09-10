@@ -1,0 +1,14 @@
+#Infinite Shield
+801C0348 07D0
+#Infinite Shots
+801CF800 0009
+#Infinite Bouncing Mines On Pickup
+801CE8D0 0003
+#Infinite Explosive Shots On Pickup
+801CF620 0009
+#Infinite Energy
+801C1944 07D0
+#Invincibility	
+80010028 0083
+#Infinite ammo all weapons	
+8005DCFE 2400

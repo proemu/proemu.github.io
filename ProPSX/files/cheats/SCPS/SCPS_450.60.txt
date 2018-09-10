@@ -1,0 +1,13 @@
+#Infinite Small Missile
+8004131E 0028
+#Infinite Rifle
+800412E2 00C8
+#Infinite Power
+80041016 6D60
+#Infinite Time
+8019F3F4 FFFF
+#Infinite Hp
+801A26E0 8000
+#Infinite Money
+80039CCC FFFF
+80039CCE 00FF

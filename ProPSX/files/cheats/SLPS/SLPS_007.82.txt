@@ -1,0 +1,18 @@
+#Infinite Money
+800CD9F8 9400
+800CD9FA 7735
+#Staff Infinite Health
+80036F14 0018
+#Checkout supply and security
+8003AA68 6464
+#Max Status 100% in  customer service, security and cleaning supplies(Conditions: After some work)
+8003AA68 6464
+8003AA6A 3402
+8003AA6C 001E
+8003AA6E A4A2
+8003AA70 0020
+8003AA72 A4A2
+8003AA74 0022
+8003AA76 A0A2
+8003AA7C EC98
+8003AA7E 0800

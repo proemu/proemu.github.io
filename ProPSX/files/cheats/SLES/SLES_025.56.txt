@@ -1,0 +1,9 @@
+#Infinite Time
+800C408E 3C00
+#Max Score
+800B25F4 FFFF
+#Tricks Worth Modifier
+800C8BD8 03E7
+800C8BDA 2463
+#Unlock All Levels
+800B264C 0B03

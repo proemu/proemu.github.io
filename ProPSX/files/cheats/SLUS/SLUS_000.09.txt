@@ -1,0 +1,20 @@
+#Inf Health
+83F783CF 0064
+#Inf Ammo
+83F2AC53 0074
+#Infinite Energy In Turret 1	
+800E80D8 0000
+#Infinite Energy In Turret 2	
+800E80E0 0000
+#Infinite Energy In Turret 3	
+800E80E8 0000
+#Infinite Energy In Turret 4	
+800E80F0 0000
+#Infinite Energy In Turret 5	
+800E80F8 0000
+#Infinite Energy In Turret 6	
+800E8100 0000
+
+
+
+

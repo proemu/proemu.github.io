@@ -1,0 +1,4 @@
+#Have 200 Mudokons
+8007E53E 012C
+#Invulnerability
+8007E556 0001

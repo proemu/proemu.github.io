@@ -1,0 +1,14 @@
+#Emilia Infinite HP 	
+80010004 03E7 		
+#Emilia Infinite LP 	
+80010006 6363
+#Have All Items 
+5000FF01 0001 
+8001288C 6300
+#Scenario in the fuse Character selection of NEW GAME at the time will be forced to fuse. Please move to the region from the menu screen immediately after the start of the game, since the dark state. 
+In addition, you must be used with the code of the region or move items all species possession. 
+301C9F9A 0007 
+#Region move 
+80012894 01FD 
+#All menu selectable 
+30012B68 0000

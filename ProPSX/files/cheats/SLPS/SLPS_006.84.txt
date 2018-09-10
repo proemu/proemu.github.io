@@ -1,0 +1,10 @@
+#9999900 money 
+801FA948 4E1F 
+#Infinite Energy 
+801FA964 0022 
+#Oil 99 times 
+801FA94A 0063 
+#99 this match 
+801FA94C 0063 
+#99 rounds of ammunition 
+801FA94E 0063 

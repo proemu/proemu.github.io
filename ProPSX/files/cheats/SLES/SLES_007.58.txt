@@ -1,0 +1,19 @@
+#Unendlich Power Ups
+8006D024 0004
+#Besitze SilberschlüSsel
+8006D028 0001
+#Unendlich Leben
+8006D03C 0009
+#Besitze GoldschlüSsel
+8006D040 0001
+#Unendlich Geld
+8006D050 270F
+#Unendlich Bomben
+8006D088 0009
+#Unendlich Energie
+8006D0AA 0050
+#Unendlich Heiltrank
+8006D0AC 0009
+#Level Select 
+3006BAAA 0001
+

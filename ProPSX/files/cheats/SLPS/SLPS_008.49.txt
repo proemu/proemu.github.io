@@ -1,0 +1,23 @@
+#Infinite Hp P1
+801ED97C 00C0
+#No HP p2
+801ED97E 0000
+#Stort Mode Buhi
+8008D69C C9FF
+8008D69E 3B9A
+#Stort Mode Acquisition budget
+8008D4AC C9FF
+8008D4AE 3B9A
+#Stort Mode 0 degree of fatigue
+8008D4BC 0000
+8008D4BE 0000
+#Stort Mode 0 degree hunger
+8008D4CC 0000
+8008D4CE 0000
+#Stort Mode Training degree
+8008D4FC 270F
+#Stort Mode Yell
+8008D4DC 270F
+#Stort Mode Moving infinite
+801FFCA8 001E
+8008D6AC 001E

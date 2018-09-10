@@ -1,0 +1,13 @@
+#Always Place 1st
+8002864A 2402
+#Have All Secrets
+800CC69C FFFF
+#Extra Tracks-Play Expert
+800C8F20 0004
+#Always Play Medium Difficulty
+800CC698 0001
+#Always Play Hard Difficulty
+800CC698 0004
+#Always Play Expert Difficulty
+800CC698 000F
+

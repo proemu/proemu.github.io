@@ -1,0 +1,8 @@
+#Infinite Time 	
+80073CA0 0242 		
+#Quick Point Gain 	
+8005D86C FFFF 		
+#Max Points 	
+8005D86C E0FF
+8005D86E 05F5
+

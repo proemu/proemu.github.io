@@ -1,0 +1,562 @@
+#Infinite Hp
+8011FA5A 03E7
+8011FA58 03E7
+#Infinite Mp
+8011FA5C 03E7
+8011FA5E 03E7
+#Have All Normal & Key Items
+50002004 0001
+80060F68 0145
+50002004 0000
+80060F6A 0064
+50002004 0001
+80060FE8 01CA
+50002004 0000
+80060FEA 0001
+#One Combo Learn All Battle Abilities
+80060062 FFFF
+#Save Anywhere .With this code, when you save at places other than a save point, the saved file will say Corrupted file. The file is NOT corrupt, and will load/save properly.
+D0109FBC 4E6B
+80109FC6 2400
+#Have All Magic
+50003334 0000
+8004C4E0 9000
+50001B34 0000
+8004CF70 8000
+#Have All Battle Abilities
+50002034 0000
+8004BE60 9000
+#Character Codes\Battle Abilities Codes\Chain Abilities\Heavy Shot
+8004BE60 9000
+#Character Codes\Battle Abilities Codes\Chain Abilities\Gain Life
+8004BE94 9000
+#Character Codes\Battle Abilities Codes\Chain Abilities\Mind Assault
+8004BEC8 9000
+#Character Codes\Battle Abilities Codes\Chain Abilities\Gain Magic
+8004BEFC 9000
+#Character Codes\Battle Abilities Codes\Chain Abilities\Raging Ache
+8004BF30 9000
+#Character Codes\Battle Abilities Codes\Chain Abilities\Mind Ache
+8004BF64 9000
+#Character Codes\Battle Abilities Codes\Chain Abilities\Temper
+8004BF98 9000
+#Character Codes\Battle Abilities Codes\Chain Abilities\Crimson Pain
+8004BFCC 9000
+#Character Codes\Battle Abilities Codes\Chain Abilities\Instill
+8004C000 9000
+#Character Codes\Battle Abilities Codes\Chain Abilities\Phantom Pain
+8004C034 9000
+#Character Codes\Battle Abilities Codes\Chain Abilities\Paralysis Pulse
+8004C068 9000
+#Character Codes\Battle Abilities Codes\Chain Abilities\Numbing Claw
+8004C0D0 9000
+#Character Codes\Battle Abilities Codes\Chain Abilities\Dulling Impact
+8004C104 9000
+#Character Codes\Battle Abilities Codes\Chain Abilities\Snake Venom
+8004C16C 9000
+#Character Codes\Battle Abilities Codes\Defense Abilities\Ward
+8004C208 9000
+#Character Codes\Battle Abilities Codes\Defense Abilities\Siphon Soul
+8004C23C 9000
+#Character Codes\Battle Abilities Codes\Defense Abilities\Reflect Magic
+8004C270 9000
+#Character Codes\Battle Abilities Codes\Defense Abilities\Reflect Damage
+8004C2A4 9000
+#Character Codes\Battle Abilities Codes\Defense Abilities\Absorb Magic
+8004C2D8 9000
+#Character Codes\Battle Abilities Codes\Defense Abilities\Absorb Damage
+8004C30C 9000
+#Character Codes\Battle Abilities Codes\Defense Abilities\Impact Guard
+8004C340 9000
+#Character Codes\Battle Abilities Codes\Defense Abilities\Wind Break
+8004C374 9000
+#Character Codes\Battle Abilities Codes\Defense Abilities\Fire Proof
+8004C3A8 9000
+#Character Codes\Battle Abilities Codes\Defense Abilities\Terra Ward
+8004C3DC 9000
+#Character Codes\Battle Abilities Codes\Defense Abilities\Aqua Ward
+8004C410 9000
+#Character Codes\Battle Abilities Codes\Defense Abilities\Shadow Guard
+8004C444 9000
+#Character Codes\Battle Abilities Codes\Defense Abilities\Demonscale
+8004C478 9000
+#Character Codes\Battle Abilities Codes\Defense Abilities\Phantom Shield
+8004C4AC 9000
+#Character Codes\Battle Abilities Codes\Defense Abilities\Have All Battle Abilities
+50002034 0000
+8004BE60 9000
+#Character Codes\Break Art Codes\Dagger Codes\Whistle Sting
+8004DF48 C000
+#Character Codes\Break Art Codes\Dagger Codes\Shadoweave
+8004DF7C C000
+#Character Codes\Break Art Codes\Dagger Codes\Double Fang
+8004DFB0 C000
+#Character Codes\Break Art Codes\Dagger Codes\Wyrm Scorn
+8004DFE4 C000
+#Character Codes\Break Art Codes\Sword Codes\Rending Gale
+8004E018 C000
+#Character Codes\Break Art Codes\Sword Codes\Vile Scar
+8004E04C C000
+#Character Codes\Break Art Codes\Sword Codes\Cherry Ronde
+8004E080 C000
+#Character Codes\Break Art Codes\Sword Codes\Papillon Reel
+8004E0B4 C000
+#Character Codes\Break Art Codes\Great Sword Codes\Sunder
+8004E0E8 C000
+#Character Codes\Break Art Codes\Great Sword Codes\Thunderwave
+8004E11C C000
+#Character Codes\Break Art Codes\Great Sword Codes\Swallow Slash
+8004E150 C000
+#Character Codes\Break Art Codes\Great Sword Codes\Advent Sign
+8004E184 C000
+#Character Codes\Break Art Codes\Axe & Mace Codes\Mistral Edge
+8004E1B8 C000
+#Character Codes\Break Art Codes\Axe & Mace Codes\Glacial Gale
+8004E1EC C000
+#Character Codes\Break Art Codes\Axe & Mace Codes\Killer Mantis
+8004E220 C000
+#Character Codes\Break Art Codes\Axe & Mace Codes\Black Nebula
+8004E254 C000
+#Character Codes\Break Art Codes\Great Axe Codes\Bear Claw
+8004E288 C000
+#Character Codes\Break Art Codes\Great Axe Codes\Accursed Umbra
+8004E2BC C000
+#Character Codes\Break Art Codes\Great Axe Codes\Iron Ripper
+8004E2F0 C000
+#Character Codes\Break Art Codes\Great Axe Codes\Emetic Bomb
+8004E324 C000
+#Character Codes\Break Art Codes\Staff Codes\Sirocco
+8004E358 C000
+#Character Codes\Break Art Codes\Staff Codes\Riskbreak
+8004E38C C000
+#Character Codes\Break Art Codes\Staff Codes\Gravis Aether
+8004E3C0 C000
+#Character Codes\Break Art Codes\Staff Codes\Trinity Pulse
+8004E3F4 C000
+#Character Codes\Break Art Codes\Heavy Mace Codes\Bonecrusher
+8004E428 C000
+#Character Codes\Break Art Codes\Heavy Mace Codes\Quickshock
+8004E45C C000
+#Character Codes\Break Art Codes\Heavy Mace Codes\Ignis Wheel
+8004E490 C000
+#Character Codes\Break Art Codes\Heavy Mace Codes\Hex Flux
+8004E4C4 C000
+#Character Codes\Break Art Codes\Polearm Codes\Ruination
+8004E4F8 C000
+#Character Codes\Break Art Codes\Polearm Codes\Scythe Wind
+8004E52C C000
+#Character Codes\Break Art Codes\Polearm Codes\Giga Tempest
+8004E560 C000
+#Character Codes\Break Art Codes\Polearm Codes\Spiral Scourge
+8004E594 C000
+#Character Codes\Break Art Codes\Crossbow Codes\Brimstone Hail
+8004E5C8 C000
+#Character Codes\Break Art Codes\Crossbow Codes\Heaven's Scorn
+8004E5FC C000
+#Character Codes\Break Art Codes\Crossbow Codes\Death Wail
+8004E630 C000
+#Character Codes\Break Art Codes\Crossbow Codes\Sanctus Flare
+8004E664 C000
+#Character Codes\Break Art Codes\Bare Hands Codes\Lotus Palm
+8004E698 C000
+#Character Codes\Break Art Codes\Bare Hands Codes\Vertigo
+8004E6CC C000
+#Character Codes\Break Art Codes\Bare Hands Codes\Vermillion Aura
+8004E700 C000
+#Character Codes\Break Art Codes\Bare Hands Codes\Retribution
+8004E734 C000
+#Character Codes\Break Art Codes\Bare Hands Codes\Have All Break Arts
+50002834 0000
+8004DF48 C000
+#Character Codes\Character Misc. Codes\Infinite Hp
+D011FA2E 8011
+8011FA58 03E7
+8006006C 03E7
+#Character Codes\Character Misc. Codes\Max Hp
+8006006E 03E7
+#Character Codes\Character Misc. Codes\Infinite Mp
+D011FA2E 8011
+8011FA5C 03E7
+80060070 03E7
+#Character Codes\Character Misc. Codes\Max Mp
+80060072 03E7
+#Character Codes\Character Misc. Codes\Risk Always At Zero
+3011FA60 0000
+#Character Codes\Character Misc. Codes\Body Always Excellent
+3012006C 00C8
+#Character Codes\Character Misc. Codes\Right Arm Always Excellent
+3011FEB4 00C8
+#Character Codes\Character Misc. Codes\Left Arm Always Excellent
+3011FDD8 00C8
+#Character Codes\Character Misc. Codes\Head Always Excellent
+3011FF90 00C8
+#Character Codes\Character Misc. Codes\Legs Always Excellent
+30120148 00C8
+#Character Codes\Character Misc. Codes\Permanent Quicken x2
+E011FA73 0012
+3011FA73 001C
+#Character Codes\Character Misc. Codes\Ludicrous Speed
+E011FA73 0012
+3011FA73 007F
+#Character Codes\Character Misc. Codes\Super Strength
+D011FA2E 8011
+8011FA62 2690
+#Character Codes\Character Misc. Codes\Max Strength
+D011FA2E 8011
+8011FA64 03E7
+#Character Codes\Character Misc. Codes\Super Intelligence
+D011FA2E 8011
+8011FA66 2690
+#Character Codes\Character Misc. Codes\Max Intelligence
+D011FA2E 8011
+8011FA68 03E7
+#Character Codes\Character Misc. Codes\Super Agility
+D011FA2E 8011
+8011FA6A 2690
+#Character Codes\Character Misc. Codes\Max Agility
+D011FA2E 8011
+8011FA6C 03E7
+#Character Codes\Character Misc. Codes\When Attacking Hold Circle To Take Off 999 Damage
+D005E1C0 0020
+801FBC84 03E7
+#Character Codes\Magic Codes\Warlock Codes\Drain Heart
+8004CD00 9000
+#Character Codes\Magic Codes\Warlock Codes\Drain Mind
+8004CD34 9000
+#Character Codes\Magic Codes\Warlock Codes\Solid Shock
+8004CD9C 9000
+#Character Codes\Magic Codes\Warlock Codes\Lightning Bolt
+8004CDD0 C000
+#Character Codes\Magic Codes\Warlock Codes\Fireball
+8004CE04 9000
+#Character Codes\Magic Codes\Warlock Codes\Vulcan Lance
+8004CE38 9000
+#Character Codes\Magic Codes\Warlock Codes\Aqua Blast
+8004CE6C 9000
+#Character Codes\Magic Codes\Warlock Codes\Spirit Surge
+8004CEA0 9000
+#Character Codes\Magic Codes\Warlock Codes\Dark Chant
+8004CED4 9000
+#Character Codes\Magic Codes\Warlock Codes\Exorcism
+8004CF08 9000
+#Character Codes\Magic Codes\Warlock Codes\Banish
+8004CF3C 9000
+#Character Codes\Magic Codes\Warlock Codes\Explosion Level 1
+8004CF70 8000
+#Character Codes\Magic Codes\Warlock Codes\Explosion Level 2
+8004CFA4 8000
+#Character Codes\Magic Codes\Warlock Codes\Explosion Level 3
+8004CFD8 8000
+#Character Codes\Magic Codes\Warlock Codes\Explosion Level 4
+8004D00C 8000
+#Character Codes\Magic Codes\Warlock Codes\Thunderburst Level 1
+8004D040 8000
+#Character Codes\Magic Codes\Warlock Codes\Thunderburst Level 2
+8004D074 8000
+#Character Codes\Magic Codes\Warlock Codes\Thunderburst Level 3
+8004D0A8 8000
+#Character Codes\Magic Codes\Warlock Codes\Thunderburst Level 4
+8004D0DC 8000
+#Character Codes\Magic Codes\Warlock Codes\Flame Sphere Level 1
+8004D110 8000
+#Character Codes\Magic Codes\Warlock Codes\Flame Sphere Level 2
+8004D144 8000
+#Character Codes\Magic Codes\Warlock Codes\Flame Sphere Level 3
+8004D178 8000
+#Character Codes\Magic Codes\Warlock Codes\Flame Sphere Level 4
+8004D1AC 8000
+#Character Codes\Magic Codes\Warlock Codes\Gaea Strike Level 1
+8004D1E0 8000
+#Character Codes\Magic Codes\Warlock Codes\Gaea Strike Level 2
+8004D214 8000
+#Character Codes\Magic Codes\Warlock Codes\Gaea Strike Level 3
+8004D248 8000
+#Character Codes\Magic Codes\Warlock Codes\Gaea Strike Level 4
+8004D27C 8000
+#Character Codes\Magic Codes\Warlock Codes\Avalanche Level 1
+8004D2B0 8000
+#Character Codes\Magic Codes\Warlock Codes\Avalanche Level 2
+8004D2E4 8000
+#Character Codes\Magic Codes\Warlock Codes\Avalanche Level 3
+8004D318 8000
+#Character Codes\Magic Codes\Warlock Codes\Avalanche Level 4
+8004D34C 8000
+#Character Codes\Magic Codes\Warlock Codes\Radial Surge Level 1
+8004D380 8000
+#Character Codes\Magic Codes\Warlock Codes\Radial Surge Level 2
+8004D3B4 8000
+#Character Codes\Magic Codes\Warlock Codes\Radial Surge Level 3
+8004D3E8 8000
+#Character Codes\Magic Codes\Warlock Codes\Radial Surge Level 4
+8004D41C 8000
+#Character Codes\Magic Codes\Warlock Codes\Meteor Level 1
+8004D450 8000
+#Character Codes\Magic Codes\Warlock Codes\Meteor Level 2
+8004D484 8000
+#Character Codes\Magic Codes\Warlock Codes\Meteor Level 3
+8004D4B8 8000
+#Character Codes\Magic Codes\Warlock Codes\Meteor Level 4
+8004D4EC 8000
+#Character Codes\Magic Codes\Shaman Codes\Surging Balm
+8004C98C 9000
+#Character Codes\Magic Codes\Shaman Codes\Restoration
+8004CB94 9000
+#Character Codes\Magic Codes\Shaman Codes\Antidote
+8004CBC8 9000
+#Character Codes\Magic Codes\Shaman Codes\Blessing
+8004CC30 9000
+#Character Codes\Magic Codes\Shaman Codes\Clearance
+8004CC64 9000
+#Character Codes\Magic Codes\Shaman Codes\Heal
+8004CD68 9000
+#Character Codes\Magic Codes\Sorcerer Codes\Degenerate
+8004C4E0 9000
+#Character Codes\Magic Codes\Sorcerer Codes\Psychodrain
+8004C514 9000
+#Character Codes\Magic Codes\Sorcerer Codes\Leadbones
+8004C548 9000
+#Character Codes\Magic Codes\Sorcerer Codes\Tarnish
+8004C57C 9000
+#Character Codes\Magic Codes\Sorcerer Codes\Analyze
+8004C5B0 9000
+#Character Codes\Magic Codes\Sorcerer Codes\Herakles
+8004C618 9000
+#Character Codes\Magic Codes\Sorcerer Codes\Enlighten
+8004C64C 9000
+#Character Codes\Magic Codes\Sorcerer Codes\Invigorate
+8004C680 9000
+#Character Codes\Magic Codes\Sorcerer Codes\Prostasia
+8004C6B4 9000
+#Character Codes\Magic Codes\Sorcerer Codes\Silence
+8004C924 9000
+#Character Codes\Magic Codes\Sorcerer Codes\Magic Ward
+8004C958 9000
+#Character Codes\Magic Codes\Sorcerer Codes\Fixate
+8004C9F4 B000
+#Character Codes\Magic Codes\Sorcerer Codes\Dispel
+8004CA28 9000
+#Character Codes\Magic Codes\Sorcerer Codes\Stun Cloud
+8004CA90 9000
+#Character Codes\Magic Codes\Sorcerer Codes\Poison Mist
+8004CAC4 9000
+#Character Codes\Magic Codes\Sorcerer Codes\Curse
+8004CB2C 9000
+#Character Codes\Magic Codes\Sorcerer Codes\Unlock
+8004CC98 9000
+#Character Codes\Magic Codes\Sorcerer Codes\Eureka
+8004CCCC B000
+#Character Codes\Magic Codes\Enchanter Codes\Luft Fusion
+8004C750 9000
+#Character Codes\Magic Codes\Enchanter Codes\Spark Fusion
+8004C784 9000
+#Character Codes\Magic Codes\Enchanter Codes\Soil Fusion
+8004C7B8 9000
+#Character Codes\Magic Codes\Enchanter Codes\Frost Fusion
+8004C7EC 9000
+#Character Codes\Magic Codes\Enchanter Codes\Aero Guard
+8004C820 9000
+#Character Codes\Magic Codes\Enchanter Codes\Pyro Guard
+8004C854 9000
+#Character Codes\Magic Codes\Enchanter Codes\Terra Guard
+8004C888 9000
+#Character Codes\Magic Codes\Enchanter Codes\Aero Guard
+8004C8BC 9000
+#Character Codes\Score Menu Codes\All Titles
+8005FEA0 FFFF
+8005FEA2 FFFF
+#Character Codes\Score Menu Codes\Have All Monsters In Encyclopaedia
+50001602 0000
+8005FF3C FFFF
+#Character Codes\Score Menu Codes\Gazette Codes\Score Modifier
+8010A460 ????
+?0000-FFFF
+#Character Codes\Score Menu Codes\Gazette Codes\Max Score
+8010A460 E0FF
+8010A462 05F5
+#Character Codes\Score Menu Codes\Gazette Codes\Max Games Completed
+80061598 FFFF
+#Character Codes\Score Menu Codes\Gazette Codes\Chest Count Highscore 100%
+8005FF38 0034
+#Character Codes\Score Menu Codes\Gazette Codes\Map Completion Highscore 100%
+8005FF34 016C
+#Character Codes\Score Menu Codes\Gazette Codes\Max Chain Ability Highscore
+8005FF28 FFFF
+#Character Codes\Score Menu Codes\Kill List Codes\Max Human Kills
+8005FEA4 FFFF
+#Character Codes\Score Menu Codes\Kill List Codes\Max Beast Kills
+8005FEA6 FFFF
+#Character Codes\Score Menu Codes\Kill List Codes\Max Undead Kills
+8005FEA8 FFFF
+#Character Codes\Score Menu Codes\Kill List Codes\Max Phantom Kills
+8005FEAA FFFF
+#Character Codes\Score Menu Codes\Kill List Codes\Max Dragon Kills
+8005FEAC FFFF
+#Character Codes\Score Menu Codes\Kill List Codes\Max Evil Kills
+8005FEAE FFFF
+#Character Codes\Score Menu Codes\Weapon Usage Codes\Unarmed
+8005FEB4 FFFF
+#Character Codes\Score Menu Codes\Weapon Usage Codes\Dagger
+8005FEB6 FFFF
+#Character Codes\Score Menu Codes\Weapon Usage Codes\Sword
+8005FEB8 FFFF
+#Character Codes\Score Menu Codes\Weapon Usage Codes\Great Sword
+8005FEBA FFFF
+#Character Codes\Score Menu Codes\Weapon Usage Codes\Axe & Mace
+8005FEBC FFFF
+#Character Codes\Score Menu Codes\Weapon Usage Codes\Great Axe
+8005FEBE FFFF
+#Character Codes\Score Menu Codes\Weapon Usage Codes\Staff
+8005FEC0 FFFF
+#Character Codes\Score Menu Codes\Weapon Usage Codes\Heavy Mace
+8005FEC2 FFFF
+#Character Codes\Score Menu Codes\Weapon Usage Codes\Polearm
+8005FEC4 FFFF
+#Character Codes\Score Menu Codes\Weapon Usage Codes\Crossbow
+8005FEC6 FFFF
+#Character Codes\Score Menu Codes\Record Time Codes\Minotaur\1st Time
+8005FEC8 0032
+8005FECA 8000
+#Character Codes\Score Menu Codes\Record Time Codes\Minotaur\2nd Time
+8005FECC 0032
+8005FECE 8000
+#Character Codes\Score Menu Codes\Record Time Codes\Minotaur\3rd Time
+8005FED0 0032
+8005FED2 8000
+#Character Codes\Score Menu Codes\Record Time Codes\Dragon\1st Time
+8005FED4 0032
+8005FED6 8000
+#Character Codes\Score Menu Codes\Record Time Codes\Dragon\2nd Time
+8005FED8 0032
+8005FEDA 8000
+#Character Codes\Score Menu Codes\Record Time Codes\Dragon\3rd Time
+8005FEDC 0032
+8005FEDE 8000
+#Character Codes\Score Menu Codes\Record Time Codes\Earth Dragon\1st Time
+8005FEE0 0032
+8005FEE2 8000
+#Character Codes\Score Menu Codes\Record Time Codes\Earth Dragon\2nd Time
+8005FEE4 0032
+8005FEE6 8000
+#Character Codes\Score Menu Codes\Record Time Codes\Earth Dragon\3rd Time
+8005FEE8 0032
+8005FEEA 8000
+#Character Codes\Score Menu Codes\Record Time Codes\Snow Dragon\1st Time
+8005FEEC 0032
+8005FEEE 8000
+#Character Codes\Score Menu Codes\Record Time Codes\Snow Dragon\2nd Time
+8005FEF0 0032
+8005FEF2 8000
+#Character Codes\Score Menu Codes\Record Time Codes\Snow Dragon\3rd Time
+8005FEF4 0032
+8005FEF6 8000
+#Character Codes\Score Menu Codes\Record Time Codes\Damascus Golem\1st Time
+8005FEF8 0032
+8005FEFA 8000
+#Character Codes\Score Menu Codes\Record Time Codes\Damascus Golem\2nd Time
+8005FEFC 0032
+8005FEFE 8000
+#Character Codes\Score Menu Codes\Record Time Codes\Damascus Golem\3rd Time
+8005FF00 0032
+8005FF02 8000
+#Character Codes\Score Menu Codes\Record Time Codes\Damascus Crab\1st Time
+8005FF04 0032
+8005FF06 8000
+#Character Codes\Score Menu Codes\Record Time Codes\Damascus Crab\2nd Time
+8005FF08 0032
+8005FF0A 8000
+#Character Codes\Score Menu Codes\Record Time Codes\Damascus Crab\3rd Time
+8005FF0C 0032
+8005FF0E 8000
+#Character Codes\Score Menu Codes\Record Time Codes\Death & Ogre Zombie\1st Time
+8005FF10 0032
+8005FF12 8000
+#Character Codes\Score Menu Codes\Record Time Codes\Death & Ogre Zombie\2nd Time
+8005FF14 0032
+8005FF16 8000
+#Character Codes\Score Menu Codes\Record Time Codes\Death & Ogre Zombie\3rd Time
+8005FF18 0032
+8005FF1A 8000
+#Character Codes\Score Menu Codes\Record Time Codes\Asura\1st Time
+8005FF1C 0032
+8005FF1E 8000
+#Character Codes\Score Menu Codes\Record Time Codes\Asura\2nd Time
+8005FF20 0032
+8005FF22 8000
+#Character Codes\Score Menu Codes\Record Time Codes\Asura\3rd Time
+8005FF24 0032
+8005FF26 8000
+#Misc. Codes\Unlock Teleport Location Codes\Worker's Breakroom
+300616EE 0001
+#Misc. Codes\Unlock Teleport Location Codes\Wine Guild Hall
+300616EF 0001
+#Misc. Codes\Unlock Teleport Location Codes\Black Market
+300616F0 0001
+#Misc. Codes\Unlock Teleport Location Codes\Hall Of Revenge
+300616F1 0001
+#Misc. Codes\Unlock Teleport Location Codes\The Withered Spring
+300616F2 0001
+#Misc. Codes\Unlock Teleport Location Codes\Work Of Art Workshop
+300616F3 0001
+#Misc. Codes\Unlock Teleport Location Codes\Advent Ground
+300616F4 0001
+#Misc. Codes\Unlock Teleport Location Codes\Rue Vermillion
+300616F5 0001
+#Misc. Codes\Unlock Teleport Location Codes\Magic Hammer Workshop
+300616F6 0001
+#Misc. Codes\Unlock Teleport Location Codes\The Crossing
+300616F7 0001
+#Misc. Codes\Unlock Teleport Location Codes\The Dark Tunnel
+300616F8 0001
+#Misc. Codes\Unlock Teleport Location Codes\Rue Bouquet
+300616F9 0001
+#Misc. Codes\Unlock Teleport Location Codes\The Sunless Way
+300616FA 0001
+#Misc. Codes\Unlock Teleport Location Codes\The Faerie Circle
+300616FB 0001
+#Misc. Codes\Unlock Teleport Location Codes\Forest River
+300616FC 0001
+#Misc. Codes\Unlock Teleport Location Codes\The Wood Gate
+300616FD 0001
+#Misc. Codes\Unlock Teleport Location Codes\Valdiman Gates
+300616FE 0001
+#Misc. Codes\Unlock Teleport Location Codes\The Warrior's Rest
+300616FF 0001
+#Misc. Codes\Unlock Teleport Location Codes\Keane's Workshop
+30061700 0001
+#Misc. Codes\Unlock Teleport Location Codes\Sinner's Corner
+30061701 0001
+#Misc. Codes\Unlock Teleport Location Codes\Crumbling Market
+30061702 0001
+#Misc. Codes\Unlock Teleport Location Codes\Treaty Room
+30061703 0001
+#Misc. Codes\Unlock Teleport Location Codes\Bandits' Hollow
+30061704 0001
+#Misc. Codes\Unlock Teleport Location Codes\The Ore Road
+30061705 0001
+#Misc. Codes\Unlock Teleport Location Codes\The Auction Block
+30061706 0001
+#Misc. Codes\Unlock Teleport Location Codes\Way Down
+30061707 0001
+#Misc. Codes\Unlock Teleport Location Codes\Rue Lejour
+30061708 0001
+#Misc. Codes\Unlock Teleport Location Codes\Kesch Bridge
+30061709 0001
+#Misc. Codes\Unlock Teleport Location Codes\Metal Works Workshop
+3006170A 0001
+#Misc. Codes\Unlock Teleport Location Codes\Junction Point Workshop
+3006170B 0001
+#Misc. Codes\Unlock Teleport Location Codes\The Dark Coast
+3006170C 0001
+#Misc. Codes\Unlock Teleport Location Codes\Plateia Lumitar
+3006170D 0001
+#Misc. Codes\Unlock Teleport Location Codes\Sin And Punishment
+3006170E 0001
+#Misc. Codes\Unlock Teleport Location Codes\The Atrium
+3006170F 0001
+#Misc. Codes\Unlock Teleport Location Codes\Gods Hands Workshop
+30061710 0001
+#Misc. Codes\Unlock Teleport Location Codes\Debug Area Must Use Moon Jump To Get Out Of Wall!
+30061711 0001
+#Misc. Codes\Unlock Teleport Location Codes\Unlock All Teleport Locations
+50002401 0000
+300616EE 0001

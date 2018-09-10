@@ -1,0 +1,8 @@
+#Infinite energy
+800CCF50 0003
+#Max flowers
+800CCF52 0064
+#Infinite lives
+800CCF56 0063
+#Have all pictures
+800CCF58 0004

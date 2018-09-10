@@ -1,0 +1,6 @@
+#Enable Level Select 
+801FDFFC 0001
+#Infinite Lives 
+1F800130 0007
+#Infinite Bombs
+1F80014C 0009

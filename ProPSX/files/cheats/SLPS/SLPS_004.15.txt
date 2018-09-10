@@ -1,0 +1,6 @@
+#1P Infinite Energy
+3019801C 0090
+#Infinite Energy Player 2		
+80197FEC 0090  
+#No Energy Player 2		
+80197FEC 0000 

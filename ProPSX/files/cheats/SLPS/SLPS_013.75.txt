@@ -1,0 +1,4 @@
+#Infinite balls
+800B6E3A 0063
+#Infinite HP
+800B6E7E 0320

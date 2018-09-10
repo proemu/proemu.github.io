@@ -1,0 +1,6 @@
+#65535 Coins
+80070B76 FFFF
+#99 Keys
+30070B7B 0063
+#Unlimited Health
+30070B7E 0008

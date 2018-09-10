@@ -1,0 +1,16 @@
+#Infinite continues
+800B034C 0009
+#Time Frozen With Square/Time Goes On With Triangle
+D01C58CC 0080
+8007C516 3C00
+D01C58CC 0010
+8007C516 0044
+#Largest = 65535G
+801C603C FFFF
+#Every Fish Caught Will Weigh 9999G
+801CDEA2 270F
+#Line don't break		
+8018D2C8 001A
+#Max attraction		
+8018D53E 0FFF
+

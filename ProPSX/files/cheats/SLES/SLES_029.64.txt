@@ -1,0 +1,12 @@
+#Set debit at 0/quick win P1 (Press L1 & L2)	
+D0007572 FAFF
+800DBDB0 0000
+#Story Mode - Begin With A Lot Of Talern
+D00D9704 0000
+800D9704 03E8
+#Story Mode - Set Target To Zero Quick Win P1(Press L1 & L2)
+D0007572 FAFF
+800DBDB0 0001
+#Story Mode More Time(Press R1)
+D0007572 F7FF
+800DDBE0 1111

@@ -1,0 +1,12 @@
+#Full Power-100m Sprint,100m Swim, Pole Vault, Hurdles		
+801024AA 417F
+#Full Power-High Jump, Hammer, Discus, Shot Put		
+8010256E 42FF
+#Perfect Angle Hammer 
+800B1288 0200
+#Full Power-Javelin		
+800B1F5E 416F
+#Perfect Angle Javelin 		
+80103EE4 002D
+#Full Speed Long Jump & Triple Jump	
+800B1B96 471F

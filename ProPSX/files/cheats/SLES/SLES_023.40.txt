@@ -1,0 +1,11 @@
+#Infinite Time
+800C4070 0000
+#Max Score
+800B25E4 FFFF
+#Each Trick is Worth 4096 Points
+800C8BCA 2463
+800C8BC8 1000
+#Damage is Worth 0 Points
+8008CB2E 0000
+#Unlock All Levels
+800B263C 0B03

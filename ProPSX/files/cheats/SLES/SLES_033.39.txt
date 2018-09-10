@@ -1,0 +1,6 @@
+#Infinite Ammo
+D0090A28 006C
+30090A28 0000
+#Mission always completed 	
+D0083D48 73D4
+80083D48 0000

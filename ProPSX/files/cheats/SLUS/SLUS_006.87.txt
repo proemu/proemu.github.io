@@ -1,0 +1,53 @@
+#Max HP Brangien
+80091E34 03E7
+#Max HP Vanyard
+80091C8E 03E7
+#Brigandine Inf Hp Vaynard
+80076E78 03E7
+80091C8E 03E7
+#Brigandine Inf Hp Lyonesse
+80076E50 03E7
+#Brigandine Inf Hp Lance
+80076E28 03E7
+#Brigandine Inf Hp Kiloph
+80077008 03E7
+#Brigandine Inf Hp Dryst
+80076EF0 03E7
+#Brigandine Inf Hp Cai
+80076EA0 03E7
+#Brigandine Inf Hp Brangien
+80077C38 03E7
+80091E34 03E7
+#Brigandine Inf Hp Iria
+80076F90 03E7
+#Brigandine Inf Hp Hula
+800776E8 03E7
+#Brigandine Inf Hp Camden
+80077800 03E7
+#Brigandine Inf Hp Asmit
+80077210 03E7
+#Brigandine Inf Hp Merriot
+80076F68 03E7
+#Brigandine Inf Hp Meleagant
+80076FE0 03E7
+#Brigandine Inf Hp Gereint
+80076FB8 03E7
+#Brigandine Inf Hp Dinadant
+80077058 03E7
+#Brigandine Inf Hp Coel
+80077148 03E7
+#Brigandine Inf Hp Carlota
+80077418 03E7
+#Brigandine Inf Hp Beauarte
+800777B0 03E7
+#Max Mana
+800C4AB8 E49F
+800C4ABA 0098
+#Quick Exp Gain Attacking
+80080760 03E7
+80088DF0 03E7
+#Quic Exp Gain Attack Upon
+80088DE4 03E7
+#All Monsters	
+50001D16 0202
+800C47D8 0100

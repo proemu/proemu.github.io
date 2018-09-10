@@ -1,0 +1,18 @@
+#Buster Bros Infinite Lives P1
+800C5940 0003
+#Buster Bros Infinite Lives P2
+800C59C0 0003
+#Buster Bros Infinite Credits (Both Players)
+800C7012 0403
+#Super Buster Bros Infinite Lives P1
+800A4A10 0403
+#Super Buster Bros Infinite Lives P2
+800A4A90 0403
+#Super Buster Bros Infinite Time
+800A4970 9900
+#Super Buster Bros Infinite Credits (Both Players)
+800A6492 0304
+#Buster Buddies Infinite Lives P1
+30171226 0003
+#Buster Buddies Infinite Lives P2
+30171227 0003

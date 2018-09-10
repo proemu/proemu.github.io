@@ -1,0 +1,96 @@
+#Infinite Credits
+8013FDA4 03E7
+#Infinite Health Stage 1-1	
+8013FD94 012C
+#Infinite Health Stage 1-2	
+8013BFAC 012C
+#Infinite Health Stage 1-3	
+80136F1C 012C 		
+#No Health Boss 	
+8013749C 0000
+#Infinite Health Stage 2-1
+8014F514 012C
+#Infinite Health Stage 2-2 	
+8015466C 012C
+#No Health Boss 	
+80154BEC 0000
+#Infinite Health Stage 3-1
+801325D4 012C 
+#Infinite Health Stage 3-2 	
+801277FC 012C 
+#Infinite Health Stage 3-3	
+8013033C 012C
+#No Health Boss 	
+801308BC 0000
+#Infinite Health Stage 3-4	
+8013A1EC 012C 		
+#No Health Boss 	
+8013A76C 0000
+#Infinite Health Stage 3-5
+8012F574 012C 		
+#No Health Boss 	
+8012FBF4 0000
+#Infinite Health Stage 4-1	
+801324E4 012C 		
+#No Health Boss 	
+80132964 0000
+#Infinite Health Stage 4-2	
+8011DFDC 012C 		
+#No Health Boss 	
+8011E45C 0000
+#Infinite Health Stage 4-3	
+8012A74C 012C 		
+#No Health Boss 	
+8012ABCC 0000
+#Infinite Health Stage 4-4	
+80125674 012C 		
+#No Health Boss 	
+80125AF4 0000
+#Infinite Health Stage 5-2-A	
+8012623C 012C 		
+#No Health Spider Mini-Boss 	
+801271BC 0000 		
+#No Health Boss 	
+801266BC 0000
+#Infinite Health Stage 5-2-B	
+8012C874 012C 		
+#No Health Boss 	
+8012CCF4 00
+#Infinite Health Stage 5-3	
+8011C12C 012C 		
+#No Health Boss 	
+8011C5AC 0000
+#Infinite Health Stage 6-2	
+8013807C 012C
+#Infinite Health Stage 6-3	
+801446C4 012C 		
+#No Health Boss 	
+80144B44 0000
+#Infinite Health Stage 6-4
+8012AB5C 012C 		T
+#No Health Boss 	
+8012AFDC 0000 		
+#Stop Time Before Core Blows 	
+80128AA0 1C2F
+#Infinite Health Stage 7-1	
+801578CC 012C 		
+#No Health Boss 7-1 	
+8015814C 0000 	
+#Infinite Health Stage 7-3	
+80128ADC 012C 		
+#No Health Boss 	
+80128F5C 0000	
+#Infinite Health Stage 7-4	
+801578CC 012C 			
+#No Health Boss 7-4 	
+80157F4C 0000
+#Infinite Health Restore World Boss Stage Codes
+801484E4 012C
+#No Health Boss Restore World Boss Stage Codes
+80148964 0000
+#Full Physical Gauge
+8013FD94 012C
+#Full Spirit Gauge
+8013FD98 012C
+#All Options & Secret Mode Enabled 	
+8001002A FFFF

@@ -1,0 +1,17 @@
+#Infinite Hp For P1
+800A880C 00AA
+#Also Max Speed For P1
+800A8810 00FF
+#Infinite Money
+800A58F0 967F
+800A58F2 0098
+#Infinite Energy P1 Press Select to Refresh
+D00A5504 0100
+800A880C 03E7
+#Infinite Energy P2 Press Select to Refresh
+D00A5584 0100
+800A8824 03E7
+#Infinite Glove Energy P1
+800A8816 4268
+#Infinite Glove Energy P2
+800A882E 4268

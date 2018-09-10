@@ -1,0 +1,53 @@
+#All 30 missions & difficulties open	
+300401B8 001F
+300401B9 001F
+300401BA 001F
+#Open all database		
+80040174 03FF
+8004017C 00FF
+80040184 7FFF
+8004018C FFFF
+8004018E 0003
+80040194 FFFF
+80040196 0003
+8004019C FFFF
+8004019E 0003
+800401A4 FFFF
+800401A6 0003
+800401AC FFFF
+800401AE 0003
+#Infinite Shield Raptor	
+801EF5E0 36B1
+#Infinite Shield  Venom Gunship	
+801E3214 1D4D
+#Infinite Shield Tunnel Rat
+801EF724 2711
+.These codes crash (probably the infinite shield-code). So turn off the Codes at the GP Logo and turn it back on when playing.
+#Infinite Cannon
+800B51C0 0063
+.These codes crash (probably the infinite shield-code). So turn off the Codes at the GP Logo and turn it back on when playing.
+#Infinite Seekers
+800B51C8 000A
+.These codes crash (probably the infinite shield-code). So turn off the Codes at the GP Logo and turn it back on when playing.
+#Infinite Laser 1
+800B51D4 0063
+.These codes crash (probably the infinite shield-code). So turn off the Codes at the GP Logo and turn it back on when playing.
+#Infinite Laser 2
+800B51D8 0063
+.These codes crash (probably the infinite shield-code). So turn off the Codes at the GP Logo and turn it back on when playing.
+#Infinite Siren
+800B51E8 000F
+.These codes crash (probably the infinite shield-code). So turn off the Codes at the GP Logo and turn it back on when playing.
+#Infinite Vanguamo
+800B51CC 0021
+.These codes crash (probably the infinite shield-code). So turn off the Codes at the GP Logo and turn it back on when playing.
+#Infinite Bb9 Bombs
+800B51EC 0022
+.These codes crash (probably the infinite shield-code). So turn off the Codes at the GP Logo and turn it back on when playing.
+#Infinite Cluster Bombs
+800B51F0 0031
+.These codes crash (probably the infinite shield-code). So turn off the Codes at the GP Logo and turn it back on when playing.
+#Infinite Epps
+800B51D0 0063
+.These codes crash (probably the infinite shield-code). So turn off the Codes at the GP Logo and turn it back on when playing.
+

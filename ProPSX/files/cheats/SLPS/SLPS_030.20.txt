@@ -1,0 +1,17 @@
+#Infinite Energy Character 1
+800B6868 03E7
+#If you buy items CR-MAX (HBP) 
+D0074A66 1040 
+80074A66 1440 
+#Infinite TP (HBP) 
+D005BAEE 0062 
+8005BAEE 0060 
+#HBP kana after combat LV-MAX 
+D004DF88 0004 
+8004DF88 0001 
+#The HP does not decrease in the L1 + R1 
+D01FB83A F3FF 
+800640AA 0060 
+#reduced HP in L2 + R2 Because the friend or foe common When he or she attacks Press L2 + R2 
+D01FB83A FCFF 
+800640AA 0065 

@@ -1,0 +1,4 @@
+#Player score = 99
+8009CF00 0063
+#Opponent score = 0
+8009CF06 0000

@@ -1,0 +1,18 @@
+#Infinite Health
+800C51AC 00C8
+#L1 + X Button For Save Anywhere (Maybe needs 1 Ink Ribbon)
+D00Cf844 0044
+800C8456 0002
+800343F2 2400
+8003446E 2400
+#Infinite Ammo Gun
+800C8786 0F02
+#Have All Maps and Files
+300C8714 003F
+800C871C 0FFF
+800C871E FFFF
+300C8721 00CF
+800C8722 FFFF
+#Infinite ink ribbons when you get one
+800345FA 2402
+

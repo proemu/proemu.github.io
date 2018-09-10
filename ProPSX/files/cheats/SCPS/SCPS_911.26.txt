@@ -1,0 +1,15 @@
+ Quick Level Up:  
+80101F44 FFFF 
+ P1 Infinite Power Hits:  
+30101D97 000C  
+ Press L2 To Play As The Hidden Characters:  
+D0103864 0001
+80101DB4 0909
+D0103864 0001
+80101DB6 0909  
+ Unlock All Characters (Cheat Device 2.2 Or Higher Needed!):  
+50000502 0000
+80101EF0 0101  
+ Unlock All Courses:  
+80101F48 0005  
+ 

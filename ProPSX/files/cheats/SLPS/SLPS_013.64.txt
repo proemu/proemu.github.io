@@ -1,0 +1,8 @@
+#(1P) 99 aircrafts
+8007F2DE 0063
+#(2P) 99 Aircrafts
+8007F350 0063
+#Invincible player 1
+301B7F07 00F0 
+#Invincible player 2
+301B7F47 00F0 

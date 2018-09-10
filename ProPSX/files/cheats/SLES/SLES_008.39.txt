@@ -1,0 +1,6 @@
+#Der Entkommenen Mudokons 200
+80082270 012C
+#Opfer = 0
+8008226E 0000
+#Sofortige ÜBernahme
+8008213C FFFF

@@ -1,0 +1,14 @@
+#Super Pacman\Infinite Lives
+801E1006 0300
+#Dragon Buster\Infinite Vitality You must turn off before you kill the dragon, then re-enable it 
+800C9A04 0080
+#Dragon Buster\Infinite Smart Bombs
+800C99A4 0003
+#Gaplus\Infinite Lives
+80151104 0003
+#Grobda\Infinite Lives
+800CAFA8 0003
+#Mappy\Infinite Lives
+801E4274 0300
+#Xevious\Infinite Lives
+8019C760 0003

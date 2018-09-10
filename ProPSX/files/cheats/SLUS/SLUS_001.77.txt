@@ -1,0 +1,7 @@
+#Infinite Shield
+800BB3D4 0064
+800BB818 0064
+#Laser Always Cool
+800BB950 0064
+#Infinite Lives
+800C38A4 0003

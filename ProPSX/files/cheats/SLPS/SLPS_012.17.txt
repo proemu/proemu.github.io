@@ -1,0 +1,8 @@
+#Infinite HP Main character
+800927E6 03E7
+#Infinite HP Second character
+8009286A 03E7
+#Infinite HP Third character
+8009283E 03E7
+#Infinite HP Fourth character
+80092812 03E7

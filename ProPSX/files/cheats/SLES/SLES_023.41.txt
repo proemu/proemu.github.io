@@ -1,0 +1,13 @@
+#Ne Menge Geld
+800DA4E6 0098
+#0 Schaden
+80048422 0000
+#Erster Sein
+80076F8C 0000
+#Starte In Letzter Runde
+80076EC0 0002
+#Unendlich Turbo
+80048848 0000
+#0 Verwarnungen
+8004D670 0000
+

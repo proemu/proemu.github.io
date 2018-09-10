@@ -1,0 +1,6 @@
+#99 Diamonds On Imatation Game:
+80072A60 0063
+#99 Diamonds On Jumping Over Cliffs Game:
+80072A60 0063
+#Have 9999 Diamonds
+800747AC 270F

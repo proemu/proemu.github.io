@@ -1,0 +1,53 @@
+#All options to choose from 
+50004102 0000 
+8012C3F6 FFFF
+#100% CG achievement rate 
+50001701 0000 
+3012B174 00FF
+#100% root achievement rate  
+50006C01 0000 
+3012B18C 00FF
+#All character appearance Reality world
+3012B000 007F
+#All character appearance Fantasy world
+3012B001 007F
+#Emotional value and the impression good Tianyu Midori
+3012B004 0022
+3012B002 0002
+#Emotional value and the impression good Yumikura Sayaka
+3012B018 0022
+3012B016 0002
+#Emotional value and the impression good ingyuan lily
+3012B02C 0022
+3012B02A 0002
+#Emotional value and the impression good Higashiyuri drum
+3012B040 0022
+3012B03E 0002
+#Emotional value and the impression good Kusakabe Minato
+3012B054 0022
+3012B052 0002
+#Emotional value and the impression good Yumikura Akiko
+3012B068 0022
+3012B066 0002
+#Emotional value and the impression good Suzuka 
+3012B090 0022
+3012B08C 0002
+#Emotional value and the impression good MizuumiJun Lilith
+3012B0A4 0022
+3012B0A2 0002
+#Emotional value and the impression good Kiri-jo Nanakoromo
+3012B0B8 0022
+3012B0B6 0002
+#Emotional value and the impression good Korikari snowstorm
+3012B0CC 0022
+3012B0CA 0002
+#Emotional value and the impression good Eliza Nointeta
+3012B0E0 0022
+3012B0DE 0002
+#Emotional value and the impression good MaiNami Yuki
+3012B0F4 0022
+3012B0F2 0002
+#Emotional value and the impression good Uno Du Shiina
+3012B07C 0022
+#Emotional value and the impression good Li Sa
+3012B108 0022

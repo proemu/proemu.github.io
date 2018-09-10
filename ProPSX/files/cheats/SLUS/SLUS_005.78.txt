@@ -1,0 +1,13 @@
+#Infinite Coins When using these codes with the invincible code, turn off the shark to fire the Weapons
+8008B70C 03E7
+#Infinite Energy When using these codes with the invincible code, turn off the shark to fire the Weapons
+800ABD76 0004
+#Infinite Lives When using these codes with the invincible code, turn off the shark to fire the Weapons
+800ABD74 0403
+#Invincibility
+800EA79A 0200.
+#Have Fireball When using these codes with the invincible code, turn off the shark to fire the Weapons
+800ABD7C 0100
+#Level Modifier (OO-FF)
+8008A43C 00FF
+

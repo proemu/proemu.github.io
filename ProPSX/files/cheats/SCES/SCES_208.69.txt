@@ -1,0 +1,26 @@
+#Viel AP nach dem Kampf 
+8009D8B0 AFFF 
+#Viele GP nach dem Kampf 
+8009D4A6 598F 
+#Viel Gil nach dem kampf 
+8009D8B4 FFFF 
+#Alle Items (drücke Oben auf Pad 1)
+D00697C6 FFEF 
+50006902 0001
+8009CCB4 C600
+#Character 1 9999 HP 
+8009D932 270F
+#Character 2 9999 HP 
+8009DD72 270F
+#Character 3 9999 HP 
+8009E1B2 270F
+#Character 1 9999 MP 
+8009D936 270F 
+#Character 2 MP 9999 
+8009DD76 270F 
+#Character 3 9999 MP 
+8009E1B6 270F
+#Holden Chocobo stables 1 Place 
+8009D58A 0004
+#Holden Chocobo stables 2 Place 
+8009D59A 0004

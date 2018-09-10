@@ -1,0 +1,6 @@
+#Always Perfect
+800F2936 03E8
+800F3B90 03E8
+#All Lessons Clear		
+50000C02 0000
+80117C30 0202

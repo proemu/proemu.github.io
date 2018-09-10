@@ -1,0 +1,22 @@
+#Infinite Energy Player 1
+800B3A00 00C8
+#Infinite Energy Player 2
+800B4370 00C8
+#No Energy Player 1
+800B3A00 0000
+#No Energy Player 2
+800B4370 0000
+#Maximum Power Bar Player 1
+800B3A10 0080
+800B3A12 0080
+#Maximum Power Bar Player 2
+800B4380 0080
+800B4382 0080
+#No Power Bar Player 1
+800B3A10 0000
+800B3A12 0000
+#No Power Bar Player 2
+800B4380 0000
+800B4382 0000
+#All military commander appearance
+800B8E3C FFFF

@@ -1,0 +1,5 @@
+#Have 999999 money in the story mode
+8004BB54 423F
+8004BB56 000F
+#Infinite HP in story mode
+8004BA5E 0064

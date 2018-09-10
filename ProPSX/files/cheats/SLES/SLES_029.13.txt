@@ -1,0 +1,8 @@
+#Infinite Health
+D011BE88 FFFF
+8010D7D4 1000
+#Timer Stopped (Level 2)
+D005C4C2 ACA2
+8005C4C2 0000
+#Cheat Menu
+30096DF0 0001

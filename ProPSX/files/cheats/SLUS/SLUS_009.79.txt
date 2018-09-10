@@ -1,0 +1,25 @@
+#Max Points
+800C135C FFFF
+#Time is 0:00:00
+800AAEB8 0000
+#Unlock All Characters
+50000502 0000
+800E3F8C 0101
+#Unlock Daichi
+300E3F8C 0001
+#Unlock Ashley
+300E3F8D 0001
+#Unlock Jack
+300E3F8E 0001
+#Unlock Lila
+300E3F8F 0001
+#Unlock Majagh
+300E3F90 0001
+#Unlock Gale
+300E3F91 0001
+#Unlock Leon
+300E3F92 0001
+#Unlock Claire
+300E3F93 0001
+#Unlock Zombie
+300E3F94 0001

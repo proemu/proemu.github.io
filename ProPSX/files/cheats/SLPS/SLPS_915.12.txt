@@ -1,0 +1,6 @@
+#Infinite energy Player 1  
+800C2748 0067
+800C2762 0067 
+ACTION REPLAY CODES:
+#Secret Ending Demo  
+8009DA24 0102 

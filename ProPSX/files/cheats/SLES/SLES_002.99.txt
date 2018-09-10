@@ -1,0 +1,33 @@
+#Have 500 Race Points
+800947DE 01F4
+#Always First
+800947DA 0001
+#Freeze Lap Time
+8009DD30 0000
+8009DDDC 0000
+#No Damage Left Door
+800894B4 0000
+#No Damage Left Rear
+800894AC 0000
+#No Damage Left Front
+80089490 0000
+#No Damage Right Door
+800894A0 0000
+#No Damage Right Rear
+800894A4 0000
+#No Damage Right Front
+80089498 0000
+#Speed Modifier
+300894CD 00??
+$30 Thrust SSC
+$0F normal (0F)
+$10 normal (10)
+$11 normal (11)
+$07 Trabant 601S
+#All Circuits
+8007A2C8 0007
+8007A2CC 0004
+
+
+
+

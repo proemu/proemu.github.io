@@ -1,0 +1,14 @@
+#P1 Infinite Health 	
+80095BD8 0064
+#P1 Have RUMBLE 	
+80095BE4 0030
+#P1 Infinite Health (Alternate Version) 	
+800317B0 0004
+800317B2 1080		
+#Max Cash 	
+80097AD8 FFFF
+80097ADA 00FF
+#Class Champ/Unlocked 	
+5011004C 0000
+80097ADE 0003
+

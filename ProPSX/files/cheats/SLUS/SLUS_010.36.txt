@@ -1,0 +1,8 @@
+#Always Race 5 Laps (Must Be On)		
+800A6666 0005
+#Team Ferrari Codes Start On Last Lap - Driver 1	
+D00ABB72 0100
+800ABB72 0504
+#Team Ferrari Codes Start On Last Lap - Driver 2		
+D00ABCC2 0100
+800ABCC2 0504

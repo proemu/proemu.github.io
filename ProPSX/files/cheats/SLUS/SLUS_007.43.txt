@@ -1,0 +1,147 @@
+#Infinite Money
+801AD79E 0F9F
+#Infinite Items
+801405C6 2400
+#Daniel Codes\Max Life Force
+301ACA39 00FF
+301ACA3A 00FF
+#Daniel Codes\Max Spiritual Strength
+301ACA3B 00FF
+301ACA3C 00FF
+#Daniel Codes\Max Battling Defence
+301ACA3D 00FF
+#Daniel Codes\Max Spiritual Defence
+301ACA3E 00FF
+#Daniel Codes\Max Agility
+301ACA3F 00FF
+#Daniel Codes\Max Power Of Action
+301ACA40 00FF
+#Daniel Codes\Unlock Ending Option (Main Menu)
+801E7678 000D
+#Have 99 Of That Item\Slot 1
+301AD8A3 0063
+#Have 99 Of That Item\Slot 2
+301AD8A4 0063
+#Have 99 Of That Item\Slot 3
+301AD8A5 0063
+#Have 99 Of That Item\Slot 4
+301AD8A6 0063
+#Have 99 Of That Item\Slot 5
+301AD8A7 0063
+#Have 99 Of That Item\Slot 6
+301AD8A8 0063
+#Have 99 Of That Item\Slot 7
+301AD8A9 0063
+#Have 99 Of That Item\Slot 8
+301AD8AA 0063
+#Have 99 Of That Item\Slot 9
+301AD8AB 0063
+#Have 99 Of That Item\Slot 10
+301AD8AC 0063
+#Have 99 Of That Item\Slot 11
+301AD8AD 0063
+#Have 99 Of That Item\Slot 12
+301AD8AE 0063
+#Have 99 Of That Item\Slot 13
+301AD8B0 0063
+#Have 99 Of That Item\Slot 14
+301AD8B1 0063
+#Have 99 Of That Item\Slot 15
+301AD8B2 0063
+#Have 99 Of That Item\Slot 16
+301AD8B3 0063
+#Have 99 Of That Item\Slot 17
+301AD8B4 0063
+#Have 99 Of That Item\Slot 18
+301AD8B5 0063
+#Have 99 Of That Item\Slot 19
+301AD8B6 0063
+#Have 99 Of That Item\Slot 20
+301AD8B7 0063
+#Have 99 Of That Item\Slot 21
+301AD8B8 0063
+#Have 99 Of That Item\Slot 22
+301AD8B9 0063
+#Have 99 Of That Item\Slot 23
+301AD8BA 0063
+#Have 99 Of That Item\Slot 24
+301AD8BB 0063
+#Have 99 Of That Item\Slot 25
+301AD8BC 0063
+#Have 99 Of That Item\Slot 26
+301AD8BD 0063
+#Have 99 Of That Item\Slot 27
+301AD8BE 0063
+#Have 99 Of That Item\Slot 28
+301AD8BF 0063
+#Have 99 Of That Item\Slot 29
+301AD8C0 0063
+#Have 99 Of That Item\Slot 30
+301AD8C1 0063
+#Have 99 Of That Item\Slot 31
+301AD8C2 0063
+#Have 99 Of That Item\Slot 32
+301AD8C3 0063
+#Have 99 Of That Item\Slot 33
+301AD8C4 0063
+#Have 99 Of That Item\Slot 34
+301AD8C5 0063
+#Have 99 Of That Item\Slot 35
+301AD8C6 0063
+#Have 99 Of That Item\Slot 36
+301AD8C7 0063
+#Have 99 Of That Item\Slot 37
+301AD8C8 0063
+#Have 99 Of That Item\Slot 38
+301AD8C9 0063
+#Have 99 Of That Item\Slot 39
+301AD8CA 0063
+#Have 99 Of That Item\Slot 40
+301AD8CB 0063
+#Have 99 Of That Item\Slot 41
+301AD8CC 0063
+#Have 99 Of That Item\Slot 42
+301AD8CD 0063
+#Have 99 Of That Item\Slot 43
+301AD8CE 0063
+#Have 99 Of That Item\Slot 44
+301AD8CF 0063
+#Have 99 Of That Item\Slot 45
+301AD8D0 0063
+#Have 99 Of That Item\Slot 46
+301AD8D1 0063
+#Have 99 Of That Item\Slot 47
+301AD8D2 0063
+#Have 99 Of That Item\Slot 48
+301AD8D3 0063
+#Have 99 Of That Item\Slot 49
+301AD8D4 0063
+#Have 99 Of That Item\Slot 50
+301AD8D5 0063
+#Have 99 Of That Item\Slot 51
+301AD8D6 0063
+#Have 99 Of That Item\Slot 52
+301AD8D7 0063
+#Have 99 Of That Item\Slot 53
+301AD8D8 0063
+#Have 99 Of That Item\Slot 54
+301AD8D9 0063
+#Have 99 Of That Item\Slot 55
+301AD8DA 0063
+#Have 99 Of That Item\Slot 56
+301AD8DB 0063
+#Have 99 Of That Item\Slot 57
+301AD8DC 0063
+#Have 99 Of That Item\Slot 58
+301AD8DD 0063
+#Have 99 Of That Item\Slot 59
+301AD8DE 0063
+#Have 99 Of That Item\Slot 60
+301AD8DF 0063
+#Have 99 Of That Item\Slot 61
+301AD8E0 0063
+#Have 99 Of That Item\Slot 62
+301AD8E1 0063
+#Have 99 Of That Item\Slot 63
+301AD8E2 0063
+

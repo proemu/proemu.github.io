@@ -1,0 +1,11 @@
+#Sakurai Infinite & Maximum HP
+30081A01 00FF 
+30081A03 00FF
+#Sakurai SH
+30081A05 00FF
+#Sakurai PA
+30081A07 00FF
+#Sakurai DF
+30081A09 00FF
+#Sakurai SP
+30081A0B 00FF

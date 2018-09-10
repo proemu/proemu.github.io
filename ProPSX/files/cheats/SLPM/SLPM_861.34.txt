@@ -1,0 +1,34 @@
+#Infinite & Max HP main character
+8015A0D4 03E7
+8015A0D6 03E7
+#Infinite & Max MP main character
+8015A0D8 03E7
+8015A0DA 03E7
+#Infinite & Max HP first girl (red hair)
+8015A2C8 03E7
+8015A2CA 03E7
+#Infinite & Max HP second girl (silver hair)
+8015A4BC 03E7
+8015A4BE 03E7
+#Infinite & Max MP first girl (red hair)
+8015A2CC 03E7
+8015A2CE 03E7
+#Infinite & Max MP second girl (silver hair)
+8015A4C0 03E7
+8015A4C2 03E7
+#All Gallery
+800D8B72 0063
+#Infinite Item & Weapons
+D003DD50 017B
+8003DCA2 0040
+#Infinite Money
+800A801C 423F
+800A801E 000F
+#No Random Battles 
+800A7F62 0000 
+#Infinite HP in battke 1 person 	
+8015A0D4 2706	
+#Infinite HP in battke 2 person 
+8015A2C8 2706
+#Infinite HP in battke 3 person 
+8015A4BC 2706

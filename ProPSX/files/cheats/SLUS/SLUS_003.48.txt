@@ -1,0 +1,11 @@
+#Infinite Health	
+800C7F90 0064
+800C7F9C 0001		
+#Infinite Blue Mana	
+800E7DC0 00C8		
+#Infinite Green Mana
+800E7DC4 00C8		
+#High Armor Class (With this code, it gives you virtual invincibility. It puts your armor high enough that at the rate it depletes it can count for invincibility. The effect is different for each character. Poisonous gas and some other things will still hurt you)
+800E7C7E 01E0
+#All Keys	
+800E7DA0 FFFF

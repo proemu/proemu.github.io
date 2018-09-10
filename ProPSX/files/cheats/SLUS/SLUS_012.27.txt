@@ -1,0 +1,23 @@
+#Infinite Health
+8002EFC8 0DEC
+8002EFCA 2699
+8002EFD0 0004
+8002EFD2 1724
+#Infinite Health P1 & 1-Hit Death P2		
+8002EFA0 0DEC
+8002EFA2 2699
+8002EFA8 0004
+8002EFAA 1724
+8002EFBA AC60
+#All Characters Selectable And Players Can Select The Same Character
+8002852E 2400
+#Have Champion Circuit		
+80072BF2 0001
+#Have Defender Circuit		
+80072BF0 0001
+#Have Bonus Match Up		
+80072BD0 0001
+#Big Ape Arena Enabled		
+80072940 0001
+#Big Ape Mode enabled		
+8007317C 0001

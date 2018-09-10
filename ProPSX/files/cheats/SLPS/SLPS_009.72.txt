@@ -1,0 +1,15 @@
+#Infinite life 
+800C838C 0064 
+800E8070 0064 
+8015DDA4 0064 
+#Infinite Armor	
+800E8076 0064
+#Infinite Shield
+800E807A 0064
+#Infinite Helmet
+800E807E 0064
+#Life 
+800C7F90 0064 
+800C7F9C 0001
+#Cheat menu 
+300CDECC 0001 

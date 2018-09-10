@@ -1,0 +1,6 @@
+#Infinite Lures
+8003C4C2 2400
+#Stop Time
+800141E6 2400
+#No Line Tension	
+80099252 0000

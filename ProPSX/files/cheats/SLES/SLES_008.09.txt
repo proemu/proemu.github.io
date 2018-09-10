@@ -1,0 +1,8 @@
+#Infinite Lives P1 	
+8011AB54 0003
+#Infinite Smartbombs	
+3011AA12 0009
+3011C958 0009
+#Infinite Special weapons	
+3011AA13 0009
+3011C885 0009

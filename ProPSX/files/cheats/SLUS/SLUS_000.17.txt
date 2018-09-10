@@ -1,0 +1,8 @@
+#Infinite Money
+801AF850 7840
+801AF852 017D
+#Time Doesn't Progress (Always 1st of The Month)
+800BE604 0001
+#Infinite Research Juice
+800BE264 0054
+800D6A58 270F

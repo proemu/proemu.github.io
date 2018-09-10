@@ -1,0 +1,2 @@
+#Have always 5 trigger points
+80074FC6 0005

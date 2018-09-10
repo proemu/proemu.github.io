@@ -1,0 +1,30 @@
+#Raiden I\P1 Infinite Lives
+8012CA80 0003
+#Raiden I\P1 Invincible
+300F7658 0000 
+#Raiden I\P2 Infinite Lives
+8012CAB0 0003
+#Raiden I\P1 Infinite Bombs
+8012CA8E 0003
+#Raiden I\P2 Infinite Bombs
+8012CABE 0003
+#Raiden I Invincibility 
+D001ADE0 0078 
+8001ADE2 1000 
+D001B098 005C 
+8001B094 1000 
+#Raiden II\P1 Infinite Lives
+800EEA2C 0003
+#Raiden II\P1 Infinite Nuke Bombs
+800EEA24 0101
+#Raiden II\P1 Infinite Thunder Bombs
+800EEA24 0202
+#Raiden II\P2 Infinite Lives
+800EEA6C 0003
+#Raiden II\P2 Infinite Nuke Bombs
+800EEA64 0101
+#Raiden II Invincibility 
+D00460EC 0005 
+800460EE 0801 
+D00460EC 0005 
+800460EC 1853

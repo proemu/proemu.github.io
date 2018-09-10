@@ -1,0 +1,28 @@
+#No random battles On (Press L2)	
+D00B712A FBFF
+80073072 2442
+#Infinite Ammo All Weapons
+D008B2E0 1823
+8008B2E2 0060
+#Infinite Hp Koudelka
+801D13C4 270F
+#Max Hp Koudelka
+801D13C6 270F
+#Infinite Mp Koudelka
+801D13D4 270F
+#Infinite Hp James
+801CDFC4 270F
+#Max Hp James
+801CDFC6 270F
+#Infinite Mp James
+801CDFD4 270F
+#Max Mp James
+801CDFD6 270F
+#Infinite Hp Edward
+801CF9C4 270F
+#Max Hp Edward
+801CF9C6 270F
+#Infinite Mp Edward
+801CF9D4 270F
+#Max Mp Edward
+801CF9D6 270F

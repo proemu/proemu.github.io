@@ -1,0 +1,24 @@
+#All Cars Unlocked 	
+8003CBDC FFFF
+#All Movies/Slideshows Unlocked 	
+8003CBF6 FFFF
+#All Secrets Unlocked 	
+8003CBF2 FFFF
+#Have All Table Top Ballons 	
+80047A16 0000
+#All Forward Tracks Unlocked 	
+8003CBE4 FFFF
+#All Backward Tracks Unlocked 	
+8003CVE6 FFFF
+#Unlock All Time Trial Stages
+8003CBE8 FFFF
+#Unlock All Secret Vehicles
+8003CBDE FFFF
+#Unlock All Reverse Time Trial Stages
+8003CBEA FFFF
+#Unlock All Time Trial Mirrored FWD Stages
+8003CBEC FFFF
+#Unlock All Time Trial Mirrored RWD Stages
+8003CBEE FFFF
+#Unlock Tune Up Shop
+8003CBF4 FFFF

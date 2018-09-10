@@ -1,0 +1,16 @@
+#Infinite Skill Points 	
+D0098658 AC43
+8009865A 2400 	
+#Home Team Score 9	
+3004868E 0009
+30121678 0009 
+#Home Team Score Modifier 	
+3004868E 0000
+30121678 0000 
+#Away Team Score 9 	
+300486EE 0009
+30121714 0009
+#Away Team Score 0	
+300486EE 0000
+30121714 0000
+

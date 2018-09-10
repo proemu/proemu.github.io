@@ -1,0 +1,25 @@
+#Energie infinie	
+800B208C 0958
+#Toutes les armes à customisées	
+800BA0C0 FFFF
+#Toutes les armes customisées	
+800BA0C0 07FE
+#Sauver n'importe où Appuyez sur L1 + L2	
+D00BB068 0005
+800B0560 0007
+#Balles de pistolet infinies	
+D00665B8 0000
+800665B8 2821
+#Armes + munitions	
+B0053EB2 0000
+800BEDAE 0008
+#Tir à répétition	
+D004D0B8 0007
+8004D0B8 0001
+#Stats de fin - Temps = 0	
+800B9FDC 0000
+800B9FDE 0000
+#Stats de fin - Continus = 0	
+300B9FE2 001E
+#Stats de fin - Sauvegarde = 0	
+300B9FDB 0000

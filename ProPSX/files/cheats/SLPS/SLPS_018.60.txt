@@ -1,0 +1,4 @@
+#Infinite Time 	
+800AC860 0000
+#Max Points
+800C2E04 FFFF

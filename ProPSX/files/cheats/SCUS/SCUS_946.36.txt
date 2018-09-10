@@ -1,0 +1,14 @@
+#Inf Lives
+80096760 0063
+#Inf Hp
+80096762 0064
+#Unlock All Levels (Must Load A Saved Game)	
+80098F3C FFFF
+80098F3E FFFF
+#All Movies 
+80098F3E FFFF
+50000702 0000
+80098F5C FFFF
+#Max Green Crystals & Unlock Extra Stuff (You must start a game then quit to have the "Concept Art" and "Model Viewer" unlocked)	
+8009676C 0032
+

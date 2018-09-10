@@ -1,0 +1,10 @@
+#Home Team Score 0
+801F7F50 0000
+#Away Team Score 0
+801F7F54 0000
+#Home Team Score 9
+801F7F50 0009
+#Away Team Score 9
+801F7F54 0009
+#Always End Of Half
+80130F70 00FF

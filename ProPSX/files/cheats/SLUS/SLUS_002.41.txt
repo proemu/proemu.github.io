@@ -1,0 +1,4 @@
+#Infinite Energy 	
+80166B78 000A
+#Infinite Armor 	
+801051DC 0080

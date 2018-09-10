@@ -1,0 +1,13 @@
+#P1 Unendlich Gesundheit	
+800A5BB0 A000
+#P2 Unendlich Gesundheit
+800A5F20 A000
+#P3 Unendlich Gesundheit
+800A6290 A000
+#P4 Unendlich Gesundheit
+800A6600 A000
+#Heiligtum, Videoplayer, Artwork & Spielmodi freigeschaltet 	
+D01EB1C2 0001
+301EB1C2 00FF
+#Alle Charaktere freischalten
+301EAD64 00FF

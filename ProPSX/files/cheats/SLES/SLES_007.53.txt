@@ -1,0 +1,22 @@
+#Always Place 1st (In route menu, press L1 + L2 + R1 + R2 to drive in the dark and/or press L2 + R2 + down + X to drive ahead)
+801F8CF8 0001
+#Infinite Fireballs
+801F8DB8 0004
+#Infinite Little Cars
+801F8D70 0001
+#Infinite Car Jumps
+801F8DC8 0001
+#Infinite Oil
+801F8D80 0001
+#Infinite Smoke
+801F8D88 0001
+#Infinite Big Cars
+801F8D78 0001
+#Infinite Acid
+801F8DB0 0001
+#Infinite Raised Car
+801F8DC0 0001
+#Infinite Turbo
+801F8D90 0001
+#Infinite Sonic Car
+801F8D98 0001

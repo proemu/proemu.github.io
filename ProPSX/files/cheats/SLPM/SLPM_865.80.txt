@@ -1,0 +1,4 @@
+#Infinite HP First Unit (Tank) In battle
+800E5F96 00C8
+#Infinite HP Second Unit (Plane) In battle
+800E5F8A 0064

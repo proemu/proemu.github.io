@@ -1,0 +1,24 @@
+#Infinite Balls  	
+800884F0 0009
+#Always Play Level USA Level 2		
+80076C74 0001
+#Always Play Level USA Level 3	
+80076C74 0002
+#Always Play Level Asia Level 1	
+80076C74 0003
+#Always Play Level Asia Level 2
+80076C74 0004
+#Always Play Level Africa Level 1	
+80076C74 0005
+#Always Play Level Africa Level 2	
+80076C74 0006
+#Always Play Level Europe Level 1	
+80076C74 0007
+#Always Play Level Europe Level 2	
+80076C74 0008
+#Always Play Level North Pole Level 1	
+80076C74 0009
+#Always Play Level North Pole Level 2	
+80076C74 000A
+#Always Play Level North Pole Level 3	
+80076C74 000B

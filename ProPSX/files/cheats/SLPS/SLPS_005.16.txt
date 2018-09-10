@@ -1,0 +1,6 @@
+#Infinite Energy
+8006AEB4 02EE
+#Infinite Ammo
+8006AE88 03E8
+#Infinite Fuel
+8006AE5C 0258

@@ -1,0 +1,13 @@
+#Invulnerable
+300EA335 0056
+#Infinite Web Carts
+801B7599 2400
+#Countdown Time Frozen
+800EA486 C100
+#Unlock All
+5004FFDA F5F4
+800F9AA0 FFFF
+#Level Select
+300EA319 0001
+#Enable What If Contest
+800EA325 0001

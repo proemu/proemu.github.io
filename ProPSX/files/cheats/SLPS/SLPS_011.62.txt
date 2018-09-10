@@ -1,0 +1,2 @@
+#Player has 25 points
+801EBC2A 0019

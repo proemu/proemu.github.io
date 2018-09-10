@@ -1,0 +1,44 @@
+#The Total Value Of All Abilities Max
+80082274 1021
+80082276 00A0
+#999 Attacks
+800820F0 03E7
+800820F2 2404
+#999 Defence Force
+8008218C 03E7
+8008218E 2404
+#Infinite Money
+8007D0E6 8C84
+8007D11E 8C84
+#Hp & Mp 999
+80010BBC E7F3
+30010BBE 007F
+#Physical Strength
+30010BBB 00FF
+#Gold 9999999
+80010C7C 967F
+80010C7E 0098 
+#All characters maximum HP65535
+800821D8 FFFF 
+#All characters maximum MP65535
+80082220 FFFF 
+#No Random Battles × enemy is no longer out in button + L1 button and × enemy is to come out with a button + L2 button
+D00AE0E4 0041 
+80124E0A 0070 
+D00AE0E4 0044 
+80124E0A 0040 
+#not come enemy 
+D0132346 0440 
+80132346 1400 
+#Do not enemy action
+D01374F6 1040
+801374F6 1000
+#Mortal blow
+D013A17A 0481
+8013A17A 1400
+#Doku-bari hitting the target
+D0125DF2 1440
+80125DF2 1400
+#Ruler fully open
+80010086 FFFF
+80010088 FFFF

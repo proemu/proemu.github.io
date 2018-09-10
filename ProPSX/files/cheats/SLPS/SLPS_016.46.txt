@@ -1,0 +1,3 @@
+#Have 999999 money in the story mode (Always win)
+80083EE8 423F
+80083EEA 000F

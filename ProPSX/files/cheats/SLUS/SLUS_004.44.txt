@@ -1,0 +1,124 @@
+#Infinite Durability
+800E0C64 03E8
+#Max Durabilty
+800E0C66 03E8
+#Max Shield Rifle
+800E0C6A 0064
+#Max Shield Laser
+800E0C6C 0064
+#Max Shield Missiles
+800E0C6E 0064
+#Max Shield Physical
+800E0C70 0064
+#Infinite Rifle Ammo
+800E0C74 03E8
+#Infinite Missiles
+800E0C78 03E8
+#Infinite Launchers
+800E0C7A 03E8
+#Infinite Bombs
+800E0C7C 0063
+#Infinite Rp200
+300E0C7E 0063
+#Infinite Rp500
+300E0C7F 0063
+#Infinite Ec200
+300E0C80 0063
+#Infinite Ec500
+300E0C81 0063
+#Infinite Repair Modules
+300E0C82 0063
+#Infinite High Repair Modules
+300E0C83 0063
+#Infinite Max Repair Modules
+300E0C84 0063
+#Infinite Energy Modules
+300E0C85 0063
+#Infinite High Energy Modules
+300E0C86 0063
+#Infinite Max Energy Modules
+300E0C87 0063
+#Infinite Full Recovery Modules
+300E0C88 0063
+#Infinite Star Shells
+300E0C89 0063
+#Infinite Bangers
+300E0C8A 0063
+#Infinite System Packs
+300E0C8B 0063
+#Infinite Beacons
+300E0C8C 0063
+#Infinite Shield Bits
+300E0C8D 0063
+#Infinite Sapu's
+300E0C8E 0063
+#Infinite Upr's
+300E0C8F 0063
+#Have Stinger Rifle At Max
+300E0C97 00FF
+#Have Gh-1000 Rifle At Max
+300E0C98 00FF
+#Have Gh-3000 Rifle At Max
+300E0C99 00FF
+#Triple Barrel Rifle At Max
+300E0C9A 00FF
+#Hensolt Shooter Rifle At Max
+300E0C9B 00FF
+#Have Rapid Fire Rifle At Max
+300E0C9C 00FF
+#Have Quarker Laser At Max
+300E0C9D 00FF
+#Have Prokion Laser At Max
+300E0C9E 00FF
+#Have Hadron Laser At Max
+300E0C9F 00FF
+#Have Syn Wave Laser At Max
+300E0CA0 00FF
+#Have Polar Ray Laser At Max
+300E0CA1 00FF
+#Have Hydra Laser At Max
+300E0CA2 00FF
+#Have Detector Missile At Max
+300E0CA3 00FF
+#Dual Buster Missiles At Max
+300E0CA4 00FF
+#Have Mobs Missiles At Max
+300E0CA5 00FF
+#Trench Mortal Launcher At Max
+300E0CA6 00FF
+#Have Breaker Launcher At Max
+300E0CA7 00FF
+#Have Miu Launcher At Max
+300E0CA8 00FF
+#Have Enemy Analizer
+300E0CB1 000B
+#Have Pivot Stabilizer
+300E0CB3 0006
+#Have Middle Range Unit
+300E0CB5 0007
+#Have Long Range Unit
+300E0CB6 0003
+#Have Quick Charger
+300E0CB7 0008
+#Have We-Thyristor
+300E0CB8 0004
+#Have Power Thyristor
+300E0CB9 0009
+#Have Solid Gear
+300E0CBA 0005
+#Have Dash Booster
+300E0CBB 000A
+#Infinite Energy &Laser Shots
+800E0D2A 03E8
+#Never Overheat
+800E0A6E 0000
+#Infinite Armor
+8005C918 0064
+@Bratz@SLUS-01508
+#Quick Point Gain
+801F9D50 FFFF
+#Max Points
+801F9D50 E0FF
+801F9D52 05F5
+#Max Dance Bar
+801F9D64 0089

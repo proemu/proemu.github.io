@@ -1,0 +1,8 @@
+#Infinite money in Story Mode
+800B3EA4 423F
+800B3EA6 000F
+#All Secret Characters Unlocked
+800B38C2 0003
+#Not increase time 
+80038160 0000 
+80038164 0000 

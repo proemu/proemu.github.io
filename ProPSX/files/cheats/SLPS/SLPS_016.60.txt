@@ -1,0 +1,13 @@
+#Infinite Money 99999
+80157D94 0001
+80157D94 869F
+#Students Participants maximum
+80157B12 0190
+#All facilities can be installed
+80157B40 FFFF
+#Level 99 club and level up 
+D007095A 1440 
+80070958 0000 
+D007095A 1440 
+8007095A 0000
+

@@ -1,0 +1,3 @@
+#Infinite money
+800D2618 FFFF
+800D261A 0FFF 

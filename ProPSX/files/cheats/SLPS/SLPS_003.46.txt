@@ -1,0 +1,30 @@
+#Infinite energy dog
+8008B1F8 03E7
+#Infinite Money
+801AF018 967F
+801AF01A 0098
+#Infinite Herb		
+800D7448 0003
+#Infinite Life Main Character		
+80098728 00FA
+#Infinite Life Second Character		
+80098B54 0064
+#Infinite Swords Magic	
+8009872C FA00
+#Double Magic Sword Slash (Press R2)		
+D00BB2F8 0002
+800BCAC8 0028
+#No random battles	
+800B71F8 FFFF 
+800B71FA FFFF
+#Maximum HP	
+8008B1EC 270F
+#Maximum MP	
+8008B1EE 270F
+#HP currently	
+8008B1F8 270F
+#MP now	
+8008B1FA 270F
+#Possession ¥	
+800B7870 967F 
+300B7872 0098

@@ -1,0 +1,11 @@
+#Infinite Money
+80082F88 869F
+80082F8A 0001
+#Infinite Battery
+800FE5B0 00BA
+#Don't Decrease Battery
+D00BF0A4 FFFF
+800BF0A4 0000
+#Secret Mode & Option
+80089DE8 FFFF
+80089DEA FFFF

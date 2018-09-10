@@ -1,0 +1,114 @@
+#Infinite Energy
+800AE1DC 04B0
+#Infinite Energy Alternate There is no effect on T-Rex
+80045744 011A
+8004574C 0118
+8004574E A623 
+#Infinite Item All Slot press L1 and L2
+D00B71B8 0005
+300B6535 0060
+D00B71B8 0005
+300B6539 0060
+D00B71B8 0005
+300B653D 0060
+D00B71B8 0005
+300B6541 0060
+D00B71B8 0005
+300B6545 0060
+D00B71B8 0005
+300B6549 0060
+D00B71B8 0005
+300B654D 0060
+D00B71B8 0005
+300B6551 0060
+D00B71B8 0005
+300B6555 0060
+D00B71B8 0005
+300B6559 0060
+#Infinite Item Slot 1
+300B6535 0060
+#Infinite Item Slot 2
+300B6539 0060
+#Infinite Item Slot 3
+300B653D 0060
+#Infinite Item Slot 4
+300B6541 0060
+#Infinite Item Slot 5
+300B6545 0060
+#Infinite Item Slot 6
+300B6549 0060
+#Infinite Item Slot 7
+300B654D 0060
+#Infinite Item Slot 8
+300B6551 0060
+#Infinite Item Slot 9
+300B6555 0060
+#Infinite Item Slot 10
+300B6559 0060
+#All Map
+50000602 0000
+800B6238 FFFF
+#Save Anywhere (Press Select+L1)
+D00B71B8 0104
+800AC6B0 0007
+#Custome Newgame
+D00BC8A2 0003
+800BC8A2 0503
+D00B695C 0001
+800B695C 000F
+#Special Move Faster (Press X)
+D00B71B8 0040
+800AE108 0100
+#Turbo Shooting
+D0049208 0007
+80049208 0001
+#Unlimited Bullet
+D0062708 0000
+80062708 2821
+#All Weapon (Sel+L2)
+D00B71B8 0101
+800B6210 07FE
+#View Endings\First Ending (<with ship and hand-grenade>Select+L2)
+D00B71B8 0101
+800AC6B0 000A
+D00B71B8 0101
+300AC6C3 0000
+#View Endings\Second Ending (<with ship and rocket> Select+R2)
+D00B71B8 0102
+800AC6B0 000A
+D00B71B8 0102
+300AC6C3 0001
+#View Endings\Third Ending (.<with helicopter> Select+L2+R2)
+D00B71B8 0103
+800AC6B0 000A
+D00B71B8 0103
+300AC6C3 0002
+#All Costume Available It is available on the data and save time.
+300B6133 000F
+#OPERATION WIPEOUT Available 
+D00BC8A2 0001
+800BC8A2 0403
+#Unlimited Time In Secret Mode #Operation Wipe Out#\Mission 1
+800B696C 2330
+#Unlimited Time In Secret Mode #Operation Wipe Out#\Mission 2
+800B6970 1C2C
+#Unlimited Time In Secret Mode #Operation Wipe Out#\Mission 3
+800B6974 1520
+#When Finish Game, Then\Clear Time = 00.00
+800B612C 0000
+800B612E 0000
+#When Finish Game, Then\Continue = 0
+300B6132 001E
+#When Finish Game, Then\Number Of Save = 0
+300B612B 0000
+#Game mode Easy
+300B6130 00X1
+#Clear Benefits Costume 1	
+300B6133 0001	
+#Clear Benefits Costume 2	
+300B6133 0002
+#Clear Benefits infinite grenade launcher 
+300B6133 0004
+#Clear Benefits mini-games	
+300B6133 0008
+

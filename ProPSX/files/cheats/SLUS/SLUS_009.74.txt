@@ -1,0 +1,8 @@
+#Invinciblity Everyone (All Levels)
+8004ACBA 2400
+#One-Hit Death Everyone (All Levels)
+8004ACBE 2400
+#Infinite Health Everyone (All Levels)
+8004ACC2 2400
+#Unlock All Secret Codes		
+800386A0 00FF

@@ -1,0 +1,10 @@
+#nfinite HP	
+8008F93A 03E7
+#Infinite Money	
+8008F814 FFFF
+#Max Power		
+8008F942 03E7
+#Special Ability	
+8008F946 03E7
+
+

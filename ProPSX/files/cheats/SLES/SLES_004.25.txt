@@ -1,0 +1,8 @@
+#Infinites lives P1
+8011B8EE 0004
+#Infinite health P1
+8011B7D4 8192
+#Infinite bombs
+8011B8B4 0009
+#Infinite missiles
+8011B8B3 0009

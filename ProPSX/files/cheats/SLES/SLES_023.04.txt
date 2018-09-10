@@ -1,0 +1,9 @@
+#Have Much Points
+800C130E 0001
+#Each Jump Worth Lots Of Points
+800C11D4 1388
+#Unlock all characters
+50000502 0000
+800E3F3C 0101
+#Time Frozen
+800AAE68 0000

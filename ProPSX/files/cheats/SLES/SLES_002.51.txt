@@ -1,0 +1,14 @@
+#Infinite Energy P1
+800BDB00 0090
+#Infinite Energy P2
+800BDB04 0090
+#Powerboost P1
+800CD36E 0051
+800CD36C 00FF
+#Powerboost P2
+800CD6E0 0051
+800CD602 00FF
+#Infinite Time
+800CD85A 0063
+
+

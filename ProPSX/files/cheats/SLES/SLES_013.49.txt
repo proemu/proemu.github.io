@@ -1,0 +1,9 @@
+#Infinite Health P1 	
+800AAEC0 FFFF
+#Unlock all movies 
+50000F01 0000
+300D9B7C 0001
+#Play as Meat P1	
+800AAF54 0001
+#1 round to win	
+800D8BBC 0001

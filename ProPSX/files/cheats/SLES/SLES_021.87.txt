@@ -1,0 +1,7 @@
+#Unendlich Geld	
+801BF16C 8760
+801BF16E 0003
+#Unendlich Gesundheit	
+801BEFFC 0B40
+#Unendlich Munition Pistole		
+801BF17E 0009

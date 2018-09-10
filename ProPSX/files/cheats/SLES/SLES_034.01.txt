@@ -1,0 +1,14 @@
+#Infinite Energy P1
+80075FD8 008C
+801B84F0 008C
+#P1 Needs only one win	
+D00735AC 0001
+3007 35AC 0002
+#All characters selectable and players can select the same character	
+8002852E 2400
+#Unlock All characters	
+50000404 0000
+8006DD2C 0000
+#Unlock All circuits	
+50000218 0000
+8006DF44 0001

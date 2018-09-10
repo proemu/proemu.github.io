@@ -1,0 +1,11 @@
+#Infinite Lives
+80108E24 0009
+#Score is 9,999,999
+80108B38 967F
+80108B3A 0098
+#Always Have Power-Up (If You Don't See It, It Still is There)
+80108DA4 0002
+#Infinite Coins
+80108F88 0063
+#Infinite Time In Bonus Rounds
+80108C48 003C

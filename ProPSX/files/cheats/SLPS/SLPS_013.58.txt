@@ -1,0 +1,26 @@
+#Infinite money 999999 Empire Ally Common) 
+800A1958 423F
+800A195A 000F
+#Infinite money 999999 Empire Ally Common
+800A195C 423F
+800A195E 000F
+#Infinite HP ship on battle (9999)
+800DA97E 270F
+#Total fleet number 20000 
+801046C4 4E20 
+#Fleet number 20000 currently 
+801046C6 4E20 
+#Fatigue 0 
+301046FC 0064 
+#Operations 120 
+301046FF 0078 
+#Attack 120 
+30104701 0078 
+#Defense 120 
+30104702 0078 
+#Mobile 120 
+30104703 0078 
+#Occupation 120 
+30104704 0078 
+#60 days of supply 
+30104706 003A 

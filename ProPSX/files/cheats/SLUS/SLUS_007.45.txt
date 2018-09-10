@@ -1,0 +1,28 @@
+#Infinite Health P1
+801C0E54 0120
+801C0E56 0120
+#Infinite Health P2
+801C1228 0120
+801C122A 0120
+#P1 Super Power Bar Full
+801C0ECA FFFF
+#P1 Super Power Bar Empty
+801C0ECA 0000
+#P2 Super Power Bar Full
+801C129E FFFF
+#P2 Super Power Bar Empty
+801C129E 0000
+#P1 Inf. Time In Demension
+801C0F2C 0070
+#P2 Inf. Time In Demension
+801C1300 0070
+#Max Level Up For Original Character Mode
+801C1768 FFFF
+801C176A FFFF
+801C176C FFFF
+#Have All Collection
+801C1D74 FFFF
+801C1D76 FFFF
+#Enable Dx & Ex Option Modes
+801C1D78 0003
+

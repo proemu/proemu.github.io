@@ -1,0 +1,39 @@
+#Infinite Energy Character 1
+800786EA 03E7
+800786E8 03E7
+#Infinite Energy Character 2
+80078728 03E7
+8007872A 03E7
+#Infinite energy character 3
+80078768 03E7
+8007876A 03E7
+#Infinite energy character 4
+800787A8 03E7
+800787AA 03E7
+#Infinite energy character 5
+800787E8 03E7
+800787EA 03E7
+#Infinite Money (60000)
+800784DC EA60
+#All Gallery
+D00B8884 0003
+800B8884 0001
+#Unlock 150 Gallery
+80079D30 FFFF 
+80079D32 FFFF 
+80079D34 FFFF 
+80079D36 FFFF 
+80079D38 FFFF 
+80079D3A FFFF 
+80079D3C FFFF 
+80079D3E FFFF 
+80079D40 FFFF 
+80079D42 FFFF
+#All Summoning Dictionary combinations	
+30078FFF 00FF
+#Gallery acquisition	
+80079FFF 0101
+#All Gallery (title screen)	
+30079DFF 00FF
+#Extra edition appearance It should be applied before you press Start at the title screen	
+3007C0DA 0001	

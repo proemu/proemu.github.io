@@ -1,0 +1,26 @@
+#Unlock Items, Equipment & World History Encyclopedias
+30043145 0007
+#All Characters In Encyclopedia
+50000702 0000
+800460B8 FFFF
+#All Lands In Encyclopedia
+50000302 0000
+800460EC FFFF
+#All Artifacts In Encyclopedia
+50000302 0000
+800460F4 FFFF
+#All Techniques In Encyclopedia
+50001802 0000
+80046100 FFFF
+#Main Character Always At 100% In Battle (Hp)
+80105AE4 004D
+#Main Character Infinite Special Meter In Battle (St)
+80105B28 00FF
+#Second Character Always At 100% Hp (In-Battle)
+80105D20 004D
+#Second Character Infinite Special Meter St (In-Battle)
+80105D64 00FF
+#Max Lucre	
+80043004 9680
+80043006 0098
+

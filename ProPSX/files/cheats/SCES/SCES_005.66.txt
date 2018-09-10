@@ -1,0 +1,8 @@
+#Infinite Turbo	
+80101340 0000
+#Start on lap 2 	
+D017CE4C 0000
+8017CE4C 0002
+#Start on lap 3	
+D017CE4C 0000
+8017CE4C 0003

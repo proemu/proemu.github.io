@@ -1,0 +1,44 @@
+#Infinite 6000 Epp
+800F5CDA 0063
+#Infinite 6000 Rockets
+800F5CBA 0063
+#Infinite Rockets
+800F5CB8 0063
+#Infinite Hyper Missiles
+800F5CAC 0063
+#Infinite Starburst Missiles
+800F5CB4 0063
+#Infinite Cluster Bombs
+800F5CBC 0063
+#Infinite Firestreak Missiles
+800F5CB0 0063
+#Infinite Lasers
+800F5CD4 0063
+#Infinite Plasma Beam
+800F5CD2 0063
+#Infinite Epp
+800F5CD8 0063
+#Infinite Drop Bombs
+800F5CE2 0063
+#Infinite Supplies
+800F5CE4 0063
+#Infinite Shield
+801EEE4C 1389
+.With this code, it at least the first two missions. Causes FMV glitches. Leave off until in the city. Further testing reveals that this code does not work on disc 2. A new code will be posted when available.
+#Invincible
+8008DBDC 0001
+#All Weapons & Infinite Ammo
+8008F1E0 0001
+#Bonus Camera Angle
+800921CC 0001
+#Enable Sirens
+80093038 0001
+#Fast Traffic
+800988C0 0001
+#Open Secret Training Missions
+80093990 003F
+#Level Modifier (0-23)
+8008F178 0022
+800936EC 0022
+
+

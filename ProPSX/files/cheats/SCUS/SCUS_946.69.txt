@@ -1,0 +1,38 @@
+#Infinite Health
+800CA09A 0303
+#Infinite Fruit
+800C7728 0063
+#Level 1 - All Fish/Blocks		
+800C773E 5006
+#Level 1 - All Rings		
+800C773C 00FF
+#Level 2 - All Fish/Blocks		
+800C7742 5006
+#Level 2 - All Rings		
+800C7740 00FF
+#Level 3 - All Fish/Blocks		
+800C7746 5006
+#Level 3 - All Rings		
+800C7744 00FF
+#Level 4 - All Fish/Blocks		
+800C774A 5006
+#Level 4 - All Rings		
+800C7748 00FF
+#Level 5 - All Fish/Blocks		
+800C774E 5006
+#Level 5 - All Rings		
+800C774C 00FF
+#Level 6 - All Fish/Blocks		
+800C7752 5006
+#Level 6 - All Rings		
+800C7750 00FF
+#All Levels 
+300EAD30 0001
+#Invincibility 
+300EAD84 0001
+#Gallery Unlocked
+300EAE10 0001
+#Full Ammo 
+300EAD68 0001
+99 Lives 
+300EAD4C 0001

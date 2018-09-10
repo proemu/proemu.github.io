@@ -1,0 +1,80 @@
+#Infinite Money
+8006A4F8 423F
+8006A4FA 000F
+#Hero Infinite & Max HP  
+80069896 03E7 
+80069898 03E7 
+#Fast Level Up
+D002BFAC 001F
+8002BFAC 0001
+#Build Weapon Fast
+80074828 0010
+8007482A 2402
+#1 Fight For Level Up
+D006211C 0020
+50005024 0000
+80069894 03E7
+#Unlimited Usage (For 1st Item Only)
+3006A4AF 0009
+#Max Mp Level
+50005024 0000
+8006989A 9999
+50005024 0000
+8006989C 9999
+#Outcome of the dice mini-game of cliff climbing while you are climbing a rope or instant dice has stopped 
+Become 6 to 1, and press the R2 button and press the R1 button. 
+D006211C 0008 
+30024AD8 0001 
+D006211C 0002 
+30024AD8 0006 
+#Level 16 If you train your weapon at blacksmith 
+D007482C 0881 
+80074828 0010 
+D007482C 0881 
+8007482A 2402 
+#Level Up ist , Lv99 & status maximum 
+D0075ADE A082 
+80075AD8 0063 
+D0075ADE A082 
+80075ADA 2402 
+D00731A8 000E 
+800731A8 CC79 
+D00731AA 1040 
+800731AA 0801 
+D00740AA 9062 
+800740B0 00FF 
+D00740AA 9062 
+800740B2 2402 
+D0073D62 A062 
+80073D5C 0009 
+D0073D62 A062 
+80073D5E 2442 
+#MAX level in combat once 
+D002E368 0002 
+8002E36E 3C02 
+D002E368 0002 
+8002E368 0001 
+#No Ranndo, Battles Press and hold the L2
+80093DD8 0001 
+80093DE8 0039 
+80093DEA 1000 
+D006211C 0001 
+80093DE8 0001 
+#Library All	
+8006AA38 FFFF
+#No Random Battles	
+80109D40 0000 
+80109D42 FFFF
+#Infinite & Max HP in combat 1st Character
+80145BAE 03E7
+80145BB0 03E7	
+#Infinite & Max HP in combat 2nd Character
+80145C22 03E7
+80145C24 03E7	
+#Infinite & Max HP in combat 3rd Character
+80145C96 03E7
+80145C98 03E7	
+#Infinite & Max HP in combat 4th Character
+80145D0A 03E7
+80145D0C 03E7	
+

@@ -1,0 +1,23 @@
+#No Damage
+80107E68 2710
+#No Overheating
+30107E1E 0000
+#Infinite Money
+800AF8FC 9876
+#Infinite Ammo (Use this or the Infinite Ammo Codes)
+50000708 0000
+80107E26 0064
+#Infinite Ammo Codes\First Weapon Slot
+80107E26 0064
+#Infinite Ammo Codes\Second Weapon Slot
+80107E2E 0064
+#Infinite Ammo Codes\Third Weapon Slot
+80107E36 0064
+#Infinite Ammo Codes\Fourth Weapon Slot
+80107E3E 0064
+#Infinite Ammo Codes\Fifth Weapon Slot
+80107E46 0064
+#Infinite Ammo Codes\Sixth Weapon Slot
+80107E4E 0064
+#Infinite Ammo Codes\Seventh Weapon Slot
+80107E56 0064

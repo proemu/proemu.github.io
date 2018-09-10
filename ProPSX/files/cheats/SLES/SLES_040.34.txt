@@ -1,0 +1,14 @@
+#Inf HP in battle character 1
+800BDDEC 0063
+#Inf HP in battle character 2
+800BDE3C 0063
+#Inf HP in battle character 3
+800BDE8C 0063
+#Inf HP in battle character 4
+800BDEDC 0063
+#All Actors	
+800BEF5E 00FF
+#Fewer Random Battles	
+300BDFEC 0001
+#Infinite Gil 
+800F4CB8 270F

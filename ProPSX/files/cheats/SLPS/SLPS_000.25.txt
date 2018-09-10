@@ -1,0 +1,12 @@
+#Choose Gaia
+801BB49A 0008
+#Choose Sho
+801BB49A 0009
+#Remove Arms
+801BB49C 000A
+#Remove Arms And Legs
+801BB49C 0005
+#Headmode
+801BB49C 0001
+#P1 Plays Automatic
+801BB496 0001

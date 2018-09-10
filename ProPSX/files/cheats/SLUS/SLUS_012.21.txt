@@ -1,0 +1,3 @@
+#Have all clues  
+80010144 00FF
+80010146 00FF 

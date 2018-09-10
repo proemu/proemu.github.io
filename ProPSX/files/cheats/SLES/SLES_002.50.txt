@@ -1,0 +1,39 @@
+#Always first place Activate the codes, then start the game and immediately quit to main menu, then reselect the race to play.V1.1.
+8005A550 0000
+8005A552 0000
+8005A558 0004
+8005A55A 10E2
+#Stop all car adv.V1.1	
+80020B5C 0000
+80020B5E 0000
+#Checkpoint timer V1.2 Platinum	
+80028A48 0000
+80028A4A 0000
+#Always first V1.2 Platinum
+80057FCC 0001
+80057FCE 2402
+#Always First V1.3 Value Series
+80057FD4 0000
+80057FD6 0000
+#Only One Lap To Go (3 Lap Races) V1.3 Value Series
+D0058628 0001
+30058628 0003
+#Stage Time Frozen V1.3 Value Series
+D00289DC 0004
+800289DE 0000
+#Start With 64 Points V1.3 Value Series
+D00A5294 0000
+300A5294 0040
+#Other Drivers Never Score V1.3 Value Series
+D30A5298 0000
+300A5298 0000
+D30A529C 0000
+300A529C 0000
+D30A52A0 0000
+300A52A0 0000
+#Arcade Timer Frozen Use only one of the codes V1.3 Value Series
+D0028A50 0010
+80028A52 0000
+#Time Increases Use only one of the codes V1.3 Value Series
+D0028A48 FFFF
+80028A48 0001

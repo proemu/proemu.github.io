@@ -1,0 +1,10 @@
+#Infinite Time
+800C3EA2 2400
+#Max Score
+800B2434 FFFF
+#Infinite Energy
+800DD6C2 2400
+#0 Points Inflicted To Overall Status
+8008C94E 0000
+#Unlock All Levels
+800B248C 0B03

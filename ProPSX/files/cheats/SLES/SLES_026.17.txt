@@ -1,0 +1,44 @@
+#Infinite Armor (P1 & P2)
+80047960 0000
+80047962 0000
+#Infinite Ammo (After Pick-Up) (P1 & P2)
+80047CD8 0000
+80047CDA 0000
+#P1-Codes\Infinite Armor
+3006164D 0064
+#P1-Codes\Infinite Ammo Shot Blaster
+8006166A 03E7
+#P1-Codes\Infinite Ammo Rocket Launcher
+80061660 03E7
+#P1-Codes\Have Timed Mine
+8006165C 03E7
+#P1-Codes\Have Thumper Attract
+8006165E 03E7
+#P1-Codes\Have Smart Bomb Beacons
+80061662 03E7
+#P2-Codes\Infinite Armor
+30061CA5 0064
+#P2-Codes\Infinite Ammo Lightbringer
+80061CC0 03E7
+#P2-Codes\Infinite Ammo Grenade-Launcher
+80061CC4 03E7
+#P2-Codes\Have Timed Mines
+80061CB4 03E7
+#P2-Codes\Have Thumper Attract
+80061CB6 03E7
+#P2-Codes\Have Smart Bomb Beacons
+80061CBA 03E7
+#Multiplayer-Codes\P1\Suddendeath
+D006164C 6400
+3006164D 0001
+#Multiplayer-Codes\P1\Infinite Unknown Weapon (After Pick-Up)
+8006166E 03E7
+#Multiplayer-Codes\P1\Infinite Shaft Of The Pharaoh (After Pick-Up)
+80061674 03E7
+#Multiplayer-Codes\P2\Suddendeath
+D0061CA4 6400
+30061CA5 0001
+#Multiplayer-Codes\P2\Infinite Unknown Weapon (After Pick-Up)
+80061CC6 03E7
+#Multiplayer-Codes\P2\Infinite Shaft Of The Pharaoh (After Pick-Up)
+80061CCC 03E7

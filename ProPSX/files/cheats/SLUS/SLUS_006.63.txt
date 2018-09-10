@@ -1,0 +1,39 @@
+#All Enemies Die Instantly (Story Mode)	
+801023AA 0001
+#Have Utsusemi
+3009BC7F 0003
+#Have Red Shadow
+3009BC80 0003
+#Have Tsubame
+3009BC81 0003
+#Have Sazanka
+3009BC82 0003
+#Have Suminasashi
+3009BC83 0003
+#Have Nightstalker
+3009BC84 0003
+#Have Matsu Mushi
+3009BC85 0003
+#Have Hongou
+3009BC89 0003
+#Have Katze
+3009BC8A 0003
+#Have Highway Man
+3009BC8B 0003
+#Have Chihiro
+3009BC8C 0003
+#Have Utamaru
+3009BC8D 0003
+#Have Tonu Umeda
+3009BC8E 0003
+#Have Iso Hachi
+3009BC8F 0003
+#Have Extra Character 1
+3009BC90 0003
+#Have Extra Character 2
+3009BC91 0003
+#Extra Characters 	
+50001301 0000
+3009BC7F 0003
+#Kill 1 Ninja To Beat Slash Mode (99 Kills)(This code will start you with 99 kills. Kill the opponent you're facing and you win. This helps you get the four secret characters that require you to beat Slash Mode under 15 minutes and without dying)
+800A38E2 0064	

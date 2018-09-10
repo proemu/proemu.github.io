@@ -1,0 +1,55 @@
+#Player1\Infinite Energy
+8003B6E8 008F
+#Player1\No Energy
+8003B6E8 0000
+#Player1\1-Hit Death
+D003B6E8 008F
+8003B6E8 0001
+#Player1\Super Bar Always Full
+8003B6EC 008E
+
+#Player1\Start With One Win
+D003BD58 0000
+3003BD58 0001
+#Player1\Character Modifier Storm
+8003BE58 0100
+#Player1\Character Modifier Cyclops
+8003BE58 0101
+#Player1\Character Modifier Wolverine
+8003BE58 0102
+#Player1\Character Modifier Omega Red
+8003BE58 0103
+#Player1\Character Modifier Sentinel
+8003BE58 0104
+#Player1\Character Modifier Iceman
+8003BE58 0105
+#Player1\Character Modifier Colussus
+8003BE58 0106
+#Player1\Character Modifier Psylocke
+8003BE58 0107
+#Player1\Character Modifier Silver Samurai
+8003BE58 0108
+#Player1\Character Modifier Spiral
+8003BE58 0109
+#Player1\Character Modifier Juggernaut
+8003BE58 010A
+#Player1\Character Modifier Magneto
+8003BE58 010B
+#Player1\Character Modifier Akuma
+8003BE58 010C
+#Player2\Infinite Energy
+8003BAE8 008F
+#Player2\No Energy
+8003BAE8 0000
+#Player2\1-Hit Death
+D003BAE8 008F
+8003BAE8 0001
+#Player2\Super Bar Always Full
+8003BAEC 008E
+#Player2\Start With One Win
+D003BD58 0000
+3003BD58 0002
+#Player2\Never Wins
+3003BD59 0000
+
+

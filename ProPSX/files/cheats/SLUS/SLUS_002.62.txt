@@ -1,0 +1,9 @@
+#Infinite Money 	
+800E39AC C9FF
+800E39AE 3B9A 	
+#Infinite Shield (Mission 1) 	
+8016474E 0400 	
+#Infinite Shield (Mission 2)
+80167492 0400
+#Infinite Shield (Mission 3) 	
+8016ED42 0400

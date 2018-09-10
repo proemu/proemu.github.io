@@ -1,0 +1,17 @@
+#Infinite Lives
+800858AC 0900
+#Infinite Energy All Levels
+80024010 0000
+80024012 0000
+#Infinite Endurance
+8001EE44 0000
+8001EE46 0000
+#Have Max Energy
+300858BB 00C8
+#Always Play Level - Last Level (00-12)	
+800B6694 0012
+#Press Select For Level Select (main menu)		
+8003DF86 8421
+8003DF8C 2000
+8003DF8E 2402
+8003DFB0 0001

@@ -1,0 +1,8 @@
+#Infinite Lives P1
+800727C0 0003
+#Infinite Lives P2
+800728F4 0003
+#Hyper Bishi Bashi - Infinite Tries		
+80062908 0002
+#Super Bishi Bashi - Infinite Tries		
+800727C0 0002

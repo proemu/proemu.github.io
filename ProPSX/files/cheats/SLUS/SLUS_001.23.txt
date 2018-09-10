@@ -1,0 +1,8 @@
+#Points Cooper	
+80162350 00FF		
+#Points Becker	
+80164260 00FF		
+#Points Duncan	
+801632D8 00FF		
+#Points Emitt	
+801613C8 00FF

@@ -1,0 +1,4 @@
+#Max Energy (win game)
+800F5D44 270F
+#Infinite Energy
+800F5D44 0064

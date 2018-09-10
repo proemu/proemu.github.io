@@ -1,0 +1,19 @@
+#Infinite Energy P1
+801DEDD4 03E7
+801DEDD8 03E7
+#Infinite Ep P1
+801DEDD6 03E7
+801DEDDA 03E7
+#Infinite Energy Dragon
+801DEF70 03E7
+801DEF74 03E7
+#Infinite Ep Dragon
+801DEF72 03E7
+801DEF76 03E7
+#Opponent has only 1 HP (Deactivate after sending it)
+801DF10C 0001
+#PTS 99999
+800893DC 869F
+800893DE 0001
+
+

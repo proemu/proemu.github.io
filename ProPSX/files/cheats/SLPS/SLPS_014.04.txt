@@ -1,0 +1,25 @@
+#Own machine shield 
+30045564 00C8
+#Own machine durability
+30045568 00C8
+#Heat Gauge 0
+8011773C 0000
+80117770 0000
+801177A4 0000
+801177D8 0000
+#Infinite Laser Attack
+8011776C 0000
+80117774 0000
+#Infinite L.A. Laser Attack
+8011773C 0000
+80117740 0000
+#Infinite Electric Attack
+801177B0 0006
+#Level Select 
+30011215 0001 
+#Invincible shield 
+30011214 0001 
+#Invincible weapon 
+80011216 0101 
+#Restart Game / Pilot Stat 
+3001120B 0001 

@@ -1,0 +1,21 @@
+#Infinite Energy Player 1 	
+80194078 0090
+#Infinite Energy P2	
+801944C0 0090
+#No Energy P2
+801944C0 0000
+#Enable All Modes & Characters 	
+8017DD16 FFFF
+#World Tour Mode All Character	
+801143B8 0001
+801143D8 0001
+801143F8 0001
+#World Tour Mode All Specials After One Fight		
+801427A8 0000
+801427AA 0000
+80142904 0006
+80142906 1000
+80142920 0005
+80142922 1000
+#World Tour Mode One Hit Death		
+80132F7A 3C00

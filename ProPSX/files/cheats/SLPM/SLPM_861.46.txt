@@ -1,0 +1,6 @@
+#Infinite Hp
+80184288 03E7
+#Infinite Power
+8013B908 0005
+#Infinite Bullet
+8018428A 0005

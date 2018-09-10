@@ -1,0 +1,21 @@
+#Max money
+800AFA7C 869F
+800AFA7E 0001
+#999 HP  
+800AF892 03E7
+800AF894 03E7
+#Save Anywhere
+D013EC60 0024 
+8013EC7E 1000 
+#100% Monster Encyclopedia
+D0141F08 1040 
+80141F14 83E7 
+D0141F08 1040 
+80141F16 2402
+D0141F08 1040 
+80141F1A A462
+#100%  item collection rate does not go out and see the effect once 
+800149CE A060 
+800149DC 0000 
+#Complementary Art Gallery
+300AFB2B 00FF 

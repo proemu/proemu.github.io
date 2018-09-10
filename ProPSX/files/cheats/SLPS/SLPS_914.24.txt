@@ -1,0 +1,13 @@
+#Infinite Money 99999999
+8003C6DC E0FF
+8003C6DE 05F5
+#Mission at the time, AP 0000 (10000 really) 
+801E3990 9C40 
+#Mission at the time, weapon fire 
+801E386E 0000 
+#Infinite bullets 9999 all weapons 
+80043226 270F 
+80043264 270F 
+800431E8 270F 
+#Infinite EP 
+80042F16 84D0

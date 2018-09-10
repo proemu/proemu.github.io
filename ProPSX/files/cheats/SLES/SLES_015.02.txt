@@ -1,0 +1,5 @@
+#Avoir les 300 Mudokons sauvés	
+8007E53E 012C
+#Envoûtement immédiat	
+D107E4FC 0000
+8007E4FC FFFF

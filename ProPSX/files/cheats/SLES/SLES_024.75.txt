@@ -1,0 +1,3 @@
+#Press L2 To Clear Current Scene
+E0098A3E 0001
+800F01DA 0063

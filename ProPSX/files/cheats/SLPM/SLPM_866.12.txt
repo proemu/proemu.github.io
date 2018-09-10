@@ -1,0 +1,12 @@
+#1st Character Infinite Air  	
+8012C9C1 0027
+#2nd Character Infinite Air  
+8012C9C5 0027
+#1st Character Infinite Life
+8012C984 02BC
+#2nd Character Infinite Life
+8012C988 0258
+#Have Septentrion Tokens Modifier
+800BA762 00??
+#Zero Game Timer Recorded
+800BA7A0 0000

@@ -1,0 +1,11 @@
+#All Weapons
+8009C0B2 0004
+8009C0B6 0004
+8009C0DA 0004
+#Infinite Armor
+80058270 2400
+#Unlock All Zones
+8009F882 0050
+#Infinite Ammo
+8006BC78 2400
+

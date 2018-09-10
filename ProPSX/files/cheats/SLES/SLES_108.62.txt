@@ -1,0 +1,32 @@
+#Unendlich Schilde
+8004607C 00C8
+#Unendlich Raketen 1
+80119F20 000A
+#Unendlich Raketen 2
+80119F54 000A
+#Unendlich Raketen 3
+80119F88 000A
+#Unendlich Raketen 4
+80119FBC 000A
+#Laser ÜBerhitzt Nicht (Oder Emp-GeschüTz)
+80119EE0 0000
+.Der richtige EMP-Geschütz-Code hängt vom Schiffstyp ab.
+#A.S.-Laser ÜBerhitzt Nicht (Oder Plasma-Kanone)
+80119EAC 0000
+.Der richtige EMP-Geschütz-Code hängt vom Schiffstyp ab.
+#Streu-Laser ÜBerhitzt Nicht (Oder Emp-GeschüTz)
+80119F48 0000
+.Der richtige EMP-Geschütz-Code hängt vom Schiffstyp ab.
+#Emp-GeschüTze ÜBerhitzen Nicht
+80119F14 0000
+.Der richtige EMP-Geschütz-Code hängt vom Schiffstyp ab.
+#Dauerfeuer Laser & Emp-GeschüTze
+80119EE4 0000
+.Der richtige EMP-Geschütz-Code hängt vom Schiffstyp ab.
+#Dauerfeuer As-Laser & Plasma-Kanone
+80119EB0 0000
+.Der richtige EMP-Geschütz-Code hängt vom Schiffstyp ab.
+#Dauerfeuer Streulaser & Emp-GeschüTze
+80119F18 0000
+80119F4C 0000
+.Der richtige EMP-Geschütz-Code hängt vom Schiffstyp ab.

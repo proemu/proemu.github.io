@@ -1,0 +1,32 @@
+#Infinite Lifes
+801FFF46 000A
+#Infinite Shields
+800DAD0C 00FF
+801FFF96 0001
+#Korben Dallas Infinite ammo	
+800DAD48 0163
+#Korben Dallas	Infinite health	
+E10E61B8 0000
+801EF492 00FF
+#Leeloo	Infinite health	
+E10E61B8 0000
+801D4D0A 00FF
+E10E61B8 0000
+801E673E 00FF
+#Have Z Key-Card	
+801FFF64 0001
+#Have Fhloston Key	
+801FFF68 0001
+#Have Have Mondoshawan Key	
+801FFF6C 0001
+#Have Key Pass	
+801FFF7A 0001
+#Have All weapons	
+D00321D6 0000
+800321D6 0100
+#Have All element	
+50000402 0000
+801FFF5C 0001
+#Have All activator	
+50000402 0000
+801FFF70 0001

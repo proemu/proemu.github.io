@@ -1,0 +1,5 @@
+#Infinite HP  
+8018370C 03E7 
+#Infinite money (99999)  
+8018375C 869F
+8018375E 0001 

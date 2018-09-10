@@ -1,0 +1,4 @@
+#Infinite Health
+80010402 1000
+#Infinite Ammo (Si se usa corrompe el objeto y pasa a ser botiquin)
+80010460 0064

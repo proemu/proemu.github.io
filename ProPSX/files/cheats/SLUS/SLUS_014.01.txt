@@ -1,0 +1,11 @@
+#Unlock All Levels
+8006791C FFFF
+#Max Score
+800679D8 7FFF
+#Infinite Food
+800679D0 0032
+#Always Max Food
+C20679D4 0001
+800679D0 0000
+#Invincible From Water
+80070DE6 0001

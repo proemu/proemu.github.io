@@ -1,0 +1,24 @@
+#Infinite energy Poseidon  
+8013FFC0 270F
+8013FD0A 270F 
+#Infinite energy Getter 1  
+80140368 270F
+801400B2 270F 
+#Infinite energy Dragon  
+8016617F 270F
+8013F962 270F 
+#Infinite energy Liger  
+80140EE2 270F
+80141198 270F 
+#Infinite energy Gundam Sandrock Custom  
+8014128A 270F
+80141540 270F 
+#Infinite energy Qubeley MK-II  
+80141632 270F
+801418E8 270F 
+#Infinite energy Daitarn 3  
+8013F8F2 270F
+8013FBA8 270F 
+#Infinite energy ZZ Gundam  
+80140792 270F
+80140A48 270F 

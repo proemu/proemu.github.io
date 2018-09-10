@@ -1,0 +1,26 @@
+#Stage Select 2
+30073B2C 0002
+#Stage Select 3
+30073B2C 0003
+#Stage Select 4
+30073B2C 0004
+#Stage Select 5
+30073B2C 0005
+#Stage Select 6
+30073B2C 0006
+#Stage Select 7
+30073B2C 0007
+#Stage Select 8
+30073B2C 0008
+#Stage Select 9
+30073B2C 0009
+#Stage Select 10
+30073B2C 000A
+#Stage Select 11
+30073B2C 000B
+#Stage Select 12
+30073B2C 000C
+#Stage Select 13
+30073B2C 000D
+#Map display 
+30057438 0001 

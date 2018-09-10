@@ -1,0 +1,15 @@
+#Inf Health Pl1
+80096DBC 270F
+#Inf Health Pl2
+80097638 270F
+#Infinite Keys	P1	
+80096DF8 0063
+#Have Falconess		
+80096FF0 0000
+#Have Jackal		
+80096FF8 0001
+#Have Minotaur	
+80097000 0001
+#Have Tigress
+80097008 0001
+

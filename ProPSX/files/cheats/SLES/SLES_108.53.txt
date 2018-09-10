@@ -1,0 +1,26 @@
+#Infinite Cannon	  
+800F5D0C 0063
+#Infinte Mis-Ir	  
+800F5D10 0063
+#Infinite Mis-Hyper	  
+800F5D14 0063
+#Infinite Mis-Fire	  
+800F5D18 0063
+#Infinite Mis-Star	  
+800F5D1C 0063
+#Infinite Mantr Rockets	  
+800F5D20 0063
+#Infinite Bomblets	  
+800F5D24 0063
+#Infinite 1000lb Bombs	  
+800F5D2C 0063
+#Infinite 500lb Bombs	  
+800F5D30 0063
+#Infinite Beacons	  
+800F5D34 0063
+#Infinite Plasma	  
+800F5D38 0063
+#Infinite Laser	  
+800F5D3C 0063
+#Infinite E.P.P.	  
+800F5D40 0063

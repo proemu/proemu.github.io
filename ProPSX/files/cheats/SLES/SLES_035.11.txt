@@ -1,0 +1,11 @@
+#Infinite credits 9999
+800F0BA4 270F
+#Player 1 always score 0
+800E4420 0000
+#Player 1 always score 99
+800E4420 0063
+#Player 2 always score 0
+800E4422 0000
+#Player 2 always score 99
+800E4422 0063
+

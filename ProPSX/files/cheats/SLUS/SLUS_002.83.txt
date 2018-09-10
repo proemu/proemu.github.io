@@ -1,0 +1,6 @@
+#Unlimited Lives
+8009931A 0003
+#Unlimited Zaps
+80099348 0001
+#Always Have Power Up (Tempest X Mode Only)		
+80099316 0005

@@ -1,0 +1,6 @@
+#Enable all levels
+800886D8 0007
+#Open All Movies
+80088668 0016
+
+

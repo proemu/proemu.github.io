@@ -1,0 +1,13 @@
+#Have 700 points in telephone mini game
+801724EC 02BC
+#Have lots of money
+8008A068 E0FF
+8008A06A 05F5
+#Have 999 points in bomb factory mini game
+80173374 03E7
+#Have 999 points in Pang mini game
+80172F28 03E7
+#Have 9 Lives in Pang Mini game
+80172F30 000A
+#Have 150 points in hammer mini game
+80174670 0096

@@ -1,0 +1,9 @@
+#Infinite On Board Energy
+80087028 1F00
+#Always Play Level Modifier (00-31) Enabled now last level
+8010CF28 0031
+#Enable Extra Menu
+80069DB4 0004
+#High Durability
+8010E564 0000
+

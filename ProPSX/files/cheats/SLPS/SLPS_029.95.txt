@@ -1,0 +1,9 @@
+#Player has 99999 points
+80089CBC 869F
+80089CBE 0001
+#Rina has 0 points
+80089CC0 0000
+#Akiko has 0 points
+80089CC4 0000
+#Manami has 0 points
+80089CC8 0000

@@ -1,0 +1,92 @@
+#Infinite & Max Hp 999
+800F227A 03E7
+800F229E 03E7
+#Infinite & Max Sp 999
+800F227C 03E7
+800F22A0 03E7
+#Mortal blow-invincible Press L2
+D00F1318 0001
+80087916 0000
+D00F1318 0000
+80087916 0060
+#Normally all picture book
+8010881E FFFF
+#Infinite Money (60000)
+801087C4 EA60
+#Infinite HP in battle
+800F227A 03E7
+800F2682 03E7
+#Infinite SP in battle
+800F227C 03E7
+800F2684 03E7
+#Experience value Max 
+801087C0 869F 
+801087C2 0001 
+#Fame value Max 
+801087CC 2710 
+#100 degrees of friendship Alter 
+30108E03 0064 
+#100 degrees of friendship Marlo 
+30108E07 0064 
+#100 degrees of friendship Lou 
+30108E0B 0064 
+#100 degrees of friendship Sheriku 
+30108E0F 0064 
+#100 degrees of friendship Honoka 
+30108E13 0064 
+#100 degrees of friendship Karin 
+30108E17 0064 
+#100 degrees of friendship Resources 
+30108E1B 0064 
+#100 degrees of friendship Dewey 
+30108E1F 0064 
+#100 degrees of friendship Retiru 
+30108E23 0064 
+#100 degrees of friendship These 
+30108E27 0064 
+#100 degrees of friendship Miyu 
+30108E2B 0064 
+#100 degrees of friendship Rod 
+30108E2F 0064 
+#100 degrees of friendship Ryutta 
+30108E33 0064 
+#100 degrees of friendship Rachel 
+30108E37 0064 
+#100 degrees of friendship Yoong 
+30108E3B 0064 
+#No Random Encounter 
+800F2F24 0000 
+#NPC this all complete (on DATA) I can be viewed in the Library. Half-hearted story is also complete. 
+8010881E FFFF 
+80108826 0000 
+#Ability value 250 level up in the inn, at one time up 
+D005426E 2462 
+8005426C 00FA 
+D005426E 2462 
+8005426E 2402 
+#99 Roditaito blacksmith, armor in exchange 
+D008A1DC 3023 
+8008A1DE 2406 
+D008A1DC 3023 
+8008A1DC 0063 
+#Race of the luxury saloon moment clear 
+D0056686 1460 
+80056686 1400 
+#All special features and bonus game Open 
+D005244E 1082 
+301087B9 0001 
+D005244E 1082 
+80108826 0000 
+#Bonus game invincible 
+D00E24AA 2442 
+800E24A8 0000 
+#Picture book / page number	
+30109232 0064
+#Sequence of picture book + 01h 	
+301087E8 001F 
+30108807 001F
+#Debug mode Procedure You press L2 + R2 when you open the special features in their room
+D00F1318 0003 
+800AF7FA 000D 
+D00F1318 0003 
+800AF7FE 000D 

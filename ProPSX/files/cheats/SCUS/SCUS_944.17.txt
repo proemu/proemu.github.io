@@ -1,0 +1,50 @@
+#P1 Car Europa Tourer/Ranger	
+801CBD4C 0000
+#P1 Car Yellow Thunder/Dune Buggy	
+801CBD4C 0001
+#P1 Car Red Flash/Jeepste	
+801CBD4C 0002
+#P1 Car Silver Bullet/Dallas Pick-up	
+801CBD4C 0003
+#P1 Car Super Blue/HGV	
+801CBD4C 0004
+#P1 Car Stock Car/Monster Truck	
+801CBD4C 0005
+#P1 Car Hot Hatch/Trooper	
+801CBD4C 0006
+#P1 Car My Saloon/Badger	
+801CBD4C 0006		
+#Infinite Time 	
+801042BC 0063 		
+#Track Atlantic Trail	
+8000E254 0000
+#Track Country Valley	
+8000E254 0001
+#Track Yukon Pass	
+8000E254 0002
+#Track Downtown	
+8000E254 0003
+#Track Tuscan Gorge	
+8000E254 0004
+#Track Cub Raceway	
+8000E254 0005
+#Track Pacific Dream	
+8000E254 0006
+#Track Golden Sand	
+8000E254 0007
+#Track  Sunken City	
+8000E254 0008  	
+#P1 Lap Time Always Under 0'01'00 	
+80101F10 0000 		
+#P1 Always On Lap 1 	
+801022AC 0000 		
+#P1 Starts On Lap 2 	
+D01022AC 0000
+801022AC 0001 			
+#Have Extra Vehicles 	
+801074D4 FFFF 		
+#Have Super Championship Mode 	
+801074D8 FFFF 		
+#Have Reverse Mode 	
+801074D6 FFFF
+

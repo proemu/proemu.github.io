@@ -1,0 +1,27 @@
+#Infinite lives	
+3008CBBC 000A
+#Infinite time	
+D0024F2C FFFF
+80024F32 0000
+#Infinite shield
+3008CBE6 0011
+#Max shield	
+3008CBE4 0011
+#Shield never decreases	
+D003ACD8 007E
+3003ACD8 0000
+#Lives increase	
+D003B57C FFFF
+8003B57C 0001
+#Start with max waves	
+D008CBE2 0001
+3008CBE2 0064
+#Start with max merits	
+D008CBF8 0001
+3008CBF8 0096
+#Nuke never decreases 	
+D003AF4C FFFF
+8003AF50 0000
+D003AF4C FFFF
+8003AF52 0000
+

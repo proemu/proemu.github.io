@@ -1,0 +1,29 @@
+#Level Completed (Presss L2 & R2 & Start)	
+D008C602 FCF7
+30089E88 0001
+#Infinite Oxygen		
+8008C66E 0708
+#Infinite Small & large medi-pack		
+80088C74 03E7
+80088C76 03E7
+#Have all levels when loading a saved game		
+D006DFD8 0821
+8006DFD8 0013
+D006DFDA 0033
+8006DFDA 2402
+#Infinite Ammo (on pickup)		
+80040B66 2400
+80046456 2400
+80046AA6 2400
+#Infinite Auto-gun ammo		
+8008C71C 0028
+#nfinite Flares		
+80088C72 03E7
+#Have All 3 secrets		
+800DE7F2 000F
+#Have All special items		
+80088CF8 0009
+#Have All weapons		
+80088C64 000B
+#Stop timer		
+800DE7E0 0000

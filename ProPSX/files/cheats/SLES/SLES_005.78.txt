@@ -1,0 +1,4 @@
+#Infinite energy Player 1
+8006D970 0005
+#Infinite energy Player 2
+8006DA1C 0005

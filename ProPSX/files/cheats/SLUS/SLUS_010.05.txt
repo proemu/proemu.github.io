@@ -1,0 +1,12 @@
+#Start On Last Lap/Always First
+E00A1FAA 0000
+300A1FAA 0004
+#Max Season Points
+800FCA24 FFFF
+#Time is 0:00:00
+8009DFC8 9CA6
+8009DFCA 0001
+#Enable All Cheats .Press R1 On Quick Race Option
+800A1AC0 FFFF
+800A1AC2 FFFF
+

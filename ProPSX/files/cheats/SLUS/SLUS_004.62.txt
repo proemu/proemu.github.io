@@ -1,0 +1,23 @@
+#Infinite Energy
+800AC370 0FA0
+#Infinite Time
+800791B4 0000
+#Infinite Hi-Explosive Shells
+800A8018 270F
+800A801A 0001
+#Infinite Mortar Shells
+800A801E 270F
+800A8020 0001
+#Infinite Mines
+800A8024 270F
+800A8026 0001
+#Infinite Torus Bombs
+800A802A 270F
+800A802C 0001
+#Infinite Flame Thrower
+800A8030 270F
+800A8032 270F
+#Infinite Guided Missiles
+800A8036 270F
+800A8038 0001
+

@@ -1,0 +1,12 @@
+#Infinite Health P1
+800B42F2 017C
+#Infinite Health P2
+800B43E6 017C
+#Red Blood With German Menus
+3005C3F4 0000
+#Enables level select & invulnerability cheat
+D0093D00 0000
+30093D00 0003
+#Finish level (Press L2 & R2 & Circle)
+D00946E2 DCFF
+800B42B0 B800

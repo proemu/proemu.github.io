@@ -1,0 +1,19 @@
+#Player 1 Invincible 	
+800D0988 008C
+#Infinite Energy 	
+800A95E6 0099
+#Energy don't decrease P1
+800D0AC6-006E 
+#Select all 25 characters 	
+800A370C FFFF
+800A370E 00FF
+#Player 1 Infinite energy	
+800A3742 006E
+800A3744 00C8
+800A3746 00C8
+800A3748 00C8
+800D0AC6 006E
+#Automatic Win	
+800AAE72 0000
+#Start On Final Stage	
+800D6520 0009

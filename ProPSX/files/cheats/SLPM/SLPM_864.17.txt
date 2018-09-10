@@ -1,0 +1,7 @@
+#Have 99999 gold
+800BB88C 869F
+800BB88E 0001
+#Enemy has 0 points
+800B260A 0000
+#Player have 99 points
+800B2608 0063

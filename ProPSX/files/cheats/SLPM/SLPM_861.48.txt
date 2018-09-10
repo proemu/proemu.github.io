@@ -1,0 +1,7 @@
+#Infinite & max energy main character
+801CA028 00E7
+801CA029 00E7
+#Infinite & max energy 2nd character
+801CA1CC 00E7
+801CA1CD 00E7
+

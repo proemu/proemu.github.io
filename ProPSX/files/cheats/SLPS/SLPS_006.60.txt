@@ -1,0 +1,11 @@
+#Infinite Money
+8007B93C 967F
+8007B93E 0098
+#Infinite Ammo
+800D53AC 0014
+#Infinite Health
+800E7C30 0064
+
+
+
+

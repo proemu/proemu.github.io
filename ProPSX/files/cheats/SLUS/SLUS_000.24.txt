@@ -1,0 +1,6 @@
+#Max Score	
+80096F38 FFFF	
+#Puzzle Modifier = (0-63)
+80096F50 0063
+
+

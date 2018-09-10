@@ -1,0 +1,16 @@
+#Story Mode Infinite Credits		
+8010031E 0000
+#999Km per hour at a speed ball 
+80067976 03E7 
+#999Km per hour throwing normally 
+80067978 03E7 
+#1Km per hour with a fork ball 
+80067974 0001 
+#Strike count 3
+80064470 0003
+#Ball count 3
+80064474 0003
+#Count out 3
+80064478 0003
+#Bat first total score 9
+800643D4 0009

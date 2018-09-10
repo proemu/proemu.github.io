@@ -1,0 +1,44 @@
+#Stoppuhr 00:00:00
+3001F176 0020
+#Habe Kerze
+300A5158 0001
+#Habe Zwille
+300A515C 0001
+#Habe  Schlangenring
+300A5160 0001
+#Habe PanflöTe
+300A5164 0001
+#Habe Eispickel
+300A5168 0001
+#Habe HolzknüPpel
+300A516C 0001
+#Habe Laterne
+300A51A8 0001
+#Habe Messer
+300A5170 0001
+#Habe TüRknauf
+300A5174 0001
+#Habe Messing(Fern?)Rohr
+300A5178 0001
+#Habe Rostigen SchlüSsel 1
+300A517C 0001
+#Habe Rostigen SchlüSsel 2
+300A5180 0001
+#Habe Messingzylinder
+300A5184 0001
+#Habe Enterhaken
+300A5188 0001
+#Habe LeierschlüSsel
+300A518C 0001
+#Habe GlobusschlüSsel
+300A5190 0001
+#Habe Brecheisen
+300A5194 0001
+#Habe Brett
+300A5198 0001
+#Habe Skelettierten Arm
+300A519C 0001
+#Habe Stange Mit Zwei ÖSen
+300A51A0 0001
+#Habe S-FöRmiges Eisen
+300A51A4 0001

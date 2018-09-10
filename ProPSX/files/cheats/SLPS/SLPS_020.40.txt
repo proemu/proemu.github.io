@@ -1,0 +1,5 @@
+#Enable All Courses And Modes
+80010040 FFFF
+#Start On 2nd Lap
+D00CF826 0700
+800CF826 0701

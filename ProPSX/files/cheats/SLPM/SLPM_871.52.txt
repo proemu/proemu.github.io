@@ -1,0 +1,4 @@
+#Infinite HP Player 1  
+8005B00C 4B00 
+#Unlock all characters  
+8005A42C 0007 

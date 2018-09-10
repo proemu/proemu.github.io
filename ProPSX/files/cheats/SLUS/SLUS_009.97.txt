@@ -1,0 +1,3 @@
+#Player 1 has 999999 points
+801052C8 423F
+801052CA 000F

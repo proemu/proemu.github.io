@@ -1,0 +1,10 @@
+#Infinite Player Creation Points	
+8001057C 02D0
+#Away Team Score 0	
+800C63F8 0000
+#Away Team Score 99	
+800C63F8 0063
+#Home Team Score 0
+800C63F4 0000
+#Home Team Score 99
+800C63F4 0063

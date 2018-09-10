@@ -1,0 +1,7 @@
+#Infinite Health
+800E2CBC 00FF
+#Infinite Time
+800C4404 C503
+#Infinite Battery Energy
+800F4D74 7800
+

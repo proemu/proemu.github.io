@@ -1,0 +1,53 @@
+#All-you-can-writing spears
+D002B918 0001
+8002B918 0000
+#Heart
+8019507C 0009
+#Clear Inbedanpei Press Select
+D01504EC 0100
+80167D70 0008
+#Son Larry 256 times faster
+D01C55B0 0001
+801C55B0 0100
+#Funbarunba invincible
+D01C7208 FFFF
+801C7208 0000
+#Funbarunba deadly blow
+D01C7310 FFFF
+801C7310 FFFB
+#It does not decrease the number of times writing [Chibi Game]
+8002B91E 1400
+#Clear only Inbedanpei rice take one
+D01C8216 2442
+801C8214 0008
+#Son Larry invincible
+D01C6576 2442
+801C6574 0000
+#Mamanopo phosphorus MAX acceleration and do not hit the enemy
+D01C1F14 1821
+801DD83A 1000
+#Segaretto 2 failed also cleared
+D01C452E 2482
+801CED1E 0000
+D01C452E 2482
+801CED72 0001
+D01C452E 2482
+801CEDC6 0000
+#Funbarunba 1P not reduced physical strength
+D01C720A 2442
+801C720E 1400
+#Funbarunba COM (2P) blow death
+D01C731C 0005
+801C731C 0001
+#Lewd Great
+3019505E 0063
+#Makiba-o
+3019504A 0063
+#The Sea King
+30195060 0003
+#Fortune-telling King
+30195062 0063
+#Let's Mao upside down
+30195042 00B4
+#Coordinate display of mystery
+801AA3E0 0001

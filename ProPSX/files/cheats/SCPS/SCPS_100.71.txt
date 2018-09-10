@@ -1,0 +1,9 @@
+#Fraction Is 0/99	
+800C45A6 0000
+800C45A8 0063
+#Level Modifier	(0-F)
+300BD41C 0009
+#Quick Score Gain	
+800BD464 FFFF
+#Start at the last segment of each level	
+300BD41D 0002

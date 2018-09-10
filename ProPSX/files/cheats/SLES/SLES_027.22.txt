@@ -1,0 +1,34 @@
+#Stop Timer
+80034E14 0000
+#Start At Lap 4
+D0034E20 0101
+80034E20 204
+#Always First (Display)
+D0088BA4 0001
+80088BA6 3402
+#Team Has 999 Points
+8003C3AA 03E7
+#Timer At 0:00:00 (Always Pole)(.Press L1 & L2 & R1 & R2
+.Press L1 & R1)
+D0038FA6 F0FF
+80034E14 0000
+#Other Drivers Can't Score (Press L1 & R1)
+D0038FA6 F3FF
+50001502 0000
+8003C380 0000
+#Team Has 288 Points (Press L2 & R2)
+D0038FA6 FCFF
+8003C3AA 0120
+#Other Teams Can't Score (Press L2 & R2)
+D0038FA6 FCFF
+5000B002 0000
+8003C3AC 0000
+#Start At Lap 4
+D0034E20 0101
+80034E20 0304
+#Slow Motion\On (Press Select & R2
+D0038FA6 FDFE
+3001C340 0000
+
+
+

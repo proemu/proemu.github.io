@@ -1,0 +1,265 @@
+#Infinite Health On Disk 1,With this code, it will help you thru the torture scene but you still have to press the button repeatedly to keep from dying what the health code does is make sure your health doesn't get sucked down!	
+800B7526 03E7
+#Infinite Air 	
+800AE1AC 03E7
+#Never Reload 	
+800AE164 000D
+#Infinite Time In Jeep Chase 	
+800E1258 FFFF
+#Invulnerability This code makes it so that Snake can't be hit by anything	
+800AE1CA 0080 
+#Never Reload	
+800AE164 000D
+#Max Life
+800B7528 0600
+#Ghost Mode
+800AE188 0000
+800AE18A 0000
+#Never Get A Cold
+800B752A 0000
+#Radar Not Jammed When Spotted
+800AE178 0000
+#Ocelot Has 0 Bullets
+80167CA8 0000
+#Infinite 3:00 Fight Time
+800E72BC 1475
+#Infinite Time-Jeep Chase
+800E1258 FFFF
+#Liquid-No Health Final Fight
+8017997C 0000
+#Press R1 For An Easy Fight Against Ninja
+D00B2D58 0008
+8015B59C 0000
+#Press R1 For An Easy Fight Against Mantis .With this code, keep tapping R1 'til Mantis has Meryl try to blow her brains out. Tap R1 once more at this point, then swap controller ports and finish him off!
+D00B2D58 0008
+801B8CB6 0000
+#Press R1 For Meryil+Health S.Wolf
+D00B2D58 0008
+80174A50 0080
+#Press R1 For A Quick Battle With Hind d With this code, tap R1 and the hind D will fire at you, dodge it's fire and tap R1 again. Fight complete.
+D00B2D58 0008
+80154AB4 0000
+#Press R1 For Quick S.Wolf Snow Fight With this code, tap R1 then run up to her
+D00B2D58 0008
+8016FE78 0000
+#Press R1 For A Quick Metal Gear Battle
+D00B2D58 0008
+800B8EF6 0000
+#Press R1 For Quick Battle With Raven
+D00B2D58 0008
+80157408 0000	
+#99 Diazepam	
+800B7580 0063
+#Have Access To Special Modes [SELECT+R2+L2]		
+D00AC240 0103
+3011C804 0003
+#Have All Vr Training Stages & Tech Demo		
+300B499B 0020
+#All Modes VR Training		
+800B672B 0020
+#Have Socom Pistol
+800B7532 03E7
+800B7546 03E7
+#Have Famas
+800B7534 03E7
+800B7548 03E7
+#Have Grenades
+800B7536 03E7
+800B754A 03E7
+#Have Nikita
+800B7538 03E7
+800B754C 03E7
+#Have Stinger
+800B753A 03E7
+800B754E 03E7
+#Have Claymore Mines
+800B753C 03E7
+800B7550 03E7
+#Have C4
+800B753E 03E7
+800B7552 03E7
+#Have Stun Grenades
+800B7540 03E7
+800B7554 03E7
+#Have Chaff Grenades
+800B7542 03E7
+800B7556 03E7
+#Have Sniper Rifle
+800B7544 03E7
+800B7558 03E7
+#Havecigs
+800B755A 0001
+#Have Scope
+800B755C 0001
+#Have C.Box A
+800B755E 0001
+#Have C.Box B
+800B7560 0001
+#Have C.Box c
+800B7562 0001
+#Have N.V.G.
+800B7564 0001
+#Have Therm.G
+800B7566 0001
+#Have Gas Mask
+800B7568 0001
+#Have B.Armor
+800B756A 0001
+#Have Ketchup
+800B756C 0001
+#Have Stealth
+800B756E 0001
+#Have Bandana
+800B7570 0001
+#Have Camera
+800B7572 0001
+#Have 255 Rations
+800B7574 03E7
+800B758A 03E7
+#Have 255 Medicine
+800B7576 03E7
+800B758C 03E7
+#Have 255 Diazepam
+800B7578 03E7
+800B758E 03E7
+#Have Pal Key
+800B757A 0001
+#Have Level 10 Key Card
+800B757C 0064
+#Never Have Time Bomb
+800B757E 0000
+#Have Mine Detector
+800B7580 0001
+#Have Mo Disc
+800B7582 0001
+#Have Rope
+800B7584 0001
+#Have Handker
+800B7586 0001
+#Have Suppressor Active
+800B7588 0000
+#Press R1 For Normal Pal Key
+D00B2D58 0008
+800B7592 0000
+#Press R2 For Hot Pal Key
+D00B2D58 0002
+800B7592 0001
+#Press L1 For Cold Pal Key
+D00B2D58 0004
+800B7592 0002
+#Play In First Person Viewmode activate this code press L1+L2+R1+R2 and after that the triangle-button. To deactivate simply press triangle again.
+D00AE0C8 001F
+300AE1C8 0000
+#Never Reload (V 1.1)
+800AE16C 000D
+#Infinite Air (V 1.1)	
+800AE1B4 03E8
+#Infinite Health (V 1.1) it will help you thru the torture scene but you still have to press the button repeatedly to keep from dying what the health code does is make sure your health doesn't get sucked down!		
+800B752E 03E8
+#Have SOCOM Pistol and Ammo	(V 1.1)
+800B753A 0019
+#Have FAMAS Rifle and Ammo (V 1.1)
+800B753C 0065
+#Have Grenade (V 1.1)	
+800B753E 0008
+#Have Nikita and Ammo (V 1.1)	
+800B7540 0004
+#Have Stinger and Ammo (V 1.1)	
+800B7542 0004
+#Have Claymore (V 1.1)	
+800B7544 0006
+#Have C-4 (V 1.1)	
+800B7546 0004
+#Have Stun Grenade (V 1.1)	
+800B7548 0003
+#Have Chaff Grenade (V 1.1)	
+800B754A 0003
+#Have PSG1 Rifle and Ammo (V 1.1)	
+800B754C 0005
+#Have Cigarettes (V 1.1)	
+800B7562 0001
+#Have Scope (V 1.1)	
+800B7564 0001
+#Have Cardboard Box (V 1.1) A	
+800B7566 0001
+#Have Cardboard Box B (V 1.1)	
+800B7568 0001
+#Have Cardboard Box C (V 1.1)	
+800B756A 0001
+#Have Night Vision Goggles (V 1.1)	
+800B756C 0001
+#Have Thermal Goggles (V 1.1)	
+800B756E 0001
+#Have Gasmask (V 1.1)	
+800B7570 0001
+#Have Body Armor (V 1.1)	
+800B7572 0001
+#Have Ketchup (V 1.1)	
+800B7574 0001
+#Have Stealth Suit (V 1.1)	
+800B7576 0001
+#Have Bandana (V 1.1)	
+800B7578 0001
+#Have Camera (V 1.1)	
+800B757A 0001
+#Have Rations (V 1.1)	
+800B757C 0002
+#Have Medicine (V 1.1)	
+800B757E 0002
+#Have Diazepam (V 1.1)	
+800B7580 0002
+#Have PAL Key (V 1.1)	
+800B7582 0001
+#Have Level 10 Key (V 1.1)	
+800B7584 000A
+#Have Never Have Time Bomb (V 1.1)	
+800B7586 0000
+#Have Extra Ammo SOCOM Pistol (V 1.1)	
+80067CD8 0001
+#Have Extra Ammo FAMAS Rifle (V 1.1)	
+800682F4 0001
+#Have Extra Ammo Stinger (V 1.1)	
+80069524 0001
+#Have Extra Ammo Claymore (V 1.1)	
+800698D8 0001
+#Have Extra Ammo C-4 (V 1.1)	
+80069C24 0001
+#Have Extra Ammo PSG1 Rifle (V 1.1)	
+8006A378 0001
+#Have Extra Ammo Nikita (V 1.1)	
+80068FE0 0001
+#Have Mine Detector (V 1.1)	
+800B7588 0001
+#Have MO Disk (V 1.1)	
+800B758A 0001
+#Have Rope (V 1.1)	
+800B758C 0001
+#Have Hankerchief (V 1.1)	
+800B758E 0001
+#Have Suppressor (V 1.1)	
+800B7590 0000
+#R1 = Normal PAL Key (V 1.1)	
+D00B2D60 0008
+800B 759A 0000
+#R2 = Hot PAL Key (V 1.1)	
+D00B2D60 0002
+800B 759A 0001
+#L1 = Cold PAL Key (V 1.1)	
+D00B2D60 0004
+800B759A 0002
+#Radar not jammed when spotted (V 1.1)	
+800AE180 000
+#Ocelot has 0 bullets (V 1.1)	
+80167CB0 0000
+#Infinite 3:00 Fight Time (V 1.1)	
+800E72C4 1475
+#Infinite Time: Jeep Chase (V 1.1)	
+800E1260 FFFF
+#Liquid: No health Final Fight (V 1.1)
+80179984 0000
+#R1 = Quick battle with Raven (V 1.1)	
+D00B2D60 0008
+80157592 0002
+#R1 = Quick Metal Gear Battle (V 1.1)	
+D00B2D60 0008
+800B8EFE 0000

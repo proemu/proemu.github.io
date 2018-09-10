@@ -1,0 +1,2 @@
+#P1 Always Score 7 (Always Win)
+800AEA20 0007

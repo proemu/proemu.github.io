@@ -1,0 +1,13 @@
+#Infinite Lives Player 1
+800BF03A 0004
+#Infinite Lives Player 2
+800BF0B6 0004
+#Infinite Hp Player 1
+800BF038 000C
+#Infinite Hp Player 2
+800BF0B4 000C
+#Infinite Magic Player 1
+800BF03C 0005
+#Infinite Magic Player 2
+800BF0B8 0005
+

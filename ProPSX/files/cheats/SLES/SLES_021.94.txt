@@ -1,0 +1,31 @@
+#Start On Last Lap 
+C20D69D4 0001
+800DB18C 0000
+#Lots Of Points
+800DB182 000E
+#Time Is Freezed
+80031D7A 3C00
+#Infinite Cash
+800C2664 FFFF
+#Infinite Continues In Championship Mode
+8006DB58 3C00
+#Enable All Mountain Tracks
+800D6AFA 0E02
+800D6B00 0305
+#Enable All Super Cross Tracks
+800D6B0E 0A0C
+#Enable All Sleds
+50003701 0000
+300D7439 0002
+#Enable Mirror Mode
+800C2ECC 0001
+#Championship - Only 1 race to win	
+300C2E94 0005
+#Enable Fog-Mode	
+300C2EBC 0001
+#Enable Night-Mode	
+300C2EBE 0001
+#Enable Sergei	
+300C2EC4 0001
+#Enable Jackal	
+300C2EC6 000

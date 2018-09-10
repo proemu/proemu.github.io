@@ -1,0 +1,9 @@
+#Infinite Lives	
+801C363C 0009
+#Infinite MP
+801C363E 015F
+#Automatically Finish Levels
+8011322E 0000
+#Max Score		
+8011315E FFFF
+80113160 FFFF

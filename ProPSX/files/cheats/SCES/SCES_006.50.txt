@@ -1,0 +1,15 @@
+#Joker Command  
+D007C138 0000 
+#Infinite Money  
+8019C908 C9FF
+8019C90A 3B9A 
+#Infinite Chances  
+801E42F2 0005 
+#Always Place 1st  
+8009E834 0001 
+#Super speed  
+8009E77C 00FF
+8009E7C0 0005 
+#Unlock Extra Grand Prix  
+8019CAC0 0001 
+

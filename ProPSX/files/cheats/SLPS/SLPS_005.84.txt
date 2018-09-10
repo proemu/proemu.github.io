@@ -1,0 +1,28 @@
+#Infinite money
+800A4BD8 869F
+800A4BDA 0001
+#Main character 999 MP
+800CFB2A 03E7
+#Main character 999 HP
+800CFB28 03E7
+#First girl 999 HP
+800CFBB8 03E7
+#First girl 999 MP
+800CFBBA 03E7
+#Second girl 999 HP
+800CFB4C 03E7
+#Second girl 999 MP
+800CFB4E 03E7
+#Third girl 999 HP
+800CFB70 03E7
+#Third girl 999 MP
+800CFB72 03E7
+#Main character infinite HP in battle (deactivate before finishing defeating the last enemy)
+800A49DC 03E7
+#First girl infinite HP in battle (deactivate before finishing defeating the last enemy)
+800A4A00 03E7
+#Second girl infinite HP in battle (deactivate before finishing defeating the last enemy)
+800A4A24 03E7
+#Third girl infinite HP in battle (deactivate before finishing defeating the last enemy)
+800A4A48 03E7
+

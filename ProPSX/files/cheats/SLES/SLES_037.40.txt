@@ -1,0 +1,5 @@
+#Start On Lap 2
+D01C338C 0000
+801C338C 0002
+#Freeze Timer
+801C351C 0000

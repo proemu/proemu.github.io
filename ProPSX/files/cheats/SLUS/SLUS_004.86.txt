@@ -1,0 +1,42 @@
+#Infinite Health P1
+800DCB68 00C8
+800DCB6A 00C8
+#Lots Of Points P1
+800DCCF0 0099
+#Unlimited Time
+800DB0D8 088E
+#Lots Of Points P2
+800DCCF2 0099
+#Unlimited Money
+800DCCFC 045F
+#Infinite Glove Power P1	
+800DCB70 4CEA
+800DCB72 4CEA
+#Win Lots Of Money (Battle Mode)
+800DCCF0 0110
+#Have All Gloves P1		
+800DCD04 FFFF
+800DCD06 FFFF
+800DCD08 FFFF
+800DCD0A FFFF
+800DCD0C 001F
+#Stage Pratice
+800DB0E0 0000
+#Stage Flatland
+800DB0E0 0001
+#Stage Moi Island
+800DB0E0 0002
+#Stage Park
+800DB0E0 0003
+#Stage Robots
+800DB0E0 0004
+#Stage Desert
+800DB0E0 0005
+#Stage Iceberg
+800DB0E0 0006
+#Stage Stage Infinity
+800DB0E0 0007
+#Stage Technical Bonus
+800DB0E0 0008
+
+

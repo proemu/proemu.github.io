@@ -1,0 +1,13 @@
+#Infinite HP  
+8002C412 9622 
+#Infinite MP 
+80027AC2 0040 
+#Fast Level Up
+801810F8 FFFF
+801810FA FFFF
+801810FC FFFF
+#Infinity Money
+801425B6 FFFF
+801425B8 00FF
+#Debug Menu displayed when you start the game debug menu display in press SELCT 
+80142434 0001 

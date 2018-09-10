@@ -1,0 +1,7 @@
+#Infinite money (20000) / win the 1st game
+8008CA78 4E20
+#Infinite money (30000) / win the 2nd game
+8008CA78 7530
+#Infinite money (40000) / win the 3rd game
+8008CA78 9C40
+

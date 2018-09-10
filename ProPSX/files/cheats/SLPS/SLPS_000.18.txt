@@ -1,0 +1,20 @@
+#Lots Of Money
+80083EDC 0000
+80083EDE 2000
+#Inf Lightning
+80083F48 0009
+#P1 Inf Health
+80083EB8 00B4
+80083EC0 00B4
+#Play As Carmilla In Legendary Mode Use only one of the play as codes at a time
+8014BB94 0002
+#Play As Goldrush In Legendary Mode Use only one of the play as codes at a time
+8014BB94 0003
+#Play As Ghom In Legendary Mode Use only one of the play as codes at a time
+8014BB94 0004
+#Play As Jinny In Legendary Mode Use only one of the play as codes at a time
+8014BB94 0005
+#Play As Fatman In Legendary Mode Use only one of the play as codes at a time
+8014BB94 0006
+#Play As Red Dawn In Legendary Mode Use only one of the play as codes at a time
+8014BB94 0007

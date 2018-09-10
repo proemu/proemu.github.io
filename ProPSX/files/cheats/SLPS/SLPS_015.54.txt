@@ -1,0 +1,27 @@
+#All stage appearance 
+80027258 0001 
+8002725C 0001 
+80027260 0001 
+80027264 0001 
+80027268 0001 
+#Infinite Lives
+3002CC5A 0063 
+#Bulletproof vest 
+8002CC4C 03E7 
+3002D148 0001 
+#Cop does not come chasing 
+8002CAF0 0000 
+#Not tell Wanted 
+8002CB6C 0000 
+#Weapon Pistol
+8002CAE8 0001
+#Weapon machine gun 
+8002CAE8 0002
+#Weapon rocket launcher
+8002CAE8 0003
+#Does not decrease pistol bullets 
+3002CC65 0063 
+#Does not decrease machine gun bullets 
+3002CC66 0063 
+#Does not decrease rocket launcher ammunition 
+3002CC67 0063 

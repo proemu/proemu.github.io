@@ -1,0 +1,32 @@
+#Position 1 Infinite HP	in Battle
+80197774 03E7
+80197776 03E7
+#Position 2 Infinite HP	in Battle
+801977C8 03E7
+801977CA 03E7
+#Position 3 Infinite HP	in Battle
+8019781C 03E7
+8019781E 03E7
+#Position 4 Infinite HP	in Battle 	
+80197870 03E7
+80197872 03E7
+#Position 5 Infinite HP	in Battle
+801978C4 03E7
+801978C6 03E7
+#Position 6 Infinite HP	in Battle
+80197918 03E7
+8019791A 03E7
+#Have All Items	
+301B8091 0063
+50005602 0000
+801B8092 6363
+301B813E 0063
+301B8141 0063
+301B8142 0063
+#Max Money (On Status Screen)	
+801B801C 967F
+801B801E 0098
+#No Random Battles (Everywhere Else)		
+80199B40 0000
+#No Random Battles (Overhead Map)	
+8017D5F4 0000

@@ -1,0 +1,12 @@
+#Increased Amount Of Credits
+80075898 000F
+#Infinite Energy
+801E0058 1F40
+#Infinite Body		
+801E005A 1F40
+#Infinite Flamethrower	
+801E0032 0190
+801E0036 000C
+#Infinite Rocket Launcher
+801E0032 0190
+801E0036 000C

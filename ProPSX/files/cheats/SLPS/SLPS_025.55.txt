@@ -1,0 +1,19 @@
+#Infinite Lives (Hbp) 	
+80040E78 0003 		
+#Max A Glass Ball 	
+800332C0 0063 		
+#P1 Infinite Bomb(Select) 	
+D0032C70 0001
+80050E2C 6301 		
+#P1 & P2 Infinite Power 	
+8014726C 0006 		
+#P2 Infinite Bomb(Select)
+D0032C90 0001
+80050E3C 6301 		
+#Infinite Life In Stage 1 	
+D014726C 0005
+8014726C 0006 	
+#Infinite Life In Stage 2 	
+D0157C38 0005
+80157C38 0006
+

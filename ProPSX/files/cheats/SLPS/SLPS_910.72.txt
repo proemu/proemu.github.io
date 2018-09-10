@@ -1,0 +1,5 @@
+#Infinite Time 
+8012B4C4 0000 
+8012B4C6 0000 
+#Infinite Mirror Hints 
+801514F4 0000 

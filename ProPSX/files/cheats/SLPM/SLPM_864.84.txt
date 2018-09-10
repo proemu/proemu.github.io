@@ -1,0 +1,17 @@
+#Infinite Energy Zero
+80088B70 05DC
+800BD5B4 05DC
+801BF754 05DC
+801BF794 2E88
+#Infinite Bombs Zero
+801BF782 0063
+#Infinite Special Attack Zero
+801BF77F 0063
+#Infinite Energy Captain Harlock
+80088B70 05DC
+800BD5B4 05DC
+801BDF4C 05DC
+#Infinite Bombs Captain Harlock
+801BDF7A 0063
+#Infinite Special Attack Captain Harlock
+801BDF77 0063

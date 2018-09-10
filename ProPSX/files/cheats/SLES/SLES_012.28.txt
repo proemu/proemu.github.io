@@ -1,0 +1,33 @@
+#Start on lap 1
+800D3BAC 0001
+#Start on lap 2
+800D3BAC 0002
+#Start on lap 3
+800D3BAC 0003
+#Start on lap 4
+800D3BAC 0004
+#Start on lap 5
+800D3BAC 0005
+#Always First
+300D3BF8 0001
+#Speed Code (Switch To Outer View)
+D00ADED6 0000
+800D39EE 0030
+#Infinite Checkpoint Time
+8009F43C 003C
+#Infinite Repairtime
+801280D8 EA60
+#Stopwatch 00:00:00
+3002F7BA 0080
+#Activate Cheat Menu
+3009B016 0000
+#Mirrored Tracks
+300C3FC3 0001
+#Psycho World
+300C3FC4 0001
+#Strange Bus
+300C3FC5 0001
+#Peugeot
+300C3FC6 0001
+#Rally Jeunes
+300C3FC7 0001

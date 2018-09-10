@@ -1,0 +1,15 @@
+#Erik Code Infinite Energy	
+800B8234 0003
+#Baleog Codes Infinite Energy	
+800B8250 0003
+#Olaf Codes Infinite Energy	
+800B826C 0003
+#Invincibility
+30096160 0001
+#Infinite Flying
+30096160 0002
+#Invincibility + Infinite Flying
+30096160 0003
+#Skip Level (X+Square+Triangle)
+30096160 0004
+

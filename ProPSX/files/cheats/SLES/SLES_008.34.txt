@@ -1,0 +1,8 @@
+#Infinite Smart Bombs
+8012A608 000F
+#Infinite Energy
+8012A4CE 0064
+#Infinite Gun Energy
+8012A9B4 03FF
+#Infinite Lives
+801000F4 0064

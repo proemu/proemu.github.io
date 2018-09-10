@@ -1,0 +1,4 @@
+#Infinite lives P1	
+800C31C8 0003		
+#Infinite lives P2	
+800C33A4 0003

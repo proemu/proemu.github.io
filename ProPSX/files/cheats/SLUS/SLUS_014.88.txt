@@ -1,0 +1,24 @@
+#8-Ball, 9-Ball & Matches Codes Max Points P1
+8008847C 0064
+#8-Ball, 9-Ball & Matches Codes Max Points P2
+800884B4 0064
+#8-Ball, 9-Ball & Matches Codesno Points P1
+8008847C 0000
+#8-Ball, 9-Ball & Matches Codesno Points P2
+800884B4 0000
+#Basic, Rotation & 14-1 Ball Codesalways P1's Turn
+800494A0 0000
+#Basic, Rotation & 14-1 Ball Codes Always P2's Turn
+800494A0 0002
+#Basic, Rotation & 14-1 Ball Codes Max Points P1
+8008847A 0009
+8008847C 0009
+#Basic, Rotation & 14-1 Ball Codes Max Points P2
+800884B2 0009
+800884B4 0009
+#Basic, Rotation & 14-1 Ball Codes No Points P1
+8008847A 0000
+8008847C 0000
+#Basic, Rotation & 14-1 Ball Codes No Points P2
+800884B2 0000
+800884B4 0000

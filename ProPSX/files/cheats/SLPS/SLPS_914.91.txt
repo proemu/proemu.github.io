@@ -1,0 +1,6 @@
+#Infinite money (60000)  
+80174210 EA60 
+#Infinite energy (999)  
+8017420A 03E7 
+#Always 100 possible fishing tries?  
+8017420E 0064 

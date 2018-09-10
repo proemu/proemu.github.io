@@ -1,0 +1,12 @@
+#Infinite time to deactivate bomb Deactivate code if you fail in deactivate the bomb
+8007F47B 967F
+8007F47D 0098
+#Does not decrease timed timer 
+D001B894 6490 
+8001B8DC 0000 
+#Not decrease emergency explosive timer 
+D001B894 6490 
+8001B90C 0000 
+#Screw is loose in one shot and (Toshimaru) 
+D00A6CF8 01BD 
+800A6CFA 1400 

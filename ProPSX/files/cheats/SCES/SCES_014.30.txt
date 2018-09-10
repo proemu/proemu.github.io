@@ -1,0 +1,14 @@
+#Goals Home Team 9
+801287A0 0009
+#Goals Home Team 0
+801287A0 0000
+#Goal Away Team 9
+801287A4 0009
+#Goal Away Team 0
+801287A4 0000
+#Unlock Extra Players
+50000502 0000
+800E4B08 0101
+#Unlock All Challenges
+5000031A 0000
+800C4850 03FF

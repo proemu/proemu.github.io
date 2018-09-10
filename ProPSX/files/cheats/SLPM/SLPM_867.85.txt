@@ -1,0 +1,2 @@
+#Have 100 points in tests
+801FFF38 0064

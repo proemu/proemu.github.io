@@ -1,0 +1,34 @@
+#Defender 1 Infinite Lives P1               
+801BA1C8 0200 
+#Defender 1 Infinite Smart Bombs P1         
+801BA1CA 0301 
+#Defender 1 Infinite Smart Bombs P2         
+801BAC08 0A03 
+#Defender 1 Infinite Lives P2               
+801BA206 0103 
+#Defender 2 Infinite Lives P1               
+801BBDDE 0120 
+#Defender 2 Infinite Lives P2               
+801BBE1C 0300 
+#Defender 2 Player 1 Infinite Smart Bombs   
+801BBDE0 0301 
+#Defender 2 Player 1 Invisibility           
+801BBDE0 1E00 
+#Defender 2 Player 2 Infinite Smart Bombs   
+801BBE1E 0301 
+#Defender 2 Player 2 Invisibility           
+801BBE20 0A1E 
+#Joust  Infinite Lives P1               
+801BA050 0400
+801BA052 0005 
+#Joust Infinite Lives P2               
+801BA05A 0400
+801BA05C 0005 
+#Robotron 2084 Infinite Lives P1               
+801BBDEC 0102 
+#Robotron 2084 Infinite Lives P2               
+801BBE28 0103 
+#Sinistar Infinite Sinibombs P1           
+801BA012 0900 
+#Sinistar Infinite Lives P1               
+801B9FFC 0003 

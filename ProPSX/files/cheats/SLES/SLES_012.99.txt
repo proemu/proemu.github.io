@@ -1,0 +1,25 @@
+#99 Flies
+800A2D8A 0063
+#Infinite Energy
+800A2DEA 0004
+#99 Hands
+800A2DB8 0063
+#Infinite Lives 99
+800A2D7A 0063
+#99 Golden Coins
+800A2D9A 0063
+#99 Coffins
+800A2DAA 0063
+#Have 24 Paw coins	
+800AB0B8 0018
+#Have 99 Bonus coins	
+800AB0BC 0063
+#Have 99 Fly coins	
+800AB0B4 0063
+#Have 99 TV remotes	
+800AB0C0 0063
+#Press select to make Gex speak		
+800AB194 2000
+#Unbeatable	
+80097B1C 0003
+

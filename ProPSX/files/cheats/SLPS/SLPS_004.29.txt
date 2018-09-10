@@ -1,0 +1,2 @@
+#Infinite horse stamina first race
+8006D80D 0056

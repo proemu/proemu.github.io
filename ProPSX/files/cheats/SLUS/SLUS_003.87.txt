@@ -1,0 +1,5 @@
+#Infinite Energy Player 1
+800C2B64 03C9
+800E2EDC 0014
+#Infinite Energy Player 2	
+800E3A88 0014

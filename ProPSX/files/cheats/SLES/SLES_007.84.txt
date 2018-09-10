@@ -1,0 +1,5 @@
+#Infinite energy
+800C3784 007D
+#Infinite lives
+800C37DF 2803
+

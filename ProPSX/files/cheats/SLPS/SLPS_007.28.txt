@@ -1,0 +1,14 @@
+#P1 Unlimited Ships (Maybe need to disable at the end of stage)
+801E55B2 0008
+#P1 Full Power (Maybe need to disable at the end of stage)
+801E55BC 0008
+801E55C6 0008
+#P1 Invincible (Maybe need to disable at the end of stage)
+800445A6 1400.
+#P2 Invincible (Maybe need to disable at the end of stage)
+8004463A 1400
+#Invincibility (Maybe need to disable at the end of stage)
+801E8830 0D01
+801E88EC 2224
+
+

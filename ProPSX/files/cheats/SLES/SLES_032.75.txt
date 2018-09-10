@@ -1,0 +1,22 @@
+#Tamtel Skreej 	
+300D8937 0001 		
+#Pugwis 	
+300D8938 0001 		
+#Wittin 	
+300D8939 0001 		
+#Malakili 	
+300D893A 0001 		
+#Lobot 	
+300D893B 0001 		
+#Boushh 	
+300D893C 0001 		
+#Darth Maul 	
+300D893D 0001 		
+#All Characters Unlock 	
+50000402 0000
+800D8936 0101
+#Beginne mit vielen Punkten
+D006BC50 03E8
+8006BC50 8760
+D006BC52 0000
+3006BC52 0003

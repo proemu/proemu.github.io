@@ -1,0 +1,41 @@
+#Infinite Ammo
+8006C35C 0000
+.The Infinite Ammo codes will not work with the bonus weapon (Riot Shield).
+#Infinite Power Up Ammo
+8006C354 0000
+.The Infinite Ammo codes will not work with the bonus weapon (Riot Shield).
+#Have All Weapons
+8009CE8E 0004
+8009CEA2 0004
+8009CEB6 0004
+#Infinite Energy
+8005891C 2400
+#Bonus Weapons
+8009CE8C 0005
+8009CEA0 0005
+8009CEB4 0005
+#Shields & Max Gun Power\Griffith Park
+801D7EBE 05C2
+.These codes only work in one player mode (Crime War).
+#Shields & Max Gun Power\Zuma Beach
+801C39A6 01C2
+.These codes only work in one player mode (Crime War).
+#Shields & Max Gun Power\La Brea Tar Pits
+801ED73A 01C2
+.These codes only work in one player mode (Crime War).
+#Shields & Max Gun Power\Vernice Beach
+801E39D2 01C2
+.These codes only work in one player mode (Crime War).
+#Shields & Max Gun Power\Hells Gate Prison
+801D7132 01C2
+.These codes only work in one player mode (Crime War).
+#Shields & Max Gun Power\Studio City
+801CC632 01C2
+.These codes only work in one player mode (Crime War).
+#Shields & Max Gun Power\Lax Spaceport
+801DA04E 01C2
+.These codes only work in one player mode (Crime War).
+#Shields & Max Gun Power\Long Beach
+801EB95A 01C2
+.These codes only work in one player mode (Crime War).
+

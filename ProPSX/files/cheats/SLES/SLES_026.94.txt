@@ -1,0 +1,12 @@
+#No Damage
+80074958 0000
+#Infinite Warning
+80074A30 0000
+#No Repair Required
+800D634C 0000
+#Always 1st
+80074978 0000
+#Max Money
+800D633E 00FF
+#Start on lap 2	
+800748AC 0001

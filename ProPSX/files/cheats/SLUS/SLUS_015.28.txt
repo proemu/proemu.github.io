@@ -1,0 +1,8 @@
+#Max Score
+800F3054 E0FF
+800F3056 05F5
+#Press L1+Select For More Time
+D0080EE0 0104
+800F314A 1C00
+#Quick Score Gain
+800F3054 FFFF

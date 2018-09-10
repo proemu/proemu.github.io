@@ -1,0 +1,28 @@
+#999 Points pogo painter
+800A20EC 03E7
+#Infinite health Jungle bash event y papu event
+800A20D2 0014	
+#Infinite health crash ball
+800A20EC 000F	
+#InfInite health	
+D009BAAA 0014
+3009BA9E 0014
+#Infinite points (Press R1)	
+D0070B7A F7FF
+8009BAB8 000F
+#Infinite points 	
+8009BAB8 000F
+#Unlock Warp room 2	
+3005C564 0001
+#Unlock Warp room 3	
+3005C576 0001
+#Unlock Warp room 4	
+3005C569 0001
+#Unlock Warp room 5	
+3005C57F 0001
+#P1 only needs 1 trophy to win	
+D005C4BC 0000
+3005C4BC 0002
+
+	
+

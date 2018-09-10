@@ -1,0 +1,67 @@
+#Curtis Infinite Health 	
+801E0DA2 0044 		
+#Curtis Infinite Lives 	
+801E0D9C 0005 		
+#Curtis Always Have Super Move 	
+801E0DAA 0044 		
+#Curtis Invincible 	
+801E0ED8 0001
+#Boris Infinite Health 	
+801E0FC2 0044 		
+#Boris Infinite Lives 	
+801E0FBC 0005 		
+#Boris Always Have Super Move 	
+801E0FCA 0044 		
+#Boris Invincible 	
+801E10F8 0001 
+#Ruby Infinite Health 	
+801E11E2 0044 	
+#Ruby Infinite Lives 	
+801E11DC 0005 		
+#Ruby Always Have Super Move 	
+801E11EA 0044 		
+#Ruby Invincible 	
+801E1318 0001
+#George Infinite Health 	
+801E1402 0044 		
+#George Infinite Lives 	
+801E13FC 0005 		
+#George Always Have Super Move 	
+801E140A 0044 		
+#George Invincible 	
+801E1538 0001
+#Lizzie Infinite Health 	
+801E1622 0044 		
+#Lizzie Infinite Lives 	
+801E161C 0005 		
+#Lizzie Always Have Super Move 	
+801E162A 0044 	
+#Lizzie Invincible 	
+801E1758 0001	
+#Ralph Infinite Health 	
+801E1842 0044 		
+#Ralph Infinite Lives 	
+801E183C 0005 		
+#Ralph Always Have Super Move 	
+801E184A 0044 		
+#Ralph Invincible 	
+801E1978 0001	
+#Myukus Infinite Health 	
+801E1A62 0044 		
+#Myukus Infinite Lives 	
+801E1A5C 0005 		
+#Myukus Always Have Super Move 	
+801E1A6A 0044 		
+#Myukus Invincible 	
+801E1B98 0001
+#Enable George 	
+801F9A4A 0000 		
+#Enable Lizzie 	
+801F9A4C 0000 		
+#Enable Ralph 	
+801F9A4E 0000 		
+#Enable Myukus 	
+801F9A50 0000
+#Infinite Time (Bonus Round) 	
+8007BD8C 002E 
+

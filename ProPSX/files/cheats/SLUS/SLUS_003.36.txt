@@ -1,0 +1,24 @@
+#Infinite Energy P1 Worm 1	
+8014A54C 0064
+#Infinite Energy P1 Worm 2	
+8014A5F8 0064
+#Infinite Energy P1 Worm 3		
+8014A6A4 0064
+#Infinite Energy P1 Worm 4		
+8014A750 0064	
+#Infinite Turn Timer	
+8014B7FC 0E11
+#Random Movie Player.Press the Select button as soon as the game is on and enjoy while it plays different movies in the game. 	
+D0079EB4 0100
+8007A074 0001	
+#Always Your Turn		
+D0079EB4 0002
+8014B1EC 0001
+#Infinite Airstrikes P1 (All Worms)		
+8014B1C8 0002
+#Infinite Cluster Bombs P1 (All Worms)		
+8014B1AC 0005
+#Infinite Dynamite P1 (All Worms)		
+8014B1C0 0001
+#Infinite Teleport P1 (All Worms)		
+8014B1CC 0002

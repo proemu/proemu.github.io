@@ -1,0 +1,36 @@
+#Have 99999 Points
+800AD118 869F
+800AD11A 0001
+#Enemy Have 0 Points
+800AD0A4 0000
+#Stage Select appearance Suchiyuki
+300B7210 000F 
+#Special Summon 
+300AD150 0009 
+#Hyper Eye 
+300AD13C 0009 
+#Fire chastisement 
+300AD140 0009 
+#Deadly! Suu Kyi stick 
+300AD148 0009 
+#Helper 
+300AD14C 0009 
+#Special Summon 
+300AD150 0009 
+#Number of remaining panel match 
+300BB34C 0009 
+#Transformation point 
+300B694C 0063 
+#Have 99999 Points In Vs Mode (Bonus Disc)
+80091770 869F
+80091772 0001
+#Enemy Have 0 Points In Vs Mode (Bonus Disc)
+80091774 0000
+#Suu Kyi Ai (Bonus Disc)
+30091C9C 0001 
+#Hyper chastisement (Bonus Disc)
+30091CA0 0001 
+#Suu Kyi stick (Bonus Disc)
+30091CA8 0001 
+#Room of Miyuri All Unlock Select the free play mode before selecting the Room of Miyui (Bonus Disc)
+80012600 7FFF 

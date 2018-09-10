@@ -1,0 +1,4 @@
+#Infinite Lives
+8002DDC6 2400
+#Extra Health
+8002E23E 2400

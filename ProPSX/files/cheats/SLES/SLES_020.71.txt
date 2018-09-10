@@ -1,0 +1,121 @@
+#Enable All Levels
+8010C2EC 0001
+#Stop Timer
+D002C660 0004
+8002C662 3C00
+#Infinite Ammo
+D005AF08 000A
+8005AF0A 3C00
+D005AE30 000C
+8005AE32 3C00
+#Gatecrasher Level\Infinite Health
+80191A24 00C8
+#Arms Breaker Level\Infinite Health
+80195194 00C8
+#Arms Breaker Level\Infinite Pistol Ammo
+80195192 010C
+#Arms Breaker Level\Infinite Shotgun Ammo
+80199300 0005
+#Media Trouble Level\Infinite Health
+801955A4 00C8
+#Media Trouble Level\Infinite Pistol Ammo
+801955A2 010F
+#Media Trouble Level\Infinite Shotgun Ammo
+8019907C 0005
+#Urban Shakedown Level\Infinite Health
+80195908 00C8
+#Urban Shakedown Level\Infinite Pistol Ammo
+80195906 010F
+#Urban Shakedown Level\Infinite Shotgun Ammo
+801985A0 0005
+#Auto-Destruct Level\Infinite Health
+80196F0C 00C8
+#Auto-Destruct Level\Infinite Pistol Ammo
+8010A03C 010F
+#Auto-Destruct Level\Infinite Shotgun Ammo
+8019A044 0005
+#Grim Gardens\Infinite Health
+80195A40 00C8
+#Grim Gardens\Infinite Pistol Ammo
+80195A3E 010F
+#Semtex\Infinite Health
+80194DCC 00C8
+#Semtex\Infinite Pistol Ammo
+80194DCA 010F
+#Semtex\Infinite Shotgun Ammo
+801992FC 0005
+#Cop Killers\Infinite Health
+8019121C 00C8
+#Cop Killers\Infinite Shotgun Ammo
+8019582C 0005
+#Cop Killers\Infinite Shotgun Ammo For Roper
+80194E54 0005
+#Southside Offensive\Infinite Health
+80194954 00C8
+#Southside Offensive\Infinite Shotgun Ammo
+80199234 0005
+#Southside Offensive\Infinite Shotgun Ammo
+80199234 0005
+#Psycho Park\Infinite Health
+801947BC 00C8
+#Psycho Park\Infinite Shotgun Ammo
+80199640 0005
+#The Fallen\Infinite Health
+80194EF0 00C8
+#The Fallen\Infinite Shotgun Ammo
+801993A4 0005
+#Stern Revenge\Infinite Shotgun Ammo
+80198334 0005
+#Transmission Terminated\Infinite Health
+80192CEC 00C8
+#Transmission Terminated\Infinite Shotgun Ammo
+80197630 0005
+#Estate Of Emergency\Infinite Health
+8019288C 00C8
+#Estate Of Emergency\Infinite Health For Roper
+8019490C 0190
+#Seek, Sneak And Seize\Infinite Health
+801982BC 00C8
+#Target Uc\Infinite Health
+801964D4 00C8
+#Target Uc\Stop Timer
+800F7E34 1400
+80194A60 A380
+80194F00 8C1A
+#Headline Hostage\Infinite Health
+80195A78 00C8
+#Headline Hostage\Stop Timer
+800F7E34 13C0
+801928E8 29A4
+#Insane Assault\Infinite Health
+801918A8 00C8
+#Day Of Reckoning\Infinite Health
+8018B09C 00C8
+#Day Of Reckoning\Infinite Health For Roper
+8018A89C 0190
+#Day Of Reckoning\Stop First Timer
+80189108 AF2D
+#Day Of Reckoning\Stop Second Timer
+801894C8 128E
+800F7E34 1440
+#Gangaland / Rat Catch Infinite Health
+80197704 00C8
+#Gangaland / Rat Catch Suddendeath
+D01960A8 00C8
+801960A8 0000
+#Gangaland / Nitro Car Infinite Health
+8019798C 00C8
+#Gangaland / Nitro Car No Car Damage
+80196FE6 012C
+#Gangaland / Auto-Destruct Stop Time
+8019350D 0122
+8019B2A9 1E23
+#Gangaland / Auto-Destruct Infinite Energy
+80196F0C 00C8
+#Gangaland / Assassin Infinite Energy
+801966F4 00C8
+#Infinite Ammo
+D005AF08 000A
+8005AF0A 3C00
+D005AE30 000C
+8005AE32 3C00

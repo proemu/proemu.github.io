@@ -1,0 +1,10 @@
+#Infinite Lives
+8006FF44 0040
+#Infinite Run
+80072FC5 05A0
+#Infinite Health
+80076760 5000
+#Unlock All Levels 
+80076908 0808
+
+

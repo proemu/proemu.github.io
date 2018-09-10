@@ -1,0 +1,2 @@
+#Player 2 (or computer) always score 0
+801CE6A1 0000

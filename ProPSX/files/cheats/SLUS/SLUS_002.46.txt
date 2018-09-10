@@ -1,0 +1,28 @@
+#Infinite Energy Player 1
+8006F4A0 0078
+#No Energy P2		
+8006F4A8 0000
+#P1 Needs 1 Match to Win		
+D0076E94 0000
+30076E94 0001
+#P1 Character Modifier Shawn Michaels	
+301B2F90 0000
+#P1 Character Modifier Brett Hart	
+301B2F90 0001
+#P1 Character Modifier Ahmed Johnson	
+301B2F90 0002
+#P1 Character Modifier Undertaker	
+301B2F90 0003
+#P1 Character Modifier Ultimate Warrior	
+301B2F90 0004
+#P1 Character Modifier Vader	
+301B2F90 0005
+#P1 Character Modifier Owen Hart	
+301B2F90 0006
+#P1 Character Modifier British Bulldog	
+301B2F90 0007
+#P1 Character Modifier Goldust	
+301B2F90 0008
+#P1 Character Modifier Hunter H.H.	
+301B2F90 0009
+

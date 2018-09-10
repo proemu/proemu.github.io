@@ -1,0 +1,16 @@
+#Max Gesundheit	
+D0096ADC 0032
+80096ADC 03E7
+#Unendlich Gesundheit	
+80013E64 0063
+#Unendlich Luft	
+8005AC58 0063
+#Leben Unendlich
+80013EEC 0063	
+#Alle Level freigeschaltet Herrenhaus-Level muss vorher bestanden werden. 	
+800992B4 FFFF
+800992B6 FFFF
+#Alle Film	
+800992B6 FFFF
+50000702 0000
+800992D4 FFFF

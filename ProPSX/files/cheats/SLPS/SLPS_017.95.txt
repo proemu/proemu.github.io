@@ -1,0 +1,11 @@
+#Infinite money
+80093790 FFFF
+#Infinite HP in battle
+800B9818 0040
+#Use One Day To Produce Item
+300CC846 0000
+#Unlimited Resources For Produce Item
+300CC854 0000
+300CC856 0000
+300CC858 0000
+300CC85A 0000

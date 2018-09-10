@@ -1,0 +1,22 @@
+#Open Bonus Options & Art Gallery
+801B40A0 FFFF
+#Player 1 Codes\Infinite Health
+301B4088 0002
+#Player 1 Codes\Infinite Health, Beast & Rave
+301B4088 0003
+#Player 1 Codes\Big Arm Mode
+301B4088 0010
+#Player 1 Codes\Infinite Health & Big Arm Mode
+301B4088 0012
+#Player 1 Codes\Infinite Health, Big Arm Mode, Beast & Rave
+301B4088 0013
+#Player 2 Codes\Infinite Health
+301B4089 0002
+#Player 2 Codes\Infinite Health, Beast & Rave
+301B4089 0003
+#Player 2 Codes\Big Arm Mode
+301B4089 0010
+#Player 2 Codes\Infinite Health & Big Arm Mode
+301B4089 0012
+#Player 2 Codes\Infinite Health, Big Arm Mode, Beast & Rave
+301B4089 0013

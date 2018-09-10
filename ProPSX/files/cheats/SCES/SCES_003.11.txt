@@ -1,0 +1,8 @@
+#Infinite energy		
+800F81AC 012C
+#Infinite Money		
+800EDA58 0064
+800F82C4 0064
+#Whole map visible		
+800F81DC FFFF
+300F81DE 00FF

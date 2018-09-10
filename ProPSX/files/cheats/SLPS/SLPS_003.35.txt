@@ -1,0 +1,19 @@
+#Bombs Remain Active After Launching
+D00EA03A 0001
+8016F940 00FF
+#Infinite Lives
+8014E62C 0002
+#Infinite Bombs
+8014E99C 0003
+#Always At Full Speed
+8014E7B0 0003
+#Always Have Shields
+8014E9C4 0001
+#Always Have Fully Powered Weapons
+8014E1E8 0003
+#Invincibility 
+D002FE2A 2442 
+30112A55 0001 
+
+
+

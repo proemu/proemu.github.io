@@ -1,0 +1,5 @@
+#Infinites Lives 	
+800829FC 0005 		
+#Infinite Timer 
+8007F3D0 0600
+8007F4A4 0600

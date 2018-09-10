@@ -1,0 +1,23 @@
+#Main unit infinite Body HP
+80022D99 03E7
+80022D9B 03E7
+#2nd unit (Sakata) infinite Body HP
+80022E24 03E7
+80022E26 03E7
+#3rd unit (Natalie) infinite Body HP
+80022EAF 03E7
+80022EB1 03E7
+#Infinite Money
+8002EA99 967F
+8002EA9B 0098
+#Select all Parts
+D015D1C8 74CD 
+8015D0C8 0001 
+#Select all items 
+D01610FC 2B9E 
+80160F54 0001 
+#Infinite behavior 
+D014B930 327E 
+8014B95E 3300 
+
+

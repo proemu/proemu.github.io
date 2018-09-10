@@ -1,0 +1,23 @@
+#Arcade mode Lots of points P1 	
+D0068C8A FFFE
+801DBF54 FFFF
+#Puzzle mode always zero retries 	
+D0039DC8 0001
+000396DC 0000
+#Population 3.000.000.000/Get A+-Rating (Press L1 & L2 & R1 & R2) 	
+D0068C8A F0FF
+801FBF0C A300
+D0068C8A F0FF
+801FBF0E 11E1
+#Area unlocked Riverfront
+30068DBE 007F
+#Area unlocked Shach 	
+30068DBE 00FF
+#Area unlocked Bang-Ceng 	
+80068DBE 11FF
+#Area unlocked Blackwood
+80068DBE 13FF
+#Area unlocked Shing-Shee
+80068DBE 17FF
+#Area unlocked Le Hikat
+80068DBE 1FFF

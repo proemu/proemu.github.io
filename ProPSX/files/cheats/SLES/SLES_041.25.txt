@@ -1,0 +1,6 @@
+#Infinites lives
+80088A42 0063
+#Infinites missiles
+80088A5C 0063
+#Infinite fuel
+80088A28 0E0A

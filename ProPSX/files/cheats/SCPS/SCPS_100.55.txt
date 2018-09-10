@@ -1,0 +1,10 @@
+#Infinite Water (Press L1)
+D003044C 0400
+80030C1C 0820
+#Infinite Hp (Press L1)
+D003044C 0400
+80030B98 0064
+#Temp Will Not Increase (Press L1)
+D003044C 0400
+80030FC0 0000
+

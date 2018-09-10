@@ -1,0 +1,11 @@
+#Inf. Ammo		
+8005DBFC 0190
+#Inf. HP		
+8007DDF0 0096
+#Inf. Items		
+50002602 0001
+80071590 6301
+#Inf. Power		
+8005DC0C 0064
+#Inf. Time		
+8005DC4C 04B0

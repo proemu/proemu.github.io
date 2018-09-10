@@ -1,0 +1,3 @@
+#Infinite health On (Press Select & Up)
+D00D51FA FFEE
+80035360 0004

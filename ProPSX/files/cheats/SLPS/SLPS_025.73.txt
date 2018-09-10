@@ -1,0 +1,7 @@
+#Infinite Tuning Money Coupon  
+800A62B0 5FFF 
+#No Gear Boost Mode  
+50000702 0000
+801FF07E 01B6 
+#Total Timer = 0  
+8017E490 0000 

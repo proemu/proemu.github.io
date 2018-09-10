@@ -1,0 +1,14 @@
+#Parodius\Infinite Lives P1
+800FBC46 0002
+#Parodius\Infinite Lives P2
+800FBC48 0002
+#Fantastic Journey\Infinite Lives P1
+8016C348 0002
+#Fantastic Journey\Infinite Lives P2
+8016C374 0002
+#Fantastic Journey\Infinite Credits
+80190F22 0004
+#Fantastic Journey\Invincible P1
+8017031C 00FF
+#Fantastic Journey\Invincible P2
+8017242C 00FF

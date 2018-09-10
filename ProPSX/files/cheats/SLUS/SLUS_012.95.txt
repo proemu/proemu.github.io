@@ -1,0 +1,158 @@
+#Other Codes\In-Battle Codes\Character 1 Codes\Always In Trance Mode
+D01044B8 0100
+80108F38 4000
+D01044B8 0100
+80108F74 21FF
+#Other Codes\In-Battle Codes\Character 1 Codes\Super Status
+D01044B8 0100
+80108F36 20EC
+D01044B8 0100
+80108F38 4000
+#Other Codes\In-Battle Codes\Character 1 Codes\Infinite Hp
+D01044B8 0100
+80108F24 270F
+D01044B8 0100
+80098668 270F
+#Other Codes\In-Battle Codes\Character 1 Codes\Infinite Mp
+D01044B8 0100
+80108F26 270F
+D01044B8 0100
+8009866E 270F
+#Other Codes\In-Battle Codes\Character 2 Codes\Always In Trance Mode
+D01044B8 0100
+80109008 4000
+D01044B8 0100
+80109044 21FF
+#Other Codes\In-Battle Codes\Character 2 Codes\Super Status
+D01044B8 0100
+80109006 20EC
+D01044B8 0100
+80109008 4000
+#Other Codes\In-Battle Codes\Character 2 Codes\Infinite Hp
+D01044B8 0100
+80108FF4 270F
+D01044B8 0100
+80098B10 270F
+#Other Codes\In-Battle Codes\Character 2 Codes\Infinite Mp
+D01044B8 0100
+80108FF6 270F
+D01044B8 0100
+80098B16 270F
+#Other Codes\In-Battle Codes\Character 2 Codes\Ats Meter Always Full
+D01044B8 0100
+80108FF8 1400
+#Other Codes\In-Battle Codes\Character 3 Codes\Always In Trance Mode
+D01044B8 0100
+801090D8 4000
+D01044B8 0100
+80109114 21FF
+#Other Codes\In-Battle Codes\Character 3 Codes\Super Status
+D01044B8 0100
+801090D6 20EC
+D01044B8 0100
+801090D8 4000
+#Other Codes\In-Battle Codes\Character 3 Codes\Infinite Hp
+D01044B8 0100
+801090C4 270F
+D01044B8 0100
+80098FB8 270F
+#Other Codes\In-Battle Codes\Character 3 Codes\Infinite Mp
+D01044B8 0100
+801090C6 270F
+D01044B8 0100
+80098FBE 270F
+#Other Codes\In-Battle Codes\Character 3 Codes\Ats Meter Always Full
+D01044B8 0100
+801090C8 1540
+#Other Codes\In-Battle Codes\Character 4 Codes\Always In Trance Mode
+D01044B8 0100
+801091A8 4000
+D01044B8 0100
+801091E4 21FF
+#Other Codes\In-Battle Codes\Character 4 Codes\Super Status
+D01044B8 0100
+801091A6 20EC
+D01044B8 0100
+801091A8 4000
+#Other Codes\In-Battle Codes\Character 4 Codes\Infinite Hp
+D01044B8 0100
+80109194 270F
+D01044B8 0100
+80099460 270F
+#Other Codes\In-Battle Codes\Character 4 Codes\Infinite Mp
+D01044B8 0100
+80109196 270F
+D01044B8 0100
+80099466 270F
+#Other Codes\Save Anywhere Codes\Set 1 Of 6 (Enable the 6 save anywhere codes at the same time - this code's may cause problems when trying to access the memory card, deactivate it when you see the Slot 1/Slot 2 option while saving or loading. Also, don't use it on the world map)
+D0036490 E510
+8003648C 3E00
+D0036490 E510
+8003648E 0C00
+D0036094 F809
+8003607C 3E06
+D0036094 F809
+8003607E 0C00
+D0036094 F809
+80036160 3E06
+D0036094 F809
+80036162 0C00
+#Other Codes\Save Anywhere Codes\Set 2 Of 6 (Enable the 6 save anywhere codes at the same time - this code's may cause problems when trying to access the memory card, deactivate it when you see the Slot 1/Slot 2 option while saving or loading. Also, don't use it on the world map)
+D0036094 F809
+80036230 3E0D
+D0036094 F809
+80036232 0C00
+D00CB618 2D95
+800CB614 0007
+D00CB618 2D95
+800CB640 0007
+D00C832C B188
+800C8304 0007
+D00C832C B188
+800C8330 0007
+#Other Codes\Save Anywhere Codes\Set 3 Of 6 (Enable the 6 save anywhere codes at the same time - this code's may cause problems when trying to access the memory card, deactivate it when you see the Slot 1/Slot 2 option while saving or loading. Also, don't use it on the world map)
+D0035F2C 2821
+80035F34 0009
+D006E530 93D4
+8006E50E 0084
+D0036380 D8EC
+8003637C 0084
+8000F800 0007
+8000F802 9202
+8000F804 0008
+8000F806 2405
+8000F808 0002
+8000F80A 14A2
+#Other Codes\Save Anywhere Codes\Set 4 Of 6 (Enable the 6 save anywhere codes at the same time - this code's may cause problems when trying to access the memory card, deactivate it when you see the Slot 1/Slot 2 option while saving or loading. Also, don't use it on the world map)
+8000F80C 0039
+8000F80E 2405
+8000F810 000C
+8000F812 27FF
+8000F814 0008
+8000F816 03E0
+8000F818 0008
+8000F81A 2401
+8000F81C 0002
+8000F81E 9202
+8000F820 8006
+8000F822 3C04
+#Other Codes\Save Anywhere Codes\Set 5 Of 6 (Enable the 6 save anywhere codes at the same time - this code's may cause problems when trying to access the memory card, deactivate it when you see the Slot 1/Slot 2 option while saving or loading. Also, don't use it on the world map)
+8000F824 FFFB
+8000F826 1422
+8000F828 0000
+8000F82A 0000
+8000F82C 0008
+8000F82E 03E0
+8000F830 C984
+8000F832 3483
+8000F834 001C
+8000F836 8E03
+8000F838 FFFC
+8000F83A 27FF
+#Other Codes\Save Anywhere Codes\Set 6 Of 6 (Enable the 6 save anywhere codes at the same time - this code's may cause problems when trying to access the memory card, deactivate it when you see the Slot 1/Slot 2 option while saving or loading. Also, don't use it on the world map)
+8000F83C 0000
+8000F83E 2622
+8000F840 FFF7
+8000F842 1000
+8000F844 0008
+8000F846 2401

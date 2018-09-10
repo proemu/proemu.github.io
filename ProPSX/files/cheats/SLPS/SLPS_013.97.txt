@@ -1,0 +1,27 @@
+#Infinite Money 	
+801DC37C E0FF
+801DC37E 05F5
+#Main character Infinite HP 	
+801DBFC0 03E7
+#Main character Level 99
+301DBFDC 0063 
+#First character Infinite HP in Combat
+801D2B00 03E7 
+#First character Infinite MP in Combat
+801D2B04 03E7 
+#2nd character Infinite HP in Combat
+801D2B3C 03E7 
+#3rd character Infinite HP in Combat
+801D2B78 03E7 
+#2nd character Infinite HP 	
+801DC100 03E7
+#3rd character Infinite HP 	
+801DC240 03E7
+#Main character Infinite MP 	
+801DBFC4 03E7
+#2nd character Infinite MP 	
+801DC104 03E7
+#3rd character Infinite MP 	
+801DC244 03E7
+#I use the wings of the White Dragon 
+301DC3DA 0008 

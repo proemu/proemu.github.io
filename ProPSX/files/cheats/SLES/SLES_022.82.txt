@@ -1,0 +1,53 @@
+#Unendlich Munition Alle Waffen
+50000404 0000
+300C1A48 0063
+#Alles Inventar Freigeschaltet
+50001E04 0000
+300BC688 0003
+#Alle Orte Freigeschaltet
+50001101 0000
+300BC71C 0001
+#Unendlich Lebenskraft
+800C1A34 2710
+#Mike Leroi\Unendlich Luftvorrat
+800C1A38 2710
+#Mike Leroi\Maximale Lebenskraft
+800C1A28 2710
+#Shadow Man\Maximaler Schatten-Level
+800C1A3C 2710
+#Shadow Man\Maximale Schattenkraft
+800C1A40 2710
+#Shadow Man\Unendlich Voodoo-Kraft
+800C1A44 2710
+#Alle Geheimnisse Gefunden:\Bayou Paradis, Louisiana
+8009D018 0808
+#Alle Geheimnisse Gefunden:\Mordant Street, Queens, Ny
+8009D01A 0101
+#Alle Geheimnisse Gefunden:\Gardelle County Gef‰Ngnis, Texas
+8009D01C 0303
+#Alle Geheimnisse Gefunden:\Down Street Station, London
+8009D01E 0101
+#Alle Geheimnisse Gefunden:\Reich Der Toten: Marktore, Pfad Der Schatten, Prophezeiungsraum
+8009D020 0404
+#Alle Geheimnisse Gefunden:\W¸Stes Land: Tempel Des Lebens
+8009D022 0D0D
+#Alle Geheimnisse Gefunden:\Asyl: Tor
+8009D024 0C0C
+#Alle Geheimnisse Gefunden:\Asyl: Kathedrale Des Schmerzes
+8009D026 0202
+#Alle Geheimnisse Gefunden:\Asyl: Maschinenblock
+8009D028 0B0B
+#Alle Geheimnisse Gefunden:\Tempel Des Feuers (Touche)
+8009D02A 0B0B
+#Alle Geheimnisse Gefunden:\Asyl: K‰Figpfade
+8009D02C 0B0B
+#Alle Geheimnisse Gefunden:\Asyl: Spielzimmer
+8009D02E 0A0A
+#Alle Geheimnisse Gefunden:\Tempel Der Prophezeiung (Marcher)
+8009D030 0D0D
+#Alle Geheimnisse Gefunden:\Asyl: Lavaducte
+8009D032 0909
+#Alle Geheimnisse Gefunden:\Tempel Des Blutes (Nager)
+8009D034 0808
+#Alle Geheimnisse Gefunden:\Asyl: Unterstadt
+8009D036 0303

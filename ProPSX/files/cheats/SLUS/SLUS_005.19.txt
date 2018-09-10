@@ -1,0 +1,16 @@
+#Home Team Score 9
+8004771A 0009
+#Home Team Score 0
+8004771A 0000
+#Away Team Score 9
+80047754 0009
+#Away Team Score 9
+80047754 0009
+#More Creation Points
+8012D298 00AF
+#Infinite Skill Remaining# Points Turn the codes off before playing a game or the game might freeze.
+800DFEA0 00BE
+#Infinite Creation Points
+800A2BCA 2400
+800ABBC6 2400
+

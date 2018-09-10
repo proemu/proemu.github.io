@@ -1,0 +1,4 @@
+#Have 60 coins
+8009F371 003C
+#Infinite time
+8009F366 0036

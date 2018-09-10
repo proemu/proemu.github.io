@@ -1,0 +1,10 @@
+#Infinite Health
+801450D8 0064
+#Invulnerable
+8002151E 2400
+#Infinite ammo all weapons 	
+8003EE94 0000
+#Infinite Revolver Ammo
+801452C8 000C
+#Infinite Charm Of Saving (on pickup)	
+8003F32A 0000

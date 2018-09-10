@@ -1,0 +1,9 @@
+#Vidas Infinitas
+8005B86E 0005
+#Energia Infinita
+800A675A 0120
+#999 Tokens
+8005B870 03E7
+#Have All Levels/Movies Necesita un save de memory card para funcionar
+50000D02 0000
+3005B877 00FF 

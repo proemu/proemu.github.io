@@ -1,0 +1,22 @@
+#Always place 1st	
+8009568E 0001
+#Have 999 Race Points	
+80095692 03E7
+#No Damage Left Door	
+8008A368 0000
+#No Damage Left Front	
+8008A344 0000
+#No Damage Left Rear	
+8008A360 0000
+#No Damage Right Door	
+8008A354 0000
+#No Damage Right Front	
+8008A34C 0000
+#No Damage Right Rear	
+8008A358 0000
+#Track Modifier Enabled Last Track (00-0B)
+8007974C 00OB
+
+
+
+

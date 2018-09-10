@@ -1,0 +1,21 @@
+#Raiden Player 1 Infinite lives	
+8012F804 0003
+#Raiden Player 2 Infinite lives	
+8012F834 0003
+#Raiden	Infinite credits	
+8004D5F2 0003
+#Raiden Invincible P1	
+800FA0B0 000C
+#Raiden Invincible P2
+800F A194 000D
+#Raiden II Player 1 Infinite lives	
+800ECFA4 0003
+#Raiden II Player 2 Infinite lives	
+800ECFE4 0003
+#Raiden II Infinite Credits	
+800FFC88 0003
+#Raiden II Invincible P1	
+800F7A32 0D01
+#Raiden II Invincible P2
+800F7B5A 0E01
+	

@@ -1,0 +1,4 @@
+#Player 1 have 0 insects in vs mode
+800B7D78 0000
+#Player 1 have 0 insects in story mode
+800B7D78 0000

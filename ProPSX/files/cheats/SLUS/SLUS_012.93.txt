@@ -1,0 +1,8 @@
+#Unlock All Cups & Tracks 	
+800B3010 0006 		
+#Unlock All Cars 	
+800B3014 0008 		
+#Infinite Health P1 	
+800E6324 1000 		 		
+#Instant Win P1 	
+800E66E4 0002

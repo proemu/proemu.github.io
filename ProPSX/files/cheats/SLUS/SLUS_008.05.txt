@@ -1,0 +1,32 @@
+#Home Team Score 100
+800152C4 0064
+#Home Team Score 0
+800152C4 0000
+#Away Team Score 100
+80016700 0064
+#Away Team Score 0
+80016700 0000
+#Infinite Creation Points
+8013E148 0259
+#Full Momentum Home Team
+80122B90 0063
+#Full Momentum Away Team
+80122B90 0000
+#Home Team Infinite Full Time Outs
+30016704 0004
+#Home Team No Full Time Outs
+30016704 0000
+#Home Team Infinite 20 Sec Time Outs
+30016705 0002
+#Home Team No 20 Sec Time Outs
+30016705 0000
+#Away Team Infinite Full Time Outs
+300152C8 0004
+#Away Team No Full Time Outs
+300152C8 0000
+#Away Team Infinite 20 Sec Time Outs
+300152C9 0002
+#Away Team No 20 Sec Time Outs
+300152C9 0000
+#No Shot Clock
+800E8A54 0000

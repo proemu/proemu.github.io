@@ -1,0 +1,30 @@
+﻿#GodMode	
+8006667E 1000
+800667AE 1000
+#Have 6 pieces of puzzle		
+3010E46E 0006
+#One gem gives 1 life		
+800739B0 0064
+#MoonJump	
+800615B6 AC82
+D00C629A BFFF
+800615B6 8C82
+D00C629A BFDF
+800615B6 8C82
+D00C629A BF7F
+800615B6 8C82
+#Have objects Press Select button to have key, L1 button to have red orb,L2 button green orb, R1 button to have blue orb, R2 button to have yellow orb
+D00C629A FFFE
+300BE1AC 0001
+D00C629A FBFF
+300BE1AC 0002
+D00C629A FEFF
+300BE1AC 0003
+D00C629A F7FF
+300BE1AC 0004
+D00C629A FDFF
+300BE1AC 0005
+#Start new game with 99 lives	
+8001E6A4 0063
+8001EB08 0063
+	

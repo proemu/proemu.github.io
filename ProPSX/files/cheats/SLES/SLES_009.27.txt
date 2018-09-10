@@ -1,0 +1,12 @@
+#Infinite Money
+800FAA18 FFFF
+#Lots of Money
+800FAA1A 00FF
+#Infinite Wood
+800FAA30 0064
+#Infinite Cement
+800FAA34 0064
+#Infinite Brick
+800FAA38 0064
+#Infinite Steel
+800FAA3C 0064

@@ -1,0 +1,16 @@
+#Infinite Lives Player 1
+800D6A98 0004
+#Infinite Lives Player 2
+800D6A9A 0004
+#1P invincible 
+800D2B34 000E 
+#2P invincible 
+800D2B98 000E 
+#1P special attacks all 
+300D6E08 002D 
+300D6E0A 001A 
+300D6E0C 001A 
+#2P special attacks all 
+300D6E0E 002D 
+300D6E10 001A 
+300D6E12 001A

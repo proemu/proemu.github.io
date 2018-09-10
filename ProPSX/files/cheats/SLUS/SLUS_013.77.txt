@@ -1,0 +1,19 @@
+#Infinite Health(Both Players) 
+801450d80064 
+#Inf Ammo-Revolver 
+801452c8000a 
+#Inf Ammo-Grenade Launcher 
+801453000005 
+#Inf Ammo-Rocket Launcher 
+801452e80003 
+#Enable Cheat Mode (.Press Triangle to access your inventory to use the Cheat Mode option. If you want to save or load your game at any time, press Select. To view the build information for the game, pause and hold L2)		
+300C3404 0002 	
+#God Mode 	
+800BA64C 0004
+#Unlimited Ammo	
+800BA64C 0080
+#All Item	
+800BA64C 0020
+#Infinite Medikits	
+800BA64C 0040
+

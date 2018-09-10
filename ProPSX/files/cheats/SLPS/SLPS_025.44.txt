@@ -1,0 +1,4 @@
+#Questions rest = 0 in single mode  
+801FFF70 0000 
+#Number of shots = 1 in versus mode  
+800E3018 0001 

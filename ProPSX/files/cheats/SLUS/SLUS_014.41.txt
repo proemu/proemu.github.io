@@ -1,0 +1,6 @@
+#Inf Health
+800DFECE 0064
+#Infinite Health (ASM)		
+8004389A 2400
+#Infinite Bomb Timer
+800E3F2A 003B

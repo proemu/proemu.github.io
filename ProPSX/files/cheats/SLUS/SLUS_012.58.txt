@@ -1,0 +1,14 @@
+#Infinite Lives
+8008C054 0063
+#Infinite Shield
+8008C07E 0008
+#Always Have Smart Bomb	
+8008C0B0 0001	
+#Rapid Fire	
+800EBE98 0000
+#Have all  22 escape pods
+800E1BF2 0016
+#Cheats Option Unlocked (main menu)		
+3008CC44 0001
+
+

@@ -1,0 +1,5 @@
+#Timer stopped (Press L1 & L2 & R1 & R2)
+D000004A 9C19
+8004BBFB D1A1
+#Infinite health
+80044A12 32BC

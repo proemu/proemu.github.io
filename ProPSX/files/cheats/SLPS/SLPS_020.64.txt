@@ -1,0 +1,18 @@
+#Always have 999 points
+801C88AC 03E7
+#Date manipulation 
+D018A0AC 0101 
+E31AE8CC 0001 
+211AE8CC 0001 
+D018A0AC 0102 
+E21AE8CC 008C 
+201AE8CC 0001 
+#Bonus ON 
+801AE820 0001 
+#All CG viewable 
+5000B704 0000 
+801CAF50 0001
+#Favorability rating - Fumika (+4 h) 
+801C88D0 03E8 
+#Favorability rating - dream together 
+801C88D4 03E8 

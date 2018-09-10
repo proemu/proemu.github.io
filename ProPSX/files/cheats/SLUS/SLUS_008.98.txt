@@ -1,0 +1,13 @@
+#Inf Health
+800B3F2E 0064
+#Stop Timer
+800CEB98 0017
+#Lots Of Cash
+800B3F38 270F
+#Infinite stunt ammo
+800B3F52 000C
+#100 Rescues (Needed For Ranking S)	
+800B3F34 0064
+800B3F36 0064
+#Makes The Game Think You Never Saved	
+800B3EFA 0000

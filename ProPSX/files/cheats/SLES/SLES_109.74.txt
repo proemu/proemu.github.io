@@ -1,0 +1,93 @@
+#Unendliche Lebenskraft
+800C6EAA 00C8
+#Granatwerfer L1 + Dreieck
+D00C54A4 0014
+800CBB98 FF09
+#Granatwerfer (Feuer) L1 + X
+D00C54A4 0044
+800CBB98 FF0A
+#Granatwerfer (SäUre) L1 + Viereck
+D00C54A4 0084
+800CBB98 FF0B
+#Armbrust L2 + Dreieck
+D00C54A4 0011
+800CBB98 FF0C
+#Colt S.A.A..L2 + X
+D00C54A4 0041
+800CBB98 FF0D
+#Blitzwaffe L2 + Viereck
+D00C54A4 0081
+800CBB98 FF0E
+#Mg R2 + Dreieck
+D00C54A4 0012
+800CBB98 FF0F
+#Raketenwerfer R2 + X
+D00C54A4 0042
+800CBB98 FF11
+#Gatling Gun R2 + Viereck
+D00C54A4 0082
+800CBB98 FF12
+#Durch WäNde Gehen L1 aktivieren/L2 deaktivieren
+D00C54A4 0004
+800C6E5A 0C0F
+D00C54A4 0001
+800C6E5A 1500
+#Kisteninhalt\FarbbäNder
+800CBCC0 FF1E
+#Kisteninhalt\SchlüSsel
+800CBCBC 031F
+#Kisteninhalt\Roter Edelstein
+800CBCB8 0133
+#Kisteninhalt\Kabel
+800CBCB4 0156
+#Kisteninhalt\Armbrustbolzen
+800CBCB0 041D
+#Kisteninhalt\Schlangenstein
+800CBCAC 0136
+#Kisteninhalt\Jaguarstein
+800CBCA8 0137
+#Kisteninhalt\Adlerstein
+800CBCA4 013A
+#Kisteninhalt\Bombe + ZüNder
+800CBCA0 0142
+#Kisteninhalt\Einhornmedaille
+800CBC9C 0147
+#Kisteninhalt\Adlermedaille
+800CBC98 0148
+#Kisteninhalt\Wolfmedaille
+800CBC94 0149
+#Kisteninhalt\G-Virus
+800CBC90 0152
+#Kisteninhalt\SonderschlüSsel
+800CBC8C 0153
+#Kisteninhalt\KabinenschlüSsel
+800CBC88 0158
+#Kisteninhalt\RevierschlüSsel
+800CBC84 0159
+#Kisteninhalt\Dietrich
+800CBC80 0130
+#Kisteninhalt\LaborschlüSsel
+800CBC7C 0161
+#Kisteninhalt\HauptschlüSsel
+800CBC78 0162
+#Kisteninhalt\PlattformschlüSsel
+800CBC74 0163
+#Kisteninhalt\Granatwerfer
+800CBBC4 FF09
+#Kisteninhalt\Granatwerfer (Feuer)
+800CBBC8 FF0A
+#Kisteninhalt\Granatwerfer (SäUre)
+800CBBCC FF0B
+#Kisteninhalt\Armbrust
+800CBBD0 FF0C
+#Kisteninhalt\Colt S.A.A.
+800CBBD4 FF0D
+#Kisteninhalt\Blitzwaffe
+800CBBD8 FF0E
+#Kisteninhalt\Mg
+800CBBDC FF0F
+#Kisteninhalt\Raketenwerfer
+800CBBE0 FF11
+#Kisteninhalt\Gattling Gun
+800CBBE4 FF12
+

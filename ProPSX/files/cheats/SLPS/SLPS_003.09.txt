@@ -1,0 +1,28 @@
+#Have infinite energy in battle main character
+8010C8E8 00C8
+#Max Money  
+8010AE3C FFFF
+#?? level 99
+3010C6DC 0063 
+#?? level 99
+3010C708 0063 
+#?? level 99
+3010C734 0063 
+#?? level 99
+3010D4F4 0063 
+#?? level 99
+3010ECAC 0063 
+#?? level 99
+3010D0D4 0063 
+#?? level 99
+3010D0A8 0063 
+#?? level 99 
+3010F0F8 0063 
+#?? level 99
+3010F0CC 0063 
+#?? level 99
+3010CFF8 0063 
+#?? level 99
+3010D4C9 0063 
+#?? level 99
+3010D1B1 0063  

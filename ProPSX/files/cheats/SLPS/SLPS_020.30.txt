@@ -1,0 +1,14 @@
+#The power MAX in the direction key right at the time of the shot
+D00D4660 2000
+800D2388 003C
+#Prescribed number of points 999
+800D2310 03E7
+#P1 points 999
+800FF1F8 03E7
+#P2 point 8
+800FF1FC 0000
+#P3 points 0
+800FF200 0000
+#P4 points 0
+800FF204 0000
+

@@ -1,0 +1,20 @@
+#Infinite energy gorilla - Stage
+800D434A 0014
+#Infinite energy gorilla - Stage 3
+800D494A 0014
+#Infinite energy troll - Stage 3
+800D4B4A 0014
+#Infinite energy third character - Stage 3
+800D4A4A 0014
+#Infinite energy gorilla - Stage 4
+800D414A 0014
+#Infinite energy troll - Stage 4
+800D424A 0014
+#Infinite energy third character - Stage 4
+800D434A 0014
+#Infinite energy gorilla - Stage 5
+800D464A 0014
+#Infinite energy troll - Stage 5
+800D464A 0014
+#Infinite energy gorilla - Stage 6
+800D424A 0014

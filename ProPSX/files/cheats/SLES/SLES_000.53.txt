@@ -1,0 +1,8 @@
+#Infinite Lifes
+80091BBC 0005
+#Infinite Hearts
+80091C00 0005
+#99 Cheese Pieces
+80091C78 0063
+#Level skip menu / all levels unlocked (Will be invisible until you move cursor below "fire button" option.)
+80091CF0 FFFF	

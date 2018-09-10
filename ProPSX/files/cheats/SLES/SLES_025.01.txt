@@ -1,0 +1,11 @@
+#Championship-Drive Off Road
+300C8A8C 0000
+300C8B04 0000
+300C8B7C 0000
+300C8BF4 0000
+#Max Race Pts. Championship
+800ADB8C 270F
+#Quick Win
+800C8994 000F
+#Start in Lap 4 	
+800C8994 0404

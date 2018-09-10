@@ -1,0 +1,27 @@
+#Infinite Time
+80089FB0 003B
+#Minimum Rate = 1
+801054FE 0001
+#Only 1 Lemming
+80105502 0001
+#Infinite Blockers
+3011195C 0001
+#Infinite Schalters
+3011195D 0001
+#Infinite Bombers
+3011195E 0001
+#Infinite Builders
+3011195F 0001
+#Infinite Bashers
+30111960 0001
+#Infinite Miners
+30111961 0001
+#Infinite Diggers
+30111962 0001
+#Infinite Climbers
+30111963 0001
+#Infinite Floaters
+30111964 0001
+#Infinite All Kind Of Lemmings (Use this code to activate all infinite codes)
+50000901 0000
+3011195C 0001

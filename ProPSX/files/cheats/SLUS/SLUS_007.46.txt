@@ -1,0 +1,25 @@
+#Infinite Health P1
+8016BEA8 0090
+8016BEAA 0090
+#Infinite Health P2
+8016C1B0 0090
+8016C1B2 0090
+#No Health P2
+8016C1B0 0000
+8016C1B2 0000
+#Enable Sfii Secrets
+80148292 0001
+#Enable Sfii-Ce Secrets
+801482C6 0001
+#Enable Sfii-Thf Sound Test
+801482FA 0001
+#Enable Deluxe Versus
+80149824 0101
+#Enable Sound Remix
+8014825E 0001
+#Enable Cpu Battle
+80148262 0001
+#P1 Can Do Most Moves In Mid-Air
+3016BF85 0000
+#P2 Can Do Most Moves In Mid-Air
+3016C28D 0000

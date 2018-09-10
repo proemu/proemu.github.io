@@ -1,0 +1,6 @@
+#Infinite lives
+800B7540 0009
+#Infinite Time P1
+800B753E 003C
+#Infinite Time P2
+800B76AA 003C

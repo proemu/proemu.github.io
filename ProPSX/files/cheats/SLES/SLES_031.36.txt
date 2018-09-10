@@ -1,0 +1,14 @@
+#Alle Cheats 	
+8001F1BA 03FF
+#Alle Missionen freischalten
+50000502 0000
+8001E284 0101
+#Alle Filme freischalten
+50000602 0000
+8001E0C2 0101
+#Jeden Level anwählen (mit Hilfe des Cheats)	
+3006D5A4 0001
+#Unendlich Leben	
+3001E0DA 0063
+#Unverwundbar nach einmal gestorben sein	
+8002585C 0000

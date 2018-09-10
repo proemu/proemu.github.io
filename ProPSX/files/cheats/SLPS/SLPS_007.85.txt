@@ -1,0 +1,18 @@
+#Infinite Money Blue Army
+8011F9B0 270F
+#Technical Lv5 Blue Army
+8011F9AE 01F4
+#Infinite Money Green Army
+8011FA00 270F
+#Technical Lv5 Green Army
+8011F9FE 01F4
+#Infinite Money Red Army
+8011F9D8 270F
+#Technical Lv5 Red Army
+8011F9D6 01F4
+#Infinite money Yellow Army
+8011FA28 270F
+#Technical Lv5 Yellow Army
+8011FA26 01F4
+#Infinite Turn 1		
+8010F1B2 0001

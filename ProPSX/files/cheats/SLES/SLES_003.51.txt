@@ -1,0 +1,16 @@
+#Infinite Energy
+800BF5C4 00FF
+#Infinite Flamethrower
+800C20D4 00FF
+#Infinite Rockets
+800C20D8 00FF
+#Infinite Homing Missiles
+800C20DC 00FF
+#Infinite Laser
+800C20E0 00FF
+#Infinite Little Bombs
+800C20E4 00FF
+#Infinite Big Bombs
+800C20E8 00FF
+#Infinite Flashbombs
+800C20EC 00FF

@@ -1,0 +1,25 @@
+#Unlock Protect
+D00EA6DE 1040
+800EA6DE 1000
+#Inf Hp
+80010402 1000
+#Start Game Have Special Gun
+3001045D 0033
+3001045F 0036
+30010461 0002
+30010463 002E
+#Infinite Health Pack
+80010464 00FF
+#Infinite number of bullets Please re-start after you save, once you have loaded data, infinite bullets!
+800103D4 FFF0 
+800103D6 FFFF 
+#All Files 
+50001C02 0101 
+8001088C 1D01 
+#Christina Use to save on
+30010405 0001 
+#Special MOVIE TEST / SOUND TEST (L1 + L2) 
+D00DDFDA FAFF 
+301B21DC 0003
+#Special MOVIE TEST / SOUND TEST 
+301B21DC 0003

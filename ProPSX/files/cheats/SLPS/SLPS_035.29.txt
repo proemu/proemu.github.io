@@ -1,0 +1,14 @@
+#Player 1 infinite health alternate  
+80085510 00E6 
+ACTION REPLAY CODES:
+#Player 1 Unlimited Health  
+8008564C FFFF 
+#Unlock All Characters  
+800DF054 000F 
+#Unlock G3+Green Rider Mode  
+80089B62 FFFF 
+#Unlock G3Bus+Battle Mode  
+80089B64 FFFF 
+#Unlock All Gallery  
+50008014 0000
+80109D94 03E7 

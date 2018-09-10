@@ -1,0 +1,12 @@
+#Infinite Lives 	
+80133F54 0003
+#Infinite Energy 	
+801E93AE 008C
+#High Power Lasers 	
+801668D4 0007
+#Infinite Multi Missiles	
+801668E8 0003
+#Infinite Mega Bombs	
+80166B84 000A
+#Infinite  Beam Lasers		
+801668E4 00FF

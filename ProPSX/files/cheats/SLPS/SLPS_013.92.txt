@@ -1,0 +1,14 @@
+#Have 999999 money
+8008374C 423F
+8008374E 000F
+#999cm fish caught
+800BDDAA 03E7
+#999kg fish caught
+800BDDAE 03E7
+#No burden on the Line
+800BDD42 0000
+#Without burdock Press L2 + R2
+D007BD9A 0003
+800BDD2E 0000
+D007BD9A 0003
+800BDDEA 0000

@@ -1,0 +1,51 @@
+#P1 Unlimited Health
+801EFA02 00CF
+#P1 1 Hit To Knock Out
+801EFA02 0001
+#P2 Unlimited Health
+801EFE02 00CF
+#P2 1 Hit To Knock Out
+801EFE02 0001
+#P1 Win 1 Round To Win Fight
+80095482 0002
+#P1 Cant Win Any Rounds
+80095482 0000
+#P2 Win 1 Round To Win Fight
+80095484 0002
+#P2 Cant Win Any Rounds
+80095484 0000
+#P1 Full Burning Vigor Gauge
+801C7BAC 0050
+801C7BCC 0050
+#P1 Empty Burning Vigor Gauge
+801C7BAC 0000
+801C7BCC 0000
+#1 Hit Kill P2	
+801EFE02 0000
+#1 Round Win P1	
+800953BA 0002
+800953BC 0404
+#Unlock all	
+50000802 0000
+801F65D0 FFFF
+#Lesson Mode Only 1 move to complete lesson
+801F1F14 0A00
+#Lesson Mode 100 Energy	
+801F1F1C 0064
+#Lesson Mode 100 Accuracy	
+801F1F1E 0064
+#Lesson Mode 100 Agility	
+801F1F20 0064
+#Lesson Mode Total = S	
+801F1F22 012F	 
+#All lessons completed
+50001102 0000
+801F5B04 0606	
+#Home Run Mode 999 Hi-Score 	
+801F1F3C 03E7
+#Service Mode 99999 Hi-Score 	
+801F1F1C 869F
+801F1F1E 0001
+#Target Mode 9999 Hi-Score 	
+801F1F66 270F
+

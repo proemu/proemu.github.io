@@ -1,0 +1,27 @@
+#Infinite Lives
+800F0426 0009
+#Start With 9,999 Score
+D00F03C0 0000
+800F03C0 270F
+#Infinite Speed
+800F042A 1000
+#Infinite Smart Bombs
+300F042E 0009
+#Enable Level Select
+D00F03DA 0000
+800F03DA 0009
+D00F03DC 0000
+800F03DC 0009
+#Enable All Secrets And Difficulties Mode All the options under the #secret# menu 
+800F03DE FFFF
+800F03E0 FFFF
+#Infinite Energy - Levels 1, 2, 4, 5, 7, 10
+800E34F0 0C00
+#Infinite Energy - Level 3
+800E3900 0C00
+#Infinite Energy - Level 6
+800E4460 0C00
+#Infinite Energy - Level 8
+800E3AA0 0C00
+#Infinite Energy - Level 9
+800E3760 0C00

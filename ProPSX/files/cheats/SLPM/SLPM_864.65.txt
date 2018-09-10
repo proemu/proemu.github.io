@@ -1,0 +1,8 @@
+#Infinite energy green hair character  
+80141BC0 03E7 
+#Infinite energy blue hair character  
+80141BA0 03E7 
+#Infinite energy main character  
+80141B80 03E7 
+#Enemy energy is always 0  
+80141BE2 0000 

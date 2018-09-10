@@ -1,0 +1,12 @@
+#Always Player A's Turn		
+800DAA64 0000
+#Always Player B's Turn	
+800DAA64 0001
+#Always Use Tracking Lines		
+800A645C 0001
+#Player A Always Scratches		
+D00DAA64 0000
+800A65D4 0001
+#Player B Always Scratches		
+D00DAA64 0001
+800A65D4 0001

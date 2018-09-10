@@ -1,0 +1,24 @@
+#Infinite Health P1
+80096CC4 270F
+#Infinite keyS	
+30096D00 0063
+#Falcon unlocked	
+30096EF8 0001
+#Jackal unlocked	
+30096F00 0001
+#Minotaur unlocked	
+30096F80 0001
+#Tigress unlocked	
+30097000 0001
+#Infinite Health p2	
+80097540 270F
+#Infinite keys P2	
+3009757C 0063
+#Falconn unlocked	
+30097774 0001
+#Jackal unlocked	
+3009777C 0001
+#Minotaur unlocked	
+30097784 0001
+#Tigress unlocked	
+3009778C 0001

@@ -1,0 +1,6 @@
+#Infinite money (99999)
+80095D84 869F
+80095D86 0001
+#Infinite hearts
+80095D81 3B06
+80095D82 003B

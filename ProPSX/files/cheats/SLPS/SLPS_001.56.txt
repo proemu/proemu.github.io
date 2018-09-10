@@ -1,0 +1,18 @@
+#Infinite Gun		
+80074CF6 3165
+800AE3A2 03E7
+#Infinite Rocket		
+800AC398 0020
+800AE39A 0010
+#Infinite Shield It is not valid if you hit the ground
+80074CA6 000A
+80139CAC 0A6E
+#Infinite time 
+80082280 03e7 
+#Infinite bullet & missile 
+50000402 0000 
+800bc01c 03e7 
+800bc026 03e7 
+#Invincibility 
+801B9968 ffff
+		

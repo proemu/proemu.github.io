@@ -1,0 +1,5 @@
+#Always 1st Place after race  
+80070CD0 0001 
+#Start on last lap  
+8005F1D6 0004 
+

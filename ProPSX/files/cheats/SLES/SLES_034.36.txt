@@ -1,0 +1,19 @@
+#Infinite Energy
+8016D3E4 270F
+8016D3E0 270F
+#Infinite Magic
+8016D3E6 270F
+8016D3E2 270F
+#Digimon Always Happy
+801405F2 0064
+#Digimon Best Discipline
+801405F0 0000
+#Infinite Money (60000)
+8013CC2C EA60
+#No Virus
+801405EC 0000
+#Access All Cards (Card List)		
+800BF696 2400
+#Access All Digimon (Chart)	
+800BF1C6 2400
+

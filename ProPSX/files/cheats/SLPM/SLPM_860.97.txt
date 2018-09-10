@@ -1,0 +1,47 @@
+#Player One Score 99
+800C1C9E 0063
+#Physical condition Max
+300889CF 0064 
+#Motivation Max
+300889D0 0005 
+#Academic achievement 
+300889D1 00FF 
+#No & disease hateful sense & injured 
+300889D5 0005 
+#Disease without 2 
+300889D6 0000 
+#Tough Max
+300889D7 0064 
+#Director evaluation Max
+300889DA 00FF 
+Captain evaluation Max 
+300889DB 00FF 
+#Teammate evaluation Max
+300889DC 00FF 
+#Scout evaluation Max
+300889DD 00FF 
+#Highest rating 
+800889DA FFFF 
+800889DC FFFF 
+#Girl favorability rating Max
+800889DE FFFF 
+800889E0 FFFF 
+300889E2 00FF 
+#Meat cursor 
+3009E1D4 0007 
+#Power 
+3009E1D5 00FF 
+#Shoulder force 
+3009E1D6 000F 
+#Running ability 
+3009E1D7 000F 
+#Mamoru force 
+3009E1D8 000F 
+#Pitcher Ball speed Max 
+8009E1E6 00FF 
+#Stamina Max
+3009E1E9 00FF
+#Best breaking ball 
+8009E1EA 0707 
+8009E1EC 0707 
+3009E1EE 0007 

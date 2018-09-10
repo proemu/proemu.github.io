@@ -1,0 +1,8 @@
+#Infinite Fuel
+8008DD98 0DAC
+#Infinite Lives
+8007E7EC 0063
+#Infinite Bullets
+8008DDC8 03E7
+#Infinite Missiles
+8008DDCC 0063

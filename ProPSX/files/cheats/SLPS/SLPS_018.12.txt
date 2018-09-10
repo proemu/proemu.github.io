@@ -1,0 +1,7 @@
+#Infinite Lives
+80111F1C 0009
+#Invincible
+80111B38 0001
+#All weapons
+80111B3C 0001
+80111B60 FFFF

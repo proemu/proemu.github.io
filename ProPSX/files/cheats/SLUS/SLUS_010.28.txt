@@ -1,0 +1,14 @@
+#Infinite Time
+8009206C 3333
+#Home Team Score 100
+80092228 0064
+#Home Team Score 0
+80092228 0000
+#Away Team Score 100
+8009245C 0064
+#Away Team Score 0
+8009245C 0000
+#Infinite Creation Points
+80101180 0032
+
+

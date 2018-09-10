@@ -1,0 +1,9 @@
+#GP 100% always
+8002C044 0064
+#L2 Weapon ammo 9999
+8002C112 270F
+#Infinite Ep
+8002C026 00C8
+#The Largest Fund,
+8002C0B8 FFFF
+8002C0BA FFFF

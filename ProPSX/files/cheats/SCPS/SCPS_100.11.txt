@@ -1,0 +1,12 @@
+#Infinite energy Main character
+800DFC84 0063
+#Infinite energy girl
+800DFCA4 0063
+#Infinite energy big fat character
+800DFC94 0063
+#Infinite energy long black hair character
+800DFCB4 0063
+#Infinite energy bold character
+800DFCC4 0063
+#Stage	
+300235E8 001E

@@ -1,0 +1,151 @@
+#No Damage
+8009AC5C 0000
+8009D308 0000
+#No Damage In Car Park Test
+801E35B8 0000
+#Stop Clock
+801E4278 0018
+800C6BD2 0001
+#Felony Meter Always At 0
+80097144 0000
+#All Tracks
+80096234 0004
+#Enable Invincibility Cheat
+80096270 0001
+#Enable No Police/Immunity Cheat
+80096274 0001
+#Lowered Suspension
+50000404 0000
+3009AB58 0040
+#Dune Buggy Suspension
+8009A980 00FF
+8009A982 FF3F
+8009A984 015E
+8009A988 00FF
+8009A98A FF00
+8009A98C FEDE
+8009A990 FF00
+8009A992 FF3F
+8009A994 015E
+8009A998 FF00
+8009A99A FF00
+8009A99C FEDE
+#Tornado Mode
+8009AA4C 2BBA
+8009AA54 F2AA
+8009AA5C 4DA7
+8009AA64 D1EE
+8009AAAC 2BBA
+8009AAB4 F2AA
+8009AABC 4DA7
+8009AAC4 D1EE
+#Max Score 
+801E4018 FFFF
+#Training Mode-Have 0 Penalties
+80096E98 0000
+#Press R1 + R2 To Lose Cops
+E0096F80 000A
+800C4FF0 0000
+#Dirt Track 1 Start On Final Lap
+D00C6A14 0000
+800C6A14 0005
+#Dirt Track 2 Start On Final Lap
+D00C6A14 0000
+800C6A14 0004
+#Dirt Track 3 Start On Final Lap
+D00C6A14 0000
+800C6A14 0003
+#Dirt Track 4 Start On Final Lap
+D00C6A14 0000
+800C6A14 0002
+#Have Burnout Complete
+301E35A0 003C
+#Have Hand Brake Complete
+301E35A1 003C
+#Have Slalom Complete
+301E35A2 003C
+#Have 180° Complete
+301E35A3 003C
+#Have 360° Complete
+301E35A4 003C
+#Have Reverse 180° Complete
+301E35A5 003C
+#Have Speed Complete
+301E35A6 003C
+#Have Brake Complete
+301E35A7 003C
+#Have Lap Complete
+301E35A8 003C
+#Have All Tests Complete
+50000901 0000
+301E35A0 003C
+#Unlock Invincibility Cheat
+800861A8 FFFE
+800861AA FFFF
+#Unlock Immune Cheat
+800861E0 FFFE
+800861E2 FFFF
+#Unlock Rear Wheel Cheat
+80086218 FFFE
+8008621A FFFF
+#Unlock Stilts Cheat
+80086288 FFFE
+8008628A FFFF
+#Unlock Mini Cars Cheat
+80086250 FFFE
+80086252 FFFE
+#Unlock Antipodean Cheat
+800862F8 FFFE
+800862FA FFFF
+#Unlock View Credits Cheat
+80086170 FFFE
+80086172 FFFF
+#Drive Thru Walls
+8004B7E2 1000
+#No Engine Noise
+8009AC60 0000
+#Level Modifier (Survival Etc) Up For La & Right For Ny
+801CDF30 0003
+#Level Modifier - Pursuit Etc (0-F)
+801CE264 000F
+#Always Play Mission Modifier (00-2C)
+8009625C 002C
+#Rear Wheel Cheat On
+8009D320 0001
+#Rear Wheel Cheat Off
+8009D320 0000
+#Minis Cheat On
+8009D318 0001
+#Minis Cheat Off
+8009D318 0000
+#Stilts Cheat On
+8009D320 0001
+#Stilts Cheat Off
+8009D320 0000
+#Antipodean Cheat On
+8009D328 0001
+#Antipodean Cheat Off
+8009D328 0000
+#Music Volume Max
+800966E4 0000
+#Music Volume Zero
+800966E4 D8F0
+#Enemy Cars Are Dead
+8009CFF0 3DAB
+#Drive Thru Walls-Works Alot Better!
+8004AD02 1000
+#No Surface Damage
+50000D02 0000
+8009ABF4 0000
+#No Traffic
+800961FC 0000
+#60 Frames Per Second
+80096378 0000
+#Schizophrenic Police
+80097144 7F00
+#Turbo Boost (L1+X)
+E0096B38 0044
+8009ABD0 FFFF
+
+
+

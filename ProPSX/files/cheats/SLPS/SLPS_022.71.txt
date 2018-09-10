@@ -1,0 +1,9 @@
+#All the items in the dictionary"
+50003902 0000
+800FFA60 FFFF
+#All Characters appearance
+50000B0C 0000
+800B33A4 0001
+#CG fully open
+50000E02 0000
+800FFB0C FFFF

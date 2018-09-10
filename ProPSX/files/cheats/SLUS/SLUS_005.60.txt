@@ -1,0 +1,38 @@
+#Other Codes\In-Battle\Can Always Move\Position 1
+800B6184 0000
+#Other Codes\In-Battle\Quick Level Up\Position 1 If you don't have 10 characters in battle then the enemy's level goes up!.
+30139430 0064
+#Other Codes\In-Battle\Quick Level Up\Position 2
+30139431 0064
+#Other Codes\In-Battle\Quick Level Up\Position 3
+30139432 0064
+#Other Codes\In-Battle\Quick Level Up\Position 4
+30139433 0064
+#Other Codes\In-Battle\Quick Level Up\Position 5
+30139434 0064
+#Other Codes\In-Battle\Quick Level Up\Position 6
+30139435 0064
+#Other Codes\In-Battle\Quick Level Up\Position 7
+30139436 0064
+#Other Codes\In-Battle\Quick Level Up\Position 8
+30139437 0064
+#Other Codes\In-Battle\Quick Level Up\Position 9
+30139438 0064
+#Other Codes\In-Battle\Quick Level Up\Position 10
+30139439 0064
+#Other Codes\In-Battle\Quick Level Up\Invincible Use ONly in your turn
+800B61FC 0001
+#Other Codes\Misc. Codes\Infinite Goth
+800B61C0 FFFF
+#Other Codes\Misc. Codes\Max Goth
+800B61C0 E0FF
+800B61C2 05F5
+#Hold L2 To Stay Active (In-Battle)	
+D011F338 0001
+800B6184 0000
+#Have All Items		
+80124C24 00F0
+5000F001 0000
+3013F8C8 0062
+5000F001 0001
+30146B80 0001

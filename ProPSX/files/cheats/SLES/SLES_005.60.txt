@@ -1,0 +1,8 @@
+#Home Team score 100
+8006EF64 0064
+#Home Team score 0
+8006EF64 0000
+#Away Team score 100
+8006F0F8 0064
+#Away Team score 0
+8006F0F8 0000

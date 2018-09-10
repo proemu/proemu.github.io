@@ -1,0 +1,14 @@
+#Infinite Damage Gauge Player 1
+8007DB9C FFFF
+#Infinite Power Gauge Player 1
+8007DBA4 FFFF
+#Infinite Overall Gauge Player 1
+8007DBAC FFFF
+#No Damage Gauge Player 2
+8007DE8C 0000
+#No Power Gauge Player 2
+8007DE94 0000
+#No Overall Gauge Player 2
+8007DE9C 0000
+#Freeze Timer
+8007EA7A 00B3

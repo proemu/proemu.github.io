@@ -1,0 +1,11 @@
+#Bonus selectable
+80012800 0001
+#Mini-games can be selected
+80012806 0101
+80012808 0001
+#Album fully open
+D003F906 1060
+8003F906 1400
+#Album fully open aLT 
+80012834 0101 
+800128CA 0001

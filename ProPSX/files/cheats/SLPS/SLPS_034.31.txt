@@ -1,0 +1,10 @@
+#Infinite swaps
+3004E0A1 0003
+#Infinite Time
+800B397A 000A
+#Infinite finds
+8004E0A2 0003
+#Infinite bomb
+3004E0A0 0003
+#Infinite bonus stage CHANCE
+300B3B81 000A

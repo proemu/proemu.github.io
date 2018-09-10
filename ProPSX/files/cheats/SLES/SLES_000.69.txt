@@ -1,0 +1,9 @@
+#Team 1 is Pointing
+30161730 0009
+#Team 2 is Pointing
+30161731 0000
+#Team 1 Has 9 Goals
+80160EB4 0009
+#Team 2 Gets No Points
+30160EB5 0000
+

@@ -1,0 +1,6 @@
+#Multiple Millions Mode		
+80084720 FFFF
+#No Tilt Mode		
+80084636 0000
+#Infinites Tries	
+8008470C 0003

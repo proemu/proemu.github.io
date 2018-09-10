@@ -1,0 +1,30 @@
+#Only 1 Round To Race In Champ. Mode
+80010700 0FFF
+#Reset Time In Qualifying Round (Press Select)
+D00CBB8C 0001
+800CCC00 0000
+#Max Points With Your Fav Racer\Mika Hakinen
+80010E5E 00A0
+#Max Points With Your Fav Racer\David Coulthard
+80010E60 00A0
+#Max Points With Your Fav Racer\Michael Schumacher
+80010E62 00A0
+#Max Points With Your Fav Racer\Eddie Ervine
+80010E64 00A0
+#Max Points With Your Fav Racer\Ralf Schumacher
+80010E68 00A0
+#Max Points With Your Fav Racer\Damon Hill
+80010E6A 00A0
+#Max Points With Your Fav Racer\H.H. Frentzen
+80010E6C 00A0
+#Max Points With Your Fav Racer\Jean Alesi
+80010E72 00A0
+#Max Points With Your Fav Racer\R. Barrichello
+80010E7A 00A0
+#Max Points With Your Fav Racer\Johnny Herbert
+80010E7C 00A0
+#Max Points With Your Fav Racer\Jacques Villeneuve
+80010E86 00A0
+#Max Points With Your Fav Racer\Mika Salo
+800A0E8E 00A0
+

@@ -1,0 +1,6 @@
+#Energia Infinita
+8010E428 0006
+#Tener Todas Las Piezas Del Puzzle
+8010E426 0006
+#Invencible
+800BF21C 000F

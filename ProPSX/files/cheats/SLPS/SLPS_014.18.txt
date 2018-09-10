@@ -1,0 +1,30 @@
+#Max Status Marie
+801C133C 03E7
+801C133E 03E7
+801C1340 03E7
+801C1342 03E7
+801C1340 0063
+801C1342 0063
+801C1344 0063
+801C1346 0063
+801C1348 0063
+801C134A 0063
+801C134C 0063
+#Infinite Money
+801BFAE0 FFFF
+#Infinite &  Max HP in battle Marie
+801BF99C 03E7
+801BF99E 03E7
+#Infinite &  Max SP in battle Marie
+801BF9A0 03E7
+801BF9A2 03E7
+#LV	
+8017CF60 0032
+#Fatigue / friendship level	
+8017CF62 0064
+#Bonus appearance / center theater	
+301FD730 0001
+#Bonus appearance /'s play area	
+301FD731 0001
+#Bonus appearance / Museum	
+301FD7FF 0001

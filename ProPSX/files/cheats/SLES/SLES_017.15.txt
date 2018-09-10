@@ -1,0 +1,14 @@
+#Infinite Armour
+801B8DCA 0260
+#Infinite Fuel
+801B8E66 0100
+#No Damage For Own Units
+301B0673 0047
+#Infinite Sidewinders
+800393C8 0000
+#Infinite Vultures
+80033B3C 0000
+#Infinite Mavericks
+80039524 0000
+#All missions unlocked 	
+30112130 0005

@@ -1,0 +1,36 @@
+#All Tanks Blink		
+800DDABC 6E6E
+#Cheat Activator		
+800DAA40 0001
+#Instant Research		
+800DBB4C 0040
+#Make Everything Visible On Radar		
+800D9764 0001
+#Super Units All Campaigns		
+800DCB38 F000
+#True Infinite Power		
+800DC7A0 0000
+#Campaign 1	
+800DAD04 0001
+#Campaign 2	
+800DAD04 0002
+#Campaign 3	
+800DAD04 0003
+#Campaign 4	
+800DAD04 0004
+#Campaign 5	
+800DAD04 0005
+#Campaign 6	
+800DAD04 0006
+#Campaign 7	
+800DAD04 0007
+#Have Almost All Un-Researched Base Tech 	
+50008101 0000
+3012F4A0 0080
+#Infinite Build Units		
+800DC350 0000
+#Infinite Power		
+8014CE94 967F
+8014CE96 0098
+#Power Never Decreases		
+8006FE0E 2400

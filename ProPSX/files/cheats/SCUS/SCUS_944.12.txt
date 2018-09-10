@@ -1,0 +1,37 @@
+#Infinite Lives
+801F1972 0005
+#Infinite Health
+801F04D4 1770
+#Moon Jump
+D00CDC08 0040
+801F0318 FFA6
+#Weapon Mega Blast
+800CD432 0008
+#Infinite Ammo (Bpc)
+D00CDC08 0020
+8008BD68 0000
+#Invincible
+301F1970 0001
+#Max Power Blaster
+D00CDC08 0080
+800CD434 0003
+#Super Jump
+801F0484 0003
+#Climbing Blasto (.Press triangle and then up)
+D00CDC08 0010
+801F1520 0005
+#Unlock "Return To Hub" Menu-Option	
+300100B6 0001		
+#Unlock "View Babes" Menu Option
+300100AC 0001		
+#Unlock Cheat Menu
+300100B4 0001		
+#Evil Blasto 	
+300100B4 0001
+300100B9 0002
+#All Cheats: BOSCRULES!	
+300100B4 0001
+800100B8 FFFF
+300100BA 000F
+#Blasto Costume Underwear	
+301F1910 0001

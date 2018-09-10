@@ -1,0 +1,14 @@
+#Inf Health
+80087780 0002
+#No Fear
+D00495EC 0068
+800495EE 2400
+#Inf Ammo No Fear All Weapons
+8007B4F8 0103
+#Access Art Gallery (All Discs)	
+800BC4DC 0001
+#All Weapons		
+3007B4F9 0001
+#Game Time (00:00:00)		
+8007B4F4 0000
+8007B4F6 0000

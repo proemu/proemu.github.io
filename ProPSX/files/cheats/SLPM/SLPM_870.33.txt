@@ -1,0 +1,2 @@
+#Enemy always score 0
+8009A3CA 0000

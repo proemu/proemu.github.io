@@ -1,0 +1,9 @@
+#Infinite Health
+D00466EC 1023
+800466F2 2400
+#Infinite Ammo (Upon Pickup)
+D0046A60 1023
+80046A66 2400
+#Infinite Heatlh (Transport)
+D005BA88 0008
+8005BA8E 2400

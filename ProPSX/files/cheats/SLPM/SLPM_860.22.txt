@@ -1,0 +1,7 @@
+#Infinite Time
+80132DE4 0628
+#Max No. Of Passing Car
+80132F64 03E7
+#Max Speed
+80132B6C 0200
+80132D46 0200

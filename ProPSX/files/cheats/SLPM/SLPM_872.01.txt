@@ -1,0 +1,3 @@
+#Mini- game fully open 
+8008A010 FFFF
+8008A012 FFFF

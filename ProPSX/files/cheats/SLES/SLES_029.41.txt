@@ -1,0 +1,21 @@
+#Max Total Score (P1)
+800BD60C C9FF
+800BD60E 3B9A
+#Max Dance Gauge (P1)
+800BD602 03E8
+#Perfect Play Results (P1)
+800BD654 270F
+50000404 0000
+800BD658 0000
+800BD670 270F
+#All Lessons Clear
+50000C02 0000
+800D9274 0202
+#Unlock All Extras (Unlocks event mode and lost DDR: 3rd Mix gallery (select EXIT on options)
+800D7E88 027F
+800D7E90 0FFF
+800D7E98 003F
+E010DA50 0008
+3010DA50 0007
+
+

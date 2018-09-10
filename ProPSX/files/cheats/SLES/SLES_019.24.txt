@@ -1,0 +1,35 @@
+#Infinite Shields
+8004D4B4 0DAC
+#Infinite Credits
+80042658 FFFF
+#Infinite H1
+8004262A 0063
+.Use this code OR the #Infinite H's# code
+#Infinite H2
+8004262E 0063
+.Use this code OR the #Infinite H's# code
+#Infinite H3
+80042632 0063
+.Use this code OR the #Infinite H's# code
+#Infinite H4
+80042636 0063
+.Use this code OR the #Infinite H's# code
+#Infinite H5
+8004263A 0063
+.Use this code OR the #Infinite H's# code
+#Infinite H6
+8004263E 0063
+.Use this code OR the #Infinite H's# code
+#Infinite H7
+80042642 0063
+.Use this code OR the #Infinite H's# code
+#Infinite H8
+80042646 0063
+.Use this code OR the #Infinite H's# code
+#Infinite H9
+8004264A 0063
+.Use this code OR the #Infinite H's# code
+#Infinite H's
+50000904 0000
+8004262A 0063
+.Use this code OR the #Infinite H1# - #Infinite H9# codes

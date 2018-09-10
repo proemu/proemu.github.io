@@ -1,0 +1,25 @@
+#Infinite hp level 1
+80120500 00C8
+#Infinite hp level 2
+8011F63C 00C8
+#Infinite hp level 3
+80120EDC 00C8
+#Infinite hp level 4
+80122A50 00C8
+#Infinite hp level 5
+8011FFF4 00C8
+#Infinite hp level 6
+80127990 00C8
+#Infinite hp level 7
+80125FB0 00C8
+#Infinite hp level 8
+80120750 00C8
+#Infinite hp level 9
+80124C80 00C8
+#Infinite hp level 10
+8012532C 00C8
+#Infinite hp level 11
+8012322C 00C8
+#Infinite hp level 12
+8012BFFC 00C8
+

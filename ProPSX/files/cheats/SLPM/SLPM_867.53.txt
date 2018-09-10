@@ -1,0 +1,49 @@
+#Enable Characters Profiles
+800D1154 3FFF
+#Enable All Characters
+300D1298 001E
+#Select Stage 1
+300D1036 0000
+#Select Stage 2
+300D1036 0001
+#Select Stage 3
+300D1036 0002
+#Select Stage 4
+300D1036 0003
+#Select Stage 5
+300D1036 0004
+#Select Stage 6
+300D1036 0005
+#Select Stage 7
+300D1036 0006
+#Select Stage 8
+300D1036 0007
+#Last Stage
+300D1036 0008
+#Instant Max Combo (P1)		
+E00D0FCE 0001
+300D0FCE 001D
+#Instant Max Combo (P2)		
+E00D0FCF 0001
+300D0FCF 001D
+#Massive Kougekidamas (P1)		
+300D0FCB 00FF
+#Massive Kougekidamas (P2)		
+300D0FCA 00FF
+#Max Score (P1)		
+800D0CC4 E0FF
+800D0CC6 05F5
+#Max Score (P2)		
+800D0CC8 E0FF
+800D0CCA 05F5
+#No Kougekidamas (P1)		
+300D0FCB 0000
+#No Kougekidamas (P2)		
+300D0FCA 0000
+#Press L2 for Zendamas (P1)		
+E00D0A2C 0001
+800D0CC0 0808
+#Press L2 for Zendamas (p2)		
+E00D0A7C 0001
+800D0CC2 0808
+

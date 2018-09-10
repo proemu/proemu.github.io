@@ -1,0 +1,19 @@
+#Away Team Goal's Score 9	
+8009F63C 0099
+#Away Team Goal's Score 0	
+8009F63C 0000
+#Away Team Score Modifier		
+8007C604 0009
+#Away Team Score 0	
+8007C604 0000
+#Home Team Goal's Score 9	
+8009F5EC 0009
+#Home Team Goal's Score 0	
+8009F5EC 0000
+#Home Team Score 9		
+8007C600 0009
+#Home Team Score 0		
+8007C600 0000
+#Press Select To End A Half		
+D006603A FFFE
+801F7C30 FFFF

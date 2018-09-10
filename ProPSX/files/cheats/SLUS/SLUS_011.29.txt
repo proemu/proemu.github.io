@@ -1,0 +1,73 @@
+#Infinite Lives
+3006640A 0003
+#All Levels Unlocked
+50002202 0000
+80066974 FFFF
+#All Secret Options Unlocked
+80066A18 FFFF
+#Soap Dodgers Unlocked
+80066974 FFFF
+#Jet Set Go Unlocked
+80066976 FFFF
+#Photo Finish Unlocked
+80066978 FFFF
+#Straight N Marrow Unlocked
+8006697A FFFF
+#Bedsit Blues Unlocked
+8006697C FFFF
+#Apiary Japery Unlocked
+8006697E FFFF
+#Handyman Hurdles Unlocked
+80066980 FFFF
+#Hoops A Daisy Unlocked
+80066982 FFFF
+#Blade Runners Unlocked
+80066984 FFFF
+#All Over The Shop Unlocked
+80066986 FFFF
+#Party Poopers Unlocked
+80066988 FFFF
+#Blueprint Sprint Unlocked
+8006698A FFFF
+#Retro Boost Unlocked
+8006698C FFFF
+#Half Pipe Dreams Unlocked
+8006698E FFFF
+#Car N Edge Unlocked
+80066990 FFFF
+#Domestic Blisters Unlocked
+80066992 FFFF
+#Heart Bypass Unlocked
+80066994 FFFF
+#Ice To See You Unlocked
+80066996 FFFF
+#Greasy Garage Unlocked
+80066998 FFFF
+#Rush N Flush Unlocked
+8006699A FFFF
+#With Snail And Pie Unlocked
+8006699C FFFF
+#Prism Riot Unlocked
+8006699E FFFF
+#Full Steam Ahead Unlocked
+800669A0 FFFF
+#Totally Guttered Unlocked
+800669A2 FFFF
+#Planks A Lot Unlocked
+800669A4 FFFF
+#Problem Attic Unlocked
+800669A6 FFFF
+#On The Warpath Unlocked
+800669A8 FFFF
+#Spaghetti Junction Unlocked
+800669AA FFFF
+#Creche Course Unlocked
+800669AC FFFF
+#Bunk Bed Burnout Unlocked
+800669AE FFFF
+#Construction Derby Unlocked
+800669B0 FFFF
+#The Steaks Are High Unlocked
+800669B2 FFFF
+#Mice N Easy Unlocked
+800669B4 FFFF

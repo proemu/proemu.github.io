@@ -1,0 +1,26 @@
+#Infinite time 	
+800B28C0 0063
+#Always finish 1st 	
+800B33B0 0000
+#Start on last lap 	
+801011E8 0000
+#Drone Cars Can't Drive
+D00074BC 0001
+80056044 0000
+#Car Modifier Beginner Car
+800B2760 0000
+#Car Modifier Advanced Car
+800B2760 0001
+#Car Modifier Expert Car
+800B2760 0002
+#Car Modifier Extreme Car
+800B2760 0003
+#Car Modifier Secret Car A (Bus)
+800B2760 0004
+#Car Modifier Secret Car B
+800B2760 0005
+#Car Modifier Secret Car C (Beetle)
+800B2760 0006
+#Car Modifier Secret Car D
+800B2760 0007
+

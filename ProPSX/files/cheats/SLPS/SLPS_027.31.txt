@@ -1,0 +1,11 @@
+#Infinite hp 1st character
+800FEA76 03E7
+#Infinite hp 2nd character
+800FEABE 03E7
+#Infinite hp 3rd character
+800FEB06 03E7
+#Infinite hp 4th character
+800FEB4E 03E7
+#Blow down deathblow 
+800B6C98 1021 
+800B6C9A 0000 

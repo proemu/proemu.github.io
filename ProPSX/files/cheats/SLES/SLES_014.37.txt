@@ -1,0 +1,58 @@
+#Character modifier Pierce
+30057654 0000
+#Character modifier Havoc	
+30057654 0001
+#Character modifier Grooves	
+30057654 0002
+#Character modifier Jade	
+30057654 0003
+#Character modifier Mogul	
+30057654 0004
+#Character modifier Wheels	
+30057654 0005
+#Character modifier Fatale	
+30057654 0006
+#Character modifier Cat	
+30057654 0007
+#Character modifier Sierra	
+30057654 0008
+#Character modifier Edge	
+30057654 0009
+#Character modifier Skid	
+30057654 000A
+#Character modifier Showman
+30057654 000B		 	
+#Track modifier windway park	
+3005768C 0000
+#Track modifier barnum's alley	
+3005768C 0001
+#Track modifier agua escudo	
+3005768C 0002
+#Track modifier st morte's	
+3005768C 0003
+#Track modifier skyview high	
+3005768C 0004
+#Track modifier arey keep	
+3005768C 0005
+#Track modifier rearden forge	
+3005768C 0006
+#Track modifier matsuri	
+3005768C 0007
+#Track modifier mainline	
+3005768C 0008
+#Track modifier darklith falls	
+3005768C 0009
+#Track modifier eiswald spitze	
+3005768C 000A
+#Track modifier front line
+3005768C 000B		
+#Quick win Press Select - just play until next Checkpoin	
+D01BB362 FFFE
+801B5BD0 000? 		
+#Infinite turbo boost 	
+801B5C3C 4000 		
+#Always condition fine 	
+801B5C20 0400 		
+#Have 4999 points Press Select 	
+D01BB362 FFFE
+801B5D8C 1387

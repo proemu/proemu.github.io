@@ -1,0 +1,16 @@
+#Infinite energy
+8006D038 0038
+#Infinite Time
+8006d528 0063
+#Infinite Lives
+80012D28 0000
+#One Flag Counts As Ten
+300226F4 000A
+#MoonJump On (Press Select & L1)	
+D00B121E FBFE
+80007F00 1234
+D0007F00 1234
+8006D3A8 0000
+#Moonjump Off (Press Select & L2)	
+D00B121E FEFE
+80007F00 0000

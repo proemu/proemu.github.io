@@ -1,0 +1,14 @@
+#Infinite Health
+800A8584 00C8
+#Infinite Continues
+D00B608C 0001
+800B608C 0004
+#Infinite ammo gun A
+800AF802 0063
+#Infinite ammo gun B
+800AF812 0063
+#Infinite ammo gun C
+800AF822 0063
+#Infinite ammo gun D
+800AF832 0063
+

@@ -1,0 +1,30 @@
+#1942\P1 And P2 Infinite Life
+8006AF00 0003
+#1942\P1 And P2 Infinite Returns
+8006AC74 0003
+#1942 Invincibility 
+3006AD1C 0002 
+#1942 Shot Level fire 4 
+3006ADDC 0080 
+#1943\P1 Infinite Life
+800D027E 0140
+#1943\P2 Infinite Life
+800D02FE 0140
+#1943\Infinite Returns
+8008D2E4 0002
+#1943\Infinite Time For Special Weapons
+800D02CE 1F00
+#1943 Invincibility 
+D0029EE8 0006 
+80029EE8 0001 
+#1943 Plus\P1 Infinite Life
+800D0C72 0140
+#1943 Plus\P2 Infinite Life
+800D0CF2 0140
+#1943 Plus\Infinite Returns
+8008F714 0002
+#1943 Plus Invincibility 
+D002A704 0006 
+8002A704 0001 
+#1943 Plus\Infinite Time For Special Weapons
+800D0CC2 1F00

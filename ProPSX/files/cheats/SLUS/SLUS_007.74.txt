@@ -1,0 +1,7 @@
+#Joker Command P1  
+D009679C 0000. 
+#P1 Infinite Health  
+800A1E5C B400 
+#Unlock Everything  
+50000402 0000
+800BE56C FFFF 

@@ -1,0 +1,21 @@
+#Infinite Money 	
+80010164 967F
+80010166 0098
+#Infinite & Max SP 1st character
+800C09EE 03E7
+800C09F0 03E7
+#Infinite Magic Point 1st Character	
+800102A8 6363
+800102AA 6363
+800102AC 6363
+#Infinite & Max SP 2nd Character 		
+800C0BDA 03E7
+800C0BDC 03E7
+#Infinite Magic Point 2nd Character 	
+800103A8 6363
+800103AA 6363
+800103AC 6363
+#No Random Battle
+80011EBE 0400 
+#Alt. No Random Battle
+80041CA4 000E 

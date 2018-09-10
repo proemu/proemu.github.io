@@ -1,0 +1,6 @@
+#Inf Hp P1
+8005B00C 4B00
+#No energy P2 
+8005B270 0000
+#Unlock All Characters
+8005A42C 0007

@@ -1,0 +1,8 @@
+#Infinite Health Air
+800E7D88 0064
+#Have All 50 Coins		
+800E90FE 0032
+#Have All Pearls		
+800E9116 0005
+#Press R1+R2 For Cheat Options (main menu)		
+80077456 1000

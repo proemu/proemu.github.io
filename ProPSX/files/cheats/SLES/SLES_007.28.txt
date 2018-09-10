@@ -1,0 +1,7 @@
+#Infinite energy
+800BFEF4 00F0
+800BFEF6 00F0
+#Infinite Lives 	
+80084798 0003
+#Laser Never Overheats 	
+800BFF3A 07D0

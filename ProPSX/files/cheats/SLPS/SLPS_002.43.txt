@@ -1,0 +1,21 @@
+#Finish The Race 1st		
+800D577E 0102
+#Infinite Bike Durability		
+800D577E 4040
+#Infinite Biker's Health		
+800D5766 5A5A
+#Max Tko		
+800D81F0 FF00
+#Quit Race & Have All Weapons (Press L1+L2)		
+D00D6DE4 0005
+800D5782 FFFF
+D00D6DE4 0005
+800D5784 FFFF
+#Start Racing Before The Cpu Racers		
+8005B2A8 006A
+#Use Super Weapon (Press Up)		
+D00D6DE4 1000
+800D5786 FFFF
+#Infinite Turbo
+800837EC 0000
+

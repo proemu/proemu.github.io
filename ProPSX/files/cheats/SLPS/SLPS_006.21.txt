@@ -1,0 +1,9 @@
+#Unlimited Bullets
+801B5B36 000A
+#Unlimited Energy
+801B5AD2 03E8
+#Invincibility 
+301B5B3D 00FF 
+#After pressing Triangle Shoot mega bomb 
+D01AA794 FFEF 
+801B5B3E FFFF

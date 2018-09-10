@@ -1,0 +1,108 @@
+#Actual lap 3 	 
+300A7294 0003
+#All tracks unlocked 	
+300100B0 0009
+#Cadillac Car
+300100AE 0001
+#View = Overhead Enabled
+300100B4 0001
+#View = Go Kart Enabled
+300100B5 0001
+#Starry Sky
+300100B6 0001
+#Cartoon Scenery
+300100B7 0001
+#Aggressive Opponents
+300100B8 0001
+#Low Gravity
+300100B9 0001
+#Rain Falls Upward
+300100BA 0001
+#No Collision Detect For Cars
+300100BC 0001
+#Big Hands
+300100BE 0001
+#Disco Fog
+300100C0 0001
+#View = Trackside Camera Enabled
+300100C1 0001
+#View = Helicopter Enabled
+300100C4 0001
+#All Cars Drives A Lot Faster
+300100C5 0001
+#Honda Accord Start with 500 points	
+D0010488 0000
+80010474 01F4
+#Honda Accord Start at last lap / always first for 3-lap-race	
+D00A1A54 0003
+300B0A10 0003
+#Honda Accord Start at last lap / always first for20-lap-race	
+D00A1A54 0014
+300B0A10 0014
+#Audi A4 Start with 500 points	
+D0010478 0000
+80010478 01F4
+#Audi A4 Start at last lap / always first for 3-lap-race	
+D00A1A54 0002
+300B0B98 0003
+#Audi A4 Start at last lap / always first for 20-lap-race	
+D00A1A54 0002
+300B0B98 0014
+#Vauxhall Vectra Start with 500 points	
+D001047C 0000
+8001047C 01F4
+#Vauxhall Vectra Start at last lap / always first for 3-lap-race
+D00A1A54 0002
+300B0D20 0003
+#Vauxhall Vectra Start at last lap / always first for 20-lap-race
+D00A1A54 0002
+300B0D20 0014
+300B 0D20 0014
+#Volvo S40 Start with 500 points	
+D0010480 0000
+80010480 01F4
+#Volvo S40 Start at last lap / always first for 3-lap-race	
+D00A1A54 0002
+300B0EA8 0003
+#Volvo S40 Start at last lap / always first for 20-lap-race	
+D00A1A54 0002
+300B0EA8 0014
+#Ford Mondeo / Cadillac Start with 500 points	
+D0010484 0000
+80010484 01F4
+#Ford Mondeo / Cadillac Start at last lap / always first for 3-lap-race	
+D00A1A54 0002
+300B1030 0003
+#Ford Mondeo / Cadillac Start at last lap / always first for 20-lap-race	
+D00A1A54 0002
+300B1030 0014
+#Nissan Primera Start with 500 points	
+D0010488 0000
+80010488 01F4
+#Nissan Primera Start at last lap / always first for 3-lap-race	
+D00A1A54 0002
+300B11B8 0003
+#Nissan Primera Start at last lap / always first for 20-lap-race	
+D00A1A54 0002
+300B11B8 0014
+#Peugeot 405 / Tank Start with 500 points	
+D001048C 0000
+8001048C 01F4
+#Peugeot 405 / Tank Start at last lap / always first for 3-lap-race	
+D00A1A54 0002
+300B1340 0003
+#Peugeot 405 / Tank Start at last lap / always first for 20-lap-race	
+D00A1A54 0002
+300B1340 0014
+#Renault Laguna	Start with 500 points	
+D0010490 0000
+80010490 01F4
+#Renault Laguna Start at last lap / always first for 3-lap-race	
+D00A1A54 0002
+300B14C8 0002
+#Unlocked Tank	
+300100AD 0001
+#Unlocked Micromachines-Mode	
+300100B4 0001
+#Unlocked Go-Kart-Mode	
+300100B5 0001

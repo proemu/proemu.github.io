@@ -1,0 +1,12 @@
+#Gr-Rank
+801FA50C 270F
+801FA50E 270F
+#Infinite Energy For Your Horse
+800B5DB4 0000
+800B5DB6 0000
+#Infinite Money
+801FA288 967F
+801FA28A 0098
+#Infinite stamina (Incremented by 40h)	
+800EADEE 001F 
+

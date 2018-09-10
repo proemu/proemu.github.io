@@ -1,0 +1,6 @@
+#P1 Infinite Lives
+800129DA 0003
+#Only one lap to race		
+8013AB3E 0003
+#Lap time 0:00:00		
+800BB5CC 0000

@@ -1,0 +1,7 @@
+#Infinite Hearts Player 1
+8014BF36 0007
+#Infinite Heart Tries Player 1
+8014BE0A 0005
+#Quota 0 in L1, R1 simultaneous press 
+D007C698 000C 
+8014C142 0000 

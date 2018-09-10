@@ -1,0 +1,6 @@
+#Infinite Health P1
+8008B454 00CF
+#Infinite Health P2	
+800BB456 00CF
+#No Health P2	
+800BB456 0000

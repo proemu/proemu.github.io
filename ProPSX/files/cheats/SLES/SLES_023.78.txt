@@ -1,0 +1,6 @@
+#Infinite Ammo All Weapons/Items
+800576A6 3C00
+80058512 3C00
+#Infinite Health
+80042206 2402
+80062204 0080

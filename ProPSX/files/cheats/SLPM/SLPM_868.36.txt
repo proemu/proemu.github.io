@@ -1,0 +1,4 @@
+#Infinite Helps in all Modes
+800F3810 0002
+#Infinite time in all Modes
+800ED6E8 1194

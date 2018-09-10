@@ -1,0 +1,14 @@
+#Infinite Duration All Equipped Items 	
+8003D262 2400
+#Status Always Normal 	
+80198F54 0000
+#Max HP 	
+80198F28 2AED
+#Infinite HP
+80198F2A 2AED
+#Max MP
+80198F2C 2AED
+#Infinite MP
+80198F2E 2AED
+#Infinite SP
+80198F30 2AED

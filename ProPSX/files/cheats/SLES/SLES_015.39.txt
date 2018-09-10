@@ -1,0 +1,91 @@
+#Max Hp Michelle
+80098500 03E7
+80098502 03E7
+#Max Hp Alex
+80098504 03E7
+80098506 03E7
+#Max Hp Rachel
+80098508 03E7
+8009850A 03E7
+#Max Hp Burns
+8009850C 03E7
+8009850E 03E7
+#Max Ae Bullets
+8009811C 03E7
+#Max He Bullets
+8009811E 03E7
+#Infinite Elements
+50000A04 0000
+8013A3A8 7F7F
+#All Weapons
+8013A3D4 0101
+8013A3D8 0101
+8013A3DC 0101
+#Infinite Energy All Characters
+3011AD58 00FA
+#Have Accident Report
+300B9A9F 0002
+#Have Admin. Log
+300B9AA3 0002
+#Have B
+300B9A95 0002
+#Have Byford Bomb	
+300B9A85 0002
+#Have Device 1	
+300B9A92 0002
+#Have Device 2	
+300B9A93 0002
+#Have Device 3	
+300B9A94 0002
+#Have Disengagment
+300B9AA2 0002
+#Have Internal Report 1
+300B9AA9 0002
+#Have Internal Report 2
+300B9AAA 0002
+#Have Internal Report 3
+300B9AAB 0002
+#Have Internet E-Mail		
+300B9A9C 0002
+#Have Journal		
+300B9A9E 0002
+#Have Keycard A
+300B9A91 0002
+#Have Keycard B
+300B9A81 0002
+#Have Letter
+300B9A9D 0002
+#Have Locker Key
+300B9A83 0002
+#Have News Cutting 1		
+300B9A9A 0002
+#Have News Cutting 2		
+300B9A9B 0002
+#Have Medal 1	
+300B9A8F 0002
+#Have Medal 2	
+300B9A96 0002
+#Have Pass Card	
+300B9A90 0002
+#Have Power Handle	
+300B9A8B 0002
+#Have Roulette Ball	
+300B9A8C 0002
+#Have Secret Code Card	
+300B9A8E 0002
+#Have System Disk
+300B9A8D 0002
+#Have Steel Wire
+300B9A82 0002
+#Have Unknow Data 1
+300B9AA0 0002
+#Have Unknow Data 2 
+300B9AA5 0002
+#Have Unknow Data 3
+300B9AA6 0002
+#Have Unknow Data 4
+300B9AA7 0002
+#Have Unknow Data 5 
+300B9AA8 0002	
+#Have Vault Key
+300B9A84 0002

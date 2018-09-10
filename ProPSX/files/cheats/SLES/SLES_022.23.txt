@@ -1,0 +1,15 @@
+#Infinite Shield
+800E3EDC 0800
+#Infinite Health
+800B9F2A 0800
+#Infinite Power+Weapons
+8002CED2 3C00
+#Always 50 pick-ups collected (Press L1 & L2)	
+D00C0FCA FAFF
+300B32EC 0032
+#All pick-ups collected (Press R1 & R2)	
+D00C0FCA F5FF
+300B32E4 0000
+#All generators destroyed (Press L1 & L2 & R1 & R2)	
+D00C0FCA F0FF
+300B32E8 0000

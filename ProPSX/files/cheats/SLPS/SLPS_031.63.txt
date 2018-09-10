@@ -1,0 +1,6 @@
+#Time Always 00:00  
+8009B418 0000 
+#Max Score  
+8009B408 270F 
+#Infinite Continues  
+8009B410 0003 

@@ -1,0 +1,42 @@
+#Open Cheat Menu
+8008EE40 0000
+#Activate Multiplayer Characters
+80098264 FFFF
+80098266 FFFF
+#Have All Weapons & Infinite Ammo
+800989C8 0107
+80098C10 001A
+80098C14 000A
+#Invincible
+8008F994 0001
+#Level Modifier Episode 1 Stage 1
+80098C1C 00E0
+#Level Modifier Episode 1 Stage 2
+80098C1C 00E1
+#Level Modifier Episode 1 Stage 3
+80098C1C 00E2
+#Level Modifier Episode 1 Stage 4
+80098C1C 00E3
+#Level Modifier Episode 2 Stage 1
+80098C1C 00E4
+#Level Modifier Episode 2 Stage 2
+80098C1C 00E5
+#Level Modifier Episode 2 Stage 3
+80098C1C 00E6
+#Level Modifier Episode 3 Stage 1
+80098C1C 00E7
+#Level Modifier Episode 3 Stage 2
+80098C1C 00E8
+#Level Modifier Episode 3 Stage 3
+80098C1C 00E9
+#Level Modifier Episode 4 Stage 1
+80098C1C 00EA
+#Level Modifier Episode 4 Stage 2
+80098C1C 00EB
+#Level Modifier Episode 5 Stage 1
+80098C1C 00EC
+#Level Modifier Episode 5 Stage 2
+80098C1C 00ED
+#Level Modifier Episode 5 Stage 3
+80098C1C 00EE
+

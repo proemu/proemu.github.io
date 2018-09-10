@@ -1,0 +1,9 @@
+#Player 1 has 999990000 money
+800AF0D0 B9F0
+800AF0D2 05F5
+#Player 2 has 0 money
+800AF1AC 0000
+#Player 3 has 0 money
+800AF288 0000
+#Player 4 has 0 money
+800AF364 0000

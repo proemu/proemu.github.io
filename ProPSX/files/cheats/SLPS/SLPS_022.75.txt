@@ -1,0 +1,49 @@
+#Infinite HP
+80118E9C 0100
+#Extra game Press L2 
+D00A004A FEFF 
+80118294 0003 
+#Akira Chapter 1 Life 
+8010E8B4 0100 
+#Akira Chapter 1 ST 
+8010E8CA 0800 
+#Door is opened without the key Item 99
+8009AD78 FFFF 
+8009AD7A FFFF 
+8009AD7C FFFF 
+8009AD7E FFFF 
+8009AD80 FFFF 
+8009AD82 FFFF 
+8009ADD8 6363 
+8009ADDA 6363 
+#Chapter Clear 
+8009AD52 0001 
+#Devilman Chapter 2 Life 
+8010C110 4B00 
+#Devilman Chapter 2 ST 
+8010C118 2000 
+#Silene Chapter 3Life 
+8010CEB8 4B00 
+#Silene Chapter 3 ST 
+8010CEC0 2000 
+#Not increase / save number of times does not increase time 
+8009AEB8 0000 
+8009ADCC 0000 
+8009ADCE 0000
+#Select Chapter 1 Akira  (SAVE DATA) 
+8009ADF0 0001
+#Select Chapter 2 Devilman (SAVE DATA) 
+8009ADF0 0002
+#Select Chapter 3 Silene (SAVE DATA) 
+8009ADF0 0003
+#Select Chapter 4 Akira (SAVE DATA) 
+8009ADF0 0004
+#Select Chapter 5 Devilman (SAVE DATA) 
+8009ADF0 0005
+
+
+
+ 
+
+
+

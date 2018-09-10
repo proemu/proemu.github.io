@@ -1,0 +1,20 @@
+#Infinite Energy player 1
+800BE510 005F
+#Infinite Energy player 2
+800BE728 005F
+#Invincible player 1
+800BE50C 00AA
+#Invincible player 2
+800BE724 00AA
+#Infinite power player 1
+8011FF0C 1000
+8011FF10 1000
+#Infinite power player 2
+8011FF74 1000
+8011FF78 1000
+#Infinite land mines
+8011FF2C 0063
+#Infinite proximity bombs
+8011FF28 0063
+#Infinite Continues
+8011FF50 0005

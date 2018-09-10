@@ -1,0 +1,4 @@
+#Infinite Lives
+800C5D88 0004
+#Invincibility
+800C60C0 022C

@@ -1,0 +1,10 @@
+#Infinite Continues
+800B1C84 0008
+#Stop Countdown Timer
+800B1C8C 0BBA
+#Infinite Bullets
+800B1D04 0006
+#Stop Elapsed Timer
+800B1D20 0000
+#Infinite Health
+800B1FE0 0005

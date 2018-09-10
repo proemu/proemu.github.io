@@ -1,0 +1,11 @@
+#Infinite Time Chase Mode	
+80058E88 06D6
+#Infinite Nitro Chase Mode
+80058A40 03B6
+#Unlock All Secret Players 	
+8005F7CC 007F
+#Time Attack Lap 2 Time 00'00"00		
+8005EC54 0000
+#Time Attack Lap 3 Time 00'00"00		
+8005EC58 0000
+

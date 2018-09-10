@@ -1,0 +1,25 @@
+#Infinite Energy Main Character
+800FF538 03E7
+80119118 03E7
+#Infinite Energy Blue Hair Girl
+800FF556 03E7
+8011915C 03E7
+#First chracter in battle infnite HP
+80119118 03E7
+#None Encounter	 
+300FF71F 00FF 
+#Map is displayed on the menu screen	
+300FF72B 0001
+#Commemorative photo appearance	 
+300FF744 00FF	 
+#Animal picture book / get	 
+300FF76 00FF
+#Memories album	 
+300FF792 00FF
+300FF793 00FF
+300FF794 00FF
+300FF795 00FF
+#Movie Collection	 
+300FF79 00FF	 
+#Wuhan animal	 
+300FF79 00FF

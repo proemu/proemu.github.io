@@ -1,0 +1,4 @@
+#Have 999 points in hanafuda game
+800D001E 03E7
+#Enemy has always 0 points
+800D0020 0000

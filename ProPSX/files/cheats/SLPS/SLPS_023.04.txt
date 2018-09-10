@@ -1,0 +1,7 @@
+#P1 Never K.o	
+8010202E 0000
+#P1 Have Infinite Rush Power		
+80102024 013F
+#P1 Always Have Maximum Spirit & Power 	
+B0020004 00000000
+80102018 E19C

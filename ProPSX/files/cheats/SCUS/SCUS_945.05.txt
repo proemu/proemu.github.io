@@ -1,0 +1,18 @@
+#P1 Score 100
+800AFE56 0064
+#P1 Score 0
+800AFE56 0000
+#P2 Score 100
+800AFE56 0000
+800AFFF0 0064
+#P2 Score 0
+800AFE56 0000
+800AFFF0 0000
+#Infinite Time To Choose Your Play
+800B00CE 0027
+#Infinite Time-Outs P1
+800AFFFA 0003
+#Infinite Time-Outs P2
+800AFFF8 0003
+#Computer Always Throws Incomplete Passes
+800B0170 0020

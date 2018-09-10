@@ -1,0 +1,21 @@
+#Infinite save tapes
+80076FD8 0063
+#Infinite Ammo Knowby's Pistol	
+80077768 03E7
+#Infinite Fuel Chainsaw
+80077870 00FF
+#Inf Health Disc 1
+80076C14 0064
+#Inf Health Disc 2
+80076D5C 0064
+#Invinicble Disc 1
+3007720C 0064
+#Invinicble Disc 2
+30077354 0064
+#Save Anywhere (With this code, save only works if you have a Save Tape)
+D01310A4 0000
+801310A4 0001
+#Save Anywhere Disc 2 (Press L2 + R2. Activate this code while in inventory screen)
+D01DF872 FCFF
+8012FA68 0001
+

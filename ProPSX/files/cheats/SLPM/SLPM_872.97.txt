@@ -1,0 +1,6 @@
+#Have 9999999 money  
+800BE918 967F
+800BE91A 0098 
+#Infinite HP First character  
+800BE924 0063
+800BE926 0063 

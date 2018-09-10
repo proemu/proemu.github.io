@@ -1,0 +1,408 @@
+#Infinite Cash
+8003BCD2 0020
+#Infinite Energy
+80042506 CB20
+#Infinite Armor (Arena Mode Only)
+D0041578 0001
+800734F0 CD5A
+#Infinite Ammo Right Arm
+800427D8 03E7
+#Infinite Ammo Back Weapon
+80042816 0064
+80042854 0064
+#Have All Heads
+800342F0 0101
+800342F2 0101
+800342F4 0101
+800342F6 0101
+800342F8 0101
+#Have All Cores
+80034302 0101
+80034304 0502
+#Have All Arms
+3003430D 0001
+8003430E 0101
+80034310 0101
+80034312 0101
+30034314 0001
+30034319 0001
+8003431A 0101
+8003431C 0101
+8003431E 0101
+80034320 0101
+#Have All Legs
+30034325 0001
+80034328 0101
+8003432A 0101
+3003432D 0001
+3003432F 0001
+80034330 0101
+80034332 0101
+30034335 0001
+80034336 0101
+30034338 0001
+8003433A 0101
+3003433C 0001
+80034340 0101
+30034343 0001
+#Have All Generators
+3003434D 0001
+8003434E 0101
+80034350 0101
+80034352 0101
+80034354 0101
+#Have All Fcs
+8003435C 0101
+8003435E 0101
+80034360 0101
+80034362 0101
+80034364 0101
+#Have All Optional Parts
+8003436C 0101
+8003436E 0101
+80034370 0101
+80034372 0101
+80034374 0101
+80034376 0101
+#Have All Boosters
+3003437F 0001
+80034380 0101
+80034382 0101
+80034384 0101
+#Have All Back Weapons
+3003438D 0001
+8003438E 0101
+80034390 0101
+80034392 0101
+80034394 0101
+80034396 0101
+80034398 0101
+8003439A 0101
+8003439E 0101
+800343A0 0101
+800343A8 0101
+800343AA 0101
+800343AC 0101
+800343AE 0101
+300343B0 0001
+800343B4 0101
+800343B6 0101
+800343B8 0101
+800343BA 0101
+800343C0 0101
+300343C2 0001
+#Have All Right Arm Weapons
+300343C9 0001
+800343CA 0101
+800343CC 0101
+800343CE 0101
+800343D0 0101
+800343D2 0101
+800343D4 0101
+800343D6 0101
+800343D8 0101
+800343DA 0101
+#Have All Left Arm Weapons
+800343DC 0101
+800343DE 0101
+300343E0 0001
+#Infinite Armor (Missions Only)
+801E2F40 8000
+#Head Pieces\Have Hd-01-Srvt
+300342F0 0001
+#Head Pieces\Have Hd-2002
+300342F1 0001
+#Head Pieces\Have Hd-X1487
+300342F2 0001
+#Head Pieces\Have Hd-Redeye
+300342F3 0001
+#Head Pieces\Have Hd-D-9066
+300342F4 0001
+#Head Pieces\Have Hd-Gry-Nx
+300342F5 0001
+#Head Pieces\Have Hd-06-Radar
+300342F6 0001
+#Head Pieces\Have Hd-One
+300342F7 0001
+#Head Pieces\Have Hd-08-Dish
+300342F8 0001
+#Head Pieces\Have Hd-Zero
+300342F9 0001
+#Head Pieces\Have Hd-G780
+300342FA 0001
+#Core Parts\Have Xca-00
+30034302 0001
+#Core Parts\Have Xcl-01
+30034303 0001
+#Core Parts\Have Xch-01
+30034304 0001
+#Core Parts\Have Xxa_So
+30034305 0001
+#Arm Parts\Have An-201
+3003430D 0001
+#Arm Parts\Have An-K1
+3003430E 0001
+#Arm Parts\Have An-D-7001
+3003430F 0001
+#Arm Parts\Have An-3001
+30034310 0001
+#Arm Parts\Have Anks-1A46J
+30034311 0001
+#Arm Parts\Have An-863-B
+30034312 0001
+#Arm Parts\Have An-25
+30034313 0001
+#Arm Parts\Have Aw-Mg25/2
+30034319 0001
+#Arm Parts\Have Aw-Gt2000
+3003431A 0001
+#Arm Parts\Have Aw-Rf105
+3003431B 0001
+#Arm Parts\Have Aw-30/3
+3003431C 0001
+#Arm Parts\Have Aw-Rf120
+3003431D 0001
+#Arm Parts\Have Aw-S60/2
+3003431E 0001
+#Arm Parts\Have Aw-Xc5500
+3003431F 0001
+#Arm Parts\Have Aw-Xc65
+30034320 0001
+#Arm Parts\Have Aw-Dc/2
+30034321 0001
+#Leg Parts\Have Ln-1001
+30034325 0001
+#Leg Parts\Have Ln-1001-Px-0
+30034328 0001
+#Leg Parts\Have Ln-501
+30034329 0001
+#Leg Parts\Have Ln-Ssvr
+3003432A 0001
+#Leg Parts\Have Ln-1001B
+3003432B 0001
+#Leg Parts\Have Ln-3001C
+3003432D 0001
+#Leg Parts\Have Ln-502
+3003432F 0001
+#Leg Parts\Have Ln-D-8000R
+30034330 0001
+#Leg Parts\Have Ln-2Kz-Sp
+30034331 0001
+#Leg Parts\Have Lnks-1B46J
+30034332 0001
+#Leg Parts\Have Lb-4400
+30034333 0001
+#Leg Parts\Have Lb-4401
+30034335 0001
+#Leg Parts\Have Lb-4303
+30034336 0001
+#Leg Parts\Have Lb-1000-P
+30034337 0001
+#Leg Parts\Have Lbks-2B45A
+30034338 0001
+#Leg Parts\Have Lf-205-Sf
+3003433A 0001
+#Leg Parts\Have Lfh-X3
+3003433B 0001
+#Leg Parts\Have Lf-Dex-1
+3003433C 0001
+#Leg Parts\Have Lc-Mos18
+30034340 0001
+#Leg Parts\Have Lc-Uki60
+30034341 0001
+#Leg Parts\Have Lc-Htp-Aaa
+30034343 0001
+#Generator Parts\Have Gps-Vva
+3003434D 0001
+#Generator Parts\Have Gps-V6
+3003434E 0001
+#Generator Parts\Have Grd-Rx5
+3003434F 0001
+#Generator Parts\Have Grd-Rx6
+30034350 0001
+#Generator Parts\Have Grd-Rx7
+30034351 0001
+#Generator Parts\Have Gbg-10000
+30034352 0001
+#Generator Parts\Have Gbg-Xr
+30034353 0001
+#Generator Parts\Have Gbx-Tl
+30034354 0001
+#Generator Parts\Have Gbx-Xl
+30034355 0001
+#Fcs Parts\Have Comdex-C7
+3003435C 0001
+#Fcs Parts\Have Comdex-Go
+3003435D 0001
+#Fcs Parts\Have Comdex-G8
+3003435E 0001
+#Fcs Parts\Have Qx-21
+3003435F 0001
+#Fcs Parts\Have Qx-Af
+30034360 0001
+#Fcs Parts\Have Tryx-Boxer
+30034361 0001
+#Fcs Parts\Have Tryx-Quad
+30034362 0001
+#Fcs Parts\Have Qx-9009
+30034363 0001
+#Fcs Parts\Have Fbmb-18X
+30034364 0001
+#Fcs Parts\Have Rator
+30034365 0001
+#Optional Parts\Have Sp-M/Auto
+3003436C 0001
+#Optional Parts\Have Sp-Abs
+3003436D 0001
+#Optional Parts\Have Sp-Sap
+3003436E 0001
+#Optional Parts\Have Sp-Cnd-K
+3003436F 0001
+#Optional Parts\Have Sp-Axl
+30034370 0001
+#Optional Parts\Have Sp-S/Scr
+30034371 0001
+#Optional Parts\Have Sp-E/Scr
+30034372 0001
+#Optional Parts\Have Sp-Eh
+30034373 0001
+#Optional Parts\Have Sp-E+
+30034374 0001
+#Optional Parts\Have Sp-Dehf
+30034375 0001
+#Booster Parts\Have B-P320
+3003437F 0001
+#Booster Parts\Have B-P350
+30034380 0001
+#Booster Parts\Have B-Too1
+30034381 0001
+#Booster Parts\Have B-72
+30034382 0001
+#Booster Parts\Have B-P351
+30034383 0001
+#Booster Parts\Have B-Vr-33
+30034384 0001
+#Booster Parts\Have B-Hp25
+30034335 0001
+#All Back Weapons\Have Wm-S40/1
+3003438D 0001
+#All Back Weapons\Have Wm-S40/2
+3003438E 0001
+#All Back Weapons\Have Wm-S60/4
+3003438F 0001
+#All Back Weapons\Have Wm-S60/6
+30034390 0001
+#All Back Weapons\Have Wm-Mvg404
+30034391 0001
+#All Back Weapons\Have Wm-Mvg802
+30034392 0001
+#All Back Weapons\Have Wm-L201
+30034393 0001
+#All Back Weapons\Have Wm-X201
+30034394 0001
+#All Back Weapons\Have Wm-X5-Aa
+30034395 0001
+#All Back Weapons\Have Wm-X10
+30034396 0001
+#All Back Weapons\Have Wm-P4001
+30034397 0001
+#All Back Weapons\Have Wm-Ps-2
+30034398 0001
+#All Back Weapons\Have Wm-At
+30034399 0001
+#All Back Weapons\Have Wm-T0100
+3003439A 0001
+#All Back Weapons\Have Wm-Smss24
+3003439B 0001
+#All Back Weapons\Have Wm-S50
+3003439E 0001
+#All Back Weapons\Have Wr-S100
+3003439F 0001
+#All Back Weapons\Have Wr-M50
+300343A0 0001
+#All Back Weapons\Have Wc-Cn35
+300343A1 0001
+#All Back Weapons\Have Wc-St120
+300343A8 0001
+#All Back Weapons\Have Wc-Ln350
+300343A9 0001
+#All Back Weapons\Have Wc-Gn230
+300343AA 0001
+#All Back Weapons\Have Wc-Xp4000
+300343AB 0001
+#All Back Weapons\Have Wc-Xc8000
+300343AC 0001
+#All Back Weapons\Have Wc-01Ql
+300343AD 0001
+#All Back Weapons\Have Wc-Spgun
+300343AE 0001
+#All Back Weapons\Have Wc-Ir24
+300343AF 0001
+#All Back Weapons\Have Rxa-01We
+300343B0 0001
+#All Back Weapons\Have Rz-A0
+300343B4 0001
+#All Back Weapons\Have Rxa-99
+300343B5 0001
+#All Back Weapons\Have Rxa-77
+300343B6 0001
+#All Back Weapons\Have Rz-A1
+300343B7 0001
+#All Back Weapons\Have Rzt-333
+300343B8 0001
+#All Back Weapons\Have Rz-Bbp
+300343B9 0001
+#All Back Weapons\Have Rz-Fw2
+300343BA 0001
+#All Back Weapons\Have Wx-S800/2
+300343BB 0001
+#All Back Weapons\Have Wx-S800-Gf
+300343C0 0001
+#All Back Weapons\Have Xcs-9900
+300343C1 0001
+#Right Arm Weapons\Have Wg-Rf35
+300343C9 0001
+#Right Arm Weapons\Have Wg-Mga1
+300343CA 0001
+#Right Arm Weapons\Have Wg-Mg500
+300343CB 0001
+#Right Arm Weapons\Have Wg-Ar1000
+300343CC 0001
+#Right Arm Weapons\Have Wg-Hg235
+300343CD 0001
+#Right Arm Weapons\Have Wg-Rf/5
+300343CE 0001
+#Right Arm Weapons\Have Wf-Rf/P
+300343CF 0001
+#Right Arm Weapons\Have Wg-Hg512
+300343D0 0001
+#Right Arm Weapons\Have Wg-Fg99
+300343D1 0001
+#Right Arm Weapons\Have Wg-B2120
+300343D2 0001
+#Right Arm Weapons\Have Wg-B218
+300343D3 0001
+#Right Arm Weapons\Have Wg-Xp1000
+300343D4 0001
+#Right Arm Weapons\Have Wg-Xp2000
+300343D5 0001
+#Right Arm Weapons\Have Wg-Xc4
+300343D6 0001
+#Right Arm Weapons\Have Wg-1-Karasawa
+300343D7 0001
+#Right Arm Weapons\Have Wg-Rfm118
+300343D8 0001
+#Right Arm Weapons\Have Wg-Xfwppk
+300343D9 0001
+#Right Arm Weapons\Have Wg-Hg1
+300343DA 0001
+#Right Arm Weapons\Have Wg-Pb26
+300343DB 0001
+#Left Arm Weapons\Have Ls-2001
+300343DC 0001
+#Left Arm Weapons\Have Ls-200G
+300343DD 0001
+#Left Arm Weapons\Have Ls-3303
+300343DE 0001
+#Left Arm Weapons\Have Ls-99-Moonlight
+300343DF 0001

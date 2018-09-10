@@ -1,0 +1,6 @@
+#Infinite energy 	
+D005C0FA AE22
+8005C0F8 0000
+#All power ups Player 1 (Press select)
+D00F7ADA FFFE
+800D562C FFFF

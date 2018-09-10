@@ -1,0 +1,5 @@
+#Argent infini Alliés	
+8002A3D4 FFFF
+#Tout le terrain et le plan visible	
+801B48EC 0001
+

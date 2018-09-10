@@ -1,0 +1,3 @@
+#Boost Code (Press L1 Button For Boost Mode)
+D00828F0 0004
+800E23CE 000F

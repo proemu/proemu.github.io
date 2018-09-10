@@ -1,0 +1,34 @@
+#All Stats At Maximum Main Character
+801AE58E 03E7
+801AE590 03E7
+801AE592 03E7
+801AE594 03E7
+801AE596 03E7
+801AE588 03E7
+801AE58A 03E7
+801AE58C 03E7
+#Infinite Hp All Members Of The Group
+80161DC2 0064
+80161DFE 0064
+80161E3A 0064
+80161E76 0064
+80161EB2 0064
+#HP in combat enemy 0	
+80158C20 0000
+#Achievement Points Max	
+301AE54E 00FF
+#Number of days elapsed 	
+801AE56A 03E8
+#All discovery rate Max	
+301AE570 0064
+#Slaughter animals Max	
+801AE572 03E8
+#Museum magazine + 01h 	
+30161F00 00FF
+80161F9E 00FF
+#Map All + 01h 	
+301674FC 0000
+3016812B 0000
+
+
+

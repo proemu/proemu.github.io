@@ -1,0 +1,71 @@
+#Full recovery When you open a menu 
+D0044A02 0220 
+80045BD4 0001 
+#Save Anywhere
+D005CA1E 0220 
+8005D582 0000 
+D005E6D2 0220 
+8005F154 0001 
+#Save always possible	
+301F6274 0001
+#None Encounter	
+3007F064 0000
+#DME currently	
+801DFF48 FFFF 
+801DFF4A 7FFF
+#Maximum DME	
+801DFF4C FFFF 
+801DFF4E 7FFF
+#LV 99	
+301DFE9C 0063
+#CP consumption zero learning skills 
+D005C0C2 0220 
+80059F66 A040 
+D005C0C2 0220 
+80059F76 0000 
+#MAX level of learning skills 
+D005C0C2 0220 
+80059E34 0008 
+D005C0C2 0220 
+80059E36 2408 
+D005C0C2 0220 
+80059E4C 0066 
+D005C0C2 0220 
+80059E4E A048 
+D005C0C2 0220 
+80059E5A 3110 
+#CP consumption zero person property enhancement at 
+D003B3AA 0220 
+8003BE22 A480 
+D003B3AA 0220 
+8003BE4E A480 
+D003B3AA 0220 
+8003BE54 1021 
+#Person characteristic correction value all species +99 
+D005C0C2 0220 
+8005DC08 0063 
+D005C0C2 0220 
+8005DC0A 2414 
+D005C0C2 0220 
+8005DC1E A434 
+#Capacity (CP) MAX 
+D005B73E 0002 
+8005B730 03E7 
+D005B73E 0002 
+8005B732 3406 
+D005B73E 0002 
+8005B756 A466 
+#Materialized point MAX
+801F5F80 C9FF 
+801F5F82 3B9A 
+#Orb MAX of experience
+801E5BF8 C9F6 
+801E5BFA 3B9A 
+#Voice Collection Completed .ON only for a moment, please save the code and then open the collection to complete the voice back to the title screen.
+50004D02 0000 
+801F6EDE FFFF 
+801F6F78 03FF 
+#Voice Collection	
+301F6FFF 00FF
+
+ 

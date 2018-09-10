@@ -1,0 +1,5 @@
+#Lap Timer Set To Zero
+80066EB0 0000
+80066EB2 0000
+#Always First Place
+80087B60 0000

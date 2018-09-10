@@ -1,0 +1,2 @@
+#Always 7 tries in World Tour Mode
+80055FF8 0007

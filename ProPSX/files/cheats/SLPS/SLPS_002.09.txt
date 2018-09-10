@@ -1,0 +1,36 @@
+#Dragon Buster Infinite Credits	
+800C9850 0005
+#Dragon Buster Infinite Fireballs P1	
+800C9990 0002
+801437B0 0101
+#Dragon Buster Infinite Vitality P1	
+800C99F0 0080
+#Dragon BusterInfinite Fireballs P2	
+800C9994 0002
+801438B0 0101
+#Dragon Buster Infinite Vitality P2	
+800C99F4 0080
+#Gaplus Infinite Credits	
+80102BEC 0005
+#Gaplus Infinite Lives P1	
+30151104 0004
+#Gaplus	Infinite Lives P2	
+30151105 0004
+#Grabda Infinite Credits	
+800E9CAC 0005
+#Grabda Infinite Shield (Both Players)	
+80100564 2800
+#Grabda Infinite Lives P1	
+800CAB64 0002
+#Grabda Infinite Lives P2	
+800CAB68 0002
+#Mappy Infinite Credits	
+8017ADF4 0005
+#Mappy Infinite Lives (Both Players)	
+801E38C4 0500
+#Xevious Infinite Lives (Both Players)	
+80180654 0003
+#Xevious Infinite Credits	
+801798B0 0005
+#Super Pac-man Infinite Balls (Both Players)		
+8016C4CC 0005

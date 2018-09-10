@@ -1,0 +1,4 @@
+#Infinite Energy 	
+80083238 FF00
+#Infinite Primary & Secondary Weapons & Level Select
+8007AB5C 0616

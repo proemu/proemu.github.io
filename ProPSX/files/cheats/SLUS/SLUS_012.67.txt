@@ -1,0 +1,4 @@
+#Infinites Lives
+801A3E14 0063
+#Unlock All Levels
+80064A24 FFFF

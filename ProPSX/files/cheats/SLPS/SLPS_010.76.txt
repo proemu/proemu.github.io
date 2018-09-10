@@ -1,0 +1,4 @@
+#Infinite energy 
+800DC714 1518 
+#Infinite Energon
+800DC8B2 FFFF

@@ -1,0 +1,14 @@
+#Infinite Energy
+800CB740 03E7
+#Infinite Chain Gun
+800CB80C 00C8
+#Infinite Sniper Weapon @2
+800CB810 0063
+#Infinite Sniper Granade
+800CB814 0063
+#Infinite Sniper Weapon @4
+800CB818 0063
+#Infinite Motar Shots
+800CB81C 0063
+#Infinite Sniper Weapon @6
+800CB820 0063

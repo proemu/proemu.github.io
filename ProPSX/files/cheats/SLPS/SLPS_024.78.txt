@@ -1,0 +1,4 @@
+#Have always 999 points
+8005E702 03E7
+#Infinite time
+8005E8A4 0001

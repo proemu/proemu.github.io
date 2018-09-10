@@ -1,0 +1,15 @@
+#P1 Infinite health 
+8009FDD4 BB80
+#P1 Infinite counter-attacks		
+3009FEB8 0000
+#Only needs 1 win		
+D009FEA0 0000
+3009FEA0 0001
+#P2 Infinite Heakth
+800A03A8 BB80
+#P2 Sudden Dewath
+D10A03A8 B400
+800A03A8 0000
+#Unlock Everything At Cerebro All training 100 % and ranking A		
+50000A62 0000
+800BCD58 0064

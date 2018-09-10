@@ -1,0 +1,7 @@
+#Infinite Hp
+801BA250 00C0
+#Over Drive
+801BA260 00C0
+#Infinite Time
+80074368 0063
+801B719C 0243

@@ -1,0 +1,23 @@
+#Infinite Armor
+800D43DC 0064
+#Infinite Sidewinders
+80060F26 0020
+#Infinite Rockets
+80060F28 0020
+#Infinite Mavericks
+80060F2A 0020
+#Infinite Napalm
+80060F2C 0020
+#Infinite Bunker Busters
+80060F2E 0020
+#Infinite Cluster Bombs
+80060F30 0020
+#Infinite Fuel Air Explosives
+80060F32 0020
+#Infinite B61 Sram
+80060F34 0020
+#Infinite Amraam
+80060F36 0020
+#Infinite Weapons (.Use this code or the specified Weapon-codes.)
+50000902 0000
+80060F26 0020

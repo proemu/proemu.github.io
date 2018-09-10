@@ -1,0 +1,11 @@
+#Have All Fish In Livewell-Monster	
+5000EF02 0000
+800A6C4E 2A2C
+#Press Select For Super Reel		
+D0144CBA FFFE
+8012B3C8 0000
+#Unlimited time
+800C1124 2710
+#Unlimited credits
+800C0F68 0009
+

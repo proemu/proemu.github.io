@@ -1,0 +1,15 @@
+#Infinite Money-Celts, Romans, Russians
+80117C0C FFFF
+#Infinite Money-Babylonians, Japanese, Zulus
+80118184 FFFF
+#Infinite Money-French, Germans, Vikings
+801186FC FFFF
+#Infinite Money-Aztecs, Egyptians, Spanish
+80118C74 FFFF
+#Infinite Money-Americans, Chinese, Persians
+801191EC FFFF
+#Infinite Money-Carthaginians, Greeks, English
+80119764 FFFF
+#Infinite Money-Indians, Mongols, Sioux
+80119CDC FFFF
+

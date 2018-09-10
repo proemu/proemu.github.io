@@ -1,0 +1,23 @@
+#Infinite Oxygen	
+300AB2CE 0708
+#Infinite health 
+80051F9C 03E8
+80051F9E 3402
+80051FA0 0022
+80051FA2 A602
+#Stage Select Press Select at the title screen to have access to all levels and after loading one level end it and then you can select the level you wanted.	
+D00AA120 0F00
+800A6AEE 0200
+#Infinite Large Medi-Packs
+300AB2CE 00FC
+#Infinite Flares
+800AB400 00FF
+#Have all weapons
+50000402 FFFF
+800AB3D4 0000
+#Infinite ammo UZI	
+800AB404 00FF
+#Infinite ammo Normal gun	
+800AB408 00FF
+#8 golden skulls (Training-level)
+300AB3E3 0008

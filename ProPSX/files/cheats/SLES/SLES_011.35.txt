@@ -1,0 +1,18 @@
+#Infinite Health
+3012708C 0032
+30127090 0032
+#Infinite Money
+D01EAB7C 00FF
+801EAB7C 270F
+#Infinite Magic
+301EAB78 0004
+301EAB7A 0004
+#Mega Jump (.Hold X button down to gain height and tap D button for direction.)
+D0126270 0040
+80127132 0002
+#Have Keys
+301EAC7C 0063
+301EACB4 0001
+301EACAC 0001
+#Warp Gates Open
+301EA73E 00FF

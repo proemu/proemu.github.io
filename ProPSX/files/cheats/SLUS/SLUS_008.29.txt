@@ -1,0 +1,51 @@
+#Infinite Health 1st Impact
+D00895CA FFFF
+800F3278 0064
+#Infinite Health 2nd Impact
+D00895CA FFFF
+80116038 0064
+#Infinite Health 3rd Impact
+D00895CA FFFF
+800F14F8 0064
+#Infinite Health 4th Impact
+D00895CA FFFF
+800F1468 0064
+#Infinite Health 5th Impact
+D00895CA FFFF
+800FD308 0064
+#Infinite Health 6th Impact
+D00895CA FFFF
+800F45A8 0064
+#Infinite Health 7th Impact
+D00895CA FFFF
+800F9B08 0064
+#Infinite Health 8th Impact
+D00895CA FFFF
+800F8A98 0064
+#Infinite Health Final Impact
+D00895CA FFFF
+800EA048 0064
+#Infinite Hustle Time
+800908A0 0003
+#Zan Enable All Impacts (Normal Mode)
+80090726 00FF
+#Zan Enable All Impacts (Hard Mode)
+80090728 00FF
+#Zan Enable All Impacts (Expert Mode)
+8009072A 00FF
+#Zan 2nd Impact-Infinite Time
+D00895CA FFFF
+800BC932 2400
+#Zan 4th Impact-Infinite Time
+D00895CA FFFF
+80030006 2400
+#Sapphire Enable All Impacts (Normal Mode)
+8009072E 00FF
+#Sapphire Enable All Impacts (Hard Mode)
+80090730 00FF
+#Sapphire Enable All Impacts (Expert Mode)
+80090732 00FF
+#Sapphire 2nd & 4th Impact'S-Infinite Time
+D00895CA FFFF
+800BC37A 2400
+

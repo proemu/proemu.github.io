@@ -1,0 +1,7 @@
+#Infinite Health
+800F66D4 03E7
+#Infinite Belly
+300F66A5 00FF
+#Infinite Money
+800F66B0 E0FF
+800F66B2 05F5

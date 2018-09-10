@@ -1,0 +1,21 @@
+#Infinite Time
+8009A930 0B50
+#Infinite Hp P1
+801B0194 0064
+#Infinite Bombs P1
+801B019C 0063
+#Infinite Gun P1
+801B0198 0063
+#Infinite Hp P2
+801D8194 0064
+#Infinite Bombs P2
+801D819C 0063
+#Infinite Gun P2
+801D8198 0063
+#Extra Mode
+8005A9F4 0001
+#Secret Characters (Press L1+R1+O or Press L2+R2+O on character select screen)
+D008080C 0023
+800951E2 0007
+D008080C 002C
+800951E2 0008

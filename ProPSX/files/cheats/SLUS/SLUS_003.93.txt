@@ -1,0 +1,14 @@
+#Inf Health All Characters
+8009A9F8 0000
+#Infinite Coins	
+300D291A 0064		
+#Infinite Batteries	
+300D291B 0064
+#Invincible
+80069D7C 0001
+#First Person view
+80069D7C 0001
+#Give clues
+80069D7C 0004
+#Level Select (Pause game for it; X and Triangle to toggle it; press Start to load level; L1 to increase milliseconds; L2 to increase seconds)
+80069D7C 0008

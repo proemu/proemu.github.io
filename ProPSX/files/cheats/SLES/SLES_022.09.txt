@@ -1,0 +1,60 @@
+#Max Stecker 	
+800BA460 03E7
+#Munition nimmt zu 	
+30063024 0023
+#Unendlich Gesundheit	
+800B1ED4 2312
+#Habe alle Waffen (Regina)	
+800B9F08 FFFF
+#Habe alle Objekte (Regina)	
+50000402 FFFF
+800B9F0E 0000
+#Habe alle Karten	
+50000302 FFFF
+800B9F30 0000
+#Jederzeit speichern Drücke L1 & L2	
+D00AE1F8 0005
+300B03A8 0007
+#Kleiderwechsel freigeschaltet	
+D00BA654 0001
+300BA654 000F
+D00C05A2 0003
+800C05A2 0503
+#Extra Missionen freigeschaltet Drücke R1 & R2 im Hauptmenü	
+D00AE232 F5FF
+800C05A2 0403
+#Alle Missionen	
+300B9E22 0003
+#Nie gespeichert	
+300B9E23 0000
+#Spielzeit bleibt 0:00:00	
+800B9E24 0000
+800B9E26 0000
+#Keine Continues verbraucht
+300B9E2A 0005	
+#Schnellfeuer ohne Nachladen	
+D00B1DFA 0102
+300B1DFA 0001
+50000302 0063
+800B2000 0000
+#Betrachte Endsequenz Erste (Mahlzeit !) Drücke Select & L1	
+D00AE1F8 0104
+300B03A8 000A
+D00AE1F8 0104
+300B03BB 0000
+#Betrachte Endsequenz Zweite (Sonnenaufgang) Drücke Select & L2	
+D00AE1F8 0101
+300B03A8 000A
+D00AE1F8 0101
+300B03BB 0001
+#Betrachte Endsequenz Dritte (Hubschrauber)Drücke Select & R1
+D00AE1F8 0108
+300B03A8 000A
+D00AE1F8 0108
+300B03BB 0002
+#WIPE OUT-MODUS Unendlich Zeit Mission 1
+800BA664 2330
+#WIPE OUT-MODUS Unendlich Zeit Mission 2
+800BA668 1C2C
+#WIPE OUT-MODUS Unendlich Zeit Mission 3
+800BA66C 1520

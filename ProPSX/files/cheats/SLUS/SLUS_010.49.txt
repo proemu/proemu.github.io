@@ -1,0 +1,7 @@
+#Max Money (Casino Games)	
+801C3894 0090
+#Max Score (Money)
+801C3894 FFFF
+801C3896 3400
+#Max Credits (Slots)
+801C387C E0FF

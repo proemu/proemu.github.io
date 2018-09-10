@@ -1,0 +1,9 @@
+#Invincible
+800E0078 0DEF
+#Unlock All Missions
+800E0018 000A
+#Unlock All Missions Alt (Press L1,L2,R1,R2)
+D00C8DF2 F0FF
+800E0018 000A
+#Infinite Rockets
+800E02D2 0900

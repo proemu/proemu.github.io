@@ -1,0 +1,38 @@
+#Cecilia Infinite Hp
+80133E58 270F
+#Cecilia Infinite Mp
+80133E5C 270F
+#Jack Infinite Hp
+80133E24 270F
+#Jack Infinite Mp
+80133E28 270F
+#Rudy Infinite Hp
+80133DF0 270F
+#Rudy Infinite Mp
+80133DF4 270F
+#Cecilia Infinite HP In Battle	
+8016623C 270F
+#Jack Infinite HP In Battle		
+80166064 270F
+#Rudy Infinite HP In Battle		
+80165E8C 270F
+#Infinite Money		
+801341DC 967F
+801341DE 0098
+#No Random Battles		
+800E1100 0000
+800E1104 0000
+#Enable 'Map' Option Under Config		
+D00600F0 2C4E
+D00600FC 0002
+300600FC 0001
+#Have All Items	
+5000FB01 0001
+30133F4C 0000
+5000FB01 0000
+3013404C 00FF
+#Infinite Bullets (All Arms - Rudy)	
+8009D93A 2400
+#Infinite Crest Graphs	
+D013405E 0000 
+8013405E 3232

@@ -1,0 +1,26 @@
+#All characters clear (clear data of the least one person is required to choose the bonus mode)	
+80010050 FFFF
+#Degree of kindred Max Karen	
+30010596 00FF	
+#Degree of kindred Max Spike	
+30010598 00FF
+#Degree of kindred Max Mamoru	
+3001059A 00FF
+#Degree of kindred Max Sakuya	
+3001059c 00FF
+#Degree of kindred Max Hinako	
+3001059E 00FF
+#Degree of kindred Max Temari	
+300105A0 00FF
+#Degree of kindred Max Snow White	
+300105A2 00FF
+#Degree of kindred Max Lingling	
+300105A4 00FF
+#Degree of kindred Max Chikage 
+300105A6 00FF 
+#Degree of kindred Max Spring singing
+300105A8 00FF 
+#Degree of kindred Max Yotsuba 
+300105AA 00FF 
+#Degree of kindred Max The ???
+300105AC 00FF 

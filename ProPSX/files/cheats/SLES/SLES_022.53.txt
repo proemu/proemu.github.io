@@ -1,0 +1,17 @@
+#P1 Quick win 	
+8006144C 0003
+8006144E 1480
+8006145A 3C00 		
+#Start on final Stage 	
+800313B6 0008 		
+#Unlock all characters 	
+50000601 0000
+300313CD 0001 		
+#Unlock all levels  	
+50000401 0000
+300313F9 0001 		
+#Unlock all Extra Modes 	
+3003143F 0001
+#P1 only needs 1 win
+E00313A7 0000
+300313A7 0001

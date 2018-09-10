@@ -1,0 +1,20 @@
+#Infinite Ammo (All Special Weapons On Pick Up)
+D0042E48 FFFF
+30042E4C 0064
+#Infinite Tank Bucks
+800E3DC0 0063
+#Infinite Ammo (Normal Weapon)
+D0042D8C FFFF
+80042D90 0064
+#Infinite Health P1 (Battlelord, Hold-Em, Tank Wars & Campaign Modes)
+800DEAE4 007D
+#Infinite Health P1 (Deathmatch Modes)
+800AAF64 0030
+#Infinite Health P1 (Frenzy & Family Modes)
+800DE54C 007D
+#Infinite Health P2 (Battlelord, Frenzy, Hold Em, Family, Tank Wars & Deathmatch Modes)
+800DF614 007D
+#Infinite Health P2 (Campaign Modes)
+800DF07C 007D
+#Unlock All Levels
+800A60D8 0005

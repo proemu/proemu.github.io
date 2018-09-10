@@ -1,0 +1,37 @@
+#Infinite health Curtis
+801E1632 0044
+#Infinites lives Curtis
+801E162C 0009
+#Infinite health Boris
+801E1852 0044
+#Infinites lives Boris
+801E184C 0009
+#Infinite health Ruby
+801E1A72 0044
+#Infinites lives Ruby
+801E1A6C 0009
+#Infinite Health George	
+801E1C92 0044
+#Infinite Lives George	
+801E1C8C 0005
+#Infinite Health Lizzie	
+801E1EB2 0044
+#Infinite Lives Lizzie	
+801E1EAC 0005
+#Infinite Health Ralph 	
+801E20D2 0044
+#Infinite Lives Ralph 	
+801E20CC 0005
+#Infinite Health Myukus & Neebus
+801E22F2 0044
+#Infinite Lives Myukus & Neebus	
+801E22EC 0005
+#Enable George	
+801FA2DA 0000
+#Enable Lizzie	
+801FA2DC 0000
+#Enable Ralph	
+801FA2DE 0000
+#Enable Myukus	
+801FA2E0 0000
+

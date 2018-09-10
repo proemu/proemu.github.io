@@ -1,0 +1,61 @@
+#Max Score
+800A3F38 E0FF
+800A3F3A 05F5
+#Da Banks (Nyc) Codes\Have All Points
+8009F618 2710
+#Da Banks (Nyc) Codes\Have All Pro Points
+8009F658 4E20
+#Da Banks (Nyc) Codes\Have All Boom Boxes
+3009F698 000A
+#Da Banks (Nyc) Codes\Have All Tech Lines
+3009F6D8 000A
+#S.F. Mission Codes\Have All Points
+8009F61C 2710
+#S.F. Mission Codes\Have All Pro Points
+8009F65C 7530
+#S.F. Mission Codes\Have All Trash Cans
+3009F69C 000A
+#S.F. Mission Codes\Have All Tech Lines
+3009F6DC 000A
+#Burnside Codes\Have All Points
+8009F620 2EE0
+#Burnside Codes\Have All Pro Points
+8009F660 9C40
+#Burnside Codes\Have All Pigeons
+3009F6A0 000A
+#Burnside Codes\Have All Tech Lines
+3009F6E0 000A
+#Slam City Jam Codes\Highest Rank
+8009F624 0001
+#Slam City Jam Codes\Have All Tech Lines
+3009DD2C 000A
+#Atlanta Codes\Have All Points
+8009F628 4E20
+#Atlanta Codes\Have All Pro Points
+8009F668 EA60
+#Atlanta Codes\Have All Roadblocks
+3009F6A8 000A
+#Atlanta Codes\Have All Tech Lines
+3009F6E8 000A
+#Playstation Park London Codes\Have All Points
+8009F62C 7530
+#Playstation Park London Codes\Have All Pro Points
+8009F66C 1170
+8009F66E 0001
+#Playstation Park London Codes\Have All Bottles
+3009F6AC 000A
+#Playstation Park London Codes\Have All Tech Lines
+3009F6EC 000A
+#Detroit Codes\Have All Points
+8009F630 9C40
+#Detroit Codes\Have All Pro Points
+8009F670 3880
+8009F672 0001
+#Detroit Codes\Have All Values
+3009F6B0 000A
+#Detroit Codes\Have All Tech Lines
+3009F6F0 000A
+#Huntington Codes\Highest Rank
+8009F634 0001
+#Huntington Codes\Have All Tech Lines
+3009DD2C 000A

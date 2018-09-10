@@ -1,0 +1,10 @@
+#300 Mudokuns Befreit
+8007E5EA 012C
+#Sofortige ÜBernahme Press L1+L2
+D007E660 0005
+8007E5A8 FFFF
+#Unendlich Wurfsteine
+D01F389E 0008
+801F389E 0009
+#Keine Opfer
+8007E5E8 0000

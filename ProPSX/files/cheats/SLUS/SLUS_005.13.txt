@@ -1,0 +1,28 @@
+#Infinite Health P1
+801435A4 012C
+#Infinite Health P2
+80144A1C 012C
+#Freeze Timer
+8014F688 0DFA
+#No Health P1
+801435A4 0000
+#No Health P2
+80144A1C 0000
+#Bosses Menu Activator Code !
+801F1C08 0005
+#Player 1 Bosses Activator Codes\Eric O
+801FCC94 0000
+#Player 1 Bosses Activator Codes\Joel
+801FCC96 0000
+#Player 1 Bosses Activator Codes\Neige
+801FCC98 0000
+#Player 1 Bosses Activator Codes\Hendrickson
+801FCC9A 0000
+#Player 2 Bosses Activator Codes\Eric O
+801FCCBC 0000
+#Player 2 Bosses Activator Codes\Joel
+801FCCBE 0000
+#Player 2 Bosses Activator Codes\Neige
+801FCCC0 0000
+#Player 2 Bosses Activator Codes\Hendrickson
+801FCCC2 0000

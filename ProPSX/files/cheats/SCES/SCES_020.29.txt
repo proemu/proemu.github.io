@@ -1,0 +1,26 @@
+#Unangreifbar	
+80062CC8 0000
+#Unendlich Kekse	
+800EC2E8 0005
+#Unendlich Leben	
+800F44B4 0064
+#Unendlich Luft	
+800F4DE8 0258
+#99 Energie-Chips	
+D00F44E0 0000
+800F44E0 0063
+#Ein Affe reicht, um Level zu beenden	
+800F44DE 00CE
+#Besitze alle Geräte	
+D00F51E4 0003
+300F51E4 00FF
+#Alle Spectar-Müzen	
+D00F51E4 0003
+300F51E4 00FF
+#Alle Level geschafft/anwählbar	
+50000602 0202
+800DFC90 0000
+800DFCA4 0202
+300DFCA6 0002
+300DFCA8 0002
+300DFCAE 0002

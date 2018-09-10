@@ -1,0 +1,62 @@
+#Unlimited Shield
+800953AC 00C8
+#Unlimited Health
+800953B0 00C8
+#Unlimited Lives
+800952A8 0003
+#Unlimited Ammo Pistol
+8009538C 03E7
+#Unlimited Ammo Repeater Gun
+80095390 03E7
+#Ammo Assault Cannon
+80095394 03E7
+#Ammo Packered Mortar Gun
+8009539C 03E7
+#Thermal Detonators
+80095398 03E7
+#Im Mines
+800953A0 03E7
+#Storm Trooper Laser Rifle
+80095320 FFFF
+#Imperial Repeater Gun
+80095324 FFFF
+#Packered Mortar Gun
+80095328 FFFF
+#Jeron Fusion Cutter
+8009532C FFFF
+#Stocker Con-Cussion Rifle
+80095330 FFFF
+#Assault Cannon
+80095334 FFFF
+#Access All Missions
+8001029C 000E
+#Always Have Red Key
+80095338 FFFF
+#Always Have Yellow Key
+8009533C FFFF
+#Always Have Blue Key
+80095340 FFFF
+#Always Have Ir Goggles
+80095344 FFFF
+#Always Have Ice Cleats
+80095348 FFFF
+#Always Have Gas Mask
+8009534C FFFF
+#Always Have Death Star Plans
+80095350 FFFF
+#Always Have Phrih Metal
+80095354 FFFF
+#Always Have Data Type
+80095358 FFFF
+#Always Have Broken Dt Weapon
+80095364 FFFF
+#Always Have Code 1
+80095368 FFFF
+#Always Have Code 2
+8009536C FFFF
+#Always Have Code 3
+80095370 FFFF
+#Always Have Code 4
+80095374 FFFF
+#Always Have Nava Card
+80095360 FFFF

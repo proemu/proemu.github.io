@@ -1,0 +1,11 @@
+#Infinite Health P1
+800CDEBA 00C8
+#Eveything Unlocked
+50000602 0000
+80066730 FFFF
+#Infinite Health Adventure Mode
+D30B27E0 2801
+800B27E0 6405
+#Max Hearts Score In Adventure Mode
+D3066CC2 0001
+80066CC2 000A

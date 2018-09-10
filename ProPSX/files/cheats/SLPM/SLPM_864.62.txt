@@ -1,0 +1,20 @@
+#P1 Infinite Energy
+800B9174 0065
+#P1 No Energy
+800B9174 0000
+#P1 Max Power Bar
+800B9130 9000
+#P2 Infinite Energy
+800B934C 0065
+#P2 No Energy
+800B934C 0000
+#P2 Max Bar=20
+800B9308 9000
+#P2 No Power Bar
+800B9308 0000
+#Infinite Fight Time
+800BA002 2060
+#Art Gallery  all unlocked
+8008DC82 FFFF 
+#DEMO Gallery All Unlocked
+8008DC80 FFFF 

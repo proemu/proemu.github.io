@@ -1,0 +1,2 @@
+#Infinite Lives Player 1 Arrangement Mode
+80085FD4 0006

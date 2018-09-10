@@ -1,0 +1,55 @@
+#10000 stamina 1P
+801256E2 03E8
+#1000 stamina 2P
+801260EA 03E8
+#0 stamina 2P
+801260EA 0000
+#Invincible	
+80125706 0020
+#Infinite Time	
+80109280 311A
+#Infinite Weapons P1		
+801256C8 0163
+801256CA 6302
+801256CE 0563
+801256D0 6307
+801256D4 0F63
+801256D6 630A
+#Infinite Weapons P2		
+801260CE 6302
+801260D0 0463
+801260D2 6304
+801260D4 0404
+801260D6 0663
+#All 99 trapped 1P
+801256C6 6300
+801256C8 0163
+801256CA 6363
+801256CC 6302
+801256CE 0363
+801256D0 6363
+801256D2 6304
+801256D4 0563
+801256D6 6363
+#1P designation character Van Raily
+30124D60 0000
+#1P designation character John Bishous
+30124D60 0001
+#1P designation character Lou Riche 
+30124D60 0002
+#1P designation character Tico 
+30124D60 0003
+#1P designation character Abdoll Rerin)
+30124D60 0004
+#1P designation character Ugetsu Tenrou
+30124D60 0005
+#1P designation character REM 
+30124D60 0006
+#1P designation character DYN 
+30124D60 0007
+#1P designation character ERG  
+30124D60 0008
+#Death blow 
+D0049A1E 0043 
+80049A1E 0000 
+

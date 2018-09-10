@@ -1,0 +1,18 @@
+#Max Caught Fish Weight	
+800B1464 B18D
+800B0E00 B18D		
+#Max Caught Fish Length	
+800AF618 6428
+800B0E02 6428		
+#Always Catch Fish on First Throw (With this code, use the max weight and length codes to give the fish stats.)
+800C0870 0004
+800C0874 0014
+800C08AC 0500	
+#Always Catch Fish	
+D0079414 0001
+80079414 0004		
+#Unlock All Locations	
+80078A5C FFFF		
+#Unlock All Lures 
+50002402 0000
+80078930 FFFF

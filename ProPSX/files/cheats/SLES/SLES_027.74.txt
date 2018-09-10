@@ -1,0 +1,16 @@
+#Infinite energy MIA tank level 1
+800DCF14 00A2
+#Infinite ammo normal weapon MIA tank level 1
+800DCF32 0064
+#Infinite ammo special weapon MIA tank level 1
+800DCF34 0064
+#Infinite tank bucks
+800E2788 0063
+#Infinite ammo normal weapon motorcycle
+800DEB2A 03E7
+#Infinite energy motorcycle
+800DEB0C 0026
+#Infinite special weapon motorcycle
+800DEB3C 0063
+#Infinite energy Inferno tank
+800DDA44 005A

@@ -1,0 +1,111 @@
+#In Battle Codes Only\Infinite Hp Slot 1 (Turn Off When Out of Battle)
+800F840C FFFF
+#In Battle Codes Only\Infinite Hp Slot 2 (Turn Off When Out of Battle)
+800F8474 FFFF
+#In Battle Codes Only\Infinite Hp Slot 3 (Turn Off When Out of Battle)
+800F84DC FFFF
+#In Battle Codes Only\Infinite Mp Slot 1 (Turn Off When Out of Battle)
+800F8408 03E7
+#In Battle Codes Only\Infinite Mp Slot 2 (Turn Off When Out of Battle)
+800F8470 03E7
+#In Battle Codes Only\Infinite Mp Slot 3 (Turn Off When Out of Battle)
+800F84D8 03E7
+#Save Anywhere
+8009D2A6 0000
+#Infinite Gil
+8009D260 FFFF
+#No Random Battles (World Map)
+8011627C 0000
+#No Random Battle (Elsewhere)
+8007173C 0000
+#Turn Any Growing Chocobo Into A Gold Chocobo
+8009BC4E 0400
+#Chocobo in first stable is gold
+3009D4B7 0004
+#Every Chocobo You Ride Has Gold Abilities	
+300E5674 0004
+D00A0038 17C8
+800A0038 184C
+#Learn Enemy Specials
+8009B5F8 FF2C
+8009B5FA FFFF
+#Cloud Codes\All Limit Attacks
+8009C75A 0FFF
+#Cloud Codes\Level Modifier
+3009C739 0063
+#Cloud Codes\Max Strength
+3009C73A 00FF
+#Cloud Codes\Max Vitality
+3009C73B 00FF
+#Cloud Codes\Max Magic
+3009C73C 00FF
+#Cloud Codes\Max Spirit
+3009C73D 00FF
+#Cloud Codes\Max Dexterity
+3009C73E 00FF
+#Cloud Codes\Max Luck
+3009C73F 00FF
+#Cloud Codes\Infinite Hp
+8009C764 270F
+#Cloud Codes\Max Hp
+8009C766 270F
+#Cloud Codes\Infinite Mp
+8009C768 03E7
+#Cloud Codes\Max Mp
+8009C76A 03E7
+#Cloud Codes\Enable All Limits
+8009AEF2 02DB
+#Cloud Codes\Lucky 7777 Fever
+8009D85C 1E61
+8009D85E 1E61
+#Cloud Codes\When Starting A Battle, Limit Bar is Full
+8009AEDE FF01
+#Tifa Codes\All Limit Attacks
+8009C862 0FFF
+#Tifa Codes\Enable All Limits
+8009AFFA 02DB
+#Tifa Codes\Lucky 7777 Fever
+8009DC9C 1E61
+8009DC9E 1E61
+#Tifa Codes\When Starting A Battle, Limit Bar is Full
+8009AFE6 FF01
+#Barret Codes\All Limit Attacks
+8009C7DE 0FFF
+#Barret Codes\Enable All Limits
+8009AF76 02DB
+#Barret Codes\When Starting A Battle, Limit Bar is Full
+8009AF62 FF01
+#Yuffie Codes\All Limit Attacks
+8009C9EE 0FFF
+#Yuffie Codes\Enable All Limits
+8009B186 02DB
+#Yuffie Codes\When Starting A Battle, Limit Bar is Full
+8009B172 FF01
+#Red XII Codes\All Limit Attacks
+8009C96A 0FFF
+#Red XII Codes\Enable All Limits
+8009B102 02DB
+#Red XII Codes\When Starting A Battle, Limit Bar is Full
+8009B0EE FF01
+#Aerith Codes\All Limit Attacks
+8009C8E6 0FFF
+#Aerith Codes\Enable All Limits
+8009B07E 02DB
+#Aerith Codes\When Starting A Battle, Limit Bar is Full
+8009B06A FF01
+#Cid Codes\All Limit Attacks
+8009CB7A 0FFF
+#Cid Codes\Enable All Limits
+8009B312 02DB
+#Cid Codes\When Starting A Battle, Limit Bar is Full
+8009B2FE FF01
+#Vincent Codes\All Limit Attacks
+8009CAF6 0FFF
+#Vincent Codes\When Starting A Battle, Limit Bar is Full
+8009B27A FF01
+#Cait Sith Codes\All Limit Attacks
+8009CA72 0FFF
+#Cait Sith Codes\Enable All Limits
+8009B20A 02DB
+#Cait Sith Codes\When Starting A Battle, Limit Bar is Full
+8009B1F6 FF01

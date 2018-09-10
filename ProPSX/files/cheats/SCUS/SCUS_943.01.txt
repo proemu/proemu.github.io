@@ -1,0 +1,23 @@
+#Enable Rapier Mode
+D01F701A 0001
+801F701A 0101
+#Enable Rapier Levels
+D01F701A 0101
+801F7046 0101
+#Infinite Race Re-Starts only at this settings: 1 Player, Weaponclass,Championship, AB System, John Dekka.
+D01F7014 0802
+801F7014 0803 
+#Unlimited Race Re-Starts
+8003AD54 0000
+#Unlimited Rockets (On Pickup)
+80028B0C 0000
+#Unlimited Turbo's (On Pickup)
+80028D7C 0000
+#Unlimited Shields (On Pickup)
+80028CA0 0000
+#Unlimited Mines (On Pickup)
+80028BC0 0000
+#Unlimited Missiles (On Pickup)
+80028B58 0000
+#Unlimited Shockwaves (On Pickup)
+80028C18 0000

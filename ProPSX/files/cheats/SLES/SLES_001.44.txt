@@ -1,0 +1,6 @@
+#Unendlich Waffen	
+8007344E 0063
+80073450 0063
+80073452 0063
+#Unendlich Energie	
+800732DC 00DF

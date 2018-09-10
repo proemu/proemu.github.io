@@ -1,0 +1,40 @@
+#Infinite Health (Still Die From Falling To Far)
+800B868C 0063
+#Always Full Force Power
+800B8498 1000
+#Legs Don't Work
+80088CDA 0020
+#Have Blaster + Infinite Ammo
+800B86A4 0063
+#Have Light Repeating Blaster + Infinite Ammo
+800B86A8 0063
+#Have Proton Missile Launcher + Infinite Ammo
+800B86AC 0063
+#Have Thermal Detonator + Infinite Ammo
+800B86B0 0063
+#Have Gungan Energy Ball + Infinite Ammo
+800B86B4 0063
+#Have Flash Grenade + Infinite Ammo
+800B86B8 0063
+#Have Droid Stunner
+800B86C0 0001
+#Have R-65 Heavy Blaster + Infinite Ammo
+800B86C4 0063
+#Have Naboo Blaster + Infinite Ammo
+800B86C8 0063
+#Infinite Health Qui-Gon Jinn
+800B86D8 0064
+#Captain Panaka Have Weapons + Infinite Ammo
+800B8740 01F4
+800B8760 004B
+800B875C 0064
+#Queen Amidala Infinite Health
+800B8770 0064
+#Press R1 To Get A Speed Boost
+E0077774 0008
+800B8354 1000
+#Hold Jump For Moon Jump
+E0077774 0040
+800B8358 0190
+#Infinite Health Captain Panaka
+800B8724 0064

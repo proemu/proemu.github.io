@@ -1,0 +1,4 @@
+#Damage (Stage 1) 
+80111DC8 04B0 
+#Damage (Stage 2) 
+80112BFC 04B0 

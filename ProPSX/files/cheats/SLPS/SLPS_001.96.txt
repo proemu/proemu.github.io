@@ -1,0 +1,56 @@
+#Infinite HP Main character unit in level 1
+80102F80 0C1C
+#Infinite HP Main character unit in level 2
+80102FF8 0C1C
+#Infinite HP 2nd character unit in level 1
+80102FBC 0FA0
+#Infinite HP Mazinger Z unit in level 2
+80102F80 0C1C
+#Infinite HP 2nd character unit in level 2 (Aphrodite A)
+80102FBC 0AF0
+#Max Money
+801047A8 FFFF
+#All Improved Weapon
+801046E0 0099
+801046E2 9999
+801046E4 9999
+801046E6 9999
+801046E8 9999 
+#Infinite Money
+801047A8 967F
+801047AA 0098
+#Select all demo fully open
+80104706 FFFF 
+80104708 00FF
+#100% robot Encyclopedia May need to save
+80106090 FFFF 
+80106092 FFFF 
+80106094 FFFF 
+80106096 FFFF 
+80106098 FFFF 
+8010609A FFFF 
+8010609C FFFF 
+8010609E FFFF 
+801060A0 FFFF 
+801060A2 FFFF 
+801060A4 FFFF 
+801060A6 FFFF 
+801060A8 FFFF 
+801060AA FFFF 
+801060AC FFFF 
+801060AE FFFF 
+801060B0 FFFF 
+801060B2 FFFF 
+801060B4 FFFF 
+#The damage MAX by rage and weapons map 
+8010516C FFFF
+#does not decrease EN 
+D01255C4 1023 
+801255C6 0040
+#Mental command can be used any number of times (modified) 
+80105290 FFFF 
+#Experience Gained 32767 after combat 
+8010527E FFFF 
+30105284 007F 
+#A debug mode 
+80104812 FFFF

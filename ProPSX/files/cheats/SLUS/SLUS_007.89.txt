@@ -1,0 +1,106 @@
+#Infinite Health
+80145A9A 0064
+8012007E 000A
+#Infinite Lives
+80120008 0063
+#Max Money
+8011FD0C 967F
+8011FD0E 0098
+#Infinite Bonus & Kill Frenzy Time
+800A419A 2400
+#No Cops
+80145A8E 0000
+#Lots Of Cops
+80145A8E 2EE0
+#No Kills
+8012A870 0000
+#Max Number Of Kills
+8012A870 FFFF
+#Have Weapon Codes\Pistol Max Ammo
+D0164D6C 0000
+80164D6C 03E7
+#Have Weapon Codes\Pistol (Kill Frenzy Ammo)
+D0164D6C 0000
+80164D6C FFFF
+#Have Weapon Codes\S-Uzi Machine Gun Max Ammo
+D0164D94 0000
+80164D94 03E7
+#Have Weapon Codes\S-Uzi Machine Gun (Kill Frenzy Ammo)
+D0164D94 0000
+80164D94 FFFF
+#Have Weapon Codes\Rocket Launcher Max Ammo
+D0164DBC 0000
+80164DBC 03E7
+#Have Weapon Codes\Rocket Launcher (Kill Frenzy Ammo)
+D0164DBC 0000
+80164DBC FFFF
+#Have Weapon Codes\Zapper Max Ammo
+D0164DE4 0000
+80164DE4 03E7
+#Have Weapon Codes\Zapper (Kill Frenzy Ammo)
+D0164DE4 0000
+80164DE4 FFFF
+#Have Weapon Codes\Molotav Cocktail Max Ammo
+D0164E0C 0000
+80164E0C 03E7
+#Have Weapon Codes\Molotav Cocktail (Kill Frenzy Ammo)
+D0164E0C 0000
+80164E0C FFFF
+#Have Weapon Codes\Grenades Max Ammo
+D0164E34 0000
+80164E34 03E7
+#Have Weapon Codes\Grenades (Kill Frenzy Ammo)
+D0164E34 0000
+80164E34 FFFF
+#Have Weapon Codes\Shotgun Max Ammo
+D0164E5C 0000
+80164E5C 03E7
+#Have Weapon Codes\Shotgun (Kill Frenzy Ammo)
+D0164E5C 0000
+80164E5C FFFF
+#Have Weapon Codes\Tazer Max Ammo
+D0164E84 0000
+80164E84 03E7
+#Have Weapon Codes\Tazer (Kill Frenzy Ammo)
+D0164E84 0000
+80164E84 FFFF
+#Have Weapon Codes\Flame Thrower Max Ammo
+D0164EAC 0000
+80164EAC 03E7
+#Have Weapon Codes\Flame Thrower (Kill Frenzy Ammo)
+D0164EAC 0000
+80164EAC FFFF
+#Have Weapon Codes\All Weapons (Normal Max Ammo)
+D0164D6C 0000
+50000B28 0000
+80164D6C 03E7
+#Have Weapon Codes\All Weapons (Kill Frenzy Ammo)
+D0164D6C 0000
+50000B28 0000
+80164D6C FFFF
+#Have Weapon Codes\Open All Normal Areas
+80024F24 0003
+#Have Weapon Codes\Open All Bonus Areas
+D0024F1C 0000
+80024F1C 0001
+80024F28 0009
+#In-Game Cheats\Invincible
+30026348 0001
+#In-Game Cheats\All Areas Unlocked
+30026349 0001
+#In-Game Cheats\No Cops
+3002634A 0001
+#In-Game Cheats\5X Multiplier
+3002634B 0001
+#In-Game Cheats\10 Million Points
+3002634C 0001
+#In-Game Cheats\All Weapons
+3002634E 0001
+#In-Game Cheats\Most Wanted
+3002634F 0001
+#In-Game Cheats\Bonus Multiplier X99
+80120040 0063
+#In-Game Cheats\Respect From All Gangs
+801789E4 7530
+801788B4 7530
+80178784 7530

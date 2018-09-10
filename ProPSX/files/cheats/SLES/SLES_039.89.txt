@@ -1,0 +1,4 @@
+#Player 1 has 999 points
+8006D0EC 03E7
+#Infinite energy Player 1
+8006D0E8 0005

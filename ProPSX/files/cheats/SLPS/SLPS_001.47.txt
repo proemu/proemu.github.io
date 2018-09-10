@@ -1,0 +1,8 @@
+#Unlimited Lives
+80151880 0008
+#Infinite Time
+801430DC 0001
+#Hold Down Square To Make 1st Shot Fly Straight
+D0143090 0080
+80152DCC 4000
+

@@ -1,0 +1,48 @@
+#Infinite health	
+800F1D80 0064
+#Infinite mana	
+80105438 0064
+#Infinite gold	
+80105428 0064
+#Have infinite healing potions	
+8010542A 0063
+#Have infinite mana potions	
+8010542C 0063
+#Have infinite Vanish Dusts	
+80105430 0063
+#Have infinite Throwing Axes	
+801053B4 0063
+#Have infinite Exploding Gems	
+801053B8 0063
+#Have Battle Axe	
+80105394 0001
+#Have Long Sword	
+80105396 0001
+#Have Mace	
+80105398 0001
+#Have War Hammer	
+8010539A 0001
+#Have Spiked Shield	
+801053CA 0001
+#Have Kite Shield	
+801053CC 0001
+#Have Tower Shield	
+801053CE 0001
+#Have Thunder Maker-Talisman	
+801053F4 0001
+#Have Bonemender-Talisman	
+801053F6 0001
+#Have Nightbringer-Talisman	
+801053F8 0001
+#Have Oakheart-Talisman	
+801053FA 0001
+#Have Flamefang-Talisman	
+801053FC 0001
+#Have Star of Erathia-Talisman	
+801053FE 0001
+#Have Razors Edge-Talisman	
+80105400 0001
+#Have Soul Bastion-Talisman	
+80105402 0001
+#Have Ice Claw-Talisman	
+80105404 0001

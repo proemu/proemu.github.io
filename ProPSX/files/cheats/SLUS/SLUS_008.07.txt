@@ -1,0 +1,57 @@
+#Adventure Mode\Infinite Lives
+800B99F8 0004
+#Adventure Mode\Max Score
+D0114FE8 0000
+80114FE8 FFFF
+#Adventure Mode\Enable The Crack Of Doom Level
+800569B0 0001
+#Adventure Mode\Enable Four Score Level
+800569EC 0001
+#Adventure Mode\Enable City Wall Level
+80056A28 0001
+#Adventure Mode\Enable Ant May Level
+80056A64 0001
+#Adventure Mode\Enable Trapped Under Ice Level
+80056AA0 0001
+#Adventure Mode\Enable A Glacier Runs Through It Level
+80056B18 0001
+#Adventure Mode\Enable Iceburg Let Us Level
+80056B54 0001
+#Adventure Mode\Enable Celtic Frost Level
+80056B90 0001
+#Adventure Mode\Enable Motel Of Lost Champions Level
+80056BCC 0001
+#Adventure Mode\Enable Huckleberry Friend Level
+80056C08 0001
+#Adventure Mode\Enable Jump In The Fire Level
+80056C44 0001
+#Adventure Mode\Enable A Bridge Over Molten Magma Level
+80056C80 0001
+#Adventure Mode\Enable Schmokenden Level
+80056CBC 0001
+#Adventure Mode\Enable Furnace Of Fools Level
+80056CF8 0001
+#Adventure Mode\Enable But It's A Dry Heat Level
+80056D34 0001
+#Adventure Mode\Enable Born Of Fire Level
+80056D70 0001
+#Adventure Mode\Enable A Hero's Reckoning Level
+80056DAC 0001
+#Adventure Mode\Enable This Mad Machinery Level
+80056F50 0001
+#Adventure Mode\Enable Curiosity Caught The Wee Level
+80056F8C 0001
+#Adventure Mode\Enable Things Crawl In The Darkness Level
+80056FC8 0001
+#Adventure Mode\Enable Your Back's Against No Wall Level
+80057004 0001
+#Adventure Mode\Enable Her Dead Power, The Queen Pede Level
+80057040 0001
+#Adventure Mode\Have Last Level Completed
+8005707C 0001
+#Adventure Mode\When Paused Press Right To Gain Extra Lives
+800B96CC 0001
+#Arcade Mode\P1 Infinite Lives
+80095DCC 0003
+#Arcade Mode\P2 Infinite Lives
+80095DD0 0002

@@ -1,0 +1,20 @@
+#Infinite Saves
+800792B6 0000
+#Unlock stories
+800110C8 6981
+800110CA 9981
+800110CC 8F82
+800110CE 9981
+800110D0 6A81
+800110D4 6981
+800110D6 9981
+800110D8 8F82
+800110DA 9981
+800110DC 6A81
+800110E4 6981
+800110E6 9981
+800110E8 8F82
+800110EA 9981
+800110EC 6A81
+#Kamaitachi no Yoru selectable naughty little .After the game start, enter the movement screen by pressing the Triangle button, please select the 126 number.
+301F5DB6 0001  

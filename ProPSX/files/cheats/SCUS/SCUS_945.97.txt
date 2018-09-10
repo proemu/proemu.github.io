@@ -1,0 +1,18 @@
+#Infinite Time
+800A7F4C 03B8
+#Infinite Misses
+80077864 0000
+#Unlock All Levels
+8006BE34 FFFF
+8006BE36 FFFF
+8006BE38 FFFF
+3006BE3A 00FF
+#Unlock All Characters
+8006C2FC FFFF
+#Unlock All Boards
+3006BF0C 00FF
+#Have All Medals
+8006BE3C FFFF
+8006BE3E FFFF
+#Always 1st Place
+800A6892 0000

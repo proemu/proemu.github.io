@@ -1,0 +1,18 @@
+#Infinite Creation Points
+301386EC 0064
+#Home Score 100
+800A8810 0064
+#Home Score 0
+800A8810 0000
+#Away Score 100
+800A8E64 0064
+#Away Score 0
+800A8E64 0000
+#Home Team Infinite Time-Outs
+300A8818 0006
+#Away Team Infinite Time-Outs
+300A8E6C 0006
+#Home Team No Time-Outs
+300A8818 0000
+#Away Team No Time-Outs
+300A8E6C 0000

@@ -1,0 +1,21 @@
+#Infinite Hp
+801C2F9C 00C8
+#Always Empty Ap
+801AF96C 0000
+#Infinite Nalcon Ppec Gauge
+801AF978 00C8
+#Infinite Red Ppec Gauge
+801AF97C 00C8
+#Infinite D-Felon Ppec Gauge
+801AF980 00C8
+#Psychic Power Level Maxed
+301AF994 0003
+#Have D-Felon Ability
+801AF9AE FFFF
+#Overall Time Is 0:00:00
+801AFDEC 0000
+#Have Max Item Slots
+801AFAFE 0028
+#Have All Movies
+801FD004 FFFF
+801FD006 FFFF

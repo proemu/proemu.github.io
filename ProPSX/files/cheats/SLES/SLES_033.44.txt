@@ -1,0 +1,6 @@
+#999 tickets rojos
+8008899A 03E7
+#999 tickets dorados
+8008899C 03E7
+#Consigue todos los premios
+80088990 03E7

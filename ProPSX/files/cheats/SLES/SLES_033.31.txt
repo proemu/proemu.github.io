@@ -1,0 +1,55 @@
+#Infinite air	
+8004B670 0708
+#Torches burn constantly 
+80049F28 0020
+80049F2A 2402
+#Infinite big medi pak 
+800A73AC 000F	
+#Select Cutscene! (Press Select & L1)	
+D00A60BA FBFE
+50000204 0002
+800A28A2 FFFE
+#All levels Don't select the last three levels, they don't exist. (Press Select & L2)	
+D00A60BA FEFE
+50000204 0000
+800A28A6 0002
+#Special features unlocked	
+50000202 0909
+800AD016 0000
+#Infinite ammo all weapons 
+8004886C 04BE
+#Infinite Health Streets Of Rome 
+801CB832 03E8
+#Infinite Health Trajans Markets
+801D21A6 03E8
+#Infinite Health Collessum 
+801BBA12 03E8
+#Infinite Health The Base 
+801D307E 03E8
+#Infinite Health The Submarine 
+801D31D2 03E8
+#Infinite Health Deapsea Dive 
+80184D42 03E8
+#Infinite Health Sinkinig Submarine 
+801D8BEE 03E8
+#Infinite Health Gallows Tree 
+801C3AD6 03E8
+#Infinite Health Labyrinth
+801D2C66 03E8
+#Infinite Health The Old Mill 
+801C7EAA 03E8
+#Infinite Health The 13th Floor
+801CDEB6 03E8
+#Infinite Health Escape With The Iris
+801CC252 03E8
+#Infinite Health Reda Alert
+801C4DFE 03E8
+#Infinite Health Security Breach
+801C4DFE 03E8
+
+
+
+
+
+
+

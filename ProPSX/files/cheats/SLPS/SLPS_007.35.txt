@@ -1,0 +1,15 @@
+#Infinite Fuel 
+80083C06 6400 
+#Infinite Armor 
+80083B00 05DC 
+#Infinite Ammunition 
+800F569C 05DC 
+#Infinite Fuel Program Code
+D002DBE6 0043 
+8002DBE6 0040 
+#Infinite bullets Program Code
+D004C36A 2482 
+8004C368 0000 
+#Infinite Attempts Program Code
+D002DFEE 2482 
+8002DFEC 0000 

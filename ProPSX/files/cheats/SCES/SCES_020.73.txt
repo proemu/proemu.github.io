@@ -1,0 +1,11 @@
+#Unendlich Energie
+800A51A6 3C00
+#Unendlich Nanometall
+800A5196 3C00
+#Unendlich Leben
+800A4BB0 0000
+#Unendlich Tinies	
+800A4BB0 0000
+800A4C8C 0000
+#Unendlich Tiny Tinies	
+800A9AEC 0000

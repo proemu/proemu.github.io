@@ -1,0 +1,31 @@
+#Unendlich Hp
+801C324C 00C8
+#Ap Immer 0
+801B2ACC 0000
+#Unendlich Nalcon Ppec-Anzeige
+801B2AD8 00C8
+#Unendlich Red Ppec-Anzeige
+801B2ADC 00C8
+#Unendlich D-Felon Ppec-Anzeige
+801B2AE0 00C8
+#Max Mentale Energiestufe
+801B2AF4 00C8
+#Habe D-Felon-Faehigkeit
+801B2B0E FFFF
+#Gesamtzeit Immer 0:00:00
+801B2F4C 0000
+#Unendlich Medizin\Platz 1 : Nalcon
+801B2C60 0000
+#Unendlich Medizin\Platz 2 : Red
+801B2C62 0001
+#Unendlich Medizin\Platz 3 : D-Felon
+801B2C64 0002
+#Unendlich Medizin\Platz 4 : Erholungskapsel
+801B2C66 0003
+#Unendlich Medizin\Platz 5 : Delmetor
+801B2C68 0004
+#Unendlich Medizin\Platz 6 : Appolinar
+801B2C6A 0005
+#Unendlich Medizin\Platz 7 : Skip
+801B2C6C 0006
+

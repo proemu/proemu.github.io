@@ -1,0 +1,12 @@
+#Infinite Energy P1
+801DA072 0068
+#Infinite Energy P2
+801DA176 0068
+#Invincible (P1)		
+801DA0D6 000F
+#Invincible (P2)		
+801DA1DA 000F
+#Inf. Lives (P1)		
+801DA070 0009
+#Inf. Lives (P2)		
+801DA174 0009

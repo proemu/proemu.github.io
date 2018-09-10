@@ -1,0 +1,27 @@
+#5 Million Points Score
+D002BF1C 0000
+8002BF1C 4FFF
+D002BF1E 0000
+8002BF1E 004C
+#Infinite Lives
+8002C072 0004
+#Infinite Pistol Ammo
+3002C07D 0063
+#Infinite Machine Gun Ammo
+3002C07E 0063
+#Infinite Rocket Ammo
+3002C07F 0063
+#Infinite Flame Thrower Fuel
+3002C080 0063
+#Unlock Mods & Sods Level
+80026848 0001
+#Unlock Chelsea Smile Level
+8002684C 0001
+#Unlock Dead Certainty Level
+80026850 0001
+#Max Bonus Multiplier
+8002C06E 0063
+#Have Get Out Of Jail Free Card
+8002C08A 0001
+#No Cops
+8002BF08 0000

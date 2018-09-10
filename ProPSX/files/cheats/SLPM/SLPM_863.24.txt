@@ -1,0 +1,10 @@
+#Fuka No Wind
+8005B690 0000
+8005B692 2402
+#100-Point Evaluation
+8009E9E4 0064
+8009E9E6 2404
+#Bonus game open
+80144FCA 0007
+#All Movies
+80144FCC FFFF

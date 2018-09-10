@@ -1,0 +1,22 @@
+#P1 Unendlich Ausdauer
+801DA716 0063
+801DA73E 0063
+#P1 Keine Ausdauer
+801DA716 0000
+801DA73E 0000
+#P1 Maximale St‰Rke
+801DA744 1500
+#P1 Keine St‰Rke
+801DA744 0000
+#P2 Unendlich Ausdauer
+801DB0D2 0063
+801DB0FA 0063
+#P2 Keine Ausdauer
+801DB0D2 0000
+801DB0FA 0000
+#P2 Maximale St‰Rke
+801DB100 1500
+#P2 Keine St‰Rke
+801DB100 0000
+#Unendlich Zeit In Der 1. Runde + Unendlich Lang Klammern
+801FE730 16BC

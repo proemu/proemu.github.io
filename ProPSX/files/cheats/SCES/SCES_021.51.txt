@@ -1,0 +1,11 @@
+#Unendlich Munition MP 	
+80020F4C 0000
+80020F4E 0000
+#Unendlich Gesundheit 	
+800490E0 0000
+800490E2 0000
+#Unendlich Medizin 	
+80020FB4 0000
+80020FB6 0000
+#Stoppuhr anhalten 	
+8008BD48 0000

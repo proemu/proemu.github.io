@@ -1,0 +1,15 @@
+#Infinite Lives
+800D9BA8 0009
+#Infinite Credits
+800D9FE4 0009
+#Exp Modifier
+800D9C24 FFFF
+#Have All Spells
+800AF060 0F00
+800D9C24 0F00
+#Total Experience Points
+800D9C24 9999
+#1 Hit Death Opponents
+800AF998 0F00
+800DA55C 0F00
+

@@ -1,0 +1,4 @@
+#Infinite lives
+3003D7C5 0009
+#Infinite energy
+8003E3A2 000A

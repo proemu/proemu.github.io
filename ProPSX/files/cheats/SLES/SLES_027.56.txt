@@ -1,0 +1,222 @@
+#Unendlich Hp
+D011FA2E 8011
+8011FA58 03E7
+#Max Hp
+D011FA2E 8011
+8011FA5A 03E7
+#Unendlich Mp
+D011FA2E 8011
+8011FA5C 03E7
+#Max Mp
+D011FA2E 8011
+#Moonjump
+D003FF5A 7FFF
+801203C2 FDF9
+#Zeit 00:00:00
+D0042BD4 15F4
+80042BD4 0000
+D0042BD4 15F4
+80042BD6 0000
+8011FA5E 03E7
+#'Risk' Immer Zero
+3011FA60 0000
+#'Body' Immer Excellent
+3012006C 00C8
+#'Right Arm' Immer Excellent
+3011FEB4 00C8
+#'Left Arm' Immer Excellent
+3011FDD8 00C8
+#'Head' Immer Excellent
+3011FF90 00C8
+#'Legs' Immer Excellent
+30120148 00C8
+#Super Strength
+D011FA2E 8011
+8011FA62 270F
+#Max Strength
+D011FA2E 8011
+8011FA64 270F
+#Super Intelligence
+D011FA2E 8011
+8011FA66 270E
+#Max Intelligence
+D011FA2E 8011
+8011FA68 270E
+#Super Agility
+D011FA2E 8011
+8011FA6A 270F
+#Max Agility
+D011FA2E 8011
+8011FA6C 270F
+#Durch W‰Nde Gehen\An
+D003FF5A F0FF
+800A571C 2400
+D003FF5A F0FF
+800A596A 1000
+D003FF5A F0FF
+800A59CE 2400
+D003FF5A F0FF
+800A59D6 1000
+D003FF5A F0FF
+800A5B7E 1000
+D003FF5A F0FF
+800A5C3E 1000
+D003FF5A F0FF
+800A5DD6 1000
+D003FF5A F0FF
+800A650E 2400
+D003FF5A F0FF
+800A70A6 2400
+D003FF5A F0FF
+800A752A 1000
+.Dr¸cke L1 & L2 & R1 & R2
+#Durch W‰Nde Gehen\Aus
+D003FF5A F0FE
+800A571C 9821
+D003FF5A F0FE
+800A596A 1040
+D003FF5A F0FE
+800A59CE 1040
+D003FF5A F0FE
+800A59D6 1240
+D003FF5A F0FE
+800A5B7E 1645
+D003FF5A F0FE
+800A5C3E 1642
+D003FF5A F0FE
+800A5DD6 1860
+D003FF5A F0FE
+800A650E A600
+D003FF5A F0FE
+800A70A6 2402
+D003FF5A F0FE
+800A752A 1040
+.Dr¸cke L1 & L2 & R1 & R2 & Select
+#Max Gegenst‰Nde-Codes\Inventarplatz 1
+300614EA 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 2
+300614EE 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 3
+300614F2 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 4
+300614F6 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 5
+300614FA 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 6
+300614FE 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 7
+30061502 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 8
+30061506 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 9
+3006150A 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 10
+3006150E 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 11
+30061512 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 12
+30061516 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 13
+3006151A 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 14
+3006151E 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 15
+30061522 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 16
+30061526 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 17
+3006152A 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 18
+3006152E 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 19
+30061532 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 20
+30061536 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 21
+3006153A 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 22
+3006153E 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 23
+30061542 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 24
+30061546 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 25
+3006154A 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 26
+3006154E 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 27
+30061552 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 28
+30061556 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 29
+3006155A 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 30
+3006155E 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 31
+30061562 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 32
+30061566 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 33
+3006156A 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 34
+3006156E 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 35
+30061572 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 36
+30061576 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 37
+3006157A 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 38
+3006157E 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 39
+30061582 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 40
+30061586 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 41
+3006158A 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 42
+3006158E 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 43
+30061592 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 44
+30061596 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 45
+3006159A 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 46
+3006159E 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 47
+300615A2 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 48
+300615A6 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 49
+300615AA 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 50
+300615AE 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 51
+300615B2 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 52
+300615B6 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 53
+300615BA 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 54
+300615BE 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 55
+300615C2 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 56
+300615C6 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 57
+300615CA 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 58
+300615CE 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 59
+300615D2 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 60
+300615D6 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 61
+300615DA 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 62
+300615DE 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 63
+300615E2 0064
+#Max Gegenst‰Nde-Codes\Inventarplatz 64
+300615E6 0064

@@ -1,0 +1,15 @@
+#Infinite Hp
+8018370C 03E7
+#Knowledge Max
+801D30DC 03E7
+#Physical fitness Max 
+801D30EO 03E7
+#Social Max
+801D30E4 03E7 
+#Appearance Max
+801D30EC 03E7
+#Sense Max
+801D30F0 03E7
+#Infinite Money (99999)
+8018375C 0001
+8018375C 869F

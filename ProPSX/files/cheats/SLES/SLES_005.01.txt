@@ -1,0 +1,2 @@
+#Have 999 points in championship mode
+8001001C 03E7

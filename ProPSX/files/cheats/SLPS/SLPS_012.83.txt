@@ -1,0 +1,12 @@
+#Time will be returned in  minigame press L2 + R2 button
+D0075BF8 0000 
+800B0558 0000 
+#Do not miss more games to match sound
+D00C1B20 6C54 
+800C1B24 0000 
+#Bomubomugemu minigame invincible
+D00C1BAC 0040 
+800C1BAE 1000 
+#Infinite Popcorn in  popcorn minigame  
+D00C382C 0001 
+800C382C 0000

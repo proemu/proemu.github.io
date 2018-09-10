@@ -1,0 +1,14 @@
+#Infinite Sp P1
+8009A986 0500
+#Infinite Sp P2
+8009B296 0500
+#Enable All Modes
+80010C0A 0000
+300103E1 0000
+#Information Mode-Have All Selections
+80010C0C 0000
+80010C0E 0000
+80010C10 0000
+80010C12 0000
+#Have 3 Secret SonCheat Device
+300103E0 0000

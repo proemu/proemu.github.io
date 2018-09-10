@@ -1,0 +1,8 @@
+#Infinite Life P1
+800D0B24 00C8
+#Infinite Life P2
+800D1EC0 00C8
+#1-Hit Death P1
+800D0B24 0000
+#1-Hit Death P2
+800D1EC0 0000

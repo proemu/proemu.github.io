@@ -1,0 +1,106 @@
+#Unendlich Lebenskraft
+800C6F12 00C8
+#Schrotgewehr L1 + Quadrat
+D00C5504 0084
+800CBC00 FF07
+#Spezialgewehr L2 + Dreieck
+D00C5504 0011
+800CBC00 FF08
+#Magnum L1 + Dreieck
+D00C5504 0014
+800CBC00 FF05
+#Spezial-Magnum L1 + X
+D00C5504 0044
+800CBC00 FF06
+#Gatling-Gun R2 + Quadrat
+D00C5504 0082
+800CBC00 FF12
+#Flammenwerfer R2 + Dreieck
+D00C5504 0012
+800CBC00 FF10
+#Raketenwerfer R2 + X
+D00C5504 0042
+800CBC00 FF11
+#Durch WäNde Gehen L1 aktivieren/L2 deaktivieren
+D00C5504 0004
+800C6EC2 0C0F
+D00C5504 0001
+800C6EC2 1500
+#Kisteninhalt\Handfeuerwaffe
+800CBC2C FF04
+#Kisteninhalt\Magnum
+800CBC30 FF05
+#Kisteninhalt\Spezial-Magnum
+800CBC34 FF06
+#Kisteninhalt\Schrotgewehr
+800CBC38 FF07
+#Kisteninhalt\Spezialgewehr
+800CBC3C FF08
+#Kisteninhalt\Colt S.A.A.
+800CBC40 FF0D
+#Kisteninhalt\Mg
+800CBC44 FF0F
+#Kisteninhalt\Flammenwerfer
+800CBC48 FF10
+#Kisteninhalt\Raketenwerfer
+800CBC4C FF11
+#Kisteninhalt\Gatling-Gun
+800CBC50 FF12
+#Kisteninhalt\HauptschlüSsel
+800CBCD8 0162
+#Kisteninhalt\Labor-SchlüSsel
+800CBCDC 0161
+#Kisteninhalt\Dietrich
+800CBCE0 0130
+#Kisteninhalt\RevierschlüSsel
+800CBCE4 0159
+#Kisteninhalt\KabinenschlüSsel
+800CBCE8 0158
+#Kisteninhalt\SonderschlüSsel
+800CBCEC 0153
+#Kisteninhalt\G-Virus
+800CBCF0 0152
+#Kisteninhalt\Wolfmedaille
+800CBCF4 0149
+#Kisteninhalt\Adlermedaille
+800CBCF8 0148
+#Kisteninhalt\Einhornmedaille
+800CBCFC 0147
+#Kisteninhalt\Roter Edelstein
+800CBD00 0133
+#Kisteninhalt\KöNigsstecker
+800CBD04 013E
+#Kisteninhalt\Springerstecker
+800CBD08 013D
+#Kisteninhalt\Turmstecker
+800CBC0C 013C
+#Kisteninhalt\LäUferstecker
+800CBC10 013B
+#Kisteninhalt\Armbrustbolzen
+800CBD14 041D
+#Kisteninhalt\Kabel
+800CBD18 0156
+#Kisteninhalt\PlattformschlüSsel
+800CBD20 0163
+#Kisteninhalt\SchlüSsel
+800CBD24 031F
+#Kisteninhalt\FarbbäNder
+800CBD28 FF1E
+#Kleidung\Mit Tasche Am GüRtel
+800CB9F0 0002
+#Kleidung\Bandagiert
+800CB9F0 0004
+#Kleidung\Bandagiert Und Tasche
+800CB9F0 0006
+#Kleidung\Rpd (Geheime Kleidung 1)
+800CB9F0 0008
+#Kleidung\Lederanzug (Geheime Kleidung 2)
+800CB9F0 000A
+#Kleidung\Hunk.
+800CB9F0 000C
+#Kleidung\Tofu Block
+800CB9F0 000D
+#Kleidung\Ada (Frau)
+800CB9F0 000E
+
+

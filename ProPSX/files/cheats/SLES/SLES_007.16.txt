@@ -1,0 +1,11 @@
+#Total race time always 00:00:00
+80072A9F 0000
+#Infinite Time
+8007285C 0063
+#Always be 1st	
+800EA3D0 0001
+#All Vehicles Unlocked		
+80072A30 FFFF
+#Hidden 'Very Easy' Difficulty		
+30072A34 0003
+

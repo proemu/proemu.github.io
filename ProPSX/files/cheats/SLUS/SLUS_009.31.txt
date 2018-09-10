@@ -1,0 +1,71 @@
+#P1 Have All Pins Collected
+3007AF9A 000A
+#P1 Have All Gems Collected
+C207AF9C 0001
+3009A29C 0000
+#P1 Have All Dodo Birds Collected
+3007AF9B 0003
+#P1 Quick Max Score
+8007AF80 FFFF
+#P1 Infinite Gutter Ball Tries
+3007AF98 0001
+#P1 Add Time In Bonus Rounds .Press Select
+D00A5B44 0100
+8009A314 03E7
+#P2 Quick Max Score
+8007AFD0 FFFF
+#P2 Infinite Gutter Ball Tries
+3007AFE8 0001
+#P2 Have All Pins Collected
+3007AFEA 000A
+#P2 Have All Dodo Birds Collected
+3007AFEB 0003
+#P2 Have All Gems Collected
+C207AFEC 0001
+3009A29C 0000
+#P3 Quick Max Score
+8007B020 FFFF
+#P3 Infinite Gutter Ball Tries
+3007B038 0001
+#P3 Have All Pins Collected
+3007B03A 000A
+#P3 Have All Dodo Birds Collected
+3007B03B 0003
+#P3 Have All Gems Collected
+C207B03C 0001
+3009A29C 0000
+#P4 Quick Max Score
+8007B070 FFFF
+#P4 Infinite Gutter Ball Tries
+3007B088 0001
+#P4 Have All Pins Collected
+3007B08A 000A
+#P4 Have All Dodo Birds Collected
+3007B08B 0003
+#P4 Have All Gems Collected
+C207B08C 0001
+3009A29C 0000
+#Level Modifier Gravel Factory
+8007B668 0000
+#Level Modifier Quarry
+8007B668 0001
+#Level Modifier Flooded Quarry
+8007B668 0002
+#Level Modifier Tar Pits
+8007B668 0003
+#Level Modifier Bonus Level - The Rubbles Backyard Pool
+8007B668 0004
+#Level Modifier Bedrock Freeway
+8007B668 0005
+#Level Modifier Crystal Mine
+8007B668 0006
+#Level Modifier Lava
+8007B668 0007
+#Level Modifier Rockzilla
+8007B668 0008
+#Level Modifier Bonus Lane - Water Buffalo Lodge
+8007B668 0009
+#Level Modifier Zetox
+8007B668 000A
+#Level Modifier Hidden Lane - Gazoo's Asteroid
+8007B668 000B

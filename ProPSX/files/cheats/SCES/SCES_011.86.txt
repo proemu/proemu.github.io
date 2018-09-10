@@ -1,0 +1,22 @@
+﻿#Alle Level zugänglich		
+800CAAD6 0001
+#Alle 6 Blöcke Drücke R2		
+D00BECA2 0200
+8010E476 0006
+#Anzahl Kristalle		
+8010E474 03E7
+#Hoch springen Drücke Dreieck		
+D00BECA2 1000
+80106604 2DC9
+#Kann unendlich lange fliegen Halte R1		
+D00BECA2 0800
+800BEEF2 0000
+#Unendlich Herzen Drücke L2		
+D00BECA2 0100
+8010E478 0006
+#Unendlich Leben Drücke Select+L2		
+D00BECA2 0101
+8010E472 0009
+#Unsichtbar Halte L1		
+D00BECA2 0400
+800BEEF4 000F

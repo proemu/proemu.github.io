@@ -1,0 +1,9 @@
+#Infinite lives
+800909F4 0063
+#Have 25 coins
+800909F2 0019
+#Quick level win (5 frogs rescued)
+8007C630 0005
+#All Levels Unlocked
+80083954 0009
+

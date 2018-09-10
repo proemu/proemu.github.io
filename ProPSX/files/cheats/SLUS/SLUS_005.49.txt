@@ -1,0 +1,26 @@
+#Infinite Health (George)
+800D6786 0063
+#Infinite Health (Lizzy)
+800D6952 0063
+#Infinite Health (Ralph)
+800D6B1E 0063
+#Fake Infinite Health
+80065760 0000
+80065762 0000
+#Invinciblity (George)
+800D686E 0239
+#Invinciblity (Lizzy)
+800D6A3A 0239
+#Invinciblity (Ralph)
+800D6C06 0239
+#Super Strength (George)
+800D6870 0181
+800D68B8 0000
+#Super Strength (Lizzy)
+800D6A3C 0181
+800D6A84 0000
+#Super Strength (Ralph)
+800D6C08 0181
+800D6C50 0000
+
+

@@ -1,0 +1,11 @@
+#One red ticket gives 999 red tickets and 999 gold tickets	
+80018EC2 2400
+80018ECA 2400
+80018ED2 2400
+80018EDC 03E7
+80018EDE 2402
+#Shots hit\Bowling points 999	
+80087AA0 03E7
+#Items costs zero	
+80087A50 0000
+

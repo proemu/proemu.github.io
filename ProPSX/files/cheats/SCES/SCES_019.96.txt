@@ -1,0 +1,4 @@
+#Infinite Health
+80016F70 0000
+#Invincible
+800406A8 0001

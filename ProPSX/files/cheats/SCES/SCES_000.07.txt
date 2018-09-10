@@ -1,0 +1,29 @@
+#Infinite Guns
+800EEB44 0027
+#Infinite Ammo
+800EEB40 0041
+#Infinite Fuel
+300EEB34 8FFF
+#No Damage
+800EEA60 00C8
+#Infinite Cannon Ammo
+D00EEB44 270E
+800EEB44 270F
+#Infinite Missiles
+D00EEB40 0040
+800EEB40 0041
+#Infinite Fuel
+D10EEB34 8FFF
+800EEB34 8FFF
+#Infinite Armor
+D10EEA60 00C8
+800EEA60 00C8
+#Start Mini-Game With 1000 Points
+D005F300 0001
+8005F300 03E8
+#Infinite Missiles
+800EDF18 0040
+#Infinite Ammo
+300EDF1C 0027
+#Infinite Fuel
+800EDF0C 8FFF

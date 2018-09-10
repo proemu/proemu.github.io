@@ -1,0 +1,45 @@
+#Infinite Hp
+800B0234 03E7
+#All Items
+800B02DA 0900
+#Have Two Prizes
+800B023A 3E70
+#Level 99
+800B02AA 0063
+#Max All Status
+800B0228 3E70
+800B022A 3E70
+800B022C 3E70
+800B022E 3E70
+800B0230 3E70
+800B0232 3E70
+#Special Attack
+800B033C 0063
+#Knight Medal maximum
+300B023A 00C8 
+#Options all the items appearance Available  
+8009C194 1C01 
+#Night all characters available in the puzzle 
+8009C18C FFFF 
+8009C18E FFFF 
+#Gallery fully open 
+50000E02 0000 
+8009C87C FFFF  
+#Commonly known as table fully open
+50000702 0000 
+8009C17C FFFF 
+#Love of all degree MAX 
+50001024 0000 
+800AD0F0 6363 
+#MAX degree yearning of all 
+50001024 0000 
+800AD0F2 6363 
+#Reliability of all MAX
+50001024 0000 
+800AD0F4 6363 
+#Level of anxiety of all MAX 
+50001024 0000 
+300AD0F6 0000 
+#I am acquainted with all 
+50001024 0000 
+300AD0FC 0081

@@ -1,0 +1,9 @@
+#Button Command
+D00644FA 0000
+#1st Created Jumper Codes 99999999 Cash
+8005FDD0 E0FF
+8005FDD2 05F5
+#1st Created Jumper Codes 999 Points In Ranking List
+8005DC4C 03E7
+
+

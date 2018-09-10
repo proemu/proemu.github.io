@@ -1,0 +1,42 @@
+#Max Points P1
+801092A4 FFFF
+#Max Points P2
+801092A8 FFFF
+#Javelin\Full Power P1
+800B1912 417F
+#Javelin\Full Power P2
+800B31F2 417F
+#Javelin\Perfect Angle P1 & P2
+80104530 002D
+#Pole Vault, 100 m Sprint, 100 m Freestyle, 110 m Hurdles\Full Speed P1 Presss L2
+D00B1628 0001
+80101E72 417F
+#100 m Sprint, 100 m Freestyle, 110 m Hurdles\Time Modifier P1
+80101E82 0000
+#Pole Vault, 100 m Sprint, 100 m Freestyle, 110 m Hurdles\Full Speed P2 Press L2
+D00B1860 0001
+80102ACE 417F
+#100 m Sprint, 100 m Freestyle, 110 m Hurdles\Time Modifier P2
+80102ADE 0000
+#Discus, Hammer Throw, Shot Put\Full Energy P1 Press R2
+D00B1628 0002
+80101F36 42A0
+#Discus, Hammer Throw, Shot Put\Full Energy P2 Press R2
+D00B1860 0004
+80102B92 42A0
+#Discus, Hammer Throw, Shot Put\Perfect Angle P1 & P2
+800B18D4 0200
+#Long Jump, Triple Jump\Full Speed P1 Press L1
+D00B1628 0004
+800B154A 417F
+#Long Jump, Triple Jump\Full Speed P2 Press L1
+D00B1860 0004
+800B21A6 417F
+#Long Jump, Triple Jump\Perfect Angle P1 & P2
+80104530 002D
+#High Jump\Full Speed P1 Press R2
+D00B1628 0002
+80101F36 42A0
+#High Jump\Full Speed P2 Press R2
+D00B1860 0004
+80102B92 42A0

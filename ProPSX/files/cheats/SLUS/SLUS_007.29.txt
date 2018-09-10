@@ -1,0 +1,20 @@
+#Home Team Score 0
+8006A32E 0000
+#Away Team Score 0
+8006CDEE 0000
+#Home Team Scores 99
+8006A32E 0063
+#Away Team Scores 99
+8006CDEE 0063
+#Infinite Creation Points
+80095CAA 2400
+#Max Agility
+8015FF3E 0064
+#Max Speed
+8015FF40 0064
+#Max Awareness
+8015FF42 0064
+#Max Thrw Power
+8015FF44 0064
+#Max Thrw Accuracy
+8015FF46 0064

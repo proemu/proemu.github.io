@@ -1,0 +1,9 @@
+#Infinite energy Princess:  
+800F8474 03E7
+800F8478 03E7
+8010DBC2 03E7 
+#Infinite energy Warrior:  
+800F8414 03E7
+800F8418 03E7
+8010DCD6 03E7 
+ 

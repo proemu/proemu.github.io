@@ -1,0 +1,35 @@
+#Infinite HP first unit Mission 1
+801ED13C 270F
+801ED13E 270F
+#Infinite HP second unit Mission 1
+801ED238 270F
+801ED23A 270F
+#Infinite HP third unit Mission 1
+801ED1E4 270F
+801ED1E6 270F
+#Infinite HP fourth unit Mission 1
+801ED190 270F
+801ED192 270F
+#Have lot of gold
+801EC010 423F
+801EC012 000F
+#Infinite HP first unit Mission 2
+801ED28C 270F
+801ED28E 270F
+#Infinite HP second unit Mission 2
+801ED388 270F
+801ED38A 270F
+#Full repair kit 
+301ec04e 0063 
+#Charge Kit 50 
+301ec04f 0063 
+#Charge Kit 100 
+301ec050 0063 
+#Charge Kit 150 
+301ec051 0063 
+#Charge Kit 200 
+301ec052 0063 
+#Charge Kit 
+301ec053 0063 
+#Full Charge Kit 
+301ec054 0063 

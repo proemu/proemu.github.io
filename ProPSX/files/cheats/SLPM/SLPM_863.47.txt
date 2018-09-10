@@ -1,0 +1,8 @@
+#Infinite time  
+D007E0BA 2482 
+8007E0B8 0000 
+D007E0BE 2482 
+8007E0BC 0000 
+#Items gauge full tank in one correct answer questions 
+D007F43A 1440 
+8007F438 0001

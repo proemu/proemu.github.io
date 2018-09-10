@@ -1,0 +1,33 @@
+#Unlock Cheats 	
+800B489E 0001?
+#Infinite Lives
+800B547C 0063
+#Infinite Health Level 1 Disconnect before entering boss battle 	
+8013E61E 1388	
+#Infinite health boss battle level 1
+8016B62E 1388	 
+#Infinite health Level 2
+8017707E 1388
+#Infinite Sniper Ammo 	
+80118380 270F 		
+#Infinite Shotgun Ammo 	
+8011837A 270F 		
+#Infinite Grenade Ammo 	
+8011837C 270F 		
+#Infinite Rocket Launcher Ammo 	
+8011837E 270F 		
+#No Health Enemy Bar (Instant Kill) 	
+80166916 0000 		
+#Max Experience
+800B543C 270F
+800B5430 270F
+#Have All Combos/Max Level
+800B5438 0063
+#Infinite Special Power
+800B4718 00A3
+#Last Boss No Health Press L1 & L2
+D00B4C54 0005
+8014AED6 0000
+#Infinite Health When Facing Last Boss Press R1 & R2
+D00B4C54 000A
+8013E61E 1388

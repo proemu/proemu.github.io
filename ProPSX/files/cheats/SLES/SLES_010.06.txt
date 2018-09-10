@@ -1,0 +1,10 @@
+#Allies - Infinite Money	  
+8002A3D4 FFFF
+#Allies - R2 Infinite Power	  
+D01BBC58 0002
+8002A3F0 FFFF
+#Soviets - Infinite Money	  
+8002A798 FFFF
+#Soviets - R2 Infinite Power	  
+D01BBC58 0002
+8002A7B4 FFFF

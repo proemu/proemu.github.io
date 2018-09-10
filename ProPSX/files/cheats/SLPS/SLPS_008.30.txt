@@ -1,0 +1,52 @@
+#Infinite Energy
+8002CEEC 0000
+#Infinite Missiles For A4
+801859EC 00F0
+#Infinite Missiles For F4
+80185604 00F0
+#Infinite Missiles For Kfc7
+80189954 00F0
+#Infinite Missiles For F16
+8018A22C 00F0
+#Infinite Missiles For X29
+8018A03C 00F0
+#Infinite Missiles For A10
+8018A08C 00F0
+#Infinite Missiles For Mig29
+8018AF8C 00F0
+#Infinite Missiles For F14
+8018B064 00F0
+#Infinite Missiles For F117A
+801887F4 00F0
+#Infinite Money
+80010C1C 967F
+80010C1E 0098
+#Level Up
+80010C20 7530
+#Infinite Missiles All - Break Point Code
+8002D634 0000
+8002D636 0000
+#Infinite Fuel All - Break Point Code
+80039E1C 0000
+80039E1E 0000
+#Unlock All Hidden Aircrafts
+80010C44 0101
+80010C46 0101
+80010C48 0101
+80010C4A 0101
+80010C4C 0101
+80010C4E 0101
+80010C50 0101
+80010C52 0101
+#Mission Swlect (00-20)20 = FIGHTER'S HONOR
+30010030 0020
+#Hidden element Extra
+30010AB5 0001
+#Hidden element Extra
+30010AB5 0002
+#Hidden element FREE MISSION 
+30010AB5 0002
+#Hidden element MUSIC PLAYER 
+30010AB5 0004
+#Hidden element MODEL DISPLAY 
+30010AB5 0008

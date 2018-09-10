@@ -1,0 +1,24 @@
+#Infinite Health P1
+80072840 0880
+#Infinite Power Meter P1
+80072842 00C4
+#No Power Meter Player 1
+80072842 0000
+#Infinite Life Meter P2
+800728BC 0880
+#Infinite Power Meter P2
+800728BE 00C4
+#No Power Meter Player 2
+800728BE 0000
+#Enable All Blocks (Build-Up Mode)
+8003BC7C 0107
+#All Secret Characters (For access to Super Baby hold Select while pushing Square)
+8003BCC4 FFFF
+8003BCC6 FFFF
+D005686C 0180
+8003BCA4 0011
+D005686C 0180
+8003BCA6 0011
+#Quick Level Up
+8003B860 0001
+8003B864 0400

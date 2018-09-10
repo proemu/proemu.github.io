@@ -1,0 +1,2 @@
+#All characters clear (clear data of the least one person is required to choose the bonus mode)	
+80010050 FFFF

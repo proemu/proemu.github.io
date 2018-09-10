@@ -1,0 +1,12 @@
+#Home Team Scores 0
+800D72B4 0000
+#Home Team Scores 9
+800D72B4 0009
+#Away Team Scores 0
+800D7358 0000
+#Away Team Scores 9
+800D7358 0009
+#Infinite Burst
+800D47A0 078B
+#Stop Clock
+800AE174 0001

@@ -1,0 +1,7 @@
+#Start with 9,999,999 points	
+D01B40b4 0000
+801B40B4 967F
+D01B40B6 0000
+801B40B6 0098
+#Each piece shot levels you up	
+801bF32C 0001

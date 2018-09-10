@@ -1,0 +1,9 @@
+#Lots Of Money
+800B06A0 5638
+800B06A2 054C
+#Attention 300%
+800B06BC 012C
+#Legend degree 300%
+800B1908 012C
+#Max Speed 
+800FA124 00F4

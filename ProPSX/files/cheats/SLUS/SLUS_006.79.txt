@@ -1,0 +1,12 @@
+#Infinite Time
+801093D8 2328
+#P1 Infinite Health
+8012583A 03E8
+8012583C 03E8
+#P1 Infinite Bullets
+8012587C 0F00
+#Have All Levels Unlocked
+80124B12 0100
+#Have All Characters Unlocked
+80124B06 0101
+80124B08 0101

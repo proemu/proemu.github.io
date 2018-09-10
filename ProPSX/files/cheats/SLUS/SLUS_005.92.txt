@@ -1,0 +1,11 @@
+#Infinite Health Claire	
+800C7C42 00C8
+#Have All Events Done 	
+50007D02 0000
+800CC722 FFFF
+#Save anywhere Press L1+X and have 1 ink ribbon 	
+D00C6234 0044
+800CC390 E534
+D00C6234 0044
+800CC392 8004
+

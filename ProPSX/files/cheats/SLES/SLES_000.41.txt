@@ -1,0 +1,4 @@
+#Prestige Points
+800EDE18 2000
+#Turn Counter
+80089C98 0A0B

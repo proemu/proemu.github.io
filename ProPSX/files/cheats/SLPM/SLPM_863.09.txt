@@ -1,0 +1,4 @@
+#Infinite Life
+8013237C 0063 
+#Sailor number 99 
+80102A70 0063

@@ -1,0 +1,3 @@
+#Player has 99999 points
+80094FF8 869F
+80094FFA 0001

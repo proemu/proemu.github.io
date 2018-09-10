@@ -1,0 +1,21 @@
+#Infinite Gp
+80122028 FFFF
+8012202A 00FF
+#After One Battle 1st Character Level 99 & Exp
+801573D4 967F
+801573D6 0060
+#2nd Character Level 99 & Exp
+80157448 967F
+8015744A 0060
+#3rd Character Level 99 & Exp
+801574BC 967F
+801574BE 0060
+#4th Character Level 99 & Exp
+80157530 967F
+80157532 0060
+#5th Character Level 99 & Exp
+801575A4 967F
+801575A6 0060
+#6th Character Level 99 & Exp
+80157618 967F
+8015761A 0060

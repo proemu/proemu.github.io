@@ -1,0 +1,88 @@
+#Infinite Energy
+8015E282 2800
+#Invincible
+8015E2AA 2D00
+#1-Hit Death To Bosses		
+8015B1BA 0100
+#One Hit Kills		
+801074BE 2400
+#Warp To Last Stage		
+D00FFC8C 0840
+800FFC98 000A
+D00FFC8C 0840
+800FFC9A 2403
+D00FFC8C 0840
+800FFCC0 0000
+D00FFC8C 0840
+800FFCC2 2402
+#Wily's Stage Level Select Intro Stage		
+301C336D 0000
+00 Intro Stage
+#Wily's Stage Level Select Frost Man	
+301C336D 0001
+#Wily's Stage Level Select Clown Man Stage		
+301C336D 0002
+#Wily's Stage Level Select Tengu Man Stage		
+301C336D 0003
+#Wily's Stage Level Select Grenade Stage		
+301C336D 0004
+#Wily's Stage Level Select Sword Man Stage		
+301C336D 0005
+#Wily's Stage Level Select Aqua Man Stage		
+301C336D 0006
+#Wily's Stage Level Select Astro Man Stage		
+301C336D 0007
+#Wily's Stage Level Select Search Man Stage		
+301C336D 0008
+#Wily's Stage Level Select Duo Stage		
+301C336D 0009
+#Wily's Stage Level Select Wily Tower 1 Stage		
+301C336D 000A
+#Wily's Stage Level Select Wily Tower 2 Stage		
+301C336D 000B
+#Wily's Stage Level Select Wily Tower 3 Stage		
+301C336D 000C
+#Wily's Stage Level Select Wily Tower 4 Stage		
+301C336D 000D
+#Always Have Mega Ball
+801B1EB0 0001
+#Infinite Mega Balls
+801B1EB2 2D00
+#Always Have Flash Bomb
+801B1EB4 0001
+#Infinite Flash Bombs
+801B1EB6 2D00
+#Always Have Thunder Claw
+801B1EB8 0001
+#Infinite Thunder Claws
+801B1EBA 2D00
+#Always Have Ice Wave
+801B1EBC 0001
+#Infinite Ice Waves
+801B1EBE 2D00
+#Always Have Tornado Hold
+801B1EC0 0001
+#Infinite Tornado Holds
+801B1EC2 2D00
+#Always Have Water Balloon
+801B1EC4 0001
+#Infinite Water Balloons
+801B1EC6 2D00
+#Always Have Flame Sword
+801B1EC8 0001
+#Infinite Flame Swords
+801B1ECA 2D00
+#Always Have Homing Sniper
+801B1ECC 0001
+#Infinite Homing Snipers
+801B1ECE 2D00
+#Always Have Astro Crush
+801B1ED0 0001
+#Infinite Astro Crushes
+801B1ED2 2D00
+#Infinite Lives
+801C3370 0005
+#Infinite Bolts
+8016D2F0 0009
+#Infinite Rush Energy
+801B2990 0027

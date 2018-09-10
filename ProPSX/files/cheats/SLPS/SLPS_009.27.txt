@@ -1,0 +1,26 @@
+#Roosters\Infinite Time
+8009931C 0257
+#Roosters\P1 Invincible
+300992D0 00FF
+#Roosters\P1 Infinite Lifes
+300992CC 0009
+#Roosters\P1 Infinite Hearts
+300992C4 0063
+#Roosters\P2 Invincible
+300992D2 00FF
+#Roosters\P2 Infinite Lifes
+300992CE 0009
+#Roosters\P2 Infinite Hearts
+300992C6 0063
+#Chariot\P1 Invincible
+300886B0 00FF
+#Chariot\P1 Infinite Lifes
+300886AC 0009
+#Chariot\P2 Invincible
+300886B2 00FF
+#Chariot\P2 Infinite Lifes
+300886AE 0009
+#Don't Pull\P1 Infinite Lifes
+300D00B7 0063
+#Don't Pull\P2 Infinite Lifes
+300D00B8 0063

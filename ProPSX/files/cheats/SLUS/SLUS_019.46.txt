@@ -1,0 +1,9 @@
+#Infinite balls (lives) in adventure mode
+801798A2 0008
+#Infinite Credits
+80179840 0002
+#Max Score
+801C7158 E0FF
+801C715A 05F5
+#Quick Score Gain
+801C7158 FFFF

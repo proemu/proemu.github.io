@@ -1,0 +1,28 @@
+#Only one lap to race & always first (Press L1 & L2)	
+D007F43E FAFF
+30036734 0003
+D007F43E FAFF
+3003671C 0003
+#Instant win (Press R1 & R2)	
+D007F43E F5FF
+30036734 0004
+D007F43E F5FF
+3003671C 0004
+#Rapier-Mode On
+D01F7018 0000
+801F7018 0001
+#Rapier-Level On This code enables you to play the extra levels in rapier mode
+D01F7018 0001
+801F7042 0101
+#Infinite Retries (Only for One Player Weapon ClassChampionship# AB SystemsJohn Dekka)
+D01F7014 0802
+801F7014 0803
+#Infinite Turbo Level 1 (Only for One Player Weapon ClassChampionship# AB SystemsJohn Dekka)
+D013CB42 FF00
+8013CB42 FF09
+#Infinite Turbo Level 2 (Only for One Player Weapon ClassChampionship# AB SystemsJohn Dekka)
+D0124096 FF00
+80124096 FF09
+#Infinite Turbo Level 3 (Only for One Player Weapon ClassChampionship# AB SystemsJohn Dekka)
+D011ED3A FF00
+8011ED3A FF09

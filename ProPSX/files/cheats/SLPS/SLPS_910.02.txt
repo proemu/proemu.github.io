@@ -1,0 +1,9 @@
+ Raiden I P1 Infinite Lives:  
+8012CA80 0003
+ Raiden I P2 Infinite Lives:  
+8012CAB0 0003
+ Raiden I P1 Infinite Bombs:  
+8012CA8E 0003
+ Raiden I P2 Infinite Bombs:  
+8012CABE 0003
+ 

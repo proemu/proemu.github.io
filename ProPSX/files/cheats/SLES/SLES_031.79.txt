@@ -1,0 +1,4 @@
+#Infinite health	
+300C7668 0003
+#Have 99 honey pots
+300C766C 0063

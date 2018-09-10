@@ -1,0 +1,27 @@
+#Infinite Ep
+800A7E54 00C8
+#Infinite Sp
+800A7E56 03E8
+#Infinite Hp
+800A7E52 03E8
+#Infinite Laser
+800A7E94 00C8
+#Infinite Zax Ammo
+800A7EA6 01F4
+#Infinite Veda Missiles
+800A7EAC 0028
+#Infinite Splash Arrow Missiles
+800A7EAE 0028
+#Infinite Napalm Launcher Missiles
+800A7EB0 0028
+#Infinite Erosion Missiles
+800A7EB2 0028
+#Infinite Brain Destructor Missiles
+800A7EB4 0028
+#Infinite Float Mine Missiles
+800A7EB6 0028
+#Energy Tank Always Full
+80017E98 0020
+#Elapsed Time is Always 00:00
+800D6364 0000
+800DBF88 0000

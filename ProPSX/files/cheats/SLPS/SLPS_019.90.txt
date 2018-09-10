@@ -1,0 +1,112 @@
+#Chip MAX
+800103D4 423F 
+800103D6 000F 
+#CR MAX Nebesutan of hero at the time
+80010408 423F 
+8001040A 000F 
+#CR MAX Shirumaru of hero at the time
+80010478 423F 
+8001047A 000F 
+#CR MAX Narses of hero at the time 
+800104E8 423F 
+800104EA 000F 
+#CR MAX Nina hero of time
+80010558 423F 
+8001055A 000F 
+#CR MAX La Vale of hero at the time
+800105C8 423F 
+800105CA 000F 
+#CR MAX Gustave hero of time
+80010638 423F 
+8001063A 000F 
+#CR MAX Kelvin hero of time
+800106A8 423F 
+800106AA 000F 
+#CR MAX Tyler hero of time
+80010718 423F 
+8001071A 000F 
+#CR MAX Cordelia hero of time
+80010788 423F 
+8001078A 000F 
+#CR MAX Will Knights of hero at the time
+800107F8 423F 
+800107FA 000F 
+#CR MAX Diana of hero at the time
+80010868 423F 
+8001086A 000F 
+#CR MAX Johann hero of time
+800108D8 423F 
+800108DA 000F 
+#CR MAX Vu~an'aburu of hero at the time# 
+80010948 423F 
+8001094A 000F 
+#CR MAX urea at the time of the hero
+800109B8 423F 
+800109BA 000F 
+#CR MAX Eleanor of hero at the time
+80010A28 423F 
+80010A2A 000F 
+#CR MAX Raymond of hero at the time
+80010A98 423F 
+80010A9A 000F 
+#CR MAX Sargon of hero at the time
+80010B08 423F 
+80010B0A 000F 
+#CR MAX rich hero of time 
+80010B78 423F 
+80010B7A 000F 
+#CR MAX Patrick's hero at the time
+80010BE8 423F 
+80010BEA 000F 
+#CR MAX Gustav hero of time
+80010C58 423F 
+80010C5A 000F 
+#CR MAX Meteor hero of time
+80010CC8 423F 
+80010CCA 000F 
+#CR MAX Roberto hero of time
+80010D38 423F 
+80010D3A 000F 
+#CR MAX Premiere of hero at the time
+80010DA8 423F 
+80010DAA 000F 
+#CR MAX Ginny Knights of hero at the time
+80010E18 423F 
+80010E1A 000F
+#HP999 in combat 
+801BAFD6 2402 
+801BAFD4 03E7
+#Trick-surgery all learning 
+50000F02 0000 
+8001003C FFFF 
+3001005A 00FF 
+#Does not decrease HP 
+D01C9A84 35B8 
+801C9A84 0000 
+D01C9A86 AC85 
+801C9A86 0000 
+#invincible / No abnormal status
+D01C4C5E AC62 
+801C4C5E AC60 
+#Deadly blow" 
+D01BAB2E AE04 
+801BAB2E AE00 
+D01DD38A ACE3 
+801DD38A ACE0 
+#Enemy annihilation
+D009E5F2 FFFE 
+8001308C 0001 
+#Jobs Points Max 
+800103D4 FFFF 
+#Unlimited JP 
+D01C9C22 2405 
+801C9C20 0000 
+#CR 999999 
+80010638 423F 
+8001063A 000F 
+#Debug mode
+80019158 0002 
+#Infinite & Max HP
+8001040C 03E7
+8001040E 03E7
+

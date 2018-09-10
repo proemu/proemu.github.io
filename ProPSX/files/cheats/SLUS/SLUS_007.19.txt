@@ -1,0 +1,10 @@
+#Infinite Money
+800A1A64 03E8
+#Dynamite
+800A1A66 0009
+#Infinite Lives
+800A1A60 0009
+#Infinite B's
+300A1A68 0063
+#Manga Cheat	
+30098884 0001

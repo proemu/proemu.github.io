@@ -1,0 +1,11 @@
+#Infinite Time
+800527B8 0621
+#Infinite Lap Time & Total Time
+800524C0 0000
+#Top Speed
+80078CF4 2AFF
+#Use Formula-1 To Race
+800E7E0A 0137
+#Unlock All Cars And Courses 
+50000A02 0000
+8005F6B0 0001

@@ -1,0 +1,4 @@
+#Unendlich Geld
+80049BFA 3ABC
+#Managerwertung = 100
+80049AB2 0064

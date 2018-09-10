@@ -1,0 +1,32 @@
+#P1 Can't Die
+80061114 0000
+#P1 Max Points
+D0061158 0000
+80061158 0FFF
+#P1's Car Jumps
+80061052 0000
+#P2 Can't Die
+800614CC 0000
+#P2 Max Points
+D0061510 0000
+80061510 0FFF
+#Enable All
+50001802 0000
+80053894 0000
+50000304 0000
+8005ED58 0000
+#Turbo Boost P1
+80060FE0 9160
+#Turbo Boost P2
+80061398 9160
+#Damagecount On 99 P1 (Press Select. In some modes it's better to be able to get damaged. Use this one be stay in the game)
+D005F790 0001
+30061115 0000
+#Damagecount On 99 P2 (Press Select. In some modes it's better to be able to get damaged. Use this one be stay in the game)
+D005F794 0001
+300614CD 0000
+
+
+
+
+

@@ -1,0 +1,5 @@
+#Infinite time
+8006B8AA B180
+8006B8AC 0149
+#Infinite lives
+8006B792 0009

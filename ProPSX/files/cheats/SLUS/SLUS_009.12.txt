@@ -1,0 +1,78 @@
+#Alway Start On Last Lap (Assault Battle Mode)	
+D00BF120 FFFF
+C20AA40C 0004
+800BF120 0000
+#Infinite Time To Pass Da Bomb (Pass Da Bomb Battle Mode)	
+800BFDCC 00FF
+#Infinite Damege Left Front	
+300E0154 0000
+#Infinite Damage Left Middle	
+300E0156 0000
+#Infinite Damage Left Rear	
+300E0158 0000
+#Infinite Damage Right Middle	
+300E0157 0000
+#Infin ite Damage Right Rear	
+300E0159 0000
+#Infinite Damage Right Right	
+300E0155 0000
+#Max Points (Assault Battle Mode)	
+800BF07C 270F	
+#Max Points (Wreckin Racin Mode, Destruction Derby Battle Mode, Skyscraper Battle & Pass Da Bomb Mode)	
+800BEA78 270F
+#Unlock Path To Avalanche	
+300C0DCB 0000
+#Unlock Path To Avalanche 2	
+300C0EBB 0000
+#Unlock Path To Axe Head	
+300C0C8D 0000
+#Unlock Path To Axe Head 2	
+300C0F35 0000
+#Unlock Path To Carpark	
+300C0E6B 0000
+#Unlock Path To Cyclone	
+300C0FD5 0000
+#Unlock Path To Dragonfly 2	
+300C0EE5 0000
+#Unlock Path To Fall Out	
+300C0CB5 0000
+#Unlock Path To Fall Out 2	
+300C0D7B 0000
+#Unlock Path To Four	
+300C0FAB 0000
+#Unlock Path To Jagged Edge	
+300C0E45 0000
+#Unlock Path To Jagged Edge 2	
+300C0E95 0000
+#Unlock Path To Karsutra	
+300C0D55 0000
+#Unlock Path To Leap Of Faith	
+300C0F85 0000
+#Unlock Path To Loops Of Fury	
+300C0E1B 0000
+#Unlock Path To Loops Of Fury 2	
+300C0F5B 0000
+#Unlock Path To Oilslick	
+300C0C65 0000
+#Unlock Path To Overflow	
+300C0CDB 0000
+#Unlock Path To Overflow 2	
+300C0DA5 0000
+#Unlock Path To Sidewinder	
+300C0D2B 0000
+#Unlock Path To Slammer	
+300C0FFB 0000
+#Unlock Path To Stadium	
+300C0F0D 0000
+#Unlock Path To Up N Over	
+300C0D05 0000
+#Unlock Path To Up N Over 2	
+300C0DF5 0000
+#Press X for No Overall Damage
+D00AA5C0 4000
+800AA722 0000
+D00AA5C0 4000
+800AA724 0000	
+
+
+

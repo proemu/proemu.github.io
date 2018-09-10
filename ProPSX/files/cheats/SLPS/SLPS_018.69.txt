@@ -1,0 +1,5 @@
+#Infinite energy
+801DA008 012C
+#Infinite time
+801DF9B1 270F
+

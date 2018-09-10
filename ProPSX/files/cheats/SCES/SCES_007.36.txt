@@ -1,0 +1,14 @@
+#Xevious/Super Xevious/Xevious Arrange Infinite Solvalous		
+8012DD58 0005
+#Xevious/Super Xevious/Xevious Arrange Weapon Upgrade	
+80131EA4 0002
+#Xevious 3D/G Infinitely Solvalous P1
+3012DD58 0005
+#Xevious 3D/G Infinitely Solvalous P1
+3012DD5C 0005
+#Xevious 3D/G P1 Invincible 
+30146A18 00C7
+#Xevious 3D/G P2 Invincible 
+30146A1C 00C7
+#Xevious 3D/G Infinites Continues
+30131EA0 0003

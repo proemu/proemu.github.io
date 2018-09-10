@@ -1,0 +1,10 @@
+#Infinite Energy P1
+800C9058 005A
+#Infinite Mp P1
+800C905A 002D
+#Infinite Energy P2 
+800C9928 0064 
+#Infinite MP P2 
+800C9924 0028 
+#Infiniye GP
+8009FFA0 270F 

@@ -1,0 +1,26 @@
+#Amuro Char Story Mode Unlock All Levels
+80060750 0B03
+#Amuro Char Story Mode Infinite Health
+80123828 03E8
+801237CC 03E8
+#Amuro Char Story Mode Infinite Rifle
+8012382E 0063
+801237D2 0063
+#Inf Health Battle Mode
+801237CC 03E8
+#1P Power Battle mode 	
+801237D0 2710
+#More Gundam To Choose Battle Mode
+80060752 0003
+#Infinite Normal Weapons Battle mode	
+801237D2 0063
+801237D6 0063
+801237D8 0063
+801237DA 0063 		
+#Infinite Short Range Weapons Battle mode
+801237DC 0063
+801237DE 0063
+801237E0 0063
+#Victory Press Select
+D0060528 0100
+801267E8 0000

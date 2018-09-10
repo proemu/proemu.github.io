@@ -1,0 +1,12 @@
+#Infinite Time
+800A33F8 1250
+800A573C 1250
+#Have All Fruit
+800A5664 00FF
+#Max Score
+800A53C8 967F
+800A53CA 0098
+#Quick Score Gain		
+800A53C8 FFFF
+#Start At Level 151		
+800A3454 0001

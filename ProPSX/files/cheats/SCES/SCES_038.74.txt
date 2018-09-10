@@ -1,0 +1,21 @@
+#Always have 4 out of 4 figurines		
+800CCE34 0004
+800CCE36 000F
+#No damage (God mode)		
+800615EC 0008
+800615EE 03E0
+800615F2 2400
+#Stitch can roll without taking coffee cups		
+300CCD7E 0001
+80025924 0000
+80025936 1000
+#Take one object to have 100 out of 100		
+80030812 2400
+#Get objects anywhere		
+8002FE0A 2400
+8002FE1A 2400
+8002FE22 2400
+8002FE4E 2400
+#MoonJump		
+80027634 0003
+80023604 0003

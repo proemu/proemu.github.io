@@ -1,0 +1,12 @@
+#Free play can be selected Misato 
+3005755B 0001 
+#Free play can be selected Ayaka 
+3005755C 0001 
+#Free play can be selected Saki 
+3005755D 0001 
+#Adding a bonus mode Misato 
+3005755E 0001 
+#Adding a bonus mode Ayaka 
+3005755F 0001 
+#Adding a bonus mode Saki 
+30057560 0001

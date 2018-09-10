@@ -1,0 +1,5 @@
+#Infinite Money	
+8006A7CC FFFF
+8006A7CE 0FFF
+#Infinite Time		
+800890A0 4800

@@ -1,0 +1,63 @@
+#Stop Kill Frenzy Time
+801683F0 0C97
+#Infinite Lives
+80120004 0009
+#Infinite Health
+80145A96 0064
+#Have Pistol + Infinite Ammo
+80164D68 0122
+#Have Machine Gun + Infinite Ammo
+80164D90 0122
+#Have Rocket Launcher + Infinite Ammo
+80164DB8 0122
+#Have Electric Gun + Infinite Ammo
+80164DE0 0122
+#Have Petrol Bombs + Infinite Ammo
+80164E08 0122
+#Have Grenades + Infinite Ammo
+80164E30 0122
+#Have Shotgun + Infinite Ammo
+80164E58 0122
+#Have Stun Rod + Infinite Ammo
+80164E80 0122
+#Have Flame Thrower + Infinite Ammo
+80164EA8 0122
+#Have Silenced Machine Gun + Infinite Ammo
+80164ED0 0122
+#Have 2 Way Firing Pistol + Infinite Ammo
+80164EF8 0122
+#Other Weapons And Infinite Ammo
+80164FC0 0122
+80164FE8 0122
+80165038 0122
+80165150 0122
+80165178 0122
+801651C8 0122
+801651F0 0122
+80165268 0122
+801652B8 0122
+801652E0 0122
+#Lots Of Cash!
+8011FD0A 0098
+#Number Of Kills 0
+8012A86C 0000
+#No Cops
+80145A8A 0000
+#All Cops
+80145A8A 2EE0
+#Have Police And Swat After You
+80145A8A 8813
+.Use only 1 code at a time.
+#21 Have Police, Swat And Spy's After You
+80145A8A 401F
+#Have Police, Swat, Spy's And The Army After You
+80145A8A E02E
+#Infinite Ammo After Pickup
+800FD452 3C00
+#All Weapons
+50000B28 0000
+80164D68 FFFF
+#Infinite Bonus & Kill Frenzy Time
+800A40C8 3C00
+#Max Points 
+8011FD08 FFFF

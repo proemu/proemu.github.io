@@ -1,0 +1,10 @@
+#Infinite stamina
+D002F73A 0064 
+8002F73A 0060
+#Physical condition	
+301B090C 0008
+#State Normal 	
+301B0A9A 0000 
+#All Maps	
+301B0AA0 00FF
+301B0ABF 00FF

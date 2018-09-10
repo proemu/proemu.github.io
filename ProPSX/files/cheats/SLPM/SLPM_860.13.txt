@@ -1,0 +1,6 @@
+#Always Place First
+800CF698 0001
+#Infinite Time
+800CF6EC 0063
+#Max Speed	
+800CD4A6 00EF

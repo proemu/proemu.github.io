@@ -1,0 +1,8 @@
+#Player has 999900 points
+800FB418 270F
+#Opponent 1 has 0 points
+800FB41C 0000
+#Opponent 2 has 0 points
+800FB420 0000
+#Opponent 3 has 0 points
+800FB424 0000

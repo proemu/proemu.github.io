@@ -1,0 +1,24 @@
+#Auto delete all cubes
+80045A60 0001 
+80045A68 1002 
+80045A6A 2402 
+80045A6E AD82
+#Does not decrease block meter 
+8004256A 0040 
+#Not increase the number of steps 
+80076F10 0000 
+#Four bi du cube down destruction Allowed 
+80048650 6CB0 
+8004867E 0060 
+#The stage does not collapse even if it is trampled 
+80042546 0060 
+#Perfect if it fails 
+8004255C 6CB0 
+#All stages can be selected
+300F944D 000A 
+#Block Meter
+80076BF8 0000
+#All  characters available ORIGINAL MODE 
+30076BE8 0007 
+#Player selection (dog) 
+80076F38 0002

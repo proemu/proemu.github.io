@@ -1,0 +1,10 @@
+#Infinite health level 1
+80089CE4 0018
+#Infinite health level 2
+800F54F4 0018
+#Infinite health level 3
+80088448 0018
+#Infinite health level 4
+8008C09C 0018
+#No reload level 2
+80081870 0008

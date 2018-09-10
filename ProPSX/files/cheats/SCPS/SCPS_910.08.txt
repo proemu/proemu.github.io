@@ -1,0 +1,7 @@
+#Infinite Money
+80143198 423F
+8014319A 000F
+#Camp 1 capital of resources MAX
+80145236 03E7
+#Camp 1 capital of productivity MAX
+80145238 03E7

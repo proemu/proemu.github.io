@@ -1,0 +1,51 @@
+#Experience Character 1	
+801B82F2 FFFF
+#Experience Character 2	
+801B82A2 FFFF
+#Experience Character 3	
+801B8342 FFFF
+#Experience Character 4	
+801B8432 FFFF
+#Experience Character 5	
+801B8392 FFFF
+#Experience Character 6	
+801B84D2 FFFF
+#Fast Level Up	
+800EE376 1400
+800EF52A 1000
+800EF5E4 03E7
+800EF5E6 3402
+#Infinite Money	
+801B801C 967F
+801B801E 0098
+#No Enemies	
+8017B890 0000
+80199B08 0000
+#Win The Small Game	
+8001C67E A420
+#No Random Battles	
+80009010 FFFF 
+80009012 FFFF
+#Infinite & Max HP	
+801B8298 03E7	
+801B829A 03E7
+#Infinite & Max HP in combat 1st Character 	
+80197774 03E7
+80197776 03E7
+#Infinite & Max HP in combat 2nd Character 	
+801977C8 03E7
+801977CA 03E7
+#Infinite & Max HP in combat 3st Character 	
+8019781C 03E7
+8019781E 03E7
+#Infinite & Max HP in combat 4th Character 	
+80197870 03E7
+80197872 03E7
+#LV Max	
+301B82A1 00FF
+#Emblem piece number Max
+301B82DB 00FF
+#All Library 
+30199A7C 00FF
+#All Murals	
+80199A81 00ff

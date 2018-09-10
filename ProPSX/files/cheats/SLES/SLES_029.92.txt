@@ -1,0 +1,8 @@
+#Infinita Vitalidad
+800DA815 0640
+800DA865 0640
+#Infinite Bombs
+800DB284 000A
+#Infinite E-Chips
+801AC570 0063
+

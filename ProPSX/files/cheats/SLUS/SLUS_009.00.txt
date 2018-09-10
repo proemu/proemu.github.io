@@ -1,0 +1,13 @@
+#Infinite HP Character 1 In battle
+80020E78 03E7
+#Infinite HP Character 2 In battle
+80020E7A 03E7
+#Infinite HP Character 3 In battle
+80020E7C 03E7
+#Infinite HP Character 4 In battle
+80020E7E 03E7
+#Save Anywhere
+E003220C 0000
+3002FEB7 0080
+#No Random Battles
+8002FF6E 0000

@@ -1,0 +1,30 @@
+#Infinite Energy
+80153B98 270F
+80153B9A 270F
+#Infinite Water
+800FD6E8 0064
+800FD6EA 0064
+#Brawn Max
+80153B9C 270F 
+#Physical fitness Max
+80153B9E 270F 
+#Intelligence Max
+80153BA0 270F 
+#Spirit Max
+80153BA2 270F 
+#Reaction Max
+80153BA4 270F 
+#Deft Max 
+80153BA6 270F
+#Emotion degree Max
+80153BDA 012C  
+#No Random Battles 
+300FDE64 0000 
+#Infinite water in combat 
+D00765A0 1021 
+800765A2 0002 
+#Infinite HP in combat  
+D008AD74 1823 
+8008AD76 0060
+#Album appearance	
+301D55FF 0001

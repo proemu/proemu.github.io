@@ -1,0 +1,4 @@
+#Have 99 points each day
+801BCB38 0063
+#Have 999 points (Money)
+801D9616 03E7

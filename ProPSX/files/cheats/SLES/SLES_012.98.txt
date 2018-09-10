@@ -1,0 +1,8 @@
+#Infinite Health
+8006E0C2 2400
+#Infinite Lifes
+800856E2 2400
+#Infinite Spells
+80097F4A 2400
+#Debug Menu
+300C516A 000F

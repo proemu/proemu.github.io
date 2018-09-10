@@ -1,0 +1,15 @@
+#SP board selection SP of ol, L1R1 + select the SP-free L1R1 + L2, PS board of Alpine in L1R1 + R2 
+D0098344 000D 
+800CDA18 0003 
+D0098344 010C 
+800CDA18 0007 
+D0098344 000E 
+800CDA18 000B 
+#Hidden Character Selection Gray boss, in the L2R2 + R1 in L2R2 + select, Snowman in L2R2 + L1 
+D0098344 0103 
+8009844C 0004 
+D0098344 000B 
+8009844C 0005 
+D0098344 0007 
+8009844C 0006 
+

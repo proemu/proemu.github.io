@@ -1,0 +1,6 @@
+#Infinite Lives
+8009AEB4 0003
+#Infinite Health
+8009AC3C 001F
+#Invincible
+8011CD1E 0047

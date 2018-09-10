@@ -1,0 +1,8 @@
+#Infinite Health
+8008E0F8 04FF
+#Infinite Coins
+8008E0FA DF9E
+#Infinite golden keys
+3008E0A6 0090
+#Infinite silver keys
+3008E0A1 0090

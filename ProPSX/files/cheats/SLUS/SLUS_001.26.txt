@@ -1,0 +1,21 @@
+#Player 1 Infinite Health
+8009A804 0000
+800A7DEA 0000
+#P1 Invincible		
+300A7E05 0003
+#P1 Needs 1 Round to Win		
+D00A7E0F 0000
+300A7E0F 0002
+#Auto Enable Cheat Options		
+D005BB24 000C
+8005BB26 1000
+#Player 2 Infinite Health
+800A7E7E 0000
+8009A80C 0000
+#Infinite Time
+8009A1EC 0064
+#Infinite Brain Stem Bar (But Still Can Be Stunned) P1
+8009A66C 0000
+#Infinite Brain Stem Bar (But Still Can Be Stunned) P2
+8009ABFC 0000
+

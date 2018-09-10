@@ -1,0 +1,41 @@
+#Unendlich Leben
+D00F04A6 0002
+800F04A6 0009
+#Starte Mit 999 Score
+D00F0440 0000
+800F0440 03E7
+#Unendlich Schubkraft
+D20F04AA 1000
+800F04AA 1000
+#Unendlich Smartbomben
+D00F04AE 0000
+800F04AE 0009
+#Geheimnisse Freischalten .Im Hauptmenü Select+L1+L2 drücken. Nach erfolgtem Levelabbruch sind  dann die Geheimnisse nicht nur freigeschaltet, sondern auch noch jeweils alle aktiviert. Um auszuwählen auf Memory Card sichern und ohne den Code das Spiel erneut starten. Nun sollten die Sachen einzeln ausschaltbar sein - aber wer will das schon
+D008DF6A 0301
+800F045E FFFF
+D008DF6A 0301
+800F0460 FFFF
+#Levelauswahl ErmöGlichen
+D00F045A 0000
+800F045A 0009
+D00F045C 0000
+800F045C 0009
+#Unendlich Zeit
+800F16C8 3C00
+#Unendlich Energie Level 1, 4, 5, 7, 10
+800E3570 0C00
+#Unendlich Energie Level 2
+D00F045A 0001
+800E4820 0C00
+#Unendlich Energie Level 3
+D00F045A 0002
+800E3980 0C00
+#Unendlich Energie Level 6
+D00F045A 0005
+800E4A90 0C00
+#Unendlich Energie Level 8
+D00F045A 0007
+800E3B20 0C00
+#Unendlich Energie Level 9
+D00F045A 0008
+800E37E0 0C00

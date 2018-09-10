@@ -1,0 +1,3 @@
+#Infinite time
+8002E241 E900
+8002E243 35A4

@@ -1,0 +1,8 @@
+#Unendlich Energie	
+8003506C 0080
+#Unendlich Feuerschwert-Energie	
+80035070 00C8
+#Alle Buchstaben	
+80035064 00FF
+#Alle Münzen	
+8003505C 00FF

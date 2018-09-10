@@ -1,0 +1,65 @@
+#Alle Missionen AnwäHlbar
+D0131450 0000
+80131450 0013
+#Unendlich Zeit
+80040AAC 0000
+#Langer Arm (Fun-Code)
+80197678 0AB3
+#Unendlich Munition/Waffen Nach Aufnahme
+8004712A 2400
+#Unendlich Panzerung
+8006955E 2400
+#Immun Gegen Fast Alle Explosionen/Feuer
+8006A920 0000
+8006A922 2401
+8006A940 0008
+8006A942 1029
+#Immun Gegen Fast Alle Kugeln
+800692E4 0000
+800692E6 2401
+80069504 0016
+80069506 1420
+#Rotes Blut
+8004F6D0 0020
+8004F6D8 20FF
+8004F870 0020
+8004F878 20FF
+800D243C 00FF
+#Waffe-In-Hand-Grundcode
+D010C2CE 001F
+80000000 5555
+D010C2CE 008F
+80000000 0000
+#Kein Nachladen-Codes\9-Mm-Pistole
+8012F89E 000F
+#Kein Nachladen-Codes\45Er Pistole
+8012F8AA 000A
+#Kein Nachladen-Codes\G-18 Maschinenpistole
+8012F8AE 0021
+#Kein Nachladen-Codes\Biz-2 Maschinenpistole
+8012F8C2 0042
+#Kein Nachladen-Codes\Hk-5 Maschinenpistole
+8012F8C6 0020.
+#Kein Nachladen-Codes\Schrotflinte
+8012F8B6 0019
+#Kein Nachladen-Codes\Kampfgewehr
+8012F8B2 001E
+#Kein Nachladen-Codes\Pk-102 Sturmgewehr
+8012F8BA 001E
+#Kein Nachladen-Codes\M-16 Sturmgewehr
+8012F8BE 001E
+#Kein Nachladen-Codes\K3G4 Sturmgewehr
+8012F8DE 0014
+#Kein Nachladen-Codes\ScharfschüTzengewehr
+8012F8CE 000A
+#Kein Nachladen-Codes\Nachtsichtgewehr
+8012F8CA 000A
+#Kein Nachladen-Codes\M-79 Granatwerfer
+8012F8DA 000A
+#Kein Nachladen-Codes\Unendlich Granaten
+8012F8E6 000A
+#Kein Nachladen-Codes\Unendlich Gasgranaten
+8012F8EA 000A
+#Kein Nachladen-Codes\Unendlich C4
+8012F8FA 0001
+

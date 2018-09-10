@@ -1,0 +1,28 @@
+#All Courses & Modes Unlocked
+80010040 FFFF
+#Nitro Boost
+D009B9BA BFFF
+800D245E 7FFF
+#Checkpoint Time Increases 
+D0047710 1023
+30047710 0021
+#Start On Last Race - Super Bike Championship
+80012398 0007
+#Moto x Championship
+80013068 0007
+#Dual Sport Championship
+80013D38 0007
+#Custom Championship
+8001011C 0007
+#Ultimate Championship
+80014A08 0007
+#Have Gold Cup - Super Bike Championship
+300123A4 0001
+#Moto x Championship
+30013074 0001
+#Dual Sport Championship
+30013D44 0001
+#Custom Championship
+30010118 0001
+#Ultimate Championship
+30014A14 0001

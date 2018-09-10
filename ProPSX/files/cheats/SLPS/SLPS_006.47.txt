@@ -1,0 +1,16 @@
+#Samurai Spirits 1 - Infinite Hp P1 	
+8018A758 0080
+#Samurai Spirits 1 - 2P Life 0
+8018A870 0000
+#Samurai Spirits 1 - Infinite time
+80161402 9227
+#Samurai Spirits 1 Staff Roll' Cheat is ON	
+8002ED3C 0001
+#Samurai Spirits 1 'Tiny Select' Cheat is ON	
+8002ED40 0001
+#Samurai Spirits 2 - Infinite Hp P1
+801087AA 0080
+#Samurai Spirits 2 - 2P Life 0
+8010846E 0000 
+#Samurai Spirits 2 - Infinite Time
+801064D8 9277

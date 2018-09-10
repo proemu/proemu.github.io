@@ -1,0 +1,15 @@
+#Infinite HP Mazinger Z  
+8013A3EE 270F
+8013A698 270F 
+#Infinite HP Aphrodite A  
+801384FC 270F
+80138252 270F 
+#Infinite & Max HP Kouji Kabuto  
+80139B64 270F
+801398BA 270F 
+#Infinite HP GaoGaiGar  
+80139C76 270F
+80139F20 270F 
+#Infinite HP Boss Borot  
+8013860E 270F
+801388B8 270F 

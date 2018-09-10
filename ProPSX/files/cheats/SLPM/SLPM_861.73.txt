@@ -1,0 +1,11 @@
+#Infinite Money (60000) P1
+80151AB0 EA60
+#0 points A opponent score 
+80151AB4 0000 
+80151AB6 0000 
+#0 points B opponent score 
+80151AB8 0000 
+80151ABA 0000 
+#0 points C opponent score 
+80151ABC 0000 
+80151ABE 0000 

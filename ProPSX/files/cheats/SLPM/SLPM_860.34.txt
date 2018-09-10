@@ -1,0 +1,5 @@
+#Infinite Energy P1
+800DBCDC 0096
+800DBCDE 0096
+#Infinite Power
+800DBCE6 3AFB

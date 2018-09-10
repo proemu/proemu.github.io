@@ -1,0 +1,23 @@
+#Player 1 Infinite Health
+800DD284 0000
+#Infinite Health P1 Alternatte		
+800DD258 0100
+#1-Hit Death P2		
+D00DD290 0100
+800DD290 0001
+#Enable All Characters 
+50000902 0000
+8007E53A FFFF
+#Enable All Movies 
+50000702 0000
+8007E5CA 0101
+#Enable Gallery Mode
+8007E54C 0001
+#Enable All Artwork In Gallery Mode Press L1, L2, R1, R2 at the gallery mode artwork screen.
+D009C32A F0FF
+50000C02 0000
+800B9F36 FFFF
+#Infinite Ability Points (Attack Mode)		
+300B4AA4 00FF
+#Infinite Trading Cards (Gallery Mode)		
+800BA050 0063

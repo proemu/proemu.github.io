@@ -1,0 +1,22 @@
+#Only Need 1 Trophy To Win 	
+D005A6E0 0000
+8005A6E0 0002 		
+#Infinite Ball Points 	
+8009D57C 000F 		
+#Infinite Health 	
+8009D562 0014 		
+#Infinite Tank Health 	
+800CAD50 0006
+#Have All Treasures	
+50004302 0000
+8005A6F8 0202
+#Warp Room 2 Unlocked	
+3005A780 0001
+#Warp Room 3 Unlocked	
+3005A792 0001
+#Warp Room 4 Unlocked	
+3005A785 0001
+#Warp Room 5 Unlocked	
+3005A79B 0001
+#P1 Infinite Points	
+8009D57C 000F

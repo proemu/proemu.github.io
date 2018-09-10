@@ -1,0 +1,114 @@
+#Gold 99999
+8011AF5C 967F 
+8011AF5E 0098 
+#Exp 99999
+8011A810 869F 
+8011A812 0001
+#All Items 99 
+8003457C C5FF 
+8003457E 24E3 
+80034580 04F8 
+80034582 A4C3 
+#No Random Battle 
+8011E084 0000 
+#1st Character Infinite & Max HP
+8011A79C 270F 
+8011A7A0 270F
+#1st Character Infinite & Max FP	
+8011A7AA 03F0
+8011A7AC 03F0
+#2nd Character Character Infinite & Max HP
+8011A818 270F
+8011A81C 270F
+#2nd Character Character Infinite & Max FP
+8011A826 03F0
+8011A828 03F0
+#3rd Character Character Infinite & Max HP
+8011A894 270F
+8011A898 270F
+#3rd Character Character Infinite & Max FP
+8011A8A2 03F0
+8011A8A4 03F0
+#Have All Albums 	
+50001D02 0000
+800F6260 FFFF
+#Fp Max In Battle		
+D00A31EE 0C02
+800A31EC 03F0
+D00A31EE 0C02
+800A31EE 2402
+#Ashley Level 98
+3011A7A8 0062 
+#Not decrease ally character HP 
+800A3220 8012 
+800A3222 3C02 
+800A3228 102B 
+800A322A 0242 
+800A322C 0002 
+800A322E 1040 
+800A3334 AE46 
+#Enemies death blow 
+800A31FC 8012 
+800A3200 302B 
+800A3202 0206 
+800A3204 0001 
+800A3206 2402 
+800A3208 0002 
+800A320A 10C0 
+#FP MAX in battle 
+800A31F6 A646 
+#Always activate critical advanced guard counter 
+80072E1A 1000 
+#I can teleport to all locations 
+800899C8 0001 
+#Maximum HPMAX & full recovery · When you open the status screen 
+8008174C 1E00 
+80007800 270F 
+80007802 2405 
+80007804 0008 
+80007806 AE85 
+80007808 D78D 
+8000780A 0800 
+8000780C 0004 
+8000780E AE85 
+#EXP MAX 
+80081D90 1E04 
+80081D92 0800 
+80007810 0098 
+80007812 3C02 
+80007814 967F 
+80007816 3442 
+80007818 0766 
+8000781A 0802 
+8000781C 0078 
+8000781E AE22 
+#MAX level of the arm 
+8009A55A A070 
+8009A57E A070 
+#Number 99 rounds remaining bullets of the arm 
+8009A84C 0063 
+8009A84E 240F 
+8009A852 A04F 
+8009A85A 01E0 
+#Special abilities all learn all characters Please use the code below only Guardian Lore 
+80034E9E A0A7 
+80034EA4 0001 
+#Guardian lower all learning 
+80034D1A A127 
+80034D20 0001 
+80034D78 A100 
+80034D82 3004 
+#Debug Press Select (With Controller 2) No Fight Press select + start All Monsters Book 100% Walk to wall Press X 
+80011018 FFFF 
+D00F5CA6 0100 
+300F5C1A 00F7 
+D00F5CA6 0100 
+300F5C40 0001 
+D00F5CA6 0800 
+300F5C1A 00D0 
+D00F5CA6 0800 
+300F5C40 0000 
+#Attack disable security robot	
+8011DEC6 FFFF
+#None Encounter	
+3011E080 0000

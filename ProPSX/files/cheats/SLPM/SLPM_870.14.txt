@@ -1,0 +1,5 @@
+#Infinite HP Bar in Attack Mode
+8016E8AC 0009
+#Have 999999 score in Attack Mode
+8016DE7A 423F
+8016DE7A 000F

@@ -1,0 +1,21 @@
+#Infinite Energy P1
+800C9D24 00A1
+#After pressing the L1 button perfect Victory 
+D00B5570 0020 
+800C9EBC 0000 
+#Slow Motion
+300B4B6C 000A
+#Infinite Time
+800B5DC8 0007
+#Infinite Fatality Time
+800B6170 0041
+#P1 Can Use Secret/Boss Characters		
+C00B5858 0013
+8002CADA 2400
+8002CAF6 2400
+8002CB06 2400
+8002CB16 2400
+8002CB26 2400
+#Enable Cheat Menus		
+800B5A10 000
+

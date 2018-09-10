@@ -1,0 +1,18 @@
+#P1 Infinite Energy
+80187BEC 0078
+#P2 Infinite Energy
+80188400 0078
+#Enable Sweet Tooth
+30180BF0 0001
+#Enable Minion
+30180BF1 0001
+#P1 Infinite Turbo
+80188176 00C8
+#P2 Infinite Turbo
+80188A0A 00C8
+#P1 Have All Weapons
+50000802 0000
+801881D2 0002
+#P2 Have All Weapons
+50000802 0000
+801889E6 0002

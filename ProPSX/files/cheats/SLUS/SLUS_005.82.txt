@@ -1,0 +1,7 @@
+#Infinite Heals
+800CC06E 0009
+#Infinite All Items
+50000C02 0000
+800CC05C 0009
+#Unlimited Credits
+83F33FF9 0009

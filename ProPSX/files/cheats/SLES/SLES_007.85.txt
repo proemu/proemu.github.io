@@ -1,0 +1,5 @@
+#Infinie Energy	
+800DD1CC 0096
+800DD1CE 0096
+#Infinite Time	
+800DB73C 0BA9

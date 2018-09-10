@@ -1,0 +1,13 @@
+#Infinite Time
+800A2E90 12A0
+800A52C8 12A0
+#Unlimited Points = Infinite Retries
+800A4F74 FFFF
+800A59A0 FFFF
+#Stop Timer
+800A52C8 0BD4
+#Invincible
+800B9DEA 0000
+#Press Select To Finish Level
+D00A50BC 0001
+800A47A8 0001

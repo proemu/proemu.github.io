@@ -1,0 +1,24 @@
+#Infinite Assign Power Points
+800C4D04 0008
+#Infinite Shields
+80045FB4 0064
+#Anti Shield Lasers Never Overheat
+8012E21C 0000
+#Lasers Never Overheat
+8012E274 0000
+#Seismic Lance Never Overheat
+8012E2CC 0000
+#Infinite Time
+8011E400 230C
+#Infinite As Missles
+8012E388 0005
+#Infinite Plasma Missles
+8012E3E0 0005
+#Enable Wraith Ship
+8005513C 0100
+#Enable Diablo Ship
+80055142 0001
+#Enable Voodoo Ship
+80055146 0100
+#Have Stage Select Open
+300A9ECA 0030

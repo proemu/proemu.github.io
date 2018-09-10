@@ -1,0 +1,5 @@
+#Have 99000000 money
+800B08D4 9EC0
+800B08D6 05E6
+#Have 9999 in gambling machine
+800ECD20 270F

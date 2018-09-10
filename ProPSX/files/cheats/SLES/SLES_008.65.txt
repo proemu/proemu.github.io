@@ -1,0 +1,46 @@
+#Infinite Lives
+801EFF60 0002
+#Infinite Ammo (BPC)		
+800B7B84 0000
+#Infinite Health (BPC)		
+800A54FC 0000
+#Infinite energy Level 1-1
+800CD2A6 003F
+#Infinite energy Level 1-2
+800CFE1E 003F
+#Infinite energy Level 1-3	
+800CFFBE 003F
+#Infinite energy Level 1-4
+800CC1FE  003F
+#Infinite energy Level 2-1
+800D1C2E 003F
+#Infinite energy Level 2-2
+800D167E  003F
+#Infinite energy Level 2-3
+800D015E  003F
+#Infinite energy Level 2-4
+800CC816 003F
+#Infinite energy Level 3-1
+800CF5FE 003F
+#Infinite energy Level 3-2
+800CDE06 003F
+#Infinite energy Level 3-3
+800D08AE 003F
+#Infinite energy Level 3-4
+800CCCF6 003F
+#Infinite energy Level 4-1
+800D126E 003F
+#Infinite energy Level 4-2
+800D015E  003F
+#Infinite energy Level 4-3
+800D2C06 003F
+#Infinite energy Level 4-4
+800CC816 003F
+#Infinite energy Level 5-1
+800CFF56 003F
+#Infinite energy Level 5-2
+800D17B6 003F
+#Infinite energy Level 5-3
+800D0A4E 003F
+#Infinite energy Level 5-4
+800CC816 003F

@@ -1,0 +1,36 @@
+#Have 99 diamonds
+80180A4A 0063
+#Have 99 lives
+80180A48 0063
+#Infinite energy level 1
+80180A4C 0064
+801F4AFC 0064
+#Infinite energy level 2
+80180488 0064
+#Infinite energy level 3
+8018041C 0064
+801EC204 0064
+#Infinite energy level 4
+8017FF9C 0064
+#Infinite energy level 5
+80180ADC 0064
+#Infinite energy level 6
+80179618 0064
+#Infinite energy level 7
+8017F890 0064
+801F0700 0064
+#Infinite energy level 8
+8017E750 0064
+801EC2D4 0064
+#Infinite energy level 9
+8017E750 0064
+801F4FBC 0064
+#Infinite energy level 10
+8017EA38 0064
+801F4AFC 0064
+#Infinite energy level 11
+80180660 0064
+801ec15C 0064
+#Infinite energy level 12
+80180230 0064
+801F3458 0064

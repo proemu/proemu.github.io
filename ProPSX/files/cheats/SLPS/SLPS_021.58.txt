@@ -1,0 +1,5 @@
+#Max Power Gauge	
+800ED88C 0780
+#Max Score	
+800ED84C E0FF
+800ED84E 05F5

@@ -1,0 +1,10 @@
+"Infinite Jump Fly Jets
+8007A16C 03E8
+"Infinite Machine Gun
+8007A15C 006E
+"Infinite Scatter Bomb
+8007A160 00FF
+"Infinite Shield
+8007A164 03E8
+"Infinite Weapon
+8007A158 00FF

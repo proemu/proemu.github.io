@@ -1,0 +1,71 @@
+#Infinite Health
+800AB330 0064
+800AB33C 0001
+80127C58 0064
+#Infinite Armor
+800AB334 0064
+#Unlimited Bullets
+800AB3A4 0063
+#Unlimited Shotgun Shells
+800AB3A8 0063
+#Unlimited Plasma
+800AB3AC 0063
+#Unlimited Rockets
+800AB3B0 0063
+#Have Shotgun
+800AB388 0001
+#Have Double Barrel-Shotgun
+800AB38C 0001
+#Have Chain Gun
+800AB390 0001
+#Have Rocket Launcher
+800AB394 0001
+#Have Plasma Rifle
+800AB398 0001
+#Have B.F.G. 9000
+800AB39C 0001
+#Have Chainsaw
+800AB3A0 0001
+#Always Have Red Key
+800AB354 0001
+#Always Have Blue Key
+800AB358 0001
+#Always Have Yellow Key
+800AB35C 0001
+#Mega Rapid Fire
+800AB3F8 0001
+#Always Have Map
+800AB34C 0001
+#Start On Level Modifier (00-1D)	
+D007AB68 0001
+8007AB68 00??	
+00-Attack
+01-Virgil
+02-Canyon
+03-Combine
+04-Catwalk
+05-Fistula
+06-Geryon
+07-Minos
+08-Nessus
+09-Paradox
+0A-Subspace
+0B-Subterra
+0C-Vesperas
+0D-System Control
+0E-Human Barbecue
+0F-Wormhole
+10-Crater
+11-Nukage Proccesing
+12-Deepest Reaches
+13-Processing Area
+14-Lunar Mining Project
+15-Quarry
+16-Ballistyx
+17-Heck
+18-Congo
+19-Aztec
+1A-Ghost Town
+1B-Baron's Lair
+1C-The Death Domain
+1D-Onslaugt

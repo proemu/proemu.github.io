@@ -1,0 +1,6 @@
+#Infinite Health
+800432A0 2400
+#Infinite Ammo
+80057FD2 2400
+#Infinite Flamethrower Fuel
+80058E3E 2400

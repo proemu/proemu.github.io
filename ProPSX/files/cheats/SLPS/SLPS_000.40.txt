@@ -1,0 +1,7 @@
+#Infinite Energy P1
+80128A0A 007D
+#No Energy P2		
+80129A3A 0000
+#Use all characters 
+8012E154 FFFF 
+8012E156 00FF 

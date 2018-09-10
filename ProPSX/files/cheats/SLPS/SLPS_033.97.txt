@@ -1,0 +1,6 @@
+#Infinite lives RAF world
+800BA4BB 0005
+#Infinite energy RAF world
+800BA517 0FF6
+#Infinite energy Herebeke
+800C06E5 0008

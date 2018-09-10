@@ -1,0 +1,7 @@
+#Infinite Shield  
+800BA88C 0062 
+#Infinite Lock-On Laser Energy  
+800BA9C4 0064 
+#Infinite Lives  
+800C2918 0003 
+

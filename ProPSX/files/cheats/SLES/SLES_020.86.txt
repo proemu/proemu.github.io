@@ -1,0 +1,15 @@
+#Infinite Money
+80074BA8 C9FF
+80074BAA 3B9A
+#Time Frozen
+D00DEB30 0001
+800DEB30 0000
+D00DEB30 0001
+800DEB32 0000
+#Infinite Afterburner
+800C021C 0032
+#Infinite Armour
+300BCF70 0021
+#255 Racing-points/always win class	
+30086BF4 00FF
+

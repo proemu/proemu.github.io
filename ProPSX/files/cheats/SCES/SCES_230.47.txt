@@ -1,0 +1,74 @@
+#Infinite Gold
+800BAF84 967F
+800BAF86 0098
+#Infinite Hp Albert
+800BB300 270F
+800BECA6 270F
+#Infinite Mp Albert
+800BB303 03E7
+#Infinite Sp Albert
+800BB305 03E7
+#Infinite Hp Dart
+800BB224 270F
+800BE986 270F
+#Infinite Mp Dart
+800BB226 03E7
+#Infinite Sp Dart
+800BB228 03E7
+#Infinite Hp Haschel
+800BB2D4 270F
+800BEC06 270F
+#Infinite Mp Haschel
+800BB2D6 03E7
+#Infinite Sp Haschel
+800BB2D8 03E7
+#Infinite Hp Kongol
+800BB358 270F
+800BEDE6 270F
+#Infinite Mp Kongol
+800BB35A 03E7
+#Infinite Sp Kongol
+800BB35C 03E7
+#Infinite HP Lawitz
+800BB250 270F
+800BEA26 270F
+#Infinite MP Lawitz
+800BB252 03E7
+#Infinite Hp Meru
+800BB32C 270F
+800BED46 270F
+#Infinite Mp Meru
+800BB32E 03E7
+#Infinite Sp Meru
+800BB330 03E7
+#Infinite Hp Miranda
+800BB384 270F
+800BEE86 270F
+#Infinite Mp Miranda
+800BB386 03E7
+#Infinite Sp Miranda
+800BB388 03E7
+#Infinite Hp Rose
+800BB2A8 270F
+800BE6B6 270F
+#Infinite Mp Rose
+800BB2AA 03E7
+#Infinite Sp Rose
+800BB2AC 03E7
+#Infinite Hp Shanna
+800BB27C 270F
+800BEAC6 270F
+#Infinite Mp Shanna
+800BB27E 03E7
+#Infinite Sp Shanna
+800BB280 03E7
+#Save Anywhere
+8005A690 0001
+#No Random Battles
+800C6E10 0000
+#Have All Dragoon Spirits
+300BB08C 00FF
+#Infinite Items (All Slots)
+8002366E 2400
+80023696 2400
+8002369A 2400

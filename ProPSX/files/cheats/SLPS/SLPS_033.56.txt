@@ -1,0 +1,4 @@
+#Infinite Lives In Dinosaur Mini Game
+8012298C 0003
+#Infinite Energy Boat Mini Game
+80122974 0080

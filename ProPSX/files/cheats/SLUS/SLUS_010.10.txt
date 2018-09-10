@@ -1,0 +1,6 @@
+#Infinite Lives
+801EBFCC 0064
+#Infinite Health
+801EE8F4 0005
+#All Levels Unlocked
+801EBFD0 0008

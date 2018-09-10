@@ -1,0 +1,32 @@
+#Infinite Energy In Battle Character 1
+800BE024 270F
+800BE026 270F
+#Infinite Ep In Battle Character 1
+800BE028 03E7
+800BE02A 03E7
+#Infinite Energy In Battle Character 2
+800BE034 270F
+800BE036 270F
+#Infinite Ep In Battle Character 2
+800BE038 03E7
+800BE03A 03E7
+#Infinite Energy In Battle Character 3
+800BE044 270F
+800BE046 270F
+#Infinite Ep In Battle Character 3
+800BE048 03E7
+800BE04A 03E7
+#Infinite Gg
+8005FA50 FFFF
+#Max Mp
+8005F8A8 EA60
+#All Items
+5000C614 0000
+300510B6 0063
+#Call Save Damashi Anytime		
+D005B1C8 0F00
+8009B124 0001
+D005B1C8 0F00
+8009B126 0000
+D005B1C8 0F00
+8005FA1C 000D

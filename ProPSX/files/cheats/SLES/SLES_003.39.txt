@@ -1,0 +1,17 @@
+#Infinite Health level 1  
+801C0830 07D0 
+#Infinite Health level 2  
+801B37DC 07D0 
+#Infinite Health level 3  
+801B4AE4 07D0 
+#Infinite Shield  
+801C0348 07D0 
+#Infinite Shots  
+801CF800 0009 
+#Infinite Bouncing Mines On Pickup  
+801CE8D0 0003 
+#Infinite Explosive Shots On Pickup  
+801CF620 0009 
+#Infinite Energy  
+801C1944 07D0 
+

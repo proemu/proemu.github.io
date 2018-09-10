@@ -1,0 +1,44 @@
+#Im Kampf Charakter 1 Unendlich HP	
+80145F18 03E7
+#Im Kampf Charakter 1 Unendlich MP	
+80145F1A 03E7
+#Im Kampf Charakter 1 Immun gegen Status-Wechsel	
+80145F10 0000
+#Im Kampf Charakter 2 Unendlich HP	
+80146058 03E7
+#Im Kampf Charakter 2 Unendlich MP	
+8014605A 03E7
+#Im Kampf Charakter 2 Immun gegen Status-Wechsel	
+80146050 0000
+#Im Kampf Charakter 3 Unendlich HP	
+80146198 03E7
+#Im Kampf Charakter 3 Unendlich MP	
+8014619A 03E7
+#Im Kampf Charakter 3 Immun gegen Status-Wechsel	
+80146190 0000
+#Eine Menge Zennies	
+80144F50 4450
+80144F52 00A8
+#Zeit bleibt bei 00:00	
+80144FC0 0000
+#Habe alle Drachen-Gene	
+80145548 FFFF
+8014554A FFFF
+#Max Wurf-Kraft	
+801440BC 0100
+#Verwandle Ausruhen-Button zu Gehe zu letztem gespeicherten Punkt	
+8014504A 0001
+#Habe Holzstab	
+801451DE 2E0E
+#Habe Bambusstab	
+801451F0 2F0E
+#Habe Deluxe-Stab	
+801451F2 300E
+#Habe Angel-Stab	
+801451F4 310E
+#Habe Schraubenschlüssel	
+801451F6 320E
+#Habe Stab des Meisters	
+801451F8 330E
+#Keine Zufallskämpfe	
+80143F22 0000

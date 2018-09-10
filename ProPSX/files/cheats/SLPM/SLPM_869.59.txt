@@ -1,0 +1,29 @@
+#Rockman maximum life
+300CE5EB 0040 
+#Rockman maximum energy
+300CE5F1 0040 
+#Zero Maximum Life 
+300CE5EC 0040 
+#Zero Maximum energy
+300CE5F2 0040 
+#Invincibility 0N -> select OFF -> L2 
+D00C5C2C 0100 
+800987DA 0001 
+D00C5C2C 0001 
+800987DA 0000 
+#Special weapons fire possible  You can not fire magma blade. 
+800987F8 0000 
+#9999 Nightmare Soul Rockman
+800CE662 270F
+#9999 Nightmare Soul Zero
+800CE664 270F
+#Remaining machine number 9 aircraft 
+300CE5C9 0009 
+#while the Square button is pressed, the air dash distance infinite 
+D00C5C2C 0080 
+300987E5 0000 
+#Dash state always 
+300987E4 0000 
+
+
+

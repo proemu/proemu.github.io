@@ -1,0 +1,6 @@
+#Infinite energy
+801773D6 03E7
+#Infinite money
+801773DA 03E7
+#Unexplored region emergence of fishing notes	
+3017655A 00FF

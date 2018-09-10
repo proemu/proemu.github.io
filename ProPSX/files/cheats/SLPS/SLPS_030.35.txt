@@ -1,0 +1,5 @@
+#Player has 999000 points in Story mode
+8010BC70 3E58
+8010BC72 000F
+#Opponent has 0 points in Story mode
+8010D020 0000

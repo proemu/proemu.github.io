@@ -1,0 +1,7 @@
+#Infinite Hp
+801FE5B8 00FF
+#Infinite Bullet
+801FE5CE 0063
+#Infinite secret stone Gauge
+801FBEDC 0064
+801FE63A 2EE0

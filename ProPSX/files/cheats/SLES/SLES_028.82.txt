@@ -1,0 +1,11 @@
+#Infinite ships 	
+D00D97F6 0100
+300D97F7 0009
+#Max lock-ons (Press L1) 	
+D00D4AA2 FBFF
+300D9800 0019
+#ORIGINAL MODE Erosion rate = 100% (Quick boss fight) Press everytime erasion rate comes to a halt works not immediately (Press L1 & L2 & R1 & R2)	
+D00D4AA2 F0FF
+800D504C 0000
+D00D4AA2 F0FF
+800D504E 0064

@@ -1,0 +1,6 @@
+#Infinite time in Catch shell mini game  
+800CC1E0 003C 
+#Have 99 shells in Catch shell mini game  
+800CC1CC 0063 
+#Have 0 shells left (win the mini game)  
+800CC1B4 0000 

@@ -1,0 +1,6 @@
+#Unverwundbar Drücke R1	
+D00882CC 0800
+8008858A FF00
+#Wieder verwundbar Drücke L1	
+D00882CC 0400
+8008858A 0000

@@ -1,0 +1,31 @@
+#Infinite HP in battle
+801E9F3A 008C
+#Infinite & Max HP Hero
+80029214 270F
+80029216 270F
+#Infinite & Max HP Heroine
+8002922C 270F
+8002922E 270F
+#Infinite & Max HP Kenshin
+80029244 270F
+80029246 270F
+#Infinite & Max HP Kaoru
+8002925C 270F
+8002925E 270F
+#Infinite gold
+801AF018 869F
+801AF01A 0001
+#All Items 
+50003002 0001 
+801AED50 6301 
+#LEVEL UP 
+D01B4CD4 0005 
+801B4CD4 0001 
+#None Encounter	
+8019BE98 00D0 
+8019BE9A 0000
+#During combat deathblow gauge	
+801E9F3C 0064
+#Physical strength in combat enemy 0	
+801E9F46 0000
+

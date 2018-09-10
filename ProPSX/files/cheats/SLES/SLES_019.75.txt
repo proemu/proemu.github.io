@@ -1,0 +1,66 @@
+#Kein Schaden (Einstellungstest)
+801E3588 0000
+#Schadens-Anzeige Auf 0
+8009AC10 0000
+#Gesucht-Anzeige Auf 0
+800970F8 0000
+#Starte In Der 3Ten Runde Dirt Track
+D00C69C8 0000
+800C69C8 0002
+#Alle ManöVer Gefahren (Einstellungstest)
+D01E3570 0000
+801E3570 503C
+D01E3572 0000
+801E3572 3C3C
+D01E3574 0000
+801E3574 503C
+D01E3576 0000
+801E3576 503C
+D01E3578 0000
+301E3578 0050
+#Unendlich Zeit (Einstellungstest)
+D01E356E 0000
+801E4248 0001
+#Zeituhr Stoppen Teil 1
+D0096AEC 002F
+80000002 4D43
+D0096AEC 004F
+80000002 0000
+.Bei manchen Missionen sollte man die Uhr wieder einschalten können, um das Missionsziel erreichen zu können. Teil 1 und Teil 2 des Codes getrennt, aber aufeinanderfolgend eingeben.
+.Zum Einschalten L1+L2+R1+R2 gedrückt halten, dann O drücken.
+.Zum Ausschalten L1+L2+R1+R2 gedrückt halten, dann X drücken.
+#Zeituhr Stoppen Teil 2
+D0000002 4D43
+800C6B82 0FFF
+D0000002 4D43
+800C6B84 00FF
+D0000002 4D43
+800C6B86 000F
+#Alle 4 StäDte Freischalten
+800961F4 0004
+8009620C 0046
+80096228 0001
+#Keine Anderen Autos
+800961BC 0000
+800961C0 0001
+#Keine FussgäNger
+800961B4 0000
+800961B6 0001
+#Auto Raucht Andauernd
+8009ABAC FFFF
+#HinterräDer Rauchen
+8009ABA0 FFFF
+#Lichter Immer An
+80096AE0 0001
+#Nitro Boost + Kaum Anziehungskraft
+8009AB86 0000
+#WasserläUfer-Reifen
+8009A934 01C0
+8009A938 02F0
+8009A93C 01C0
+8009A940 FD0E
+8009A944 FE32
+8009A948 02F0
+8009A9AC FE32
+8009A950 FD0E
+

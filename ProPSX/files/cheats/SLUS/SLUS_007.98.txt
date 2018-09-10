@@ -1,0 +1,12 @@
+#Unlock All Missions
+300402A4 001F
+300402A5 001F
+300402A6 001F
+#All Database Features Opened
+50002002 0000
+8004025C FFFF
+#Inf Health
+83F72423 0007
+#Inf Ammo And Weapons
+83F70E7F 0007
+

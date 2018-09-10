@@ -1,0 +1,85 @@
+#Infinite Health With Max Health
+80067710 03E7
+80067712 03E7
+#Infinite Money
+80067704 FFFF
+#Moon Jump
+E0081BFA 00BF
+8011D64C 8BA8
+E0081BFA 00BD
+8011D64C 8BA8
+#Max Money
+80067704 423F
+80067706 000F
+#All Shops Have Infinite Items In Stock
+50000E20 0000
+300674E5 00FF
+50000E20 0000
+800674E6 FFFF
+50000E20 0000
+800674E8 FFFF
+50000E20 0000
+800674EA FFFF
+50000E20 0000
+800674EC FFFF
+50000E20 0000
+800674EE FFFF
+50000E20 0000
+800674F0 FFFF
+50000E20 0000
+300674F2 00FF
+#Infinite Wonder Orb
+3006743F 0009
+#Infinite Herbs
+30067440 0009
+#Infinite Compass
+30067441 0009
+#Infinite Tonic
+30067442 0009
+#Infinite Elixir
+30067443 0009
+#Infinite Panacea
+30067444 0009
+#Infinite Lorien Nuts
+30067445 0009
+#Infinite Grapes Of Eru
+30067446 0009
+#Infinite Round Key (Special Item)
+30067447 0009
+#Infinite Triangle Key (Special Item)
+30067448 0009
+#Infinite Ticket (Special Item)
+30067449 0009
+#Infinite Bone Dart (Special Item)
+3006744C 0009
+#Infinite Goo Goo Bird (Special Item)
+3006744D 0009
+#Infinite Puzzle Piece
+30067450 0009
+#Infinite Elf Ring
+30067452 0009
+#Infinite Sp Elf Ring
+30067453 0009
+#Infinite Guard Ring
+30067454 0009
+#Infinite Sp Guard Ring
+30067455 0009
+#Infinite Amulet
+30067456 0009
+#Infinite Elemental Ring
+30067458 0009
+#Infinite Elemental Charm
+30067459 0009
+#Infinite Crimson Cape (Special Item)
+3006745A 0009
+#All Items
+50001B01 0000
+3006743F 0009
+#The Races Vs Bull Codes\Infinite Gray Coins
+801C72C0 0063
+#The Races Vs Bull Codes\Infinite Tonic
+801C72BC 0009
+#The Races Vs Bull Codes\Infinite Gold Coins
+801C72B8 0063
+#The Races Vs Bull Codes\Infinite Dungeon Keys
+3006744F 0009

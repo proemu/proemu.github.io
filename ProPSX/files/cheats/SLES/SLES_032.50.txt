@@ -1,0 +1,12 @@
+#No damage	
+D005C132 0071
+8005C136 0000
+#Timer stopped   
+D0046352 1080
+80046354 0000 
+#Rapid fire   
+D00AB2E4 0000
+300AB2E4 0002 
+#All weapons (Press L1 & L2)  
+D00BDD46 FAFF
+80032E2C FFFF 

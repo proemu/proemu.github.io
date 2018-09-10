@@ -1,0 +1,14 @@
+#Infinite energy PL 1
+8009D8F0 0064
+#Infinite energy PL 2 
+8009DA2C 0064
+#Infinite Lives
+8004D318 0000
+#Extra Lives
+8004D318 0001
+#Infinite Handgrenades PL1
+8009DA0C 0005
+#Infinite Handgranades PL2
+8009db48 0005
+#Infinite time in sniper level
+80078674 1770

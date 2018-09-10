@@ -1,0 +1,14 @@
+#All Levels Selectable  
+80061930 001F
+#Crash 99 Lives 
+800618D4 6300
+#Akuaku 2 possession   
+800618D8 0200 
+#Invincibility 
+8002471C 0004 
+8002471E 2403 
+#Jump infinite ON: L1 Press OFF: R1 Press 
+D005E714 0004 
+8001E018 0000 
+D005E714 0008 
+8001E018 00C8

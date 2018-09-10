@@ -1,0 +1,19 @@
+#Infinite Lives
+800B0592 0003
+#Infinite Zzz's (Health)
+800B0590 0063
+#Have 99 Cogs
+800B058E 0063
+#Have Infinite Moons
+800B058C 0063
+#Have Infinite Tokens
+800B0598 0063
+#Have All Dreamkeys For All Levels
+50000C02 0000
+80090480 FFFF
+#Have All Levels Open
+50000202 0000
+8009047A FFFF
+#Have All Winks
+50000302 0000
+80090470 FFFF

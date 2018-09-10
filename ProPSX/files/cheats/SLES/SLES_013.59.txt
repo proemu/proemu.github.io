@@ -1,0 +1,6 @@
+#Infinite Energy
+8006DA60 0640
+#Infinite Shoulder Weapon
+8006DA6A 0005
+#Infinite time
+801C8C30 0062

@@ -1,0 +1,19 @@
+#All Cams
+50001E02 0000
+801F5C04 0505
+#Have Bonus Movie		
+801F5C58 0001
+#Always Right Answer Telephone Quiz 
+800CC458 0001
+#Autowin - Worm Challenge 
+801EE570 000A
+#Only Catch one worm to win - Worm Challenge 
+801EE570 0009
+#Infinite Time - Worm Game 
+801EF2CC 1800
+#Infinite Time - Blue Ribbon 
+801EB7800 0374
+#Infinite Time - Car Race (Disconnect before enter gym)
+801EB780 0784
+#Infinite Time - Tug-o-war 
+801F46C8 FFFF

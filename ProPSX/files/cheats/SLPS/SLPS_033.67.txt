@@ -1,0 +1,28 @@
+#CG Gallery 100%	 
+50000502 0000 
+80064CC8 FFFF 
+80064CD2 03FF
+#Girl by favorability rating Ayase Miki	 
+30064DE8 00FF
+#Girl by favorability rating Nonomura Hanashao	 
+30064DE9 00FF
+#Girl by favorability rating SenUra Shin-rin	 
+30064DEA 00FF
+#Girl by favorability rating Hoshi-ha Chihaya	 
+30064DEB 00FF
+#Girl by favorability rating RanSaki Reika	 
+30064DEC 00FF
+#Girl by favorability rating Yun Usami	 
+30064DED 00FF
+#Girl by favorability rating Toyama Sachie	 
+30064DEE 00FF
+#Girl by favorability rating Shindo haze	 
+30064DEF 00FF
+#Girl by favorability rating Mio Ayase	 
+30064DF0 00FF
+#Girl by favorability rating Fujiwara tree	 
+30064DF1 00FF
+#Girl by favorability rating Tachibana white	 
+30064DF2 00FF
+#Girl by favorability rating Morishita Junmi	 
+30064DF3 00FF

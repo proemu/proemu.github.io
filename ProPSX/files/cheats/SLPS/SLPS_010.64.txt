@@ -1,0 +1,4 @@
+#1P stamina 
+80159A38 0000 
+#2P stamina 
+80159A3C 0001

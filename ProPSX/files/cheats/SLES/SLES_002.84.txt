@@ -1,0 +1,8 @@
+#Tune Squad Score 99
+80078D5C 0063
+#Tune Squad Score 0
+80078D5C 0000
+#Monstars Score 99
+80078D60 0063
+#Monstars Score 0
+80078D60 0000

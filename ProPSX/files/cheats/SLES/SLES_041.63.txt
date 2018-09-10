@@ -1,0 +1,9 @@
+#Max Dance Gauge (P1)	
+800BA33A 03E8
+#Max Total Score (P1)	
+800BA344 C9FF
+800BA346 3B9A
+#All Lessons Clear	
+50000C02 0000
+800DAF28 0202
+

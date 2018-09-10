@@ -1,0 +1,10 @@
+#Crystal Castles\Unlimited Lifes
+800F1006 0003
+#Gauntlet\Unlimited Lifes
+801D7E00 07CC
+#Marble Madness\Unlimited Time
+8013023C 003D
+#Paperboy\Unlimited Lifes
+801E01B8 0004
+#Paperboy\Unlimited Papers
+801E0370 000A

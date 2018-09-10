@@ -1,0 +1,16 @@
+#Player always has 99900 points
+80148838 03E7
+#Upper opponent always have 0 points
+8014A5C0 0000
+#Left opponent always have 0 points
+8014B484 0000
+#Right opponent always have 0 points
+801496FC 0000
+#All 100% success rate of cheating
+8014D9E0 6464
+8014D9E2 6464
+8014D9E4 6464
+8014D9EA 6464
+8014D9EC 6464
+3014D9EE 0064
+8014D9F4 6464

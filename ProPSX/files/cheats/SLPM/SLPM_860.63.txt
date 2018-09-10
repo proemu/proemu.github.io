@@ -1,0 +1,4 @@
+#Infinite energy Player 1
+800D7EC8 00C8
+#Enemy has no energy (Always lose)
+800D7ECC 0000

@@ -1,0 +1,16 @@
+#Infinite Health P1
+801DF15E 007C
+#Have All Weapons & Infinite Ammo	
+801DF5D0 6363
+801DF5D2 6363
+801DF5D4 6363
+801DF5D6 6363
+801DF5CE 0632
+#Character Abbadon
+801D0094 000E
+#Character Agent 326
+801D0094 000C
+#Character Mr. Phatt
+801D0094 000D
+#Character Overseer
+801D0094 000F 

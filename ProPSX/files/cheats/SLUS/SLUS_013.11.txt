@@ -1,0 +1,51 @@
+#Infinite Bottles Of Chloroform
+300A7313 0009
+#Infinite Oxygen
+800A71FE 0708
+#Level Access Menu Press L1+L2 at the title screen that says 'New Game'. Pressing the Triangle button will exit back to 'New Game'.	
+D00A603A F5FF
+800A2826 0002
+#Cutscene Access Menu		
+D00A603A FAFF
+800A2822 0002
+#Infinite Health (All Levels)
+80007600 3AA4
+80007602 8C21
+80007604 03E8
+80007606 3402
+80007608 AAA4
+8000760A 0801
+8000760C 0022
+8000760E A422
+D006A7CC BB42
+8006A7C8 1D80
+D006A7CC BB42
+8006A7CA 0C00
+#Infinite Large Medipacks		
+800A732C FFFF
+#Infinite Health Collessum 
+801BB992 03E8
+#Infinite Health Deapsea Dive 
+80184CC2 03E8
+#Infinite Health Escape With The Iris
+801CC196 03E8
+#Infinite Health Gallows Tree 
+801C3A56 03E8
+#Infinite Health Labyrinth
+801D2BE6 03E8
+#Infinite Health Red Alert & Security Breach	
+801C4D7E 03E8
+#Infinite Health Sinkinig Submarine 
+801D8B6E 03E8
+#Infinite Health Streets Of Rome 
+801CB7B2 03E8
+#Infinite Health The 13th Floor
+801CDE22 03E8
+#Infinite Health The Base 
+801D2FFE 03E8
+#Infinite Health The Old Mill 
+801C7E2A 03E8
+#Infinite Health The Submarine 
+801D3152 03E8
+#Infinite Health Trajans Markets
+801D2126 03E8

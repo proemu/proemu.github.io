@@ -1,0 +1,30 @@
+#Home Team Score 99
+800AF41C 0063
+#Home Team Score 0
+800AF41C 0000
+#Away Team Score 99
+800AF41E 0063
+#Away Team Score 0
+800AF41E 0000
+#Home Infinite Time Outs
+300AF67C 0003
+#Away Infinite Time Outs
+300AF67D 0003
+#Home No Time Outs
+300AF67C 0000
+#Away No Time Outs
+300AF67D 0000
+#Have Max Stats In Speed
+80060D38 0063
+#Have Max Stats In Stamina
+80060D40 0063
+#Have Max Stats In Quickness
+80060D48 0063
+#Have Max Stats In Arm Strength
+80060D50 0063
+#Have Max Stats In Accuracy
+80060D58 0063
+#Have Max Stats In Intelligence
+80060D60 0063
+#Have Max Stats In Tackling/Cover
+80060D68 0063

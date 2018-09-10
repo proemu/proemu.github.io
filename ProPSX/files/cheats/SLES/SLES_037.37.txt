@@ -1,0 +1,4 @@
+#Infinite health
+800BB2F8 0190
+#Infinite power
+800BB2FA 0200

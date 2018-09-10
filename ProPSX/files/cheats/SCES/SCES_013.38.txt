@@ -1,0 +1,8 @@
+#Max positron brain power	
+8006B0E2 0007
+#Infinite Energy	
+800E9D0A 3C00
+#Infinite Tiny tanx	
+800E6FDC 0005
+#Infinite Lives	
+800E6FA0 0005

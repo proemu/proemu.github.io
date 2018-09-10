@@ -1,0 +1,4 @@
+#Player has always 40 HP
+800F7640 0028
+#Player has always 1000 of money
+800F7668 03E8

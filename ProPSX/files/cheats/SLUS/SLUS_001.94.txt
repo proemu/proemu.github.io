@@ -1,0 +1,6 @@
+#Infinite Lives
+800B5A94 0009
+#Infinite Energy
+800B5A98 0003
+#Invincible		
+80094AA4 003C

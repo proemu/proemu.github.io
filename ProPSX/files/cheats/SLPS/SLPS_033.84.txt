@@ -1,0 +1,8 @@
+#Player has 9999 points
+8005BF50 270F
+#Player 2 has 0 points
+8005C0F0 0000
+#Player 3 has 0 points
+8005C290 0000
+#Player 4 has 0 points
+8005C430 0000

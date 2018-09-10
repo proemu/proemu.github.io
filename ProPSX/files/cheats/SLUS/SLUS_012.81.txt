@@ -1,0 +1,22 @@
+#P1 Infinite Dance Meter
+8008180C 03E8
+#P1 No Meter
+8008180C 0000
+#P1 Max Combo
+8007D184 03E7
+#P1 Max Perfect	
+800832C2 270F
+#P1 No Combo
+8007D184 0000
+#All Lessons Clear		
+50000C02 0000
+80010E5C 0101
+#Dance Magic Mode: Max Power (P1)		
+800E42EC 0002
+800E42EE 00FF
+#Dance Magic Mode: Max Power (P2)		
+800E42F8 0002
+800E42FA 00FF
+#Unlock All Extras		
+80010E5A 1000
+

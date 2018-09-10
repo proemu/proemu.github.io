@@ -1,0 +1,12 @@
+#Timer Frozen
+80061D1C 0000
+#Pusher Beam Ammo
+8011E424 0014
+#Laser Beam Ammo
+8011E454 0018
+#Lego Ore
+800C1C88 FFFF
+#Green Crystals 00-FF Replace the ?? with the number needed to complete mission
+800C1C90 00FF
+#Red Crystals 00-FF Replace the ?? with the number needed to complete mission.
+800C1C8C 00FF

@@ -1,0 +1,10 @@
+#Infinite Health P1	
+801FB6B4 03E8		
+#P2 Loses Power	
+801FBC3C 0000
+##All Wrestlers	
+50008001 0000
+30079F71 0001		
+#Enable Might Meters All Wrestlers	
+50007F02 0000
+8007A070 5741

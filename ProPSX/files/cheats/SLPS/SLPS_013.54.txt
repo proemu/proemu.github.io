@@ -1,0 +1,99 @@
+#Hero academic achievement 
+50000504 0000 
+80165378 07D1
+#Strength hero currently
+80165360 0001
+#Hero maximum strength 
+801653D0 0001
+#Haruka parameters / lovey degree 
+80165DD8 07D1
+#Haruka parameters / friendship degree 
+80165DDC 07D1
+#Haruka parameters / reliability 
+80165DE0 07D1
+#Haruka parameters / guardian reliability 
+80165E38 07D1
+#Haruka academic achievement 
+50000504 0000 
+80165DE4 07D1
+#Haruka school of choice Faculty of Letters
+80165DF8 50C8  
+#Haruka school of choice Sawa Science Department
+80165DF8 50A0 
+#Nanako parameters / lovey degree 
+80165F04 07D1
+#Nanako parameters / friendship degree 
+80165F08 07D1
+#Nanako parameters / reliability 
+80165F0C 07D1
+#Nanako parameters / guardian reliability 
+80165F64 07D1
+#Nanako academic achievement 
+50000504 0000 
+80165F10 07D1
+#Nanako school of choice is Keio Faculty of Science 
+80165F24 9D38
+#Nanako school of choice is Tojo Faculty of Science 
+80165F24 5160 
+#Yuki parameters / lovey degree 
+80166434 07D1
+#Yuki parameters / friendship degree 
+80166438 07D1
+#Yuki parameters / reliability 
+8016643C 07D1
+#Yuki parameters / guardian reliability 
+80166494 07D1
+#Yuki academic achievement 
+50000504 0000 
+80166440 07D1
+#Yuki school of choice Nichiyo Collegiate Athletic Department 
+80166454 5230  
+#Yuki school of choice University 
+80166454 51F8 
+#Sae parameters / lovey degree 
+80166740 07D1
+#Sae parameters / friendship degree 
+80166744 07D1
+#Sae parameters / reliability 
+80166748 07D1
+#Sae parameters / guardian reliability 
+801667A0 07D1
+#Sae academic achievement 
+50000504 0000 
+8016674C 07D1
+#Sae school of choice is Faculty of Letters
+80166760 5328   
+#Sae school of choice is Yoshitomo University 
+80166760 52F0 
+#Reimi parameters / lovey degree 
+801669A0 07D1
+#Reimi parameters / friendship degree 
+801669A4 07D1
+#Reimi parameters / reliability 
+801669A8 07D1
+#Reimi parameters / guardian reliability 
+80166A00 07D1
+#Reimi academic achievement 
+50000504 0000 
+801669AC 07D1
+#Reimi school of choice Tsunami University Department of Economics 
+801669C0 5400 
+#Reimi school of choice Sawa University Department of Education
+801669C0 53D0 
+Chihiro parameters / lovey degree 
+80166DD0 07D1
+#Chihiro parameters / friendship degree 
+80166DD4 07D1
+#Chihiro parameters / reliability 
+80166DD8 07D1
+#Chihiro parameters / guardian reliability 
+80166E30 07D1
+#Chihiro academic achievement 
+50000504 0000 
+80166DDC 07D1
+#Chihiro school of choice is Tsunami Law
+80166DF0 54D0 
+#Chihiro school of choice is Tojo Law
+80166DF0 54A8 
+#Infinite Money	
+8016538E 00FF

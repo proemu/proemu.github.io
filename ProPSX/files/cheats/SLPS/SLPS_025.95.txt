@@ -1,0 +1,4 @@
+#Infinite energy Player 1
+8006A724 0062
+#2P Energy 0 
+3006A83C 0000

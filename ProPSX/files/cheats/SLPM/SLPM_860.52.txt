@@ -1,0 +1,17 @@
+#Boxing Infinite health
+8001E217 0000
+#Ping-pong CPU points are always 0
+8001E133 0000
+#Yie-ar Kung-Fu infinite energy
+8001E12F 2400
+#Mopinger Infinite Lives	
+8001E050 0606
+#Road Fighter Infinite Fuel	
+8001E082 D800
+#Sky Jaguar Infinite Lives	
+8001E050 0203
+8001 E3D0 0303
+#Gradius - Player 1 And 2 Codes Infinite Lives	
+8001E060 0102
+#Gradius 2 Infinite Lives	
+8001E360 0102

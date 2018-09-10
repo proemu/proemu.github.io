@@ -1,0 +1,17 @@
+#1P goals 9  
+800590BC 0009
+#CPU 0 goals 
+80059640 0000 
+#1P goals 9 in the select + left
+D005A90C 8100 
+800590BC 0009
+#CPU 0 goals in the select + right
+D005A90C 2100 
+80059640 0000 
+#Injury time in the L1 + R1
+D005A90C 000C 
+80171E9C 7E90 
+#The large head of the players 
+80053598 0001 
+#Big shoes of the players 
+8005359A 0001

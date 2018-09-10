@@ -1,0 +1,14 @@
+#Infinite Lives P1 & P2
+D00F7D34 A044
+300F7D34 0000
+#Invincible P1 & P2
+D00F7894 0096
+300F7894 0000
+D00F7896 A4A2
+800F7896 0000
+#Unlock Level Select (Press Select At Option Menu)
+D00834A2 FFFE
+8004D7FC 0001
+#Unlock Alternative Costumes (Press Select At Option Menu)
+D00834A2 FFFE
+8004D88E 0001

@@ -1,0 +1,14 @@
+#Unendlich Munition für alle	
+8004E316 3C00
+#Unbesiegbar (alle Charaktere)	
+300B6E84 0001
+#Maximale Macht-Energie	
+800B87DC 1000
+#Habe alle Gegenstände	
+50000302 0000
+800B 80B2 FFFF
+#Zeit eingefroren	
+800B45D6 0000
+#Cheat Menü offen (L1+L2 drücken)	
+D0087750 0005
+300B3F90 0004

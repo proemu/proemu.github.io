@@ -1,0 +1,9 @@
+#Always First Place
+800FB1F0 0000
+801CD2EA 0000
+#Unlimited Turbo
+801CD224 0FFF
+#Unlimited Energy
+801CD2C0 00FF
+#Extra Car And Creature (Rabbit)
+8010858C 0008

@@ -1,0 +1,42 @@
+#Inf Energy Level 1
+80118079 0258
+801F7A2D 0258
+#Inf Energy Level 2
+801008AD 0258
+#Inf Energy Level 3
+801F2835 0258
+#Inf Energy Level 4
+801F30DD 0258
+#Inf Energy Level 5
+801F484D 0258
+#Inf Energy Level 6
+801F4AA5 0258
+#Inf Energy Level 7
+801F6575 0258
+#Inf Energy Level 8
+801F3705 0249
+#Inf Energy Level 9
+801F3555 0258
+#Inf Energy Level 10
+801F30DD 0266
+#Infinite Lives
+8001E096 0007
+#Infinite Pk7 Ammo
+800EA846 000F
+#Infinite Assault Rifle Ammo
+800EA8B2 000F
+#Inf Ammo Sniper Rifle
+800EA916 000F
+#Infinite Medikits
+800EA9DC 0007
+#Infinite Lives
+8001E096 0063
+#Invincible (All Missions)(With this code, you need to die once first to activate it)
+D0025882 A020
+80025882 2400
+#Unlock All Missions
+50000A01 0000
+3001E240 0001
+#Unlock All Movies
+50000A01 0000
+3001E07F 0001

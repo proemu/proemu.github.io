@@ -1,0 +1,8 @@
+#Always Be Rapping ...GOOD! first time
+801CC046 0001
+80031244 0000 
+80031246 0000 
+#Always Be Rapping ...COOL second time
+801CC046 0000 
+80031244 0000 
+80031246 0000 

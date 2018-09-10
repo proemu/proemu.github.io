@@ -1,0 +1,14 @@
+#Infinite Credits  Bubble Bobble
+80176B30 0009
+#Infinite Lives P1 Bubble Bobble
+80176AC8 0005
+80176ACC 0100
+30176AE0 0000
+#Infinite Lives P2 Bubble Bobble
+80176A98 0003
+80176A9C 0100
+30176AB0 0000
+#Inf Lives Rainbow Island
+8005DC3A 0003
+#Inf Credits Rainbow Island
+8005D3E6 0009

@@ -1,0 +1,40 @@
+#Infinite Time
+300B8D42 0099
+#Infinite Health P1
+300B7EB4 0065
+#No Energy P1
+300B7EB4 0000
+#P1 1-Hit Death
+E00B7EB4 0065
+300B7EB4 0001
+#Infinite Health P2
+300B808C 0065
+#P2 1-Hit Death
+E00B808C 0065
+300B808C 0001
+#Max Special P1
+300B7E71 0090
+#No Special P1
+300B7E71 0000
+#Max Special P2
+300B8049 0090
+#No Special P2
+300B8049 0000
+#P1 Never Wins
+300B8D5E 0000
+#P1 Needs 1 Round To Win
+E00B8D5E 0000
+300B8D5E 0001
+#P2 Never Wins
+300B8D78 0000
+#P2 Needs 1 Round To Win
+E00B8D78 0000
+300B8D78 0001
+#P1 Play As Boss .With this code, highlight highlight Lori or Kyo and press L1+X and choose the shadowy image to play as the boss. This will work in all modes including normal 1-player Teamplay.
+D00BBCA0 0400
+800B15CE 0001
+D00BBCA0 0400
+800B121E 0001
+#Krizalid Enabled	
+8008C8AE 0703
+

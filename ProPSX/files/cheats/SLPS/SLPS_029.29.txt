@@ -1,0 +1,44 @@
+#Have always 20 trigger points
+8007327A 0014
+#Trigger automatic calculation
+D003404E 1040
+8003404E 1400
+D00340DA 1040
+800340DA 1400
+#Time does not decrease maze
+D0026550 FFFF
+80026550 0000
+#Pong remaining number of times at the same time
+8007A692 0002
+#Game overs
+80073288 0000
+#Reasoning misses
+8007328A 0000
+#Resolution misses
+8007328C 0000
+#Do not reasoning miscount
+D0034190 0001
+80034190 0000
+D00352A2 0064
+800352A2 0060
+#Elapsed time 0 
+80073208 0000 
+8007320A 0000 
+8007320C 0000 
+8007320E 0000 
+#Not increase the elapsed time 
+D00174EC 0001 
+800174EC 0000 
+#Progress
+80073214 0005
+#100 points all results
+80073218 0064
+8007321A 0064
+8007321C 0064
+8007321E 0064
+80073220 0064
+#Menu fully open
+D0087A2E 1040
+80087A2E 1400
+D0087EF2 1040
+80087EF2 1400

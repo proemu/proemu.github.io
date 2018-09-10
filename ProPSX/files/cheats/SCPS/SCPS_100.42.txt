@@ -1,0 +1,14 @@
+#Character level 5 and all courses can be selected
+80103C88 0007 
+#All available characters
+80103C30 0101 
+80103C32 0101 
+80103C34 0101 
+80103C36 0101 
+80103C38 0101
+#Infinite Power Shots	
+80103AD8 0C0A
+#Always recorded one shot 
+50002402 0000 
+801039D8 0002
+

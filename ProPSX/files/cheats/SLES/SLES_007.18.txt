@@ -1,0 +1,84 @@
+#Level Completed (Presss L2 & R2 & Start)	
+D008C602 FCF7
+30089E88 0001
+#Infinite Health All levels		
+800426B0 03E8
+800426B2 3402
+800426B4 0022
+800426B6 A602
+#Infinite Health 40 Fathoms		
+80088178 03E8
+801BB5A6 03E8
+#Infinite Health Barkhang Monastery		
+80088178 03E8
+801E327A 03E8
+#Infinite Health Bartolli's Hideout		
+80088178 03E8
+801D0E6A 03E8
+#Infinite Health Catacombs of the Talion		
+80088178 03E8
+801C59B2 03E8
+#Infinite Health Diving Area		
+801BDF02 03E8
+#Infinite Health Floating Islands		
+80088178 03E8
+801D1F5E 03E8
+#Infinite Health Ice Palace		
+80088178 03E8
+801C85A6 03E8
+#Infinite Health Living Quarters		
+80088178 03E8
+801B6AAA 03E8
+#Infinite Health Offshore Rig		
+801BEDE6 03E8
+#Infinite Health Opera House		
+80088178 03E8
+801CF3BA 03E8
+#Infinite Health Temple of Xian		
+80088178 03E8
+801DB566 03E8
+#Infinite Health The Deck		
+80088178 03E8
+801DCE82 03E8
+#Infinite Health The Dragon's Lair		
+80088178 03E8
+801A2BBE 03E8
+#Infinite Health The End - Conclusion		
+80088178 03E8
+801B2E2E 03E8
+#Infinite Health The Great Wall		
+80088178 03E8
+8019D0B2 03E8
+#Infinite Health Tibetan Foothills		
+80088178 03E8
+801DB82A 03E8
+#Infinite Health Venice		
+801C1B46 03E8
+#Infinite Health Wreck of the Maria Doria		
+801CFFA2 03E8
+#Infinite Oxygen		
+8008C66E 0708
+#Infinite Small & large medi-pack		
+80088C74 03E7
+80088C76 03E7
+#Have all levels when loading a saved game		
+D006DFD8 0821
+8006DFD8 0013
+D006DFDA 0033
+8006DFDA 2402
+#Infinite Ammo (on pickup)		
+80040B66 2400
+80046456 2400
+80046AA6 2400
+#Infinite Auto-gun ammo		
+8008C71C 0028
+#nfinite Flares		
+80088C72 03E7
+#Have All 3 secrets		
+800DE7F2 000F
+#Have All special items		
+80088CF8 0009
+#Have All weapons		
+80088C64 000B
+#Stop timer		
+800DE7E0 0000

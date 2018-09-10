@@ -1,0 +1,8 @@
+#Infinite lives
+D0075180 0001
+30075180 0003
+#Infinite energy 	
+8007517C 03E8
+#Refill energy (Press L1 & L2 & R1 & R2)	
+D007AD52 F0FF
+8007517C 03E8

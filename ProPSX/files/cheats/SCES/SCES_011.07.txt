@@ -1,0 +1,13 @@
+#Infinite HP in battle
+800C1BCC 001E
+#Infinite Magic in battle
+800C1BCE 03E7
+#Infinite Money
+801C915C 270F
+#Infinite Magic
+801C981E 03E7
+800C1BCE 03E7
+#Infinite Health
+800BBA84 0074
+800BBAC4 0074
+800C1BCC 0028

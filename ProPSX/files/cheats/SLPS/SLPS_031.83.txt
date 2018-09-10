@@ -1,0 +1,6 @@
+#Episodes already read through
+80052108 0FFF
+#Automatic progression .Press L1 button
+D0011756 1440
+80011756 1400
+

@@ -1,0 +1,23 @@
+#Infinite time
+801F02C4 270F
+#Enemy boss energy 0
+80102018 0000
+#Stop Timer Countdown 	
+D015844A A602
+8015844A 2400 		
+#Damage Doesn't Reduce Time 	
+D0158D7A A4A2
+80158D7A 2400 		
+#Max Attack Power 	
+801F4CC6 0060 		
+#Unlock Options 	
+8005E012 0018 		
+#Start Time 999.9 	
+8005DEF4 270F 		
+#Extend Time Value 999.9 	
+8005DEF6 270F 		
+#Infinite Selection Time 	
+D0144426 A602
+80144426 2400 		
+#Infinite Special Bar 	
+80102E50 0200

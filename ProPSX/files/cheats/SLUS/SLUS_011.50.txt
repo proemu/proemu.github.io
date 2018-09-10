@@ -1,0 +1,8 @@
+#Infinite Power & Ammo
+8002CA9E 2400
+#All Tokens Found
+800B2DBC 0000
+#All Generators Destroyed
+800B2DC0 0000
+#Max Total Tokens
+800B2DC4 FFFF

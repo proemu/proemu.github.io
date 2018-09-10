@@ -1,0 +1,10 @@
+#Infinite Money
+800E364C E100
+800E364E 05F5
+#Infinite Health All Persons
+8005CA80 0002
+8005CA82 1C40
+#Infinite Fire Power (Uzi 9Mm. Machine Gun)
+80071660 0004
+#Infinite Fire Power (Mini Gun)
+80071730 0004

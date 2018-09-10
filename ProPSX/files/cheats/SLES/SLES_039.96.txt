@@ -1,0 +1,16 @@
+#10 Lava balls
+801B4B68 000A
+#Infinite time bridge minigame
+80072704 1753
+#Infinite Cheese Wedges
+801B4B6F 000A
+#16 Dwarves
+801B4B71 0010
+#10 fish-bones
+801B4B6C 000A
+#30 Keys
+801B4B6A 001E
+#16 Knights
+801B4B69 0010
+#20 horseshoes
+801B4B6B 0014 

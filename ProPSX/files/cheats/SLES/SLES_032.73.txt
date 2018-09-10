@@ -1,0 +1,19 @@
+#Tamtel Skreej 	
+300D88D7 0001 		
+#Pugwis 	
+300D88D8 0001 		
+#Wittin 	
+300D88D9 0001 		
+#Malakili 	
+300D88DA 0001 		
+#Lobot 	
+300D88DB 0001 		
+#Boushh 	
+300D88DC 0001 		
+#Darth Maul 	
+300D88DD 0001 		
+#All ChaRacters Unlock 	
+50000402 0000
+800D88D6 0101
+#High balance	
+8006BBF0 270F

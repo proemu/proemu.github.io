@@ -1,0 +1,7 @@
+#P1 Infinite HP  
+800C8E70 00DC 
+#P2 Infinite HP  
+800C8E78 00DC 
+#P1 Max Power  
+800C9364 012C
+800C9366 012C 

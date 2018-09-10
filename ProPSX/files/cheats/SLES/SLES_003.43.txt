@@ -1,0 +1,11 @@
+#Infinite Lives
+800CF2C8 0005
+800CF2CA 0005
+#Infinite Energy Level 1
+800BCAC0 0064
+#Infinite Energy Level 2
+80094354 0064
+#Infinite Time Level 2
+8009437C 0063
+#Infinite Shots
+800AEE4C 03E8

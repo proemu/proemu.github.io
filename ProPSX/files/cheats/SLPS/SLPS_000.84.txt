@@ -1,0 +1,4 @@
+#1P always in fighting spirit rush state
+80082D7C 0012
+#2P always in fighting spirit rush state
+80083300 001A

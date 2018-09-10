@@ -1,0 +1,10 @@
+#Infinite Ammo  	
+8007D47C 0006
+#Infinite Credits 	
+8007D408 0004
+#Infinite Health 	
+8007D484 0003
+#Stop Timer 	
+80022F06 2400
+#Total Time Stopped 	
+80022FA2 2400

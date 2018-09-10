@@ -1,0 +1,62 @@
+#Max Stars
+800789BC 0063
+800789BE 0063
+#Main Character Codes\Infinite & Max Hp
+80075926 03E7
+800759C8 03E7
+#Main Character Codes\Max Stats
+50000302 0000
+80075928 FFFF
+#Main Character Codes\Have All Element Slots Activated
+50003002 0000
+30075951 0000
+#Main Character Codes\Infinite Money
+800786F0 423F
+800786F2 000F
+#Main Character Codes\Stop Timer
+8007210C 1000
+#Main Character Codes\Save Anywhere (.Press Select & L1.Press Select & L2)
+D00E8510 0001
+300E8510 0000
+#Mortal blow / no damage .Death Blow Press L2 and No Damage Press R2
+D00855E0 0001
+800D877A 0000
+D00855E0 0002
+800D877A 0040
+#Save anywhere
+800EBAE4 0001
+#Stock elements
+5000C002 0001 
+800784A8 0001 
+5000C002 0000 
+80078628 0063 
+#Inventory items
+5000FF02 0001 
+80078028 0001 
+5000FF02 0000 
+80078328 0063 
+#It does not decrease during combat Sta 
+D00D7E60 1023 
+800D7E62 0040 
+D00DB674 019E 
+800DB672 0040 
+D00D7F6C 0032 
+800D7F76 0040 
+#It does not decrease during combat element 
+D00CCC02 3482 
+800CCC00 0000 
+D00CCCF4 0070 
+800CCCFC 00FF 
+D00CCCF4 0070 
+800CCCFE 2403 
+#Combat power level maximum 
+D00BF4A0 0050 
+800BF4A4 0001 
+#No turn of the enemy in combat
+D00D8340 1023 
+800D8342 0040 
+#Debug menu (R1) 
+800720DA 0101 
+800EBC28 4000 
+#A debug mode I bet the PAUSE ? DEBUG ON / OFF in ? DIPS KEY ON / OFF in  In the state of DEBUG ON I can save anywhere Skip Battle Debug menu display by pressing R1 button with world map non-
+3007207D 0000 

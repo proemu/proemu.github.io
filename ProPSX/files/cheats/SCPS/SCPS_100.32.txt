@@ -1,0 +1,29 @@
+#Infinite Money (60000)
+80163818 EA60
+#Getting all clothes 
+800F81E0 0FFF
+#Ability of daughter Stamina Max
+80179078 270F
+#Ability of daughter Intelligence Max
+8017907C 270F
+#Ability of daughter Pep Max
+80179084 270F
+#Ability of daughter Pride Max
+80179088 270F
+#Ability of daughter Moral Max
+8017908C 270F
+#Ability of daughter Dignity Max
+80179090 270F
+#Ability of daughter Cast of mind Max
+80179094 270F
+#Ability of daughter Sense Max
+80179098 270F
+#Ability of daughter Attractive Max
+8017909C 270F
+#Ability of daughter Stress Max
+801790A0 270F
+#Ability of daughter Valor Max
+801790A4 270F
+#Ability of daughter Reliability Max
+801790A8 03E8
+

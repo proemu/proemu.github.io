@@ -1,0 +1,16 @@
+#Amount Of Goals Home Team 9
+801343D4 0009
+#Amount Of Goals Home Team 0
+801343D4 0000
+#Amount Of Goals Away Team 9
+801343FC 0009
+#Amount Of Goals Away Team 0
+801343FC 0000
+#Infinite Powerplay Time
+D0135516 10CB
+80135516 1106
+#Faster Powerplay-Counter
+8008D3A0 FFFE
+#Max Character Stats
+50000602 0000
+8015AC9C 6464

@@ -1,0 +1,27 @@
+#Infinite HP Claire Redfield	
+800D0766 00C8
+#One Attack Kill Enemy Claire Redfield
+80041D48 FFFF
+80041D4A 2402
+#Number of Save Zero Claire Redfield
+800D50DC 0000 
+#Total Time 00.00.00 Claire Redfield
+800D50BC 0000
+800D50BE 0000
+#Infinite time for escaping at the last boss Claire Redfield
+8002D404 0000
+#10 Item slot Bag  Claire Redfield
+300D52D8 0001 
+#Ink use count Claire Redfield 
+300D53D4 0000 
+#Save anywhere by pressing L2 Claire Redfield
+D00CED14 0001
+800D4EB4 1F74
+D00CED14 0001
+800D4EB6 8005
+#Infinite bullet Claire Redfield
+D00697CA 00C1
+800697CA 00C6
+#Infinite ink ribbon Claire Redfield
+D01C0AB2 2442
+801C0AB0 0000

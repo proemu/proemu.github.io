@@ -1,0 +1,6 @@
+#P1 40 Points Advantage
+D00C2000 0000
+800C2000 0028
+#P2 Can't Win
+800C2002 0000
+

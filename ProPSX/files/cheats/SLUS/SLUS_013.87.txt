@@ -1,0 +1,11 @@
+#Infinite Health
+800EFF5C 0064
+#Unlock All Levels
+800955EC FFFF
+800955EE FFFF
+#Infinite Ammo
+80044886 2400
+#Have All Weapons
+801327EF 2401
+#Infinite Health For Godfather On Protect The Godfather Stage
+801F5F2C 012D

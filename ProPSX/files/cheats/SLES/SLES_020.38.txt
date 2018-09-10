@@ -1,0 +1,10 @@
+#Inf Health Obi Wan
+800B8AA0 0064
+#Inf Ammo Gun 250
+800B8AB8 00FA
+#Inf Health Qui-Gon
+800B8AEC 0064
+#Inf Health Captain Panaka
+800B8A90 0064
+#Inf Health Amidala
+800B8B84 0064

@@ -1,0 +1,94 @@
+#Quick Arcade-Mode Codes\Highspeed Ring A
+30081B48 0004
+#Quick Arcade-Mode Codes\Higspeed Ring B
+30081B49 0004
+#Quick Arcade-Mode Codes\Highspeed Ring c
+30081B4A 0004
+#Quick Arcade-Mode Codes\Trial Mountain A
+30081B4C 0004
+#Quick Arcade-Mode Codes\Trial Mountain B
+30081B4D 0004
+#Quick Arcade-Mode Codes\Trial Mountain c
+30081B4E 0004
+#Quick Arcade-Mode Codes\Grand Valley East A
+30081B50 0004
+#Quick Arcade-Mode Codes\Grand Valley East B
+30081B51 0004
+#Quick Arcade-Mode Codes\Grand Valley East c
+30081B52 0004
+#Quick Arcade-Mode Codes\Clubman Stage 5 A
+30081B54 0004
+#Quick Arcade-Mode Codes\Clubman Stage 5 B
+30081B55 0004
+#Quick Arcade-Mode Codes\Clubman Stage 5 c
+30081B56 0004
+#Quick Arcade-Mode Codes\Autumn Ring A
+30081B58 0004
+#Quick Arcade-Mode Codes\Autumn Ring B
+30081B59 0004
+#Quick Arcade-Mode Codes\Autumn Ring c
+30081B5A 0004
+#Quick Arcade-Mode Codes\Deep Forest A
+30081B5C 0004
+#Quick Arcade-Mode Codes\Deep Forest B
+30081B5D 0004
+#Quick Arcade-Mode Codes\Deep Forest c
+30081B5E 0004
+#Quick Arcade-Mode Codes\Ss R5 A
+30081B60 0004
+#Quick Arcade-Mode Codes\Ss R5 B
+30081B61 0004
+#Quick Arcade-Mode Codes\Ss R5 c
+30081B62 0004
+#Quick Arcade-Mode Codes\Grand Valley Speedway A
+30081B64 0004
+#Quick Arcade-Mode Codes\Grand Valley Speedway B
+30081B65 0004
+#Quick Arcade-Mode Codes\Grand Valley Speedway c
+30081B66 0004
+##Gran Turismo Codes\100 Million Credits 
+8009B874 E100
+8009B876 05F5
+#Gran Turismo Codes\100 Million Credits (Press Select in the Start-Area to get the money)
+D009AADE 0001
+8009B874 E100
+D009AADE 0001
+8009B876 05F5
+#Gran Turismo Codes\B-License
+8009E3C4 0303
+8009E3C6 0303
+8009E3C8 0303
+8009E3CA 0303
+#Gran Turismo Codes\A-License
+8009E3CC 0303
+8009E3CE 0303
+8009E3D0 0303
+8009E3D2 0303
+#Gran Turismo Codes\A-International License
+8009E3D4 0303
+8009E3D6 0303
+8009E3D8 0303
+8009E3DA 0303
+#Gt League\Have All Gold Cups And Open Gt Hifi-Mode
+8009F8DC 0101
+8009F8DE 0101
+#Special Event\Have Gold Cups
+8009F8E0 0101
+8009F8E2 0101
+8009F8E4 0101
+8009F8EA 0101
+8009F8EC 0101
+8009F8EE 0101
+8009F8F0 0101
+#Special Event\Always Be First
+D01B3A7E 001B
+80093BC8 0000
+#Special Event\Only One Lap To Race (This  code will finish the race as you pass the startline on all two  lap races.  If you try to race a three lap race you will have only one lap to finish)
+D00B6700 0000
+800B6700 0002
+#Special Event\Speed Boost-Code. Press R3
+D00BC016 0002
+800B6DBE 0005
+D00BC016 0002
+800B6D92 0005
+

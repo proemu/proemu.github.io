@@ -1,0 +1,11 @@
+#Lap 4 (Press Select & Circle)	
+D00F7C5E DFFE
+3011A45C 0004
+#Lap 6 (Press Select & X)	
+D00F7C5E BFFE
+3011A45C 0006
+#Lap 8 (Press Select & Square)	
+D00F7C5E BFFE
+3011A45C 0008
+
+

@@ -1,0 +1,30 @@
+#Unendlich MüNzen
+8005B840 03E7
+#Max Energie
+8008E810 0160
+8008E812 2405
+#Unendlich Energie
+8008F51E 3C00
+#Unendlich Leben
+80094C76 3C00
+#Habe Alle Kartenteile/Tarzan
+8005B810 FFFF
+#Habe Immer Waffe
+800A6778 0010
+#Unendlich Zeit Im Bonus-Level
+800A49D0 3C00
+#Alle Level/Filme
+50000D02 0000
+3005B847 00FF
+#Alle Level Zu 100% Fertig
+50000D02 0000
+3005B848 0064
+#Unendlich Violette FrüChte
+D20A6BDA 0063
+800A6BDA 0063
+#Unendlich Rote FrüChte
+D20A6BD8 0063
+800A6BD8 0063
+#Unendlich Blaue FrüChte
+D20A6BD6 0063
+800A6BD6 0063

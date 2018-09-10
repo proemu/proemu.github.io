@@ -1,0 +1,40 @@
+#Slot 1-Max Infinite HP 	
+801C7A68 270F
+801C7B08 270F
+#Slot 2-Max Infinite HP
+801C7C0C 270F
+801C7CAC 270F
+#Slot 3-Max Infinite HP
+801C7DB0 270F
+801C7E50 270F
+#nfinite Zenny	
+8011AD80 FFFF
+#Max Zenny	
+8011AD80 967F
+8011AD82 0098		
+#Time 0:00	
+8011AD90 0000
+8011AD92 0000
+8011AD94 0000		
+#Have All Skills In Camp List	
+8011B5C8 FFFF
+8011B5CA FFFF
+8011B5CC FFFF
+8011B5CE FFFF
+8011B5D0 FFFF
+#Max Stamp Cards	
+801ABA36 2400
+#No Random Battles (With this code, turn off during boss battles, in Ludia when rescuing Cray, and while on the Golden Plain or the game could crash.)
+801172A6 1702
+#All Faries Have Full Heart And Work Diligentlly	
+50001428 0000
+8011B9FE 6400	
+#Have All Items 
+50007602 0001
+8011AD98 6301
+#Have All Weapons 
+50005702 0001
+8011AF98 6301
+#Have All Dragon Forms 	
+50000C06 0000
+8011B8D8 0001	

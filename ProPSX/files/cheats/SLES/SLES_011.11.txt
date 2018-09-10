@@ -1,0 +1,8 @@
+#Infinite Energy P1
+800B4A3C 1000
+#One Hit Wins Game Player 1		
+800B7A60 0064
+800B7A62 0064
+800B7A64 0064
+#Extra Characters		
+800C7726 FFFF

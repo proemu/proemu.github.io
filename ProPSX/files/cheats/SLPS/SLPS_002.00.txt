@@ -1,0 +1,16 @@
+#Infinite Health (P1)	
+1F800214 0000
+#Unlock All Extras Uranus & Master in roulette panel, Verm & Sho in roulette panel, and easy supers using R1+R2
+1F80004C 0003
+#Max Gauge (P1)		
+1F800225 000F
+#Max Gauge (P2)	
+1F80030D 000F
+#Play As Master (P1)		
+1F800177 000C
+#Play As Sho (P1)		
+1F800177 000E
+#Play As Uranus (P1)		
+1F800177 000B
+#Play As Verm (P1)		
+1F800177 000D

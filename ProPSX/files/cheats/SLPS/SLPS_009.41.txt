@@ -1,0 +1,6 @@
+#Player has 99 points in hanafuda game
+8010001E 0063
+#Enemy has always 0 points in hanafuda game
+80100020 0000
+
+

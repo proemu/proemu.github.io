@@ -1,0 +1,13 @@
+#Infinite Stars
+800B867A 270F
+#Infinite Energy
+300B8685 0063
+#Infinites Lives
+800B8684 0063
+#Have All Bonus Pieces	
+800B7E5C 0005
+#Unlock All Levels
+800B8B82 270F
+300B8B8A 00FF
+300B8B88 0005
+		

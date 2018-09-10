@@ -1,0 +1,26 @@
+#Infinite Life Goku
+800192D6 0640
+801FFB64 0008
+#Infinite Energy Goku
+800192D8 2EE0
+8001947C 00A9
+#Infinite Life Vegeta
+800183EE 0640
+80013D80 0009
+#1P Infinite Life
+800BE388 0190 
+#Have All Characters 
+80010120 0010 
+#Unlock All Characters (Title Screen) 
+D0055B6C 0100 
+801FF002 0007 
+#Unlock SP Mode
+801FF018 0007 
+#1P Infinite Energy 
+800BE38A 0200 
+#Invincible
+800A6D54 0190
+800BB2F8 0190
+#Full Energy
+800A80F4 0200
+800BB2FA 0200

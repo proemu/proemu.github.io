@@ -1,0 +1,17 @@
+#Inf Puzzle Cards
+80036C20 FFFF
+#Inf Lives
+30036BD4 0063
+#Inf Time - Musical World
+80129B74 FFFF
+#Inf Time - Sea World
+801433E4 FFFF
+#Inf Time - Nanado World
+8012756C 196A
+#Inf Time - Lounge World
+80131DB4 FFFF
+#Inf Time - Jungle World
+8013DC84 FFFF
+#Inf Time  - Castle World
+80146A94 16F2
+

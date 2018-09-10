@@ -1,0 +1,25 @@
+#Infinite Hp P1
+80018280 0067
+#Infinite Hp P2
+80018480 0067
+#No Hp P2
+80018480 0000'
+#Use All Characters
+8001E954 003F
+#Advanced Mode\Infinite Special Attack Point P1 .press L1
+D00408D6 0400
+8001832A 03FD
+#Advanced Mode\Infinite Special Attack Point P2 .press L1
+D00408D6 0400
+8001852A 03FD
+#Extra Mode\Infinite Special Attack P1 .press L1
+D00408D6 0400
+80018230 8100
+D00408D6 0400
+80018232 3E20
+#Extra Mode\Infinite Special Attack P2 .press L1
+D00408D6 0400
+80018430 8100
+D00408D6 0400
+80018432 3E20
+

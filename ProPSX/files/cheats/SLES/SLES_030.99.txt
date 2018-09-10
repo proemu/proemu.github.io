@@ -1,0 +1,22 @@
+#99 Stars
+800AA88E 0063
+#99 Lives
+800AA88C 006
+#Forest Edge Infinite lives	
+800AA88C 0009
+#Dangerous Cliffs Infinite lives
+800A7284 0009
+#Hueys Track Infinite lives
+800A2CB8 0009
+#The Gorge Infinite lives
+800A2D5C 0009
+#Bernadettes Peak Infinite lives	
+8009AC40 0009
+#First Avenue Infinite lives
+800A6D64 0009
+#The Roofs Infinite lives
+800A33FC 0009
+#Deweys Rooftops Infinite lives	
+800A093C 0009
+#Urban High Rises Infinite lives	
+800A4370 0009

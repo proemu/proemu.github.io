@@ -1,0 +1,26 @@
+#Infinite Lives+Health
+80112CB8 000F
+#Have All Collected To Finish
+8010F800 0032
+#Max Score
+D010F6D0 0000
+8010F6D0 FFFF
+#Unlock Banubis
+800CFDAC 00FF
+#Unlock Pearl
+800CFDBC 00FF
+#Unlock Garden
+800CFE5C 00FF
+#Unlock Funhouse
+800CFE6C 00FF
+#Unlock Haunted House
+800CFE7C 00FF
+#Unlock Museum
+800CFE8C 00FF
+#Unlock Art Gallery
+800CFE9C 00FF
+#Unlock Factory
+800CFEAC 00FF
+#Unlock Space
+800CFEBC 00FF
+

@@ -1,0 +1,8 @@
+#P1 Infinite Health 	
+800725D0 0090
+#P1 Max Power Bar
+800725D2 0090
+#P1 Special partners number of uses MAX
+3007C122 0009
+#P2 No Health		
+80072988 0000

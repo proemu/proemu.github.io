@@ -1,0 +1,5 @@
+#Infinite Card Points (50000)
+8014BD40 C350
+#Infinite & Max HP Main Unit
+8014BDBC 270F
+8014A1D0 270F

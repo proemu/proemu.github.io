@@ -1,0 +1,8 @@
+#Infinite health 
+800934EE 0002
+#All stages
+30097766 0014 
+#Invincible
+8003B80A 1000
+8003B86E 1000 
+800416FA 1000

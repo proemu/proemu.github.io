@@ -1,0 +1,9 @@
+#Infinite Ammo
+8005C908 0190
+#Infinite Time
+8005C958 04B0
+#Infinite Energy
+8005C918 0032
+#Extra Items 	
+50002502 0001
+8006FE2E 0101

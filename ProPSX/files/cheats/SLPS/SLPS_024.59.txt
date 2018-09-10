@@ -1,0 +1,4 @@
+#Have lots of money deactivate after sending it
+8017B9CC 423F
+8017B9CE 000F
+

@@ -1,0 +1,18 @@
+#Infinite Energy Main Character
+80110D5E 03E7
+80110D60 03E7
+#Infinite Energy Blonde Character
+80110DEA 03E7
+80110DEC 03E7
+#Infinite Energy Character Beard
+80110D18 03E7
+80110D1A 03E7
+#Infinite Energy Character With Grey Hair
+80110DA4 03E7
+80110DA6 03E7
+#Max Money
+8010E110 967F
+8010E112 0098
+#Getting High Speed
+D0044688 FFE9
+80044688 0001

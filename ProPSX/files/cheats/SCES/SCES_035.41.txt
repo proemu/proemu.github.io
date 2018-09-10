@@ -1,0 +1,17 @@
+#Vidas Infinitas
+80096AD8 0063
+#Energia Infinita
+80096ADA 0063
+#Oxigeno Infinito
+80096AE0 0063
+#Oxigeno Infinito Alt
+80096AF6 0063
+#Unlock All Levels (Must Load A Saved Game)
+800992B4 FFFF	
+800992B6 FFFF	
+#All Movies
+800992B6 FFFF
+50000702 0000
+800992D4 FFFF
+
+

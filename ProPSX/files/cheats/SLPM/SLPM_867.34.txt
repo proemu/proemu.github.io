@@ -1,0 +1,15 @@
+#Infinite Money (60000)
+800EA50C EA60
+#Infinite Mp
+800EA5F6 0032
+#"Daughter. Rikyu selection & Credit viewable
+80098938 0101
+#Daughter. Encyclopedia fully open
+D0150B48 006C
+80150B68 000?
+D0150B48 006C
+80150B6A 3403
+D0150B48 006C
+80150B6C 2448
+D0150B48 006C
+80150B6E A023

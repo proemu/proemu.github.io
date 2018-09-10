@@ -1,0 +1,4 @@
+#Infinite Promotion Points
+8002B1F6 00FF
+#Mission Modifier (00-19)	
+3002B1F9 0019

@@ -1,0 +1,9 @@
+#Quick Score Gain
+80140C64 FFFF
+#Max Score
+80140C64 E0FF
+80140C66 05F5
+#Max Blocks
+80140C6C 270F
+#Max Level
+80113FA4 0063

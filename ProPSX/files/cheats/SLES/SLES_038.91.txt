@@ -1,0 +1,4 @@
+#Infinite Health
+80088750 0004
+#Infinite Ammo pistol
+80087E86 0063

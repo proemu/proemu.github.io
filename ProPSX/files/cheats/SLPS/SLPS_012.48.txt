@@ -1,0 +1,38 @@
+#Infinite Energy Player 1 Stage 2
+800E4D84 00C8
+#Infinite Energy Player 1 Stage 3
+800F1154 00C8
+#Infinite Energy Player 1 Stage 4
+800E5218 00C8
+#Infinite energy Player 1 Stage 5
+800F1784 00C8
+#Infinite energy Player 1 Stage 6
+800E4D08 00C8
+#Infinite energy Player 1 Stage 7 & 8
+800CEBE8 00C8
+#Infinite energy Player 1 Stage 9 (Final Stage)
+800F4D64 00C8
+#Infinite Hp For P1 Stage 1
+800CEBE8 00C8
+#Infinite Hp For P2
+800D41D0 00C8
+#Hidden character fully open
+80035CD4 0001
+80035CD6 0001
+80035CE4 0001
+80035CE6 0001
+80035CE8 0001
+#All Characters
+300355C8 000B
+800355D0 0001
+800355D2 0001
+800355D4 0001
+800355D6 0001
+800355D8 0001
+800355DA 0001
+800355DC 0001
+800355DE 0001
+800355E0 0001
+800355E2 0001
+800355E4 0001
+800355E6 0001

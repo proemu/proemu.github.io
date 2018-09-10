@@ -1,0 +1,4 @@
+#Always Win Tourney
+8010AEA8 270F
+#Max Number Of Pins Downed
+8010ADA6 270F

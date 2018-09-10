@@ -1,0 +1,19 @@
+#Infinite Energy
+800F358A 0005
+#Infinite Feathers
+800F358E 270F
+#Infinite Pixie Dust
+800F358C 0006
+#Max Hearts
+800F3590 000A
+#Have All Skills
+800F3592 000F
+#All Movies Open
+800F35A6 001F
+#All Levels Open
+800F357C FFFF
+800F357E FFFF
+
+
+
+

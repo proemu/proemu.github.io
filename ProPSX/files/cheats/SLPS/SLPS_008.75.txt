@@ -1,0 +1,24 @@
+#Infinites live cards
+800F33FF 0003
+#Achieve 100%
+800F343A 0064
+#Infinite Life Cards 
+D0088EEA 2442
+80088EE8 0000
+#Decreasing Timer
+D005D666 2442
+8005D664 0000
+#After Achieving The Quota, Max Good Sensitivity
+D007EC6C 2821
+8007EC7C 03E7
+D007EC6C 2821
+8007EC7E 2402
+#100% Accuracy Rate
+D0086F94 1821
+80086FA0 0000
+#The Number Of Remaining Quota 0
+300F09F6 0000
+#Quota cleared by one question correct answer 
+D0088CC2 0441 
+80088CC0 0001 
+

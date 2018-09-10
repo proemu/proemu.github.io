@@ -1,0 +1,6 @@
+#Infinite Energy P1
+800F8782 00CF
+#Infinite Energy P2
+800F8862 00CF
+#No Energy P2
+800F8862 0000

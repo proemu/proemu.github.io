@@ -1,0 +1,13 @@
+#Unlock All Characters
+800C563E FFFF
+#Press Select For Unlimited Money
+D00E2C6A FFFE
+800C566A FFFF
+@Billards@SLUS-01289
+#Everyone Unlocked And Beaten
+800B595E FF03
+#Always P1 Turn
+800D9678 0000
+#All Trick Shots Complete
+800B5958 FFFF
+800B595A FFFF

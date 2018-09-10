@@ -1,0 +1,26 @@
+#Max Favorability Ya Ima-zaka smile
+300F2A54 0064
+#Max Favorability Kaoru Otowa
+300F2A55 0064
+#Max Favorability Ibuki water
+300F2A56 0064
+#Max Favorability Shion Futami
+300F2A57 0064
+#Max Favorability Kirishima Sayomi
+300F2A58 0064
+#Max Favorability Other Girl
+300F2A59 0064
+#Unlock all Music & Voice
+300F2A88 0001
+300F2A89 0001
+300F2A8A 0001
+300F2A8B 0001
+300F2A8C 0001
+300F2A8D 0001
+#Unlock all Album galleries
+800DC600 00FF
+800DC602 03FF
+800DC604 03FF
+800DC606 00FF
+800DC608 01FF
+800DC60A 03FF

@@ -1,0 +1,8 @@
+#Max fame		
+80097C10 0064
+#Money = 9999	
+80099194 270F
+#Inf stamina	
+30097C0F 0000
+#Infinite Life
+80097BF8 03E7

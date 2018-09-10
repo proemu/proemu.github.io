@@ -1,0 +1,24 @@
+#Infinite Life
+80016430 0000
+#Infinite Life (Alternate)
+80010016 00FF
+#Speed At Level 2
+80010036 0002
+#Power At Level 2
+80010038 0002
+#Bazooka at Level 2
+8001003A 0002
+#Does not decrease the remaining machine 
+80010034 0009 
+#Movement speed MAX 
+80010036 0009 
+#Bullet speed MAX 
+80010038 0009 
+#Infinite bazooka ammunition 
+8001003A 0009 
+#G CHANGER STORY for In ? button, deathblow gauge MAX 
+D0066AA0 0010 
+80066A54 0010 
+#Score 999990 
+80010048 869F 
+8001004A 0001

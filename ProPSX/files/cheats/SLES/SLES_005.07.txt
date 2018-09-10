@@ -1,0 +1,11 @@
+#Infinite Missiles  
+800F52B0 0008 
+#Infinite Guns  
+800F5280 049A 
+#Infinite Fuel  
+800837F2 6400 
+#Infinite Armour  
+800836EC 05DC 
+#Access Campaign X (?0-4)  
+30074EC9 000? 
+

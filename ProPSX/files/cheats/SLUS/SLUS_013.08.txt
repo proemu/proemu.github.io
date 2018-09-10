@@ -1,0 +1,9 @@
+#Infinite Shields
+800B5648 0005
+#Max Score
+800B564C E3FF
+800B564E 540B
+#Infinite Lives
+800B564A 0003
+#Invisible & Infinite Special
+800BCCD4 0080

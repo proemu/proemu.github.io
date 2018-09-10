@@ -1,0 +1,61 @@
+@Shinseiki GPX Cyber Formula - Aratanaru Chousensha@SLPS-01958-9
+#All Premium
+300142A5 0081
+#Card Companion Kazami Hayato
+300FD4E6 0000
+#Card Companion Sugeo
+300FD4E6 0001
+#Card Companion Nanase
+300FD4E6 0002
+#Card Companion Kyoko Aoi
+300FD4E6 0003
+#Card Companion Burido Kaga
+300FD4E6 0004
+#Card Companion Clair Fuotoran
+300FD4E6 0005
+#Card Companion Jackie Guderian
+300FD4E6 0006
+#Card Companion Naoki Shinjo
+300FD4E6 0007
+#Card Companion Franz Haineru
+300FD4E6 0008
+#Card Companion Osamu Sugeo
+300FD4E6 0009
+#Card Companion Ederi Butsuhorutsu
+300FD4E6 000A
+#Card Companion Sasabara Megumi
+300FD4E6 000B
+#Card Companion Night Shumaha
+300FD4E6 000C
+#Card Companion Nemesis
+300FD4E6 000D
+#Fight Companion Kazami Hayato
+30014278 0000
+#Fight Companion Sugeo
+30014278 0001
+#Fight Companion Nanase
+30014278 0002
+#Fight Companion Kyoko Aoi
+30014278 0003
+#Fight Companion Burido Kaga
+30014278 0004
+#Fight Companion Clair Fuotoran
+30014278 0005
+#Fight Companion Jackie Guderian
+30014278 0006
+#Fight Companion Naoki Shinjo
+30014278 0007
+#Fight Companion Franz Haineru
+30014278 0008
+#Fight Companion Osamu Sugeo
+30014278 0009
+#Fight Companion Ederi Butsuhorutsu
+30014278 000A
+#Fight Companion Sasabara Megumi
+30014278 000B
+#Fight Companion Night Shumaha
+30014278 000C
+#Fight Companion Nemesis
+30014278 000D
+
+

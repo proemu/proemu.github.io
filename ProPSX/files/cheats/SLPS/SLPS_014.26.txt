@@ -1,0 +1,12 @@
+"Infinite Energy Character 1
+80020B94 03E7
+80020B96 03E7
+"Infinite Energy Character 2
+80020C60 03E7
+80020C62 03E7
+"Infinite Energy Character 3
+80020D2C 03E7
+80020D2E 03E7
+"Infinite money (999999)
+801E05BC 423F
+801E05BE 000F

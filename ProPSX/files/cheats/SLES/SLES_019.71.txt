@@ -1,0 +1,21 @@
+#Cloud remains on one height 	
+800F96F6 0001 		
+#Cloud doesn't move 	
+300F96F2 0040 		
+#Start with loads of points 	
+D00F9550 0000
+800F9550 8760
+D00F9550 8760
+300F9552 0003 		
+#Extra counter at max (Press L1 & L2) 	
+D015E9B2 FAFF
+300F95F8 001F 		
+#Quick win over P2 (Press R1 & R2) 	
+D015E9B2 F5FF
+300F987E 007B 		
+#Needs only one win 	
+D00F9642 0000
+300F9642 0001
+#Unlock All Characters		
+80157414 0101
+30157416 0001

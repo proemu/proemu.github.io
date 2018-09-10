@@ -1,0 +1,7 @@
+#Infinite Hp P1
+800C271C 00C0
+801E07F4 00C0
+#Meter Always At 120 For P1
+801E053C 0063
+#Meter Always At 100 For P1
+801E053E 0044

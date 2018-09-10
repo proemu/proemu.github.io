@@ -1,0 +1,12 @@
+#Infinite energy character 1  
+800786EA 03E7
+800786E8 03E7 
+#Infinite energy character 2  
+80078728 03E7
+8007872A 03E7 
+#Infinite money (60000)  
+800784DC EA60 
+#All gallery  
+D00B8884 0003
+800B8884 0001 
+ 

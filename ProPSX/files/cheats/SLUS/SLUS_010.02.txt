@@ -1,0 +1,122 @@
+#Infinite Health
+800E9D32 4E20
+#Infinite Armor
+800E9F50 4E20
+#Infinite Air
+800E9F52 2F10
+#Have Throwing Knife
+800EA008 0001
+#Infinite Throwing Knife Ammo
+800EA00A 03E7
+#Have Handgun
+800EA010 0001
+#Have Super Handgun
+800EA010 0009
+#Infinite Handgun/Super Handgun Ammo
+800EA012 03E7
+#Have Shotgun
+800EA018 0001
+#Have Super Shotgun
+800EA018 0009
+#Infinite Shotgun/Super Shotgun Ammo
+800EA01A 03E7
+#Have Laser Blaster
+800EA020 0001
+#Infinite Laser Blaster Ammo
+800EA022 03E7
+#Have Torpedo Launcher
+800EA028 0001
+#Infinite Torpedo Launcher Ammo
+800EA02A 03E7
+#Have Grenade Launcher
+800EA030 0001
+#Infinite Grenade Launcher Ammo
+800EA032 03E7
+#Have Laser Gatling Gun
+800EA038 0001
+#Infinite Laser Gatling Gun Ammo
+800EA03A 03E7
+#Have Flame Thrower
+800EA040 0001
+#Have Hi-Temp Flame Thrower
+800EA040 0009
+#Infinite Flame Thrower Ammo
+800EA042 03E7
+#Have Rpg
+800EA048 0001
+#Have Incendiary Rpg
+800EA048 0009
+#Infinite Rpg/Incendiary Rpg Ammo
+800EA04A 03E7
+#Have Energy Weapon
+800EA050 0001
+#Have Super Zapper
+800EA050 0009
+#Infinite Energy Weapon/Super Zapper Ammo
+800EA052 03E7
+#Have Mini-Laser Gatling Gun
+800EA058 0001
+#Infinite Mini-Laser Gatling Gun Ammo
+800EA05A 03E7
+#Have Freezer
+800EA060 0001
+#Infinite Freezer Ammo
+800EA062 03E7
+#Have Dynamite
+800EA068 0001
+#Infinite Dynamite Ammo
+800EA06A 03E7
+#Have Pipebomb
+800EA070 0001
+#Infinite Pipebomb Ammo
+800EA072 03E7
+#Have Sniper Rifle
+800EA078 0001
+#Have Super Shotgun?
+800EA078 0009
+#Infinite Sniper Rifle/Super Shotgun? Ammo
+800EA07A 03E7
+#Have Shrinker
+800EA080 0001
+#Infinite Shrinker Ammo
+800EA082 03E7
+#Have Stealth Generator
+800EA088 0001
+#Infinite Stealth Generator Ammo
+800EA08A 03E7
+#Have All Weapons
+50001708 0000
+800EA008 0009
+#Max Ammo-All Weapons
+50001708 0000
+800EA00A 03E7
+#Have Jetpack
+800EA124 0001
+#Infinite Jetpack
+800EA126 7FFF
+#Have Biomask
+800EA128 0001
+#Infinite Biomask
+800EA12A 7FFF
+#Have Goggles
+800EA12C 0001
+#Infinite Goggles
+800EA12E 7FFF
+#Have Steroids
+800EA130 0001
+#Infinite Steroids
+800EA132 7FFF
+#Have Duke's Bio
+800EA134 0001
+#Infinite Duke's Bio
+800EA136 7FFF
+#Have Detonator
+800EA138 0001
+#Infinite Detonators
+800EA13A 7FFF
+#Load Game On Final Level
+800FE808 000E
+#All Levels Unlocked On Load
+800FE80A 000E
+#Enable All Cheats
+8006FF20 FFFF

@@ -1,0 +1,4 @@
+#Infinite Lives Player 1
+80065998 0003
+#Infinite Lives Player 2
+80065999 0003

@@ -1,0 +1,8 @@
+#1st Character Infinite Life  
+8012C984 02BC 
+#1st Character Infinite Air  
+8012C9C1 0027 
+#2nd Character Infinite Life  
+8012C988 0258 
+#2nd Character Infinite Air  
+8012C9C5 0027 

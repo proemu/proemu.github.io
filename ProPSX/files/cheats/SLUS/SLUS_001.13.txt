@@ -1,0 +1,16 @@
+#Infinite Money	
+800EA8B0 FFFF
+#Max Population 	
+800E7000 FFFF			
+#Always Good Education (Graphs Menu)	
+8014588C 0084				
+#Always Good Crime (Graphs Menu)	
+8014554C 0000			
+#Always Good Polution (Graphs Menu)	
+801453AC 0000				
+#Always Good Traffic (Graphs Menu)	
+801452DC 0000		
+#Always Good Unemployment (Graphs Menu)	
+801452DC 0000			
+#Always Good Health (Graphs Menu)	
+801457BC 0000

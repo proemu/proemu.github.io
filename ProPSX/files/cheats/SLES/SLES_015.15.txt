@@ -1,0 +1,11 @@
+#Infinite Health
+800D720A 4E20
+#Infinite air	
+800D740E 2EC0
+#Infinite Armor	
+800D740C 4E20
+#Invulnerable	
+300C3D06 0001
+#Select levels at main menu	
+800BDEE6 0001
+

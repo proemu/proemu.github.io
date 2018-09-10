@@ -1,0 +1,25 @@
+#Infinite money
+801BCC8C 869F
+801BCC8E 0001
+#Infinite & Max HP Marie
+801BE4E0 03E7
+801BE4E2 03E7
+#Infinite & Max MP Marie
+801BE4E4 03E7
+801BE4E6 03E7
+#Infinite & Max HP in combat 1 person	
+801BCB50 03E7	
+801BCB52 03E7	
+#Infinite & Max MP in combat 1 person
+801BCB54 03E7 
+801BCB56 03E7	
+#LV Max	
+8017A3A0 0032
+#Fatigue / friendship level	
+8017A3A2 0064
+#Bonus appearance / center theater	
+301FEBB0 0001
+#Bonus appearance /'s play area	
+301FEBB1 0001
+#Bonus appearance / Museum	
+301FEBFF 0001

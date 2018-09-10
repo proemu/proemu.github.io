@@ -1,0 +1,93 @@
+#Infinite Energy\India - Jungle
+801D3CCE 03E8 
+#Infinite Energy\India - Temple Ruins
+801DC0DE 03E8
+#Infinite Energy\India - The River Ganges
+801D478E 03E8
+#Infinite Energy\India - Caves Of Kaliya
+8017C306  03E8
+#Infinite Energy\South Pacific Islands - Coastal Village
+801D7A0A 03E8
+#Infinite Energy\South Pacific Islands - Crash Site
+801DD4CA 03E8
+#Infinite Energy\South Pacific Islands - Madubu Gorge
+801DB676 03E8
+#Infinite Energy\South Pacific Islands - Temple Of Puna
+8018ECE2 03E8
+#Infinite Energy\London - Thames Wharf
+801E2BAE 03E8 
+#Infinite Energy\London - Aldwych
+801D7566 03E8
+#Infinite Energy\London - Luds Gate
+801E3232 03E8
+#Infinite Energy\London - City
+801E3232 03E8
+#Infinite Energy\Nevada - Nevada Desert
+801D71DE 03E8 
+#Infinite Energy\Nevada - High Security Compound
+801E04EA 03E8
+#Infinite Energy\Nevada - Area 51
+801E020E 03E8
+#Infinite Energy\Antarctica - Antarctica
+801DA3CA 03E8 
+#Infinite Energy\Antarctica - Rx-Tech Mines
+801DD70A 03E8
+#Infinite Energy\Antarctica - Lost City Of Tinos
+801D9672 03E8
+#Infinite Energy\Antarctica - Meteorite Cavern
+801A672E 03E8
+#Infinite Bullets Desert Eagle 
+80099A78 03E7
+#Infinite Bullets Uzi 
+80099A7C 03E7
+#Infinite Bullets Shotgun 
+80099A80 03E7
+#Infinite Bullets Spear gun 
+80099A84 03E7
+#Infinite Bullets Rocket 
+80099A88 03E7
+#Infinite Bullets Grenade 
+80099A8C 03E7
+#Infinite Bullets MP5 
+80099A90 03E7
+#Valuables items 
+30098290 000F 
+#The number of items have 
+800981FC 000D 
+#clear Stage Presss R1 · R2 · L1 · L2 
+D009BC2C 0F00 
+80099550 0001 
+#It is not clear even after the clear point 
+D109BC2C 0F00 
+80099550 0000 
+#All secret discovery can play a hidden stage. 
+800A6EB6 00FF 
+#Get something special inventory items 
+80098290 0008 
+#Equipped with the strongest (all get Zumi) 
+800981FC 000D 
+80098216 7000 
+80098218 7000 
+8009821A 7000 
+80098238 74DC 
+8009823C 7584 
+80098240 75D8 
+80098244 762C 
+80098248 76D4 
+8009824C 7728 
+80098250 777C 
+80098254 7680 
+80098258 7530 
+8009825C 7AC4 
+80098260 7A70 
+80098264 7FB0 
+80099A7C F000 
+80099A80 F000 
+80099A84 F000 
+80099A88 F000 
+80099A8C F000 
+80099A90 F000 
+80099A94 F000 
+#Unlimited Dash 
+80099A9C 0078 
+

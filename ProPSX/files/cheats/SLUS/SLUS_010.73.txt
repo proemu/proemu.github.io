@@ -1,0 +1,42 @@
+#Cornet infinite HP in battle
+800DFE48 03E7
+#Sharte infinite HP in battle
+800DFE46C 03E7
+#Max Inotium 	
+8004BBE8 E0FF
+8004BBEA 05F5
+#Character 1 Infinite Hp
+8004BFFC 03E7
+#Character 1 Infinite Mp
+8004BFFE 03E7
+#Character 1 Max Hp
+8004C000 03E7
+#Character 1 Max Mp
+8004C002 03E7
+#Character 2 Infinite HP
+8004C020 03E7
+#Character 2 Infinite MP
+8004C022 03E7
+#Character 3 Infinite HP
+8004C044 03E7
+#Character 3 Infinite MP
+8004C046 03E7
+#Character 4 Infinite HP
+8004C068 03E7
+#Character 4 Infinite MP
+8004C06A 03E7
+#Character 5 Infinite HP
+8004C08C 03E7
+#Character 5 Infinite MP
+8004C08E 03E7
+#Character 6 Infinite HP
+8004C0B0 03E7
+#Character 6 Infinite MP
+8004C0B2 03E7
+#Have All/Inf. Items		
+50001601 0000
+3004BBEC 6363
+50003001 0000
+3004BC02 6363
+#Enable All Rewards	
+8004BCAE 001E

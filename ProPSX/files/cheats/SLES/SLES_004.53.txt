@@ -1,0 +1,18 @@
+#Infinite time 	
+801081C8 0000
+801081CA 0000
+#Infinite lives 	
+80158594 0008
+#500 gems 	
+80146B74 01F4
+#Walk on water 	
+8010AD1E 1000
+#Survive deep fall 	
+8010AF0C 0000
+#Play as Cress (Press Select & R1) 	
+D0007572 F7FE
+30146B7C 0001
+#Play as Lay (Press Select & L1) 	
+D0007572 FBFE
+30146B7C 0000
+

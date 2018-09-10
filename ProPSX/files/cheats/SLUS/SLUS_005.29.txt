@@ -1,0 +1,11 @@
+#Infinite Lives		
+30034DA4 0009
+#Infinite Energy		
+80034DBC 0080
+#100% Coins		
+80034DAC 00FF
+#Have All Letters		
+80034DB4 00FF
+#Helmet of Invincibilty		
+80034DC4 00C8
+

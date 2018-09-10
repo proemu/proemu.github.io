@@ -1,0 +1,13 @@
+#Infinite Energy Player 1
+800C7A5C 00C0
+#No Energy Player 1
+800C7A5C 0000
+#Infinite Energy Player 2
+800C7A5E 00C0
+#No Energy Player 2
+800C7A5E 0000
+#Max Power Gauge (P1)		
+800C8318 00BE
+#Max Power Gauge (P2)		
+800C831A 00BE
+

@@ -1,0 +1,17 @@
+#Have 999 AP
+8001F5E4 03E7
+#First warrior infinite HP
+8001F6F4 03E7
+8001F6F6 03E7
+#Second warrior infinite HP
+8001F760 03E7
+8001F762 03E7
+#Third warrior infinite HP
+8001F7CC 03E7
+8001F7CE 03E7
+#Fourth warrior infinite HP
+8001F8A4 03E7
+8001F8A6 03E7
+#Fifth warrior infinite HP
+8001F9E8 03E7
+8001F9EA 03E7

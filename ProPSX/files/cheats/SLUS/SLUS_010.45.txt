@@ -1,0 +1,8 @@
+#Infinite Creation Points
+800680D0 0000
+#Infinite Health P1
+D00E0EC2 8006
+800E10B2 0000
+#Enable All Cheats
+800B18A0 00FF
+800B18A2 1000

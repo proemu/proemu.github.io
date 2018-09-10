@@ -1,0 +1,8 @@
+#Infinite HP Player 1
+80191264 01C2
+#Infinite Energy P2
+80191266 03E7
+#Money MAX 
+801CCCC4 270F 
+#Infinite turbo available 
+801E5FD0 0009 

@@ -1,0 +1,37 @@
+#One hit kill boss Centaur, Minotaur, Black Hawks press Select button	
+D00382C2 FFFE
+3007468E 0000
+#One hit kill boss Hades press Select button	
+D00382C2 FFFE
+301E08FE 0000	
+#One hit kill boss Hydra press Select button	
+D00382C2 FFFE
+3007E948 0000
+#One hit kill boss Medusa press Select button
+D00382C2 FFFE
+3007AA2C 0000	
+#Have all jars per level	
+30035059 000F
+#Have all letters per level	
+30035064 00FF
+#Have fire sword max charged	
+80035070 7FFF
+#Have helmet max charged	
+80035074 7FFF
+#Have lightning sword max charged		
+8003506E 7FFF
+#Have thunder sword max charged	
+80035072 7FFF
+#Instant super punch	
+D00382C2 EFFF
+30074930 00FF
+#Max coins		
+8003505C 7FFF
+80035060 7FFF
+#Max health (GodMode)	
+8003506C 7FFF
+#Max length of the life's bar	
+30035066 00FF
+#Max lives	
+80035054 0009
+

@@ -1,0 +1,42 @@
+#Cheat Menu
+300B8136 0001
+#Infinite Lives
+800B9044 000A
+#Infinite Special
+8006148C 00A3
+#Survive Bashes & Phantommode
+30041680 0000
+#Survive Shots
+80067E14 0000
+#Survive Detonations
+80068DC6 1000
+#Survive Level Boss
+80040EF0 0000
+80040EF2 0000
+#Max Experience
+50000202 8000
+800B8FF8 FFFF
+50000202 8000
+800B9004 FFFF
+#All Combos
+300B9000 000A
+#9999 Small Medipaks
+800B8F48 270F
+#9999 Medium Medipaks
+800B8F4A 270F
+#9999 Large Medipaks
+800B8F4C 270F
+#Infinite Medipaks
+80066644 0000
+#Medipaks Increase
+80066644 0001
+#9999 Detonators
+80016E2A 270F
+#Infinite Detonators
+80066DA8 0023
+#Detonators Increase
+80066DA8 1023
+#9999 Ammo
+80016E20 270F
+#Infinite Ammo
+800680E8 0023

@@ -1,0 +1,48 @@
+#Infinite Energy
+8013E540 01F4
+#Refill Energy (Press L1+L2)
+D0007572 FAFF
+8013E540 01F4
+#Infinite Bullets
+D001B150 FFFF
+8001B150 0000
+#Infinite anmo on pick up of machine gun
+8013E566 03E7
+#Laser gun
+8013E564 03E7
+#Flame gun
+8013E568 03E7
+#Grenade launcher
+8013E56A 03E7
+#Final boss low health (Press select)
+D014C074 0100
+8013F658 0001
+D014C074 0100
+80140770 0001
+#Level 2 (Do not change weapon if you use the level modifier code as this will freeze the game)
+8014C1C6 0300
+#Level 3 (Do not change weapon if you use the level modifier code as this will freeze the game)
+8014C1C6 0800
+#Level 4 (Do not change weapon if you use the level modifier code as this will freeze the game)
+8014C1C6 OD00
+#Level 5A (Do not change weapon if you use the level modifier code as this will freeze the game)
+8014C1C6 1100
+#Level 5B (Do not change weapon if you use the level modifier code as this will freeze the game)
+8014C1C6 1300
+#Level 6 (Do not change weapon if you use the level modifier code as this will freeze the game)
+8014C1C6 1700
+#Level 7 (Do not change weapon if you use the level modifier code as this will freeze the game)
+8014C1C6 1C00
+#Level 8 (Do not change weapon if you use the level modifier code as this will freeze the game)
+8014C1C6 2000
+#Level 8B (Do not change weapon if you use the level modifier code as this will freeze the game)
+8014C1C6 2300
+#Move Fast L1 + select 
+D0007572 FBFE 
+80038760 0001 
+#Move Normal L2 + select 
+D0007572 FEFE 
+80038760 FFE9 
+
+
+

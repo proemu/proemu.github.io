@@ -1,0 +1,56 @@
+#Inf Hp In Battle Reid
+80100184 270F
+#Inf Hp In Battle Farah
+80100384 270F
+#Inf Hp In Battle Meredy
+80100584 270F
+#Max Gold	
+80134FD0 E0FF
+80134FD2 05F5
+#No Random Battles	
+80135242 0500
+#Chat Inf Hp
+80134AEC 270F
+#Chat Inf Tp
+80134AF2 03E7
+#Eggbear Inf Hp
+80134C8C 270F
+#Eggbear Inf Tp
+80134C92 03E7
+#Farah Inf Hp
+801347AC 270F
+#Farah Inf Tp
+801347B2 03E7
+#Keele Inf Hp
+8013487C 270F
+#Keele Inf Tp
+80134882 03E7
+#Keele 2 Inf Hp
+80134D5C 270F
+#Keele 2 Inf Tp
+80134D62 03E7
+#Max Inf Hp
+80134BBC 270F
+#Max Inf Tp
+80134BC2 03E7
+#Meredy Inf Hp
+8013494C 270F
+#Meredy Inf Tp
+80134952 03E7
+#Meredy 2 Inf Hp
+80134E2C 270F
+#Meredy 2 Inf Tp
+80134E32 03E7
+#Ras Inf Hp
+80134A1C 270F
+#Ras Inf Tp
+80134A22 03E7
+#Reid Inf Hp
+801346DC 270F
+#Reid Inf Tp
+801346E2 03E7
+#Shizel Inf Hp
+80134EFC 270F
+#Shizel Inf Tp
+80134F02 03E7
+

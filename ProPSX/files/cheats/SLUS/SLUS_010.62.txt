@@ -1,0 +1,40 @@
+#Infinite Ammo
+800EAF1C 000A
+#Infinite Health The Beginning
+800EA55A 0064
+#Infinite Health The Dye Factory
+800E145A 0064
+#Infinite Health Underground Resistance 	
+800E4B76 0064
+#Infinite Health - Ruck
+800D9CEE 0064
+#Infinite Health The Beach 	
+800F2846 0064
+#Infinite Health Precious Elements 	
+800E626A 0064
+#Infinite Health Crystal Chambers 	
+800E289E 0064
+#Infinite Health Khan Mort 	
+800DF42A 0064
+#Infinite Health The Bay
+800F0752 0064
+#Infinite Health The Rock 	
+800E015A 0064	
+#Infinite Health Baron Samedi 	
+800DCD4E 0064
+#Infinite Health Crash Site 	
+800E7CC2 0064
+#Infinite Health Powerup 	
+800F392E 0064	
+#Infinite Health Descent 	
+800E9CAE 0064
+#Infinite Health The Shadoen 	
+800D9D16 0064
+#No Enemy Health
+800E9B98 0000
+#Unlock All Levels - Press L1,L2,R1,R2 At The Main Screen
+D009A0F4 000F
+8009DB40 0010
+#Unlock All Levels
+8009DB40 0010
+

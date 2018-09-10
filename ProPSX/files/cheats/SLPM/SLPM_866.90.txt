@@ -1,0 +1,54 @@
+#Infinite money (to unlock minigames in practice mode)
+80078F40 BBA0
+80078F42 000D
+##Hidden character appearance 
+30078ECD 00FF
+#Muscle Gallery fully open
+80078F46 FFFF 
+80078F48 FFFF 
+80078F4A FFFF 
+80078F4C FFFF 
+80078F4E FFFF 
+80078F50 FFFF 
+80078F52 FFFF 
+80078F54 FFFF 
+80078F56 FFFF 
+80078F58 FFFF 
+80078F5A FFFF 
+80078F5C FFFF 
+80078F5E FFFF
+#Beach Flags 1P Speed UP Press the L1 button
+D0075340 0004 
+800A9C48 FFFF
+#Beach Flags 1P dive Press L2 button
+D0075340 0001 
+300A9C43 0001
+#Beach Flags 2P Speed UP Press R1 button 
+D0075340 0008 
+800A9CBC FFFF
+#Beach Flags 2P dive in Press R2 button 
+D0075340 0002 
+300A9CB7 0001
+#Spray hitter bingo Remaining 99 Press SELECT + L2 button 
+D0075340 0101 
+300ACC4E 0063 
+D0075340 0101 
+300ACC50 0063
+#Monster box Super jump 
+800A7DE0 0000
+#Zagaronsuro Power in MAX hold down L2 + R2 button
+D0075340 000C 
+800AC596 4500
+#Shotgun touch Max Speed keeps on press L2 + R2 button
+D0075340 0003 
+800AB3C0 0F00
+#Struck Out Remaining 99 Press SELECT + L1 button
+D0075340 0104 
+800AE8C2 0063 
+D0075340 0104 
+800AE8C4 0063
+#UFO Infinite number of pitches# 
+800AE35E 000C
+#Super dive 97 Infinite solve remaining
+800A7B56 000C 
+800A7B58 000C

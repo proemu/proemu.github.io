@@ -1,0 +1,28 @@
+#Infinite Energy Character 1 In Battle
+80129972 0063
+#Infinite Energy Character 2 In Battle
+801299A2 0063
+#Infinite Energy Character 3 In Battle
+801299D2 0063
+#Infinite Energy Character 4 In Battle
+80129A02 0063
+#Food
+301EDFF0 0064
+#Fuel
+301EDFF4 0064
+#Fame
+801EDFF8 03E7
+#Gold Coins
+801EDFFC 03E7
+#Unlimited Fuel
+D00B3E20 0004
+800B3E22 1000
+#Unlimited Food
+800B4294 000E
+800B4296 1000
+#Code For Combatcara Until Next +30 Hhp's High-1
+30129972 00FF
+#1 Eye-Gauge Power
+30129973 0009
+#Second Power Gauge
+301299A3 0009

@@ -1,0 +1,7 @@
+#Infinite Energy deactivate when you finish the level
+800876CA 270F
+8012DD08 270F
+801317A8 270F
+801349FC 270F
+8018C4EC 270F
+

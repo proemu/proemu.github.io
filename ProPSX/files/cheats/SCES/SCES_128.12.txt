@@ -1,0 +1,124 @@
+#Timer Stopped
+8001CE8E 0000
+#Infinite Health
+80010402 1000
+#Infinite Ammo & Items
+8007D6DE 0000
+#All Maps Complete
+50000704 0000
+80010A80 0080
+50000804 0000
+80010AA0 0080
+50000404 0000
+80010AD0 0080
+50000204 0000
+80010AE4 0080
+50000704 0000
+80010B14 0080
+#Have All Data
+50002702 0202
+8001088C 0201
+#Have All Weapons In Crate (Press Up & L1)
+D00D8E8E FBEF
+50000202 0100
+80010470 0200
+D00D8E8E FBEF
+50000202 0200
+80010474 3000
+D00D8E8E FBEF
+50000202 0100
+80010478 3800
+D00D8E8E FBEF
+50000202 0100
+8001047C 3D00
+#Have All Keys In Crate (Press Up & L2)
+D00D8E8E FEEF
+50000E02 0100
+80010470 0A00
+#Have All Items In Crate (Press Up & R1)
+D00D8E8E F7EF
+50000502 0100
+80010470 0500
+D00D8E8E F7EF
+50001202 0100
+8001047A 1800
+#Max Item\Slot 1
+3001045C 00FF
+#Max Item\Slot 2
+3001045E 00FF
+#Max Item\Slot 3
+30010460 00FF
+#Max Item\Slot 4
+30010462 00FF
+#Max Item\Slot 5
+30010464 00FF
+#Max Item\Slot 6
+30010466 00FF
+#Max Item\Slot 7
+30010468 00FF
+#Max Item\Slot 8
+3001046A 00FF
+#Max Item In Crate\Slot 1
+30010470 00FF
+#Max Item In Crate\Slot 2
+30010472 00FF
+#Max Item In Crate\Slot 3
+30010474 00FF
+#Max Item In Crate\Slot 4
+30010476 00FF
+#Max Item In Crate\Slot 5
+30010478 00FF
+#Max Item In Crate\Slot 6
+3001047A 00FF
+#Max Item In Crate\Slot 7
+3001047C 00FF
+#Max Item In Crate\Slot 8
+3001047E 00FF
+#Max Item In Crate\Slot 9
+30010480 00FF
+#Max Item In Crate\Slot 10
+30010482 00FF
+#Max Item In Crate\Slot 11
+30010484 00FF
+#Max Item In Crate\Slot 12
+30010486 00FF
+#Max Item In Crate\Slot 13
+30010488 00FF
+#Max Item In Crate\Slot 14
+3001048A 00FF
+#Max Item In Crate\Slot 15
+3001048C 00FF
+#Max Item In Crate\Slot 16
+3001048E 00FF
+#Max Item In Crate\Slot 17
+30010490 00FF
+#Max Item In Crate\Slot 18
+30010492 00FF
+#Max Item In Crate\Slot 19
+30010494 00FF
+#Max Item In Crate\Slot 20
+30010496 00FF
+#Max Item In Crate\Slot 21
+30010498 00FF
+#Max Item In Crate\Slot 22
+3001049A 00FF
+#Max Item In Crate\Slot 23
+3001049C 00FF
+#Max Item In Crate\Slot 24
+3001049E 00FF
+#Max Item In Crate\Slot 25
+300104A0 00FF
+#Max Item In Crate\Slot 26
+300104A2 00FF
+#Max Item In Crate\Slot 27
+300104A4 00FF
+#Max Item In Crate\Slot 28
+300104A6 00FF
+#Max Item In Crate\Slot 29
+300104A8 00FF
+#Max Item In Crate\Slot 30
+300104AA 00FF
+#Max Item In Crate\Slot 31
+300104AC 00FF
+#Max Item In Crate\Slot 32
+300104AE 00FF

@@ -1,0 +1,4 @@
+#infinite blocks 
+800F34C0 0002
+#infinite pushing blocks 
+800F34C0 0063

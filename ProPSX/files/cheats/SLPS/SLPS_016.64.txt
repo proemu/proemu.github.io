@@ -1,0 +1,21 @@
+#Infinite & Maximum HP
+800C2D50 03E7
+800C2D52 03E7
+#Infinite & Maximum Magic
+800C2D54 03E7
+800C2D56 03E7
+#99999 Gold
+800C4BF0 869F
+800C4BF2 0001
+#Infinite HP In battles
+80119FB0 03E7
+80119FB2 03E7
+#Infinite MP In battles
+80119FB4 03E7
+80119FB6 03E7
+#Level 99
+300C2D90 0063
+#Menu screen / deathblow appearance	
+300C2D7D 0001
+#Menu screen / magic appearance	
+300C2D7E 0001
