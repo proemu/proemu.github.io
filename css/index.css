@@ -37,7 +37,7 @@
     .apkpure_down p{ font-size:14px; width:290px; text-align: center; display: block}
     .apkpure_down p span{ margin-right:15px;}
     .apkpure_f_01{ width:auto; height:auto; background:#FFF;}
-    .apkpure_f_01_text{ width:1043px; margin:0 auto; background:url(../img/home.png) center bottom no-repeat; height:580px; padding-top:60px;}
+    .apkpure_f_01_text{ width:1043px; margin:0 auto; background:url(../img/home.png) center bottom no-repeat; background-size:auto 446px; height:580px; padding-top:60px;}
     .apkpure_f_01_title{ text-align:center; width:900px; margin:0 auto; padding-bottom:120px; }
     .apkpure_f_01_title h2{ font-size:30px; padding-bottom:20px;}
     .apkpure_f_01_title p{ font-size:18px; line-height:24px;}
